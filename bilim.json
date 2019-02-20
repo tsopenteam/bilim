@@ -8077,6 +8077,104 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 7,
+            "totalCount": 81,
+            "uploadDate": "19.02.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/02/bilim_gundemi_2019_7.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=REYRYZyE5JE",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2019-7",
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2019/7",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Opportunity görevi resmen sona erdi.",
+                    "contentLink": [
+                        "https://www.nasa.gov/press-release/nasas-record-setting-opportunity-rover-mission-on-mars-comes-to-end"
+                    ]
+                },
+                {
+                    "contentText": "Mars volkanik etkinliğini kaybetmemiş olabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/there-s-evidence-that-mars-is-still-volcanically-active"
+                    ]
+                },
+                {
+                    "contentText": "SpaceX, NASA’yı şikayet etti. Starship’te farklı bir soğutma çözümü kullanılabilir.",
+                    "contentLink": [
+                        "https://spacenews.com/spacex-protests-nasa-launch-contract-award/",
+                        "https://www.sciencealert.com/elon-musk-says-spacex-is-developing-a-complex-bleeding-heavy-metal-rocket-ship"
+                    ]
+                },
+                {
+                    "contentText": "NASA, uzayın insan vücuduna etkisini ölçen ikiz çalışması hakkında yeni açıklamalar yaptı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/nasa-just-announced-more-strange-results-from-its-ambitious-twin-study"
+                    ]
+                },
+                {
+                    "contentText": "Uzay çöplerini zıpkınla avlama denemesi yapıldı.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2019/02/15/experimental-british-satellite-tests-harpoon-in-orbit/"
+                    ]
+                },
+                {
+                    "contentText": "NASA ve ESA, Dünya’yı tehdit eden göktaşlarına karşı bir savunma sistemi test etmeyi planlıyor.",
+                    "contentLink": [
+                        "https://bigthink.com/surprising-science/nasa-and-esa-team-up-for-historic-planetary-defense-test"
+                    ]
+                },
+                {
+                    "contentText": "Konuşma dili ve şempanzelerin hareketleri arasında ilginç benzerlikler dikkat çekiyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/laws-that-unite-all-human-languages-have-been-seen-in-chimp-communication"
+                    ]
+                },
+                {
+                    "contentText": "Araştırmacılar yapay zekanın uyumasını ve rüya görmesini sağlayarak performansını artırmayı başardılar.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/neural-networks-performance-increases-if-they-re-allowed-to-sleep-and-dream"
+                    ]
+                },
+                {
+                    "contentText": "OpenAI geliştirdiği yapay zekayı tehlikeli olabileceği gerekçesiyle herkese açmama kararı aldı.",
+                    "contentLink": [
+                        "https://www.theguardian.com/technology/2019/feb/14/elon-musk-backed-ai-writes-convincing-news-fiction"
+                    ]
+                },
+                {
+                    "contentText": "Yeni antibiyotik arama çalışmalarında bilim insanlarının baktığı yerlerden birisi de böcekler.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/insects-could-save-us-in-our-battle-against-antibiotic-resistance"
+                    ]
+                },
+                {
+                    "contentText": "Orta yaş üstü kişilerin bir kerede çekebildiği şınav sayısı kalp krizi riskini gösterebilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/what-new-science-says-about-men-who-can-do-over-40-push-ups"
+                    ]
+                },
+                {
+                    "contentText": "Bilimsel araştırmalarda büyük ekip küçük ekip farkı.",
+                    "contentLink": [
+                        "https://www.nytimes.com/2019/02/13/science/science-research-psychology.html"
+                    ]
+                },
+                {
+                    "contentText": "Karbon salınımıyla mücadele etmenin en iyi yolu ağaç dikmek.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/here-s-how-many-trees-we-need-to-grow-to-cancel-out-co2-emissions"
+                    ]
+                },
+                {
+                    "contentText": "Kültürleri inceleyen araştırmacılar evrensel olarak tanımlanabilecek 7 ahlak kuralı buldu.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/these-7-rules-form-a-universal-moral-code-shared-by-every-culture-study-finds"
+                    ]
+                }
+            ]
         }
     ]
 }
