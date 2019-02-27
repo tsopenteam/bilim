@@ -8175,6 +8175,100 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 8,
+            "totalCount": 82,
+            "uploadDate": "27.02.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/02/bilim_gundemi_2019_8.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=9-Qt1VAMQsc",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2019-8",
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2019/8",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Hayabusa 2, Ryugu yüzeyinden ilk taş örneklerini topladı.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2019/02/22/japanese-probe-lands-on-asteroid-to-capture-sample/"
+                    ]
+                },
+                {
+                    "contentText": "Curiosity’nin bilgisayarı henüz bilinmeyen bir nedenle yeniden başladı.",
+                    "contentLink": [
+                        "https://www.space.com/curiosity-suffers-glitch-rebooting.html"
+                    ]
+                },
+                {
+                    "contentText": "NASA, SpaceX’in 2 Mart tarihli Crew Dragon denemesine onay verdi.",
+                    "contentLink": [
+                        "https://spacenews.com/nasa-gives-go-ahead-for-spacex-commercial-crew-test-flight/"
+                    ]
+                },
+                {
+                    "contentText": "Virgin Galactic, uzayın sınırına ilk yolcusunu taşıdı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/virgin-galactic-just-successfully-launched-its-first-passenger-past-the-edge-of-space",
+                        "https://spacenews.com/spaceshiptwo-flies-to-the-edge-of-space-again/"
+                    ]
+                },
+                {
+                    "contentText": "Dünya’nın atmosferi sandığımızdan çok daha uzaklara ulaşıyor olabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/earth-s-atmosphere-is-so-big-that-it-actually-engulfs-the-moon"
+                    ]
+                },
+                {
+                    "contentText": "Çin’de doğan genetiği değiştirilmiş bebeklerin zekaları normalden daha gelişmiş olabileceği söyleniyor. Çin Hükümeti’nin araştırmalara desteği tartışılıyor.",
+                    "contentLink": [
+                        "https://www.technologyreview.com/s/612997/the-crispr-twins-had-their-brains-altered/",
+                        "https://www.sciencealert.com/new-evidence-suggests-the-crispr-babies-scientist-didn-t-act-alone-after-all"
+                    ]
+                },
+                {
+                    "contentText": "Genetiği değiştirilmiş sivrisineklerle ilgili araştırmada bir sonraki aşamaya geçildi.",
+                    "contentLink": [
+                        "https://www.npr.org/sections/goatsandsoda/2019/02/20/693735499/scientists-release-controversial-genetically-modified-mosquitoes-in-high-securit"
+                    ]
+                },
+                {
+                    "contentText": "Yeni geliştirilen bir yöntemle sadece güneş ışığı kullanarak sudaki bakterileri öldürmek mümkün.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/a-2d-material-can-purify-10-litres-of-water-in-under-an-hour-using-only-light"
+                    ]
+                },
+                {
+                    "contentText": "Sağlınız için günlük işlerin arasına yüksek yoğunluklu küçük egzersizler sıkıştırabilirsiniz.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/here-are-some-health-boosting-activities-for-even-the-most-time-poor-of-us"
+                    ]
+                },
+                {
+                    "contentText": "Haftada dört gün çalışmanın stresi azaltıp verimi artırdığı belirtiliyor.",
+                    "contentLink": [
+                        "https://www.theguardian.com/money/2019/feb/19/four-day-week-trial-study-finds-lower-stress-but-no-cut-in-output"
+                    ]
+                },
+                {
+                    "contentText": "Endonezya’da 10 yıl önce yaşanan orman yangınları yeni neslin büyümesini etkiliyor olabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/past-forest-fires-in-indonesia-may-have-stunted-the-growth-of-children",
+                        "https://www.dunya.com/gundem/turkiyede-son-10-yilda-24-bin-264-orman-yangini-cikti-haberi-373721"
+                    ]
+                },
+                {
+                    "contentText": "Yapılan bir araştırmaya göre Dünya’nın düz olduğu iddia edenlerin artmasında Youtube’un rolü büyük.",
+                    "contentLink": [
+                        "https://www.theguardian.com/science/2019/feb/17/study-blames-youtube-for-rise-in-number-of-flat-earthers"
+                    ]
+                },
+                {
+                    "contentText": "Araştırmacılar zebraların şeritlerinin ne işe yaradığını anlamaya çalışıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/scientists-dressed-horses-as-zebras-to-find-out-why-they-re-stripy"
+                    ]
+                }
+            ]
         }
     ]
 }
