@@ -8269,6 +8269,85 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 9,
+            "totalCount": 83,
+            "uploadDate": "05.03.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/03/bilim_2019_09.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2019-9",
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2019/9",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Crew Dragon, Demo 1 görevinde ISS’ye başarıyla kenetlendi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/space-x-s-crew-dragon-made-it-to-the-iss-in-what-nasa-calls-a-historic-achievement"
+                    ]
+                },
+                {
+                    "contentText": "NASA’nın Ay’da üs kurma görevlerinin ilk destekçisi Kanada oldu.",
+                    "contentLink": [
+                        "https://spacenews.com/canada-becomes-first-nation-to-formally-commit-to-nasas-lunar-gateway/"
+                    ]
+                },
+                {
+                    "contentText": "Rusların başarısız Venüs görevinden arta kalan parçalar bu yıl içinde Dünya’ya düşebilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/a-1972-space-probe-meant-for-venus-never-left-earth-orbit-it-could-come-tumbling-back-this-year"
+                    ]
+                },
+                {
+                    "contentText": "Çin gelecek yıl Mars’a araç göndermeyi planlıyor.",
+                    "contentLink": [
+                        "https://edition.cnn.com/2019/03/03/asia/china-mars-probe-space-intl/index.html"
+                    ]
+                },
+                {
+                    "contentText": "Uzun bir aradan sonra ikinci bir hastada uzun dönemli HIV gerilemesi görüldü.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/incredible-milestone-as-second-hiv-patient-goes-into-remission-scientists-report"
+                    ]
+                },
+                {
+                    "contentText": "Yeni geliştirilen bir maddeyi göze enjekte ederek gece görüşü yeteneği kazanmak mümkün.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/new-medical-technology-could-soon-give-us-night-vision-with-a-simple-shot-to-the-eyeball"
+                    ]
+                },
+                {
+                    "contentText": "Küçük çaplı bir nükleer savaş bile Dünya’nın başına büyük belalar açabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/even-a-limited-nuclear-war-could-wreck-earth-s-climate-and-trigger-global-famine"
+                    ]
+                },
+                {
+                    "contentText": "Nükleer patlamadan sonra hayatta kalmak için ne yapmak lazım.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/here-s-what-you-should-do-if-a-nuclear-bomb-explodes-nearby"
+                    ]
+                },
+                {
+                    "contentText": "Kanı neredeyse tamamen yağa dönüşen hastayı doktorlar eski bir yöntemle hayata döndürmüş.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/a-man-s-blood-was-so-full-of-fat-it-turned-the-sickly-colour-of-milk"
+                    ]
+                },
+                {
+                    "contentText": "Neden Avustralya’da keseli memeli hayvan sayısı çok?",
+                    "contentLink": [
+                        "https://www.livescience.com/64897-why-marsupials-in-australia.html"
+                    ]
+                },
+                {
+                    "contentText": "Medeniyetimizin temel yapı taşlarından betonun çevreye verdiği zarar gözlerden kaçıyor.",
+                    "contentLink": [
+                        "https://www.theguardian.com/cities/2019/feb/25/concrete-the-most-destructive-material-on-earth"
+                    ]
+                }
+            ]
         }
     ]
 }
