@@ -8348,6 +8348,93 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 10,
+            "totalCount": 84,
+            "uploadDate": "12.03.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/03/bilim_2019_10.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=yL_xVyqPsSI",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2019-10",
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2019/10",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Crew Dragon başarıyla Dünya’ya geri döndü. Rusların konuyla ilgili tavırları.",
+                    "contentLink": [
+                        "https://www.nasa.gov/press-release/spacex-crew-dragon-splashdown-marks-success-of-first-nasa-commercial-crew-flight-test",
+                        "https://arstechnica.com/science/2019/03/with-dragon-russian-critic-says-roscosmos-acting-left-behind"
+                    ]
+                },
+                {
+                    "contentText": "NASA’nın InSight aracı Mars’a delik açma faaliyetine başladı.",
+                    "contentLink": [
+                        "https://www.scientificamerican.com/article/mole-on-insight-mars-lander-begins-burrowing-but-the-going-is-rough/"
+                    ]
+                },
+                {
+                    "contentText": "Son yapılan geniş çaplı bir araştırma kızamık aşısı ve otizm arasında herhangi bir ilişki olmadığını ortaya koyuyor. Yalansavar",
+                    "contentLink": [
+                        "https://www.sciencealert.com/even-in-kids-at-risk-the-mmr-vaccine-doesn-t-increase-chances-of-developing-autism",
+                        "https://yalansavar.org/2019/02/28/sik-rastlanan-asi-karsiti-iddialar-2-asilarin-icerigi-ve-hazirlanma-surecleri/"
+                    ]
+                },
+                {
+                    "contentText": "Yeşil buz dağlarının sırrı çözülmüş olabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/mysterious-green-icebergs-in-antarctica-might-be-crucial-to-marine-life"
+                    ]
+                },
+                {
+                    "contentText": "Yapılan bir deneyde deneklerin karar vermeden 11 saniye önce neyi seçecekleri tahmin edilebildi.",
+                    "contentLink": [
+                        "https://qz.com/1569158/neuroscientists-read-unconscious-brain-activity-to-predict-decisions/"
+                    ]
+                },
+                {
+                    "contentText": "Araştırmacılar yıllardır düşen sperm kalitesinin nedenini bulmuş olabilirler.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-shocking-drop-in-human-male-fertility-might-be-mirrored-in-our-dogs"
+                    ]
+                },
+                {
+                    "contentText": "Peru’da yapılan bir kazıda kurban edilen çocukların kalıntılarına rastlandı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/largest-mass-sacrifice-of-children-in-the-americas-slaughtered-over-140-victims"
+                    ]
+                },
+                {
+                    "contentText": "Bilimciler mahkumların saldırganlığını kafalarına elektrik vererek azaltmayı planlıyor.",
+                    "contentLink": [
+                        "https://futurism.com/tdcs-zap-inmates-brains-study/"
+                    ]
+                },
+                {
+                    "contentText": "Güney Kore ve Çin hava kirliliğini yapay yağmurlarla kontrol altına almaya çalışıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/south-korea-plans-to-bring-the-rain-to-solve-its-air-pollution-problem"
+                    ]
+                },
+                {
+                    "contentText": "Norveç plastik şişelerin %97’sini geri dönüştürüyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/norway-s-recycling-scheme-is-so-effective-92-percent-of-plastic-bottles-can-be-reused"
+                    ]
+                },
+                {
+                    "contentText": "Sosyal medyada sadece başlıkları okuyanlar konu hakkında kesin bilgi sahibi olduklarını düşünüyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/people-who-read-the-facebook-newsfeed-think-they-know-more-than-they-actually-do"
+                    ]
+                },
+                {
+                    "contentText": "Hayvanlar dedelerini, büyükannelerini biliyorlar mı?",
+                    "contentLink": [
+                        "https://www.livescience.com/64951-do-any-animals-know-grandparents.html"
+                    ]
+                }
+            ]
         }
     ]
 }
