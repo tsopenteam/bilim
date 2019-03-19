@@ -8435,6 +8435,85 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 11,
+            "totalCount": 85,
+            "uploadDate": "19.03.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/03/bilim_2019_11.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2019-11",
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2019/11",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Astronotların bünyesindeki beklemede olan virüsler uzay görevlerinde etkin hale geliyor.",
+                    "contentLink": [
+                        "https://phys.org/news/2019-03-dormant-viruses-spaceflight.html"
+                    ]
+                },
+                {
+                    "contentText": "NASA, 50 yıldır sakladığı Ay örneklerini araştırma kurumlarına göndermeye hazırlanıyor.",
+                    "contentLink": [
+                        "https://www.popsci.com/nasa-apollo-moon-sample-study"
+                    ]
+                },
+                {
+                    "contentText": "Uzmanlar ortalama uzaklığa bakıldığında Dünya’ya en yakın gezegenin Merkür olduğunu belirtiyor.",
+                    "contentLink": [
+                        "https://physicstoday.scitation.org/do/10.1063/PT.6.3.20190312a/full/"
+                    ]
+                },
+                {
+                    "contentText": "Bilim adamlarının tasarladığı yeni bir şekil sesi engellerken ışığı ve havayı geçiriyor.",
+                    "contentLink": [
+                        "https://www.eurekalert.org/pub_releases/2019-03/bu-brd030619.php"
+                    ]
+                },
+                {
+                    "contentText": "Bilim adamları sonraki nesillere aktarılan genetik değişikliklerin daha iyi tartışılması için duyuru yayınladı.",
+                    "contentLink": [
+                        "https://www.scientificamerican.com/article/scientists-call-for-a-moratorium-on-editing-inherited-genes/"
+                    ]
+                },
+                {
+                    "contentText": "İlaçların içindeki katkı maddeleri sağlığınızı düşündüğünüzden daha fazla etkiliyor olabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/scientists-warn-inactive-ingredients-in-drugs-may-not-be-inactive-after-all"
+                    ]
+                },
+                {
+                    "contentText": "Çin’in enerji hedeflerine ulaşabilmesi için her yıl 8 nükleer reaktörü hayata geçirmesi gerekiyor.",
+                    "contentLink": [
+                        "https://futurism.com/the-byte/china-eight-nuclear-energy-plants"
+                    ]
+                },
+                {
+                    "contentText": "Kutup bölgelerindeki sıcaklık artışı artık geri dönülmez bir hale geldi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/there-s-nothing-we-can-do-anymore-about-temperature-rise-in-the-arctic"
+                    ]
+                },
+                {
+                    "contentText": "Şelaleler bir dış kuvvet olmadan kendiliğinden oluşabiliyor.",
+                    "contentLink": [
+                        "https://www.scientificamerican.com/article/going-with-the-flow-waterfalls-can-form-spontaneously/"
+                    ]
+                },
+                {
+                    "contentText": "Neden bazı insanlar acı yemeyi sever?",
+                    "contentLink": [
+                        "https://bigthink.com/culture-religion/why-people-like-spicy-foods"
+                    ]
+                },
+                {
+                    "contentText": "Yürüyen merdivende ayakta beklemek mi yürümek mi daha verimli?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/here-s-why-you-should-stand-not-walk-on-escalators"
+                    ]
+                }
+            ]
         }
     ]
 }
