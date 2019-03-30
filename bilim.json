@@ -8514,6 +8514,85 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 12,
+            "totalCount": 86,
+            "uploadDate": "26.03.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/03/bilim_2019_12.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=ab_GzRc5KOk",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2019-12",
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2019/12",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "NASA, Bennu göktaşının öngörülenden daha kayalık yapıda olduğunu açıkladı.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/3/19/18271503/nasa-asteroid-bennu-osiris-rex-spacecraft-boulders-geysers"
+                    ]
+                },
+                {
+                    "contentText": "NASA, geçtiğimiz yıl büyük bir göktaşının atmosferden geçerken patlayarak parçalandığını açıkladı.",
+                    "contentLink": [
+                        "https://www.bbc.com/news/science-environment-47607696"
+                    ]
+                },
+                {
+                    "contentText": "Laboratuvar ortamında yetiştirilen mini beyinler kendi kendine omurilik bağlantısı yapmayı başardı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/lab-grown-mini-brain-spontaneously-chains-itself-to-nearby-spinal-cord-and-muscle-tissue"
+                    ]
+                },
+                {
+                    "contentText": "14 yaşındaki gencin şizofreni belirtilerinin deri enfeksiyonundan kaynaklandığı ortaya çıktı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/a-case-of-schizophrenia-found-to-be-a-bad-case-of-cat-scratch-disease"
+                    ]
+                },
+                {
+                    "contentText": "Yapılan bir araştırma insan beyninin manyetik alandaki değişimleri hissedebildiğini ortaya koydu.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/your-brain-can-detect-earth-s-magnetic-field-even-though-you-can-t-tell"
+                    ]
+                },
+                {
+                    "contentText": "Farklı cinsiyete sahip ikizlerden kız olanı anne karnındayken erkek kardeşinden kötü yönde etkileniyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/sharing-the-womb-with-a-twin-brother-can-have-a-huge-detrimental-effect-on-girls"
+                    ]
+                },
+                {
+                    "contentText": "Bilim adamları farelerin beyinlerini lazerle uyararak alkol bağımlılığını tedavi etmeyi başardı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/scientists-reversed-alcohol-addiction-in-rats-by-shooting-lasers-at-their-brains"
+                    ]
+                },
+                {
+                    "contentText": "Sağlıklı vücut için hareketli olmanın faydasını ortaya çıkaran bir araştırma daha.",
+                    "contentLink": [
+                        "https://www.popsci.com/hate-gym-grow-garden-instead"
+                    ]
+                },
+                {
+                    "contentText": "Sıcak çay içmek kanser riskini artırıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/drinking-your-tea-hot-nudges-up-your-risk-of-cancer-now-we-know-what-that-means"
+                    ]
+                },
+                {
+                    "contentText": "Etçil ev hayvanlarını vejetaryen diyetine uygun olarak beslemek mümkün mü?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/a-surprising-number-of-people-want-to-feed-their-cats-and-dogs-a-vegan-diet"
+                    ]
+                },
+                {
+                    "contentText": "Paslı çiviler tetanos yapar mı?",
+                    "contentLink": [
+                        "https://www.livescience.com/65007-do-rusty-nails-cause-tetanus.html"
+                    ]
+                }
+            ]
         }
     ]
 }
