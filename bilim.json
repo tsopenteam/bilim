@@ -8593,6 +8593,103 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 13,
+            "totalCount": 87,
+            "uploadDate": "02.04.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/04/bilim_2019_13.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=29y9EsXc3Jg",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2019-13",
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2019/13",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "İTÜ Gökbilim Günleri 5-6 Nisan’da yapılacak.",
+                    "contentLink": [
+                        "http://astronomi.itu.edu.tr/ii-itu-gokbilim-gunleri/"
+                    ]
+                },
+                {
+                    "contentText": "Cezeri’nin Olağanüstü Makineleri sergisi devam ediyor.",
+                    "contentLink": [
+                        "http://www.cezerimuzesi.com/"
+                    ]
+                },
+                {
+                    "contentText": "Kadınlar gecesi uzay yürüyüşü planları uygun elbise olmaması nedeniyle iptal edildi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/nasa-didn-t-promise-us-an-all-female-spacewalk-and-the-suits-are-not-sexist"
+                    ]
+                },
+                {
+                    "contentText": "NASA, Mars için tasarladığı helikopteri uçuş testini geçti.",
+                    "contentLink": [
+                        "https://www.jpl.nasa.gov/news/news.php?feature=7361"
+                    ]
+                },
+                {
+                    "contentText": "Kuiper Kuşağı’ndaki cisimlerin yörüngeleri dokuzuncu gezegen olmadan da açıklanabilir mi?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/something-other-than-planet-nine-could-be-hiding-in-the-outer-solar-system"
+                    ]
+                },
+                {
+                    "contentText": "Yapılan bir deneyde uzay ortamına maruz kalan bazı canlıların uzun süre hayatta kalabildiği gözlendi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/a-bunch-of-earth-organisms-were-stuck-outside-the-iss-and-survived"
+                    ]
+                },
+                {
+                    "contentText": "Hindistan, Dünya yörüngesindeki bir uyduyu vurduğunu açıkladı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/india-aimed-to-be-a-space-power-by-shooting-down-an-orbiting-satellite"
+                    ]
+                },
+                {
+                    "contentText": "Bakteriler havada asılı kalarak uzun mesafeleri aşıyor olabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/scientists-say-bacteria-can-travel-thousands-of-miles-through-the-air-in-planet-wide-mechanism"
+                    ]
+                },
+                {
+                    "contentText": "Daha sağlıklı bir gezegen için yediklerimizin çeşitliliğini arttırmalıyız.",
+                    "contentLink": [
+                        "https://www.npr.org/sections/thesalt/2019/03/24/706004242/for-a-healthier-planet-eat-these-50-foods-campaign-urges"
+                    ]
+                },
+                {
+                    "contentText": "Araştırmacılar konuştuğumuz dilin beyinde yaklaşık 1.5 MB yer kapladığını hesapladı.",
+                    "contentLink": [
+                        "https://www.eurekalert.org/pub_releases/2019-03/uoc--ks1032719.php"
+                    ]
+                },
+                {
+                    "contentText": "Kayıtlara geçen en kötü salgın hastalık amfibilerin önemli bir kısmını yok etti.",
+                    "contentLink": [
+                        "https://www.theatlantic.com/science/archive/2019/03/bd-frogs-apocalypse-disease/585862/"
+                    ]
+                },
+                {
+                    "contentText": "Bazı araştırmacılar gelecekte Dünya nüfusu sanılanın aksine ciddi oranda azalabileceğini iddia ediyor.",
+                    "contentLink": [
+                        "https://www.wired.com/story/the-world-might-actually-run-out-of-people/"
+                    ]
+                },
+                {
+                    "contentText": "İki rahime sahip olan kadın bir ay arayla doğum yaptı.",
+                    "contentLink": [
+                        "https://www.livescience.com/65104-woman-gives-birth-twice-double-uterus.html"
+                    ]
+                },
+                {
+                    "contentText": "Bir şişe şarap kaç sigaraya denk gelir?",
+                    "contentLink": [
+                        "https://www.livescience.com/65092-alcohol-cigarettes-cancer-risk.html"
+                    ]
+                }
+            ]
         }
     ]
 }
