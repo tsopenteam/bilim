@@ -8690,6 +8690,91 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 14,
+            "totalCount": 88,
+            "uploadDate": "09.04.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/04/bilim_2019_14.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=sZmWd5iMAjs",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2019-14",
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2019/14",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Tersine beyin göçü programına ilk başvurular gelmeye başladı.",
+                    "contentLink": [
+                        "https://www.aa.com.tr/tr/bilim-teknoloji/tersine-beyin-gocune-en-cok-ilgi-muhendislerden/1442034"
+                    ]
+                },
+                {
+                    "contentText": "Hayabusa 2, Ryugu göktaşında patlayıcı kullanarak krater açtı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/japan-bombed-an-asteroid-to-pry-out-the-secrets-of-our-solar-system"
+                    ]
+                },
+                {
+                    "contentText": "Mars’ta metan bulunduğuna dair yapılan ölçümler ilk defa bağımsız bir kaynak tarafından doğrulandı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/we-now-have-independent-confirmation-of-methane-on-mars"
+                    ]
+                },
+                {
+                    "contentText": "SpaceIL’in uzay aracı Ay yörüngesine girdi.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2019/04/04/israels-beresheet-lander-brakes-into-lunar-orbit/"
+                    ]
+                },
+                {
+                    "contentText": "Boeing Starliner test uçuşunu ertelediğini açıkladı.",
+                    "contentLink": [
+                        "https://spacenews.com/boeing-delays-starliner-test-flights/"
+                    ]
+                },
+                {
+                    "contentText": "SpaceX, NASA şikayetini geri çekti.",
+                    "contentLink": [
+                        "https://spacenews.com/spacex-drops-protest-of-nasa-launch-contract/"
+                    ]
+                },
+                {
+                    "contentText": "Amazon da uydu üzerinden internet hizmeti sunma işine giriyor.",
+                    "contentLink": [
+                        "https://spacenews.com/amazon-planning-3236-satellite-constellation-for-internet-connectivity/"
+                    ]
+                },
+                {
+                    "contentText": "Şehir ışıkları göçmen kuşların binalara çarparak ölmesine neden oluyor.",
+                    "contentLink": [
+                        "https://www.npr.org/2019/04/07/710847132/big-cities-bright-lights-and-up-to-1-billion-bird-collisions"
+                    ]
+                },
+                {
+                    "contentText": "Kediler isimlerini anlayabiliyor.",
+                    "contentLink": [
+                        "https://www.npr.org/2019/04/04/709916647/study-your-cat-knows-when-youre-calling-him-he-just-doesnt-care"
+                    ]
+                },
+                {
+                    "contentText": "Kötü beslenme sigaradan daha fazla kişiyi öldürüyor.",
+                    "contentLink": [
+                        "https://www.npr.org/sections/thesalt/2019/04/03/709507504/bad-diets-are-responsible-for-more-deaths-than-smoking-global-study-finds"
+                    ]
+                },
+                {
+                    "contentText": "Rüzgar türbinleri kansere neden olabilir mi?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/no-wind-turbines-do-not-cause-cancer"
+                    ]
+                },
+                {
+                    "contentText": "İnternetten yayılan haberleri okurken nelere dikkat etmeliyiz?",
+                    "contentLink": [
+                        "https://ideas.ted.com/how-to-read-the-news-like-a-scientist/"
+                    ]
+                }
+            ]
         }
     ]
 }
