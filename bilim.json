@@ -8775,6 +8775,79 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 15,
+            "totalCount": 89,
+            "uploadDate": "17.04.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/04/bilim_2019_15.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2019-15",
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2019/15",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Olay Ufku Teleskobu (EHT) ilk kez bir kara deliğin fotoğrafını çekti.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/it-s-official-global-collaboration-of-astronomers-have-taken-the-first-ever-black-hole-photo"
+                    ]
+                },
+                {
+                    "contentText": "SpaceIL’in Ay’a iniş denemesi başarısız oldu.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-first-private-moon-landing-mission-just-failed-spectacularly-at-the-last-minute"
+                    ]
+                },
+                {
+                    "contentText": "Falcon Heavy’nin ilk ticari uçuşu başarıyla tamamlandı.",
+                    "contentLink": [
+                        "https://www.space.com/spacex-falcon-heavy-triple-rocket-landing-success.html"
+                    ]
+                },
+                {
+                    "contentText": "Stratolaunch’ın devasa uçağı ilk uçuşunu başarıyla gerçekleştirdi.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2019/04/13/photos-stratolaunchs-giant-airplane-flies-over-mojave/"
+                    ]
+                },
+                {
+                    "contentText": "Filipinlerde yeni bir insan türüne ait fosiller bulundu.",
+                    "contentLink": [
+                        "https://www.nature.com/articles/d41586-019-01152-3"
+                    ]
+                },
+                {
+                    "contentText": "Çin’de yapılan yeni bir genetik deney yine tartışmalara neden oldu.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/scientists-have-added-a-human-brain-gene-to-a-monkey-genome"
+                    ]
+                },
+                {
+                    "contentText": "Bilim adamları piroklastik akıntının nasıl bu kadar hızlı hareket edebildiğini anlamaya çalışıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/here-s-why-pyroclastic-flows-from-volcanoes-travel-so-sickeningly-fast"
+                    ]
+                },
+                {
+                    "contentText": "Dışkı nakli terapisi otizmli çocuklardaki otizm belirtilerini ciddi oranda azaltıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/autism-severity-cut-in-half-in-kids-who-underwent-radical-faecal-transplant-therapy"
+                    ]
+                },
+                {
+                    "contentText": "Yapılan bir araştırmaya göre uçan arabalar çevreyi çok daha az kirletme potansiyeline sahip.",
+                    "contentLink": [
+                        "https://www.scientificamerican.com/article/how-climate-friendly-would-flying-cars-be/"
+                    ]
+                },
+                {
+                    "contentText": "Spor yapmak insanları paradan daha çok mutlu ediyor.",
+                    "contentLink": [
+                        "https://www.businessinsider.com/exercise-makes-you-happier-than-money-says-yale-and-oxford-study-2019-4"
+                    ]
+                }
+            ]
         }
     ]
 }
