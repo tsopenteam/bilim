@@ -8848,6 +8848,91 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 16,
+            "totalCount": 90,
+            "uploadDate": "23.04.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/04/bilim_2019_16.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2019-16",
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2019/16",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Falcon Heavy merkez roketi platforma başarılı inişten sonra kıyıya varamadan denize düştü.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/spacex-finally-landed-their-falcon-heavy-booster-on-a-ship-only-for-it-to-topple-over"
+                    ]
+                },
+                {
+                    "contentText": "Crew Dragon test ateşlemesinde bir sorun ortaya çıktı.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2019/04/20/spacex-confirms-anomaly-during-crew-dragon-engine-test/"
+                    ]
+                },
+                {
+                    "contentText": "Uydudan internet sağlamayı hedefleyen Starlink firmasının ilk uyduları önümüzdeki ay fırlatılacak.",
+                    "contentLink": [
+                        "https://www.universetoday.com/141980/spacexs-starlink-constellation-construction-begins-2200-satellites-will-go-up-over-the-next-5-years/"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları ölü beyin hücrelerinin bazı fonksiyonlarını geri getirmeyi başardı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/scientists-have-restored-cellular-functions-in-the-pig-brain-after-death"
+                    ]
+                },
+                {
+                    "contentText": "Ebola aşısı şu an devam etmekte olan salgında pek çok hayat kurtardı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/an-experimental-ebola-vaccine-has-been-shown-to-be-97-effective-in-the-current-outbreak"
+                    ]
+                },
+                {
+                    "contentText": "Büyük patlamadan sonra oluşan ilk kimyasal bağ ilk defa gözlemlendi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-first-molecular-bond-in-the-universe-has-finally-been-detected-in-space"
+                    ]
+                },
+                {
+                    "contentText": "Bilim adamları ilk kez kendi metabolizması olan yapay biyomakine üretti.",
+                    "contentLink": [
+                        "http://news.cornell.edu/stories/2019/04/engineers-create-lifelike-material-artificial-metabolism"
+                    ]
+                },
+                {
+                    "contentText": "Bağışıklık sistemi yetmezliği çeken bebeklere uygulanan gen terapisi başarılı sonuçlar verdi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/gene-therapy-has-cured-ten-infants-with-bubble-boy-immune-disease"
+                    ]
+                },
+                {
+                    "contentText": "Bağışıklık sistemimiz diş çürüklerine katkı sağlıyor olabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/there-could-be-a-link-between-tooth-decay-and-our-immune-system"
+                    ]
+                },
+                {
+                    "contentText": "Mikro-plastikler rüzgarla uzak mesafelere taşınabiliyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/microplastics-can-travel-up-to-100-km-through-the-atmosphere-new-evidence-suggests"
+                    ]
+                },
+                {
+                    "contentText": "Güneş enerjisini sanayide kullanmak karbon salınımını ciddi oranda azaltabilir.",
+                    "contentLink": [
+                        "https://blogs.scientificamerican.com/observations/solar-energy-isnt-just-for-electricity/"
+                    ]
+                },
+                {
+                    "contentText": "Evrende yalnız mıyız? Neden uzayda başka yaşam formları bulamıyoruz?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/humanity-hasn-t-reached-as-far-into-space-as-you-think"
+                    ]
+                }
+            ]
         }
     ]
 }
