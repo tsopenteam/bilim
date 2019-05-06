@@ -8933,6 +8933,91 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 17,
+            "totalCount": 91,
+            "uploadDate": "30.04.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/04/bilim_2019_17.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=VwcZo7BX5SQ",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2019-17",
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2019/17",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Insight uzay aracı Mars’taki ilk depremi kaydetmiş olabilir.",
+                    "contentLink": [
+                        "https://www.nasa.gov/press-release/nasa-s-insight-lander-captures-audio-of-first-likely-quake-on-mars"
+                    ]
+                },
+                {
+                    "contentText": "Çin önümüzdeki on yıl içinde Ay’da üs kurmayı planlıyor.",
+                    "contentLink": [
+                        "https://phys.org/news/2019-04-china-moon-station-years.html"
+                    ]
+                },
+                {
+                    "contentText": "Ötegezegenlerde yüksek radyasyon oranlarına rağmen canlılık gelişiyor olabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/life-may-exist-on-nearby-alien-worlds-even-bathed-in-hellish-radiation-study-finds"
+                    ]
+                },
+                {
+                    "contentText": "LIGO yapılan geliştirmelerden sonra her hafta yeni bir sinyal tespit eder hale geldi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-newly-upgraded-ligo-finds-a-black-hole-merger-every-week"
+                    ]
+                },
+                {
+                    "contentText": "CRISPR sayesinde genetiği değiştirilmiş yiyecekler beş yıl içinde tarım sektörünü değiştirecek.",
+                    "contentLink": [
+                        "https://futurism.com/crispr-co-inventor-gene-edited-food"
+                    ]
+                },
+                {
+                    "contentText": "Araştırmacılar kalp ameliyatı için ilk kez otonom bir robot kullandı.",
+                    "contentLink": [
+                        "https://www.sciencedaily.com/releases/2019/04/190424153600.htm"
+                    ]
+                },
+                {
+                    "contentText": "Otonom araçlar trafik sorununa çözüm olmayabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/here-s-the-reason-self-driving-cars-might-not-cut-down-on-traffic-after-all"
+                    ]
+                },
+                {
+                    "contentText": "Beyin sinyallerini konuşmaya çeviren yapay zeka oldukça iyi sonuçlar veriyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/a-new-kind-of-brain-decoder-turns-neural-activity-for-speaking-directly-into-speech"
+                    ]
+                },
+                {
+                    "contentText": "Yapay zekanın müzik endüstrisine etkileri ve hukuki sonuçları.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/4/17/18299563/ai-algorithm-music-law-copyright-human"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları kar yağışından elektrik elde etmenin mümkün olduğunu gösterdi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/new-first-of-its-kind-device-creates-electricity-from-snowfall"
+                    ]
+                },
+                {
+                    "contentText": "Bir araştırmaya göre gençleri zararlı yiyeceklerden uzak tutmanın en iyi yolu isyankar yönlerini tetiklemek.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/this-brilliant-psychological-intervention-makes-teens-rebel-against-junk-food"
+                    ]
+                },
+                {
+                    "contentText": "Uzun süre uzayda kaldıktan sonra Dünya’da yürümeye çalışmak ne kadar zor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/this-is-how-hard-it-is-to-walk-on-earth-after-half-a-year-in-space"
+                    ]
+                }
+            ]
         }
     ]
 }
