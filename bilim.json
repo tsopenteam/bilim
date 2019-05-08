@@ -9018,6 +9018,79 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 18,
+            "totalCount": 92,
+            "uploadDate": "07.05.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/05/bilim_2019_18.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=ffaKDzroGOo",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2019-18",
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2019/18",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Hindistan, Eylül ayı başında Ay’a araç indirecek.",
+                    "contentLink": [
+                        "https://www.sinirsizbilim.com/uzay/hindistan-6-eylulde-aya-inecek-chandrayaan2-uzay-aracinin-tum-detaylari/haber-809"
+                    ]
+                },
+                {
+                    "contentText": "Blue Origin, New Shepard başarılı bir fırlatma denemesi daha gerçekleştirdi.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2019/05/02/blue-origin-one-step-closer-to-human-flights-after-successful-suborbital-launch/"
+                    ]
+                },
+                {
+                    "contentText": "Geçtiğimiz yıl duyurulan öte uydu diğer araştırma grupları tarafından sorgulanıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-first-known-exomoon-is-called-into-question-in-follow-up-studies"
+                    ]
+                },
+                {
+                    "contentText": "NASA araştırması 20 yıldır hatalı ürün gönderen yükleniciyi ortaya çıkardı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/a-supplier-was-delivering-faulty-aluminium-to-nasa-for-20-years-and-falsifying-their-reports"
+                    ]
+                },
+                {
+                    "contentText": "LIGO, nötron yıldızı yutan bir kara deliğin sinyallerini almış olabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/this-might-be-the-first-gravitational-wave-detection-from-a-black-hole-devouring-a-neutron-star"
+                    ]
+                },
+                {
+                    "contentText": "Göbeklitepe’de bulunan kanıtlar son buzul çağını tetikleyen şeyin kuyruklu yıldız olabileceği hipotezini destekliyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/ancient-carvings-in-turkey-show-a-comet-hitting-earth-changing-civilisation-forever"
+                    ]
+                },
+                {
+                    "contentText": "Avustralya’nın vahşi kedilere karşı aldığı önlem tartışma yarattı.",
+                    "contentLink": [
+                        "https://www.livescience.com/65356-australia-feral-cats-poison-sausages.html"
+                    ]
+                },
+                {
+                    "contentText": "Bir grup bilim insanı yapay zekaya hayvan hakları verilmesi konusunu tartışıyor.",
+                    "contentLink": [
+                        "https://bigthink.com/technology-innovation/robotics"
+                    ]
+                },
+                {
+                    "contentText": "Bilim adamları koku duyusunun körelmesiyle ölüm arasındaki ilginç ilişkiyi çözmeye çalışıyor.",
+                    "contentLink": [
+                        "https://www.livescience.com/65358-declining-smell-sense-foretells-death.html"
+                    ]
+                },
+                {
+                    "contentText": "Düşündüğümüz şeyler üzerinde kontrolümüz sandığımızdan çok daha az.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/we-re-constantly-plagued-by-thoughts-we-don-t-even-know-we-have-study-reveals"
+                    ]
+                }
+            ]
         }
     ]
 }
