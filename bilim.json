@@ -9091,6 +9091,91 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 19,
+            "totalCount": 93,
+            "uploadDate": "14.05.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/05/bilim_2019_19.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=REgWuIxphnw",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2019-19",
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2019/19",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Jeff Bezos, Ay iniş modülü Blue Moon’u tanıttı.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2019/05/09/blue-origin-announcement/"
+                    ]
+                },
+                {
+                    "contentText": "NASA, ISS’e astronot gönderebilmek için Soyuz roketinden iki koltuk daha satın aldı.",
+                    "contentLink": [
+                        "https://www.sinirsizbilim.com/uzay/abd-astronotlarini-rus-roketi-ile-gondermek-icin-anlasma-yapti/haber-835"
+                    ]
+                },
+                {
+                    "contentText": "Bilim adamları daha net kara delik fotoğrafları çekebilmek için kafa yoruyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/scientists-just-published-plans-for-an-even-better-black-hole-image"
+                    ]
+                },
+                {
+                    "contentText": "Yıldızlar arası seyahat için tasarlanan gözlem aracı StarChip başarıyla test edildi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/researchers-just-tested-a-prototype-probe-made-to-cross-the-vast-distances-between-stars"
+                    ]
+                },
+                {
+                    "contentText": "Starlink firmasının 60 uydusu bu hafta içinde fırlatılacak.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/elon-musk-just-showed-off-60-of-the-first-spacex-internet-satellites"
+                    ]
+                },
+                {
+                    "contentText": "Atmosferdeki CO2 miktarı ilk kez 415 ppm seviyesinin üzerine çıktı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/it-s-official-atmospheric-co2-just-exceeded-415-ppm-for-first-time-in-human-history"
+                    ]
+                },
+                {
+                    "contentText": "BM raporu insanlığın doğaya verdiği zararı gözler önüne seriyor.",
+                    "contentLink": [
+                        "https://www.popsci.com/un-extinction-report-stats-climate"
+                    ]
+                },
+                {
+                    "contentText": "Araştırmacılar geceleri de gökyüzünden elektrik üretilebileceğini kanıtladı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/experiment-shows-we-can-actually-generate-electricity-from-the-coldness-of-space"
+                    ]
+                },
+                {
+                    "contentText": "Patent başvurusu Dyson’ın elektrikli arabasıyla ilgili ipuçları içeriyor.",
+                    "contentLink": [
+                        "https://www.theguardian.com/technology/2019/may/09/dyson-patents-reveal-plans-for-an-electric-car-with-off-road-potential"
+                    ]
+                },
+                {
+                    "contentText": "İnsanlardakine benzer sayı kavramı olan yapay zeka zuhur etti.",
+                    "contentLink": [
+                        "https://theconversation.com/ai-develops-human-like-number-sense-taking-us-a-step-closer-to-building-machines-with-general-intelligence-116820"
+                    ]
+                },
+                {
+                    "contentText": "Doktorlar ölmekte olan bir genci bakteri yiyen virüslerle kurtardı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/teen-with-deadly-superbug-infection-saved-by-the-first-genetically-modified-virus-cocktail"
+                    ]
+                },
+                {
+                    "contentText": "Ortalama insan ömrü çok kısa zaman içinde 100 yılı geçebilir.",
+                    "contentLink": [
+                        "https://www.cnbc.com/2019/05/08/techs-next-big-disruption-could-be-delaying-death.html"
+                    ]
+                }
+            ]
         }
     ]
 }
