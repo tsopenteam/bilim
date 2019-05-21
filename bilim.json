@@ -9176,6 +9176,91 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 20,
+            "totalCount": 94,
+            "uploadDate": "22.05.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/05/bilim_2019_20.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2019-20",
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2019/20",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Mars’taki InSight aracının delici ucunu kurtarma çalışmaları devam ediyor.",
+                    "contentLink": [
+                        "https://spacenews.com/troubleshooting-of-mars-insight-instrument-continues/"
+                    ]
+                },
+                {
+                    "contentText": "Starlink fırlatması ertelendi. Uydularla ilgili yeni ayrıntılar ortaya çıktı.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2019/05/17/spacex-postpones-starlink-launch-to-update-satellite-software/"
+                    ]
+                },
+                {
+                    "contentText": "Uzayı korumak için milli park ilan edelim.",
+                    "contentLink": [
+                        "https://www.livescience.com/65472-scientists-propose-solar-system-national-park.html"
+                    ]
+                },
+                {
+                    "contentText": "Bir tehlikeden kurtulmak için Dünya’nın yörüngesini değiştirmek mümkün mü?",
+                    "contentLink": [
+                        "https://theconversation.com/wandering-earth-rocket-scientist-explains-how-we-could-move-our-planet-116365"
+                    ]
+                },
+                {
+                    "contentText": "Plastik kirliliği oksijenin %10’unu üreten bakterilere zarar veriyor.",
+                    "contentLink": [
+                        "https://www.independent.co.uk/environment/plastic-pollution-bacteria-oxygen-damage-environment-study-a8912931.html"
+                    ]
+                },
+                {
+                    "contentText": "Rezervuara atılan siyah plastik toplar sadece buharlaşmayı önlemek için değilmiş?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/here-s-what-s-really-going-on-with-those-black-balls-in-the-la-reservoir"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları bir kuş türünün tarihte iki kere aynı evrimi geçirdiğine dair kanıtlar buldu.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/this-strange-flightless-bird-evolved-into-existence-twice-across-millennia"
+                    ]
+                },
+                {
+                    "contentText": "Domateslerin tadı geri gelecek.",
+                    "contentLink": [
+                        "https://bigthink.com/surprising-science/tomato-flavor"
+                    ]
+                },
+                {
+                    "contentText": "İşlenmiş gıdalar daha fazla tüketmemize ve kilo almamıza neden oluyor.",
+                    "contentLink": [
+                        "https://www.popsci.com/processed-food-gain-weight"
+                    ]
+                },
+                {
+                    "contentText": "Karar verme yorgunluğu doktorların performansını etkiliyor.",
+                    "contentLink": [
+                        "https://www.nytimes.com/2019/05/14/opinion/dont-visit-your-doctor-in-the-afternoon.html"
+                    ]
+                },
+                {
+                    "contentText": "Yaşlanmanın nedeni vücudumuzda biriken zombi hücreler olabilir.",
+                    "contentLink": [
+                        "https://www.apnews.com/6da65f221b6b4d9aba69962c670432e8"
+                    ]
+                },
+                {
+                    "contentText": "Bir kişinin yüzüne on dakika bakınca beyin ilginç halüsinasyonlar görmeye başlıyor.",
+                    "contentLink": [
+                        "https://blogs.scientificamerican.com/illusion-chasers/locking-eyes-with-a-monster/"
+                    ]
+                }
+            ]
         }
     ]
 }
