@@ -9261,6 +9261,97 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 21,
+            "totalCount": 95,
+            "uploadDate": "28.05.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/05/bilim_2019_21.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=bYpcGRxUWAc",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2019-21",
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2019/21",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "NASA, isminizi Mars’a gönderelim projesinde Türkiye açık ara farkla birinci gidiyor.",
+                    "contentLink": [
+                        "https://mars.nasa.gov/participate/send-your-name/mars2020/map/world"
+                    ]
+                },
+                {
+                    "contentText": "NASA, 2024 Artemis Projesi’ni hayata geçirmek için seçtiği 11 firmayı açıkladı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/nasa-has-decided-the-companies-to-build-its-lunar-landers"
+                    ]
+                },
+                {
+                    "contentText": "NASA, Gateway projesi için anahtar önemdeki modülü yapmak için Maxar firmasını seçti.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2019/05/24/nasa-chooses-maxar-to-build-keystone-module-for-lunar-gateway-station/"
+                    ]
+                },
+                {
+                    "contentText": "Starlink’in 60 iletişim uydusu başarıyla fırlatıldı.",
+                    "contentLink": [
+                        "https://www.space.com/spacex-starlink-satellites-spotted-night-sky-video.html"
+                    ]
+                },
+                {
+                    "contentText": "Plüto’nun yüzeyinin altında sıvı okyanus olabilir.",
+                    "contentLink": [
+                        "https://www.universetoday.com/142273/an-insulating-layer-of-gas-could-keep-a-liquid-ocean-inside-pluto/"
+                    ]
+                },
+                {
+                    "contentText": "Yeni geliştirilen yöntemle aşıları soğuk tutmadan uzun süre korumak mümkün olabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/new-technology-preserves-vaccines-without-refrigeration-for-months"
+                    ]
+                },
+                {
+                    "contentText": "Fizikçiler -23 derece sıcaklıkta süperiletkenlik sağlayabildiler.",
+                    "contentLink": [
+                        "https://www.technologyreview.com/s/612559/the-record-for-high-temperature-superconductivity-has-been-smashed-again/"
+                    ]
+                },
+                {
+                    "contentText": "Bir grup bilim insanından küresel ısınmayı engellemek yeni öneri.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/scientists-have-revealed-a-wild-new-plan-for-cleaning-the-atmosphere"
+                    ]
+                },
+                {
+                    "contentText": "Küresel ısınma bahar alerjisine neden olan polenleri arttırıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/here-s-why-climate-change-can-make-seasonal-allergies-even-worse"
+                    ]
+                },
+                {
+                    "contentText": "Soğuk ofis ortamı kadın çalışanların performansını düşürüyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-ideal-workplace-temperature-for-men-could-lessen-productivity-for-women"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları karadaki en eski çok hücreli canlının fosilini buldular.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-oldest-fungus-fossil-in-the-world-was-alive-a-billion-years-ago"
+                    ]
+                },
+                {
+                    "contentText": "Çocukken doğayla iç içe olmak yetişkinlikte ruhsal sağlığı olumlu yönde etkiliyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/being-in-nature-is-good-for-the-future-mental-health-of-our-children"
+                    ]
+                },
+                {
+                    "contentText": "Köpekbalıklarının midesini araştıran uzmanlar ilginç sonuçlarla karşılaştı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/shark-spew-study-shows-they-ve-been-eating-something-really-weird"
+                    ]
+                }
+            ]
         }
     ]
 }
