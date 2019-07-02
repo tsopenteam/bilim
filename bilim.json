@@ -9433,6 +9433,86 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 23,
+            "totalCount": 97,
+            "uploadDate": "11.06.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/06/bilim_2019_23.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=XhSMFoOo30k",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2019-23",
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2019/23",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "NASA, ISS’i ticari projelere açma planını açıkladı.",
+                    "contentLink": [
+                        "https://spacenews.com/nasa-releases-iss-commercialization-plan/",
+                        "https://www.nytimes.com/2019/06/07/science/space-station-nasa.html"
+                    ]
+                },
+                {
+                    "contentText": "NASA, InSight aracının çalışmayan sondasına destek olmak için robot kolunu kullanacak.",
+                    "contentLink": [
+                        "https://spacenews.com/nasa-tries-new-approach-to-fix-mars-insight-instrument/"
+                    ]
+                },
+                {
+                    "contentText": "NASA, derin uzaya GPS sistemi kurmanın ilk adımını atmaya hazırlanıyor.",
+                    "contentLink": [
+                        "https://www.nasa.gov/feature/jpl/five-things-to-know-about-nasas-deep-space-atomic-clock"
+                    ]
+                },
+                {
+                    "contentText": "Uzay çöplerinin temizlenmesinin teknik olduğu kadar politik zorlukları da var.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/there-s-a-hidden-spacecraft-dump-in-the-ocean-here-s-what-s-down-there"
+                    ]
+                },
+                {
+                    "contentText": "Fareler üzerinde yapılan bir araştırmada kök hücrelerin genetik yapısı ilk kez vücut içinde değiştirildi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/breakthrough-research-shows-stem-cells-can-be-genetically-edited-inside-the-body"
+                    ]
+                },
+                {
+                    "contentText": "Amerikan Ordusu’nun bir sonraki nesil piyade tüfekleri yüz tanıma özelliğine sahip olabilir.",
+                    "contentLink": [
+                        "https://www.military.com/daily-news/2019/06/01/armys-next-infantry-weapon-could-have-facial-recognition-technology.html"
+                    ]
+                },
+                {
+                    "contentText": "Bir şeyi öğrenmeye çalışırken ara vermek öğrenmeyi kolaylaştırıyor.",
+                    "contentLink": [
+                        "https://bigthink.com/mind-brain/learning-neuroscience"
+                    ]
+                },
+                {
+                    "contentText": "Deneylerde kobay olarak kullanılmak üzere ahtapot yetiştirmenin zorlukları.",
+                    "contentLink": [
+                        "https://www.npr.org/sections/health-shots/2019/06/03/727653152/why-octopuses-might-be-the-next-lab-rats"
+                    ]
+                },
+                {
+                    "contentText": "Soyu tehlikede olan bir tür soyu tehlikede olan başka bir türünü tehdit ediyorsa ne yapmak lazım?",
+                    "contentLink": [
+                        "https://www.scientificamerican.com/article/when-one-protected-species-kills-another-what-are-conservationists-to-do1/"
+                    ]
+                },
+                {
+                    "contentText": "Sahibinin stres seviyesi köpekleri etkiliyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/your-dog-can-tell-you-re-stressed-and-that-s-probably-not-a-good-thing"
+                    ]
+                },
+                {
+                    "contentText": "Neden bazı kokuların geçmesi uzun sürer?",
+                    "contentLink": [
+                        "https://www.livescience.com/65664-why-smells-linger.html"
+                    ]
+                }
+            ]
         }
     ]
 }
