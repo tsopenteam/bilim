@@ -9513,6 +9513,92 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 24,
+            "totalCount": 98,
+            "uploadDate": "18.06.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/06/bilim_2019_24.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=FUctVSscUlo",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2019-24",
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2019/24",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "CanSat Competition 2019 yarışmasında Türk takımları birinci ve ikinci oldu. CanSat Sayfası",
+                    "contentLink": [
+                        "https://www.sinirsizbilim.com/uzay/abdde-duzenlenen-uydu-yarismasinda-birinci-ve-ikinci-turkiyeden/",
+                        "http://www.cansatcompetition.com/mission.html"
+                    ]
+                },
+                {
+                    "contentText": "Milli Yer İstasyonu projesinde kabul testleri başarıyla tamamlandı.",
+                    "contentLink": [
+                        "https://www.sinirsizbilim.com/uzay/milli-uydularimiz-milli-yer-istasyonu-ile-haberlesecek/"
+                    ]
+                },
+                {
+                    "contentText": "Ay yüzeyindeki devasa kraterde büyük kütleçekim anomalisi saptandı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/there-s-a-huge-unexplained-mass-under-a-giant-crater-on-the-moon"
+                    ]
+                },
+                {
+                    "contentText": "Yeni elde edilen bulgulara göre Europa’nın okyanusları Dünya’dakilere benziyor olabilir.",
+                    "contentLink": [
+                        "https://www.universetoday.com/142543/saltwater-similar-to-the-earths-oceans-has-been-seen-on-europa-another-good-reason-why-we-really-need-to-visit-this-place/"
+                    ]
+                },
+                {
+                    "contentText": "Mühendisler ömrü biten uyduları Dünya’ya döndürecek yeni bir teknik üzerinde çalışılıyor.",
+                    "contentLink": [
+                        "https://www.universetoday.com/142537/satellites-equipped-with-a-tether-would-be-able-to-de-orbit-themselves-at-the-end-of-their-life/"
+                    ]
+                },
+                {
+                    "contentText": "Rus bilim adamı genetiği değiştirilmiş bebek Dünya’ya getirmeye hazırlanıyor.",
+                    "contentLink": [
+                        "https://www.scientificamerican.com/article/russian-biologist-plans-more-crispr-edited-babies/"
+                    ]
+                },
+                {
+                    "contentText": "Yeni geliştirilen bir yöntem kandaki kanserli hücreleri kanı dışarı almadan yok edebiliyor.",
+                    "contentLink": [
+                        "https://spectrum.ieee.org/the-human-os/biomedical/diagnostics/laser-destroys-cancer-cells-circulating-in-the-blood"
+                    ]
+                },
+                {
+                    "contentText": "Dışkı transferi yapılan bir hasta hayatını kaybetti FDA uygulamaları şimdilik durdurma kararı aldı.",
+                    "contentLink": [
+                        "https://www.nytimes.com/2019/06/13/health/fecal-transplant-fda.html"
+                    ]
+                },
+                {
+                    "contentText": "Bitkiler türleri tahmin edilenden çok daha hızlı yok oluyor.",
+                    "contentLink": [
+                        "https://www.livescience.com/65696-the-plants-are-dying.html"
+                    ]
+                },
+                {
+                    "contentText": "Bilim adamları egzamanın neden kaynaklandığını anlamaya bir adım daha yaklaştı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/scientists-think-they-know-what-happens-in-the-skin-when-you-have-eczema"
+                    ]
+                },
+                {
+                    "contentText": "Giyim firmaları daha uzun süre yıkanmadan temiz kalabilen elbiseler üretmeye çalışıyor.",
+                    "contentLink": [
+                        "https://www.fastcompany.com/90359188/the-next-big-thing-in-fashion-not-washing-your-clothes"
+                    ]
+                },
+                {
+                    "contentText": "Yapılan bir araştırmaya göre altı parmaklı doğmak her zaman kötü sonuçlanmıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/a-sixth-finger-on-our-hands-would-actually-be-super-useful"
+                    ]
+                }
+            ]
         }
     ]
 }
