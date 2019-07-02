@@ -9352,6 +9352,87 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 22,
+            "totalCount": 96,
+            "uploadDate": "04.06.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/06/bilim_2019_22.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=tHKqIhpG8qc",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2019-22",
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2019/22",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "NASA, önümüzdeki iki yıl içinde Ay’a kargo indirecek üç firmayı açıkladı.",
+                    "contentLink": [
+                        "https://spacenews.com/nasa-awards-contracts-to-three-companies-to-land-payloads-on-the-moon/"
+                    ]
+                },
+                {
+                    "contentText": "Mars’ın kuzey kutbunda yeraltı buz katmanları bulundu. Curiosity incelediği taş örneklerinde kile rastladı.",
+                    "contentLink": [
+                        "https://www.universetoday.com/142308/new-layers-of-water-ice-have-been-found-beneath-mars-north-pole/",
+                        "https://www.universetoday.com/142375/curiosity-has-found-the-mother-lode-of-clay-on-the-surface-of-mars/"
+                    ]
+                },
+                {
+                    "contentText": "Güneş’in 11 yıllık manyetik alan döngülerine gezegenlerin çekim gücü neden oluyor olabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-sun-s-11-year-cycle-have-may-have-something-to-do-with-the-gravity-of-the-planets"
+                    ]
+                },
+                {
+                    "contentText": "Starlink uydu katarı görüntüsü astronomlar arasında endişeye neden oldu.",
+                    "contentLink": [
+                        "https://www.forbes.com/sites/jonathanocallaghan/2019/05/27/spacexs-starlink-could-change-the-night-sky-forever-and-astronomers-are-not-happy/",
+                        "https://blogs.scientificamerican.com/life-unbounded/the-death-of-astronomy/"
+                    ]
+                },
+                {
+                    "contentText": "Araştırmacılar ilk kez Amerikyum’dan elektrik elde etmeyi başardılar.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/scientists-just-generated-usable-electricity-from-an-element-that-could-power-spacecraft-for-400-years"
+                    ]
+                },
+                {
+                    "contentText": "Astronotlar, CRISPR tekniğini ilk kez uzayda kullandılar.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/for-the-first-time-crispr-has-been-used-to-edit-genes-in-space"
+                    ]
+                },
+                {
+                    "contentText": "Yeni antibiyotiklerin keşfi için uluslararası yeni bir araştırma kurumu kurulması öneriliyor.",
+                    "contentLink": [
+                        "https://www.wired.com/story/the-radical-plan-to-change-how-antibiotics-get-developed/"
+                    ]
+                },
+                {
+                    "contentText": "Araştırmacılar derin öğrenme tekniklerini kullanarak bir kişinin sesinden yüzünü tahmin etmeye çalışıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/this-ai-tries-to-guess-what-you-look-like-based-on-your-voice"
+                    ]
+                },
+                {
+                    "contentText": "İçinde ne olduğu belli olmayan homeopatik ilaçlardan kullanan bir hasta daha yan etkilerin kurbanı oldu.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/this-teetotal-patient-developed-hepatitis-thanks-to-a-regular-use-of-homeopathy"
+                    ]
+                },
+                {
+                    "contentText": "Amerika ve Çin’in ticaret savaşında nadir toprak elementlerinin yeri.",
+                    "contentLink": [
+                        "https://www.scientificamerican.com/article/dont-panic-about-rare-earth-elements/"
+                    ]
+                },
+                {
+                    "contentText": "Filipinler’de öğrencilere mezun olmadan önce 10 ağaç dikme şartı getirildi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/philippines-passes-bill-requiring-graduating-students-to-plant-10-trees-before-graduating"
+                    ]
+                }
+            ]
         }
     ]
 }
