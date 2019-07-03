@@ -9599,6 +9599,85 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 25,
+            "totalCount": 99,
+            "uploadDate": "25.06.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/06/bilim_2019_25.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=RLgqyJ2jDvM",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2019-25",
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2019/25",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Curiosity, Mars’ta büyük bir metan gazı artışı tespit etti.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/curiosity-has-detected-the-largest-amount-of-methane-on-mars-yet"
+                    ]
+                },
+                {
+                    "contentText": "Çin bir sonraki uzay istasyonunda yer alacak bilimsel projeleri açıkladı.",
+                    "contentLink": [
+                        "https://www.scientificamerican.com/article/china-reveals-scientific-experiments-for-next-space-station/"
+                    ]
+                },
+                {
+                    "contentText": "Breakthrough Listen projesi gelişmiş bir yaşam formuna ait izlere rastlayamadı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-most-comprehensive-and-sensitive-radio-search-ever-has-found-no-sign-of-alien-life"
+                    ]
+                },
+                {
+                    "contentText": "İçtiğimiz ilaçlar bağırsaklarımızdaki bakterilere kurban gidiyor olabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/gut-microbes-could-be-eating-up-our-meds-before-they-get-chance-to-work"
+                    ]
+                },
+                {
+                    "contentText": "Araştırmacılar gözümüzdeki bakteri florasını anlamaya çalışıyor.",
+                    "contentLink": [
+                        "https://theconversation.com/bacteria-live-on-our-eyeballs-and-understanding-their-role-could-help-treat-common-eye-diseases-116126"
+                    ]
+                },
+                {
+                    "contentText": "Ölü hücre enjeksiyonu kanserle mücadelede kullanılabilir mi?",
+                    "contentLink": [
+                        "https://www.livescience.com/65768-dying-cells-injection-cancer.html"
+                    ]
+                },
+                {
+                    "contentText": "Beynimiz gün içinde biz farkına varmadan küçük uyku kaçamakları yapıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/your-brain-might-be-taking-tiny-naps-throughout-the-day-without-you-realising"
+                    ]
+                },
+                {
+                    "contentText": "Dünya’nın Helyum kaynakları tükeniyor.",
+                    "contentLink": [
+                        "https://bigthink.com/surprising-science/helium-shortage"
+                    ]
+                },
+                {
+                    "contentText": "Çatalhöyük’ten elde edilen bilgiler kalabalıklaşan toplulukların şiddet eğiliminin arttığını gösteriyor.",
+                    "contentLink": [
+                        "https://www.livescience.com/65759-violent-neighbors-ancient-city.html"
+                    ]
+                },
+                {
+                    "contentText": "Pew araştırmasına göre Dünya nüfusu 2100 yılından sonra artmayacak.",
+                    "contentLink": [
+                        "https://www.livescience.com/65732-world-population-will-stop-growing.html"
+                    ]
+                },
+                {
+                    "contentText": "Araştırmacılar insanların dürüstlük oranını ölçmek için 17 bin kayıp cüzdanla araştırma yaptı.",
+                    "contentLink": [
+                        "https://www.npr.org/2019/06/20/734141432/what-dropping-17-000-wallets-around-the-globe-can-teach-us-about-honesty"
+                    ]
+                }
+            ]
         }
     ]
 }
