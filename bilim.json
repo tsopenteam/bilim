@@ -9678,6 +9678,77 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 26,
+            "totalCount": 100,
+            "uploadDate": "03.07.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/07/bilim_2019_26.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=LGZb6_tFzBA",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2019-26",
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2019/26",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "NASA, Titan’ın yüzeyini incelemek için uçabilen bir araç gönderecek.",
+                    "contentLink": [
+                        "https://www.nasa.gov/press-release/nasa-selects-flying-mission-to-study-titan-for-origins-signs-of-life/",
+                        "https://spaceflightnow.com/2019/06/27/nasa-approves-development-of-flying-drone-to-explore-saturns-moon-titan/"
+                    ]
+                },
+                {
+                    "contentText": "Geçtiğimiz aylarda gönderilen Starlink uydularından üçü kullanım dışı kaldı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/spacex-lost-contact-with-3-of-the-starlink-internet-satellites-but-the-company-remains-upbeat"
+                    ]
+                },
+                {
+                    "contentText": "SpaceIL ikinci görevinde Ay’a gitmekten vazgeçti.",
+                    "contentLink": [
+                        "https://www.universetoday.com/142656/spaceil-scraps-its-plans-to-go-back-to-the-moon-instead-its-hot-a-new-secret-significant-objective-for-beresheet-2/"
+                    ]
+                },
+                {
+                    "contentText": "Çernobil karantina bölgesinde yaşayan bitkiler neden radyasyondan etkilenmiyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/chernobyl-has-been-reclaimed-by-plants-why-don-t-they-die-from-cancer"
+                    ]
+                },
+                {
+                    "contentText": "Deniz kıyısındaki kayaların üzerinde yeni bir tür kirlilik birikmeye başladı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/a-strange-plasticrust-pollution-is-appearing-embedded-on-shoreline-rocks"
+                    ]
+                },
+                {
+                    "contentText": "Kapuçin maymunları 3000 yıldır kendi taş devirlerini yaşıyor olabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-capuchin-stone-age-has-a-3-000-year-old-archaeological-record"
+                    ]
+                },
+                {
+                    "contentText": "Yeni geliştirilen bir lazerle insanları uzaktan kalp atışına bakarak tanımak mümkün.",
+                    "contentLink": [
+                        "https://www.technologyreview.com/s/613891/the-pentagon-has-a-laser-that-can-identify-people-from-a-distanceby-their-heartbeat/"
+                    ]
+                },
+                {
+                    "contentText": "Alışveriş siteleri müşterileri harcamaya teşvik etmek için ne gibi yöntemler kullanıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/shopping-websites-use-dark-patterns-to-convince-you-to-part-with-your-money",
+                        "https://webtransparency.cs.princeton.edu/dark-patterns/"
+                    ]
+                },
+                {
+                    "contentText": "Ne olduğun önemli değil nasıl algılandığın önemli. Video Zaytung",
+                    "contentLink": [
+                        "https://www.vice.com/en_uk/article/434gqw/i-made-my-shed-the-top-rated-restaurant-on-tripadvisor",
+                        "https://youtu.be/bqPARIKHbN8",
+                        "http://www.zaytung.com/haberdetay.asp?newsid=179891"
+                    ]
+                }
+            ]
         }
     ]
 }
