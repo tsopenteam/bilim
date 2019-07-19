@@ -9749,6 +9749,85 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 27,
+            "totalCount": 101,
+            "uploadDate": "16.07.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/07/bilim_2019_27.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=1ES68G9Sj_c",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2019-27",
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2019/27",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Polisin yaptığı operasyonda ele geçirilen Kaliforniyum nedir?",
+                    "contentLink": [
+                        "https://www.aa.com.tr/tr/turkiye/boluda-18-01-gram-radyoaktif-madde-ele-gecirildi/1524612"
+                    ]
+                },
+                {
+                    "contentText": "Hayabusa-2 göktaşından ikinci örnek toplama girişimini başarıyla tamamladı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/japan-just-landed-its-spacecraft-on-an-asteroid-and-the-photos-are-nuts"
+                    ]
+                },
+                {
+                    "contentText": "NASA, ISS’te ilk kez meyve yetiştireceğini duyurdu.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/nasa-has-announced-the-first-fruit-they-want-to-grow-on-the-iss"
+                    ]
+                },
+                {
+                    "contentText": "NASA, Voyager uzay araçlarını hayatta tutabilmek için elinden geleni yapıyor.",
+                    "contentLink": [
+                        "https://www.universetoday.com/142802/nasa-has-figured-out-how-to-extend-the-lives-of-the-voyagers-even-longer/"
+                    ]
+                },
+                {
+                    "contentText": "Avrupa’nın GPS sistemi bir süredir çalışmıyor.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/7/15/20694395/europe-galileo-satellite-navigation-system-offline-outage-technical-incident"
+                    ]
+                },
+                {
+                    "contentText": "Alman araştırmacılar bir uçağa görsel veri kullanarak otonom iniş yaptırmayı başardı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/german-scientists-pull-off-truly-autonomous-aircraft-landing-in-stunning-video"
+                    ]
+                },
+                {
+                    "contentText": "Düzenli spor için günün hangi saati doğru zaman?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/exercising-at-the-same-time-every-day-could-be-the-key-to-keeping-weight-off"
+                    ]
+                },
+                {
+                    "contentText": "Araştırmacılar oksijeni az ortamlarda hayatta kalabilen canlıları inceliyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/some-animal-hearts-are-programmed-to-survive-in-the-complete-absence-of-o2"
+                    ]
+                },
+                {
+                    "contentText": "Bitkiler bilince sahip mi?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/some-scientists-think-plants-might-be-conscious-these-biologists-say-otherwise"
+                    ]
+                },
+                {
+                    "contentText": "Rus araştırmacı genetiği değiştirilmiş bebekler için beş çiftin hazır olduğunu açıkladı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/five-couples-have-agreed-to-use-crispr-on-their-unborn-babies-to-avoid-deafness"
+                    ]
+                },
+                {
+                    "contentText": "İnsanlık hiç olmadığı kadar kendini yok etme potansiyeline sahip.",
+                    "contentLink": [
+                        "https://www.ted.com/talks/rob_reid_how_synthetic_biology_could_wipe_out_humanity_and_how_we_can_stop_it"
+                    ]
+                }
+            ]
         }
     ]
 }
