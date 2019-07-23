@@ -9828,6 +9828,74 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 28,
+            "totalCount": 102,
+            "uploadDate": "23.07.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/07/bilim_2019_28.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2019-28",
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2019/28",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Çin’in uzay üssü Tiangong-2 kontrollü bir şekilde Dünya’ya düşürüldü.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2019/07/19/chinese-space-station-testbed-ends-mission-with-controlled-re-entry/"
+                    ]
+                },
+                {
+                    "contentText": "Ay’ın yörüngesinde kurulması planlanan araştırma üssünün yörüngesi belirlendi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/just-look-at-this-animation-of-how-the-first-lunar-outpost-is-going-to-orbit-the-moon"
+                    ]
+                },
+                {
+                    "contentText": "50 yıl önceki Ay yolculuklarının anlatılmayan yüzü: tuvalet ihtiyacı!",
+                    "contentLink": [
+                        "https://www.sciencealert.com/with-no-apollo-mission-toilet-here-s-how-the-astronauts-went-to-the-bathroom"
+                    ]
+                },
+                {
+                    "contentText": "SpaceX, geçtiğimiz aylarda meydana gelen Crew Dragon patlamasının nedenini tespit etti. Starhopper test ateşlemesi sırasında alev aldı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/nasa-official-says-the-explosion-of-spacex-s-ship-during-a-test-was-actually-a-huge-gift",
+                        "https://www.sciencealert.com/spacex-s-mars-rocket-prototype-set-off-a-fireball-but-musk-says-it-s-still-working"
+                    ]
+                },
+                {
+                    "contentText": "Instagram’ın beğeni sayısını kaldırmasının psikolojik sağlığımız üzerine etkileri nasıl olacak?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/instagram-has-a-trial-to-hide-the-number-of-likes-in-the-hope-that-it-saves-self-esteem"
+                    ]
+                },
+                {
+                    "contentText": "Kongo’daki ebola salgını nedeniyle DSÖ küresel acil durum ilan etti.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/who-declares-ebola-in-congo-to-be-emergency-of-international-concern"
+                    ]
+                },
+                {
+                    "contentText": "Sivilceler her zaman olduğundan daha fazla insanları rahatsız ediyor.",
+                    "contentLink": [
+                        "https://elemental.medium.com/why-is-acne-more-prevalent-than-ever-11fcf90155ca"
+                    ]
+                },
+                {
+                    "contentText": "Elon Musk insanların beynine implant yerleştirmek istiyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/elon-musk-wants-to-connect-your-brain-to-the-internet-as-soon-as-next-year"
+                    ]
+                },
+                {
+                    "contentText": "İnsanlığın zeka seviyesi olabilecek en üst seviyeye ulaştı mı?",
+                    "contentLink": [
+                        "http://www.bbc.com/future/story/20190709-has-humanity-reached-peak-intelligence"
+                    ]
+                }
+            ]
         }
     ]
 }
