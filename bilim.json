@@ -9896,6 +9896,73 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 29,
+            "totalCount": 103,
+            "uploadDate": "30.07.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/07/bilim_2019_29.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2019-29",
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2019/29",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Hindistan’ın Ay’a giden aracı fırlatıldı.",
+                    "contentLink": [
+                        "https://www.universetoday.com/142963/indias-chandrayaan-2-is-heading-to-the-moon/"
+                    ]
+                },
+                {
+                    "contentText": "Toyota, Ay arabası yapmayı planlıyor.",
+                    "contentLink": [
+                        "https://www.universetoday.com/142970/toyota-is-building-a-pressurized-lunar-rover-for-japan/"
+                    ]
+                },
+                {
+                    "contentText": "Lightsail-2 yelkenlerini başarıyla açtı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/lightsail2-has-deployed-its-sails-and-it-looks-amazing"
+                    ]
+                },
+                {
+                    "contentText": "Starhopper ilk başarılı hoplamasını gerçekleştirdi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/spacex-just-launched-and-landed-a-spaceship-prototype-for-mars"
+                    ]
+                },
+                {
+                    "contentText": "Apollo 11 ekibinin en az tanınan üyesi Michael Collins.",
+                    "contentLink": [
+                        "https://www.esquire.com/news-politics/a28400600/michael-collins-today-apollo-11-astronaut-moon-landing/"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları Çin adalarındaki sivrisinek nüfusunu 2 yıl içinde neredeyse ortadan kaldırdı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/scientists-effectively-wipe-out-mosquito-populations-of-two-chinese-islands-in-just-two-years"
+                    ]
+                },
+                {
+                    "contentText": "Kuş yumurtaları yuvadaki diğer yumurtalarla iletişim kurabiliyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/baby-birds-can-communicate-with-each-other-from-inside-their-unhatched-eggs"
+                    ]
+                },
+                {
+                    "contentText": "Beynimizin bilgiye verdiği tepki uyuşturucu ve yiyecekler verdiğine benzi benziyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/information-is-just-as-addictive-as-food-or-drugs-study-shows"
+                    ]
+                },
+                {
+                    "contentText": "İnsanlar mutlu olmak için tasarlanmadı!",
+                    "contentLink": [
+                        "http://theconversation.com/humans-arent-designed-to-be-happy-so-stop-trying-119262"
+                    ]
+                }
+            ]
         }
     ]
 }
