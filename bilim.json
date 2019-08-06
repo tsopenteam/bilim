@@ -9963,6 +9963,73 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 30,
+            "totalCount": 104,
+            "uploadDate": "06.08.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/08/bilim_2019_30.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2019-30",
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2019/30",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "BM Uzay Hukuku ve Politikaları Konferansı Türkiye’de yapılacak.",
+                    "contentLink": [
+                        "https://www.aa.com.tr/tr/bilim-teknoloji/uzay-hukuku-turkiyede-masaya-yatirilacak/1544765"
+                    ]
+                },
+                {
+                    "contentText": "2017’de atmosferde tespit edilen radyoaktif maddelerin kaynağı Rusya olabilir.",
+                    "contentLink": [
+                        "https://bigthink.com/radiation-leak-russia"
+                    ]
+                },
+                {
+                    "contentText": "Japon bilim adamı, insan - hayvan melezi embriyoları hayat getirmeye hazırlanıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/japan-just-gave-approval-for-scientists-to-work-on-human-animal-embryo-experiments"
+                    ]
+                },
+                {
+                    "contentText": "Bilimciler dış uyaranlara tepki veren yapay hücreler üretmeyi başardı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/scientists-build-artificial-cells-that-respond-to-external-chemical-changes-just-like-real-ones"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları canlılığın nasıl başladığıyla ilgili önemli bir kanıt elde etmiş olabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/scientists-have-stumbled-upon-a-possible-missing-link-that-explains-the-origins-of-life"
+                    ]
+                },
+                {
+                    "contentText": "1000 kere çömelme yarışması yapmaya çalışan gençler ölümden döndü.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/1-000-squat-challenge-sends-teens-to-intensive-care-with-potentially-fatal-syndrome"
+                    ]
+                },
+                {
+                    "contentText": "Ceeee oyunu bebeklerin gelişiminde önemli bir role sahip.",
+                    "contentLink": [
+                        "https://forge.medium.com/what-peekaboo-teaches-kids-about-the-world-973c1eeafe47"
+                    ]
+                },
+                {
+                    "contentText": "Bir tavuğun mutlu olduğu nasıl anlaşılır?",
+                    "contentLink": [
+                        "https://theconversation.com/finding-signs-of-happiness-in-chickens-could-help-us-understand-their-lives-in-captivity-119613/"
+                    ]
+                },
+                {
+                    "contentText": "Kedi nasıl sevilir?",
+                    "contentLink": [
+                        "https://theconversation.com/how-to-stroke-a-cat-according-to-science-116025"
+                    ]
+                }
+            ]
         }
     ]
 }
