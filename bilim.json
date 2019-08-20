@@ -10030,6 +10030,79 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 31,
+            "totalCount": 105,
+            "uploadDate": "20.08.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/08/bilim_2019_31.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2019-31",
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2019/31",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Türkiye Uzay Ajansı Başkanı ve yönetim kurulu üyeleri atandı.",
+                    "contentLink": [
+                        "https://www.aa.com.tr/tr/bilim-teknoloji/turkiye-uzay-ajansinin-yildiz-kadrosu-belli-oldu/1551368"
+                    ]
+                },
+                {
+                    "contentText": "Ay’da hala canlılığını koruyan su ayıları olabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/a-group-of-tardigrades-crashed-into-the-moon-in-april-they-could-still-be-alive"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları bakterileri göktaşı madenciliğinde kullanmayı planlıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/astronomers-want-to-use-bacteria-to-mine-space-rocks"
+                    ]
+                },
+                {
+                    "contentText": "Romanyalı mühendisler geliştirdikleri uçan daire için yatırımcı arıyor.",
+                    "contentLink": [
+                        "https://www.vice.com/en_us/article/kz4qey/romanian-engineers-have-created-a-fully-functional-flying-saucer-adifo"
+                    ]
+                },
+                {
+                    "contentText": "Amerika’yı baştan başa geçen bisiklet yolu",
+                    "contentLink": [
+                        "https://www.afar.com/magazine/if-youve-dreamed-of-a-cross-country-bike-trip-this-4000-mile-trail-could-make"
+                    ]
+                },
+                {
+                    "contentText": "FDA, öldürücü bir verem türüne karşı geliştirilen ilacı onayladı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-fda-just-approved-a-new-antibiotic-to-help-fight-drug-resistant-tuberculosis"
+                    ]
+                },
+                {
+                    "contentText": "Japon araştırmacılar farelerde cinsiyet seçimi için ucuz ve kolay bir yöntem geliştirdi.",
+                    "contentLink": [
+                        "https://www.newscientist.com/article/2213377-sperm-sorting-method-could-prevent-girls-being-born-scientists-warn/"
+                    ]
+                },
+                {
+                    "contentText": "Anne sütü bebeğin biyolojik saatinin düzene girmesine yardımcı oluyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/human-breast-milk-composition-may-help-babies-tell-time"
+                    ]
+                },
+                {
+                    "contentText": "Kadınlar birden fazla işle uğraşmakta daha başarılı değiller, sadece daha çalışkanlar!",
+                    "contentLink": [
+                        "https://www.sciencealert.com/women-aren-t-better-multitaskers-than-men-they-re-just-doing-more-work"
+                    ]
+                },
+                {
+                    "contentText": "Gelecek nesillerin eğitiminde yapay zeka önemli rol oynayacak.",
+                    "contentLink": [
+                        "https://www.technologyreview.com/s/614057/china-squirrel-has-started-a-grand-experiment-in-ai-education-it-could-reshape-how-the/"
+                    ]
+                }
+            ]
         }
     ]
 }
