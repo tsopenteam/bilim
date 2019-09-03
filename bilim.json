@@ -10176,6 +10176,85 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 33,
+            "totalCount": 107,
+            "uploadDate": "03.09.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/09/bilim_2019_33.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2019-33",
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2019/33",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "NASA Space Apps Challenge 18-20 Ekim tarihleri arasında yapılacak.",
+                    "contentLink": [
+                        "https://www.spaceappschallenge.org/"
+                    ]
+                },
+                {
+                    "contentText": "James Web Uzay Teleskobu tamamen birleştirildi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-james-webb-space-telescope-has-been-fully-assembled"
+                    ]
+                },
+                {
+                    "contentText": "Starhopper son sıçrama testini başarıyla gerçekleştirdi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/spacex-s-experimental-mars-rocket-starhopper-just-successfully-passed-its-last-test"
+                    ]
+                },
+                {
+                    "contentText": "ISS’in internet bağlantısı güncellendi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-iss-now-has-better-internet-than-most-of-us-after-its-latest-upgrade"
+                    ]
+                },
+                {
+                    "contentText": "InSight uzay aracının kazıcı ucu için kurtarma çalışmaları hala devam ediyor.",
+                    "contentLink": [
+                        "https://spacenews.com/insight-mission-seeking-new-ways-to-fix-heat-flow-probe/"
+                    ]
+                },
+                {
+                    "contentText": "Araştırmacılar yerin 2.4 km altında canlılığa rastladı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/scientists-discover-microbial-life-2-4-kilometres-deep-inside-a-canadian-mine"
+                    ]
+                },
+                {
+                    "contentText": "Uzmanlar kuzey beyaz gergedan soyunu devam ettirmek için çabalıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/update-those-first-northern-white-rhino-eggs-have-just-been-fertilised"
+                    ]
+                },
+                {
+                    "contentText": "Laboratuvar ortamında yetiştirilen beyin dokuları ilk kez beyin dalgaları yaymaya başladı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/brain-tissue-grown-in-the-lab-produces-brainwaves-resemblings-pre-term-babies"
+                    ]
+                },
+                {
+                    "contentText": "Araştırmacılar doğrudan eşcinsellikle ilişkilendirilebilen bir gen bulamadı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/study-finds-genes-can-t-predict-your-sexual-preference-here-s-what-that-means"
+                    ]
+                },
+                {
+                    "contentText": "Fanta, Nazi Almanya’sı ve ilginç bir hikaye.",
+                    "contentLink": [
+                        "https://getpocket.com/explore/item/how-fanta-was-created-for-nazi-germany"
+                    ]
+                },
+                {
+                    "contentText": "İnsan makine birleşmesi kaçınılmaz mı?",
+                    "contentLink": [
+                        "https://www.youtube.com/watch?v=ygRNoieAnzI"
+                    ]
+                }
+            ]
         }
     ]
 }
