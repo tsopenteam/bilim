@@ -10255,6 +10255,80 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 34,
+            "totalCount": 108,
+            "uploadDate": "10.09.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/09/bilim_2019_34.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2019-34",
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2019/34",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Hindistan’ın Ay yüzeyine iniş denemesi başarısızlıkla sonuçlandı.",
+                    "contentLink": [
+                        "https://spacenews.com/indias-moon-landing-attempt-ends-in-communication-loss/"
+                    ]
+                },
+                {
+                    "contentText": "Olay Ufku Teleskobu 3 Milyon $ değerindeki ödüle layık görüldü.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-first-black-hole-image-creating-team-were-just-awarded-a-3-million-dollar-prize"
+                    ]
+                },
+                {
+                    "contentText": "SpaceX, Mars üzerinde kupon arazi arıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/these-9-places-on-mars-could-be-the-target-for-spacex-s-first-starship-missions"
+                    ]
+                },
+                {
+                    "contentText": "ESA uydusu Starlink uydularından kaçınmak için manevra yapmak zorunda kaldı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/esa-satellite-forced-to-move-aside-for-spacex-s-starlink-for-fear-of-collision",
+                        "https://spacenews.com/esa-spacecraft-dodges-potential-collision-with-starlink-satellite/"
+                    ]
+                },
+                {
+                    "contentText": "Trump’ın attığı tweet Amerikan casus uydusunu açık etti.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/astronomers-find-top-secret-us-surveillance-satellite-thanks-to-a-tweet-leak"
+                    ]
+                },
+                {
+                    "contentText": "Yapay zeka destekli ilk dolandırıcılık bir şirkete 243.000 $ kaybettirdi.",
+                    "contentLink": [
+                        "https://thenextweb.com/security/2019/09/02/fraudsters-deepfake-ceos-voice-to-trick-manager-into-transferring-243000/"
+                    ]
+                },
+                {
+                    "contentText": "Spor yaptıktan sonra gargara yapmak vücut için zararlı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/a-strange-thing-happens-if-you-use-mouthwash-after-you-exercise"
+                    ]
+                },
+                {
+                    "contentText": "Hindistan’da bir kadın 74 yaşında doğum yaparak en yaşlı doğum yapan kişi oldu.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/a-74-year-old-woman-has-given-birth-to-twins-here-s-how-that-s-possible"
+                    ]
+                },
+                {
+                    "contentText": "Hidroelektrik santralleri tamamen boşaltıp güneş paneline çevirmek mümkün mü?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/scientists-are-tantalised-by-the-idea-of-replacing-hydropower-dams-with-solar-panels"
+                    ]
+                },
+                {
+                    "contentText": "Sovyetler Birliği ve Pepsi’nin ilginç hikayesi.",
+                    "contentLink": [
+                        "https://getpocket.com/explore/item/when-the-soviet-union-paid-pepsi-in-warships"
+                    ]
+                }
+            ]
         }
     ]
 }
