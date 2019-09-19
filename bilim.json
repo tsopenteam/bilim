@@ -10329,6 +10329,86 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 35,
+            "totalCount": 109,
+            "uploadDate": "18.09.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/09/bilim_2019_35.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2019-35",
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2019/35",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Güneş sisteminden geçen ikinci bir yabancı gök cismi tespit edilmiş olabilir.",
+                    "contentLink": [
+                        "https://www.universetoday.com/143384/oumuamua-2-0-it-looks-like-theres-a-new-interstellar-object-passing-through-the-solar-system/"
+                    ]
+                },
+                {
+                    "contentText": "Astronotlar uzay ortamında beton dökme deneyi yaptı.",
+                    "contentLink": [
+                        "https://www.universetoday.com/143359/astronauts-try-mixing-concrete-in-space/"
+                    ]
+                },
+                {
+                    "contentText": "Ötegezegen atmosferinde su keşfedildi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/water-has-been-detected-in-the-atmosphere-of-a-rocky-habitable-zone-exoplanet"
+                    ]
+                },
+                {
+                    "contentText": "Uzaylılar birden fazla gezene yayılmış hatta Dünya’yı ziyaret etmiş olabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/aliens-may-have-explored-the-galaxy-and-visited-earth-already-new-study-says"
+                    ]
+                },
+                {
+                    "contentText": "Denizin dibindeki gözlemevi bir anda ortadan kayboldu.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/someone-stole-an-entire-observatory-from-the-bottom-of-the-baltic-sea"
+                    ]
+                },
+                {
+                    "contentText": "İklim değişikliği insan eti yemek zorunda kalmamıza neden olabilir mi?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/scientist-suggests-climate-crisis-could-lead-people-to-consider-eating-human-flesh"
+                    ]
+                },
+                {
+                    "contentText": "Mühendisler ışığı en az yansıtan malzemeyi yanlışlıkla geliştirdi. Tesadüfen geliştirilen icatlar.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/scientists-just-set-a-new-record-for-the-blackest-material-ever-created",
+                        "https://www.businessinsider.com.au/viagra-lsd-pacemakers-accidental-scientific-discoveries-2018-4?r=US&IR=T"
+                    ]
+                },
+                {
+                    "contentText": "Lumosity gibi beyin jimnastiği uygulamaları gerçekten işe yarıyor mu?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/do-brain-training-games-really-work-here-s-the-science"
+                    ]
+                },
+                {
+                    "contentText": "Fotografik hafızaya sahip kasiyer 1300 müşterinin kart bilgilerini çalmakla suçlanıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/experts-doubt-cashier-stole-1-300-credit-numbers-using-only-a-photographic-memory"
+                    ]
+                },
+                {
+                    "contentText": "Bir kilo demir mi daha ağır bir kilo pamuk mu?",
+                    "contentLink": [
+                        "https://blogs.scientificamerican.com/observations/which-weighs-more-a-pound-of-stone-or-a-pound-of-styrofoam/"
+                    ]
+                },
+                {
+                    "contentText": "Yüksek statülü insanların yeteneksiz olabileceğini fark etmek daha zor!",
+                    "contentLink": [
+                        "https://bigthink.com/surprising-science/overconfidence"
+                    ]
+                }
+            ]
         }
     ]
 }
