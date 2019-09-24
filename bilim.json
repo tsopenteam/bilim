@@ -10409,6 +10409,63 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 36,
+            "totalCount": 110,
+            "uploadDate": "24.09.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/09/bilim_2019_36.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2019-36",
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2019/36",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Hayabusa 2, Ryugu yüzeyine bir gezgin daha indirmeye hazırlanıyor.",
+                    "contentLink": [
+                        "https://www.universetoday.com/143451/hayabusa-2-has-one-last-lander-its-going-to-throw-at-ryugu/"
+                    ]
+                },
+                {
+                    "contentText": "Rus virüs araştırma merkezinde meydana gelen patlama paniğe yol açtı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/explosion-at-russian-lab-that-houses-smallpox-sends-internet-into-panic"
+                    ]
+                },
+                {
+                    "contentText": "Beden ve ruh sağlığınız için sosyal medyada geçirdiğiniz süreyi azaltın. Sosyal medyayı nasıl kullanmaMAlıyız? İlgili TeknoSeyir videosu.",
+                    "contentLink": [
+                        "https://getpocket.com/explore/item/a-2-year-study-of-more-than-5-000-people-shows-this-1-activity-destroys-your-emotional-and-physical",
+                        "https://www.leidenpsychologyblog.nl/articles/how-not-to-use-social-media",
+                        "https://youtu.be/4xDAhf8lJiM"
+                    ]
+                },
+                {
+                    "contentText": "Yapay zeka destekli yalan dedektörleri 100% doğruluk oranıyla çalışacak.",
+                    "contentLink": [
+                        "https://www.theguardian.com/technology/2019/sep/05/the-race-to-create-a-perfect-lie-detector-and-the-dangers-of-succeeding"
+                    ]
+                },
+                {
+                    "contentText": "Amerika’da boşanma oranları önceki yıllara göre düşüyor.",
+                    "contentLink": [
+                        "https://getpocket.com/explore/item/the-not-so-great-reason-divorce-rates-are-declining"
+                    ]
+                },
+                {
+                    "contentText": "Kilo vermenin yeni yolu grandmaster diyeti!",
+                    "contentLink": [
+                        "https://www.espn.com/espn/story/_/id/27593253/why-grandmasters-magnus-carlsen-fabiano-caruana-lose-weight-playing-chess"
+                    ]
+                },
+                {
+                    "contentText": "İngilizce, Dünya dili olmaya doğru gidiyor.",
+                    "contentLink": [
+                        "https://getpocket.com/explore/item/behemoth-bully-thief-how-the-english-language-is-taking-over-the-planet"
+                    ]
+                }
+            ]
         }
     ]
 }
