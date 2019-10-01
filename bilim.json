@@ -10466,6 +10466,82 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 37,
+            "totalCount": 111,
+            "uploadDate": "01.10.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/10/bilim_2019_37.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2019-37",
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2019/37",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Güneş sisteminde gözlemleyebildiğimiz ikinci yıldızlar arası nesne resmen onaylandı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/our-new-interstellar-visitor-is-now-official-and-it-has-a-name"
+                    ]
+                },
+                {
+                    "contentText": "Elon Musk, Starship’in gelişimi hakkında yeni bilgiler verdi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/elon-musk-just-unveiled-spacex-s-audacious-new-plan-to-build-cities-on-mars-with-giant-starship-rockets"
+                    ]
+                },
+                {
+                    "contentText": "Büküm sürücüleri (warp drive) bilim-kurgu olmaktan çıkıyor mu?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/how-feasible-is-a-warp-drive-here-s-the-science"
+                    ]
+                },
+                {
+                    "contentText": "Amerikan Donanması UFO (UAP) görüntülerini doğruladı. SETI enstitüsü açıklaması.",
+                    "contentLink": [
+                        "https://www.popularmechanics.com/military/a19421807/video-shows-us-navy-run-in-with-ufo/",
+                        "https://youtu.be/0BS0z84IEc8"
+                    ]
+                },
+                {
+                    "contentText": "Biberonların tarihi 3000 yıl öncesine kadar uzanıyor olabilir.",
+                    "contentLink": [
+                        "https://www.nature.com/articles/d41586-019-02805-z",
+                        "https://www.sciencealert.com/these-adorable-little-bronze-age-sippy-cups-tell-us-how-we-once-weaned-children"
+                    ]
+                },
+                {
+                    "contentText": "Canlılığa dair en eski fosillerin 3.5 Milyar yıl yaşında olduğu doğrulandı.",
+                    "contentLink": [
+                        "https://www.universetoday.com/143561/confirmed-fossils-that-formed-3-5-billion-years-ago-really-are-fossils-the-oldest-evidence-of-life-found-so-far/"
+                    ]
+                },
+                {
+                    "contentText": "BM İklim Zirvesi’nde Greta Thunberg dünya liderlerine seslendi: “sizi affetmeyeceğiz!” Biz ne yapabiliriz?",
+                    "contentLink": [
+                        "https://www.youtube.com/watch?v=KAJsdgTPJpU",
+                        "https://www.sciencealert.com/here-are-10-not-so-obvious-things-you-can-do-to-help-the-planet-today"
+                    ]
+                },
+                {
+                    "contentText": "Sallama çaylar binlerce mikro plastik parçacık içeriyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/plastic-teabags-are-filling-your-tea-with-microplastics"
+                    ]
+                },
+                {
+                    "contentText": "Aşırı acı yiyen kadın kalp krizi tehlikesi geçirdi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/woman-mistakes-wasabi-for-avocado-ends-up-in-hospital-with-a-heart-dysfunction"
+                    ]
+                },
+                {
+                    "contentText": "Taklitçi sendromuyla (Imposter Syndrome) nasıl başa çıkılır?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/if-you-believe-deep-down-that-you-are-an-impostor-you-should-read-this"
+                    ]
+                }
+            ]
         }
     ]
 }
