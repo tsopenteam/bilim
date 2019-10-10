@@ -10542,6 +10542,74 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 38,
+            "totalCount": 112,
+            "uploadDate": "08.10.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/10/bilim_2019_38.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=-Zew1eHwwp4",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2019-38",
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2019/38",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "2019 Nobel Tıp ve Fizik ödülleri sahiplerini buldu.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/three-scientists-were-just-awarded-the-nobel-prize-for-working-out-how-cells-sense-oxygen",
+                        "https://www.scientificamerican.com/article/cosmology-and-exoplanets-win-2019-nobel-prize-in-physics1/"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları Enceladus’te yaşamın yapı taşlarını içeren bir okyanus olduğunu belirtiyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/nasa-just-revealed-enceladus-really-does-contain-the-building-blocks-of-life"
+                    ]
+                },
+                {
+                    "contentText": "Juno, Jüpiter’in gölgesinden kurtulmak için şimdiye kadar yapılmamış bir manevra yapmak zorunda kaldı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/juno-is-afraid-to-death-of-jupiter-s-shadow-so-it-fired-its-thruster-for-over-10-hours-to-avoid-it"
+                    ]
+                },
+                {
+                    "contentText": "Olay Ufku Teleskobu kara deliklerin videosunu çekmeye hazırlanıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/astronomers-have-bold-plans-to-film-the-black-hole-at-the-centre-of-our-galaxy"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları kuşların beyinlerini uyararak daha önce bilmedikleri şarkıları öğretmeyi başardı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/scientists-implant-false-memories-in-birds-to-teach-them-songs-they-ve-never-heard"
+                    ]
+                },
+                {
+                    "contentText": "Uzmanlar 2000 yıl önce patlayan volkanda kül olan papirüsleri okumaya çalışıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/new-method-could-virtually-unravel-ancient-papyrus-scrolls-burnt-in-the-vesuvius-eruption"
+                    ]
+                },
+                {
+                    "contentText": "Pasifik’teki çöp yığınını temizleme çalışmaları nihayet başarılı olmaya başladı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/that-great-pacific-garbage-patch-cleaning-device-is-finally-working-properly"
+                    ]
+                },
+                {
+                    "contentText": "Saldırı altındaki bitkilerin yakınlardaki diğer bitkileri uyardığı tespit edildi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/plants-scream-to-each-other-in-smells-when-they-re-under-attack"
+                    ]
+                },
+                {
+                    "contentText": "Fast-food reklamları için yaş sınırı getirilmeli mi?",
+                    "contentLink": [
+                        "https://www.leidenpsychologyblog.nl/articles/raise-the-age-limits-for-junk-food-advertising"
+                    ]
+                }
+            ]
         }
     ]
 }
