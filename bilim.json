@@ -10610,6 +10610,87 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 39,
+            "totalCount": 113,
+            "uploadDate": "15.10.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/10/bilim_2019_39.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2019-39",
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2019/39",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "2019 Nobel Kimya ödülü Lityum-iyon pili geliştirenlere verildi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/nobel-prize-in-chemistry-awarded-for-rechargeable-lithium-ion-batteries"
+                    ]
+                },
+                {
+                    "contentText": "İlk uzay yürüyüşünü yapan kozmonot hayatını kaybetti.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2019/10/11/alexei-leonov-worlds-first-spacewalker-dies/"
+                    ]
+                },
+                {
+                    "contentText": "Uzayda ilk kez et üretildi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/astronauts-just-printed-meat-in-space-for-the-first-time"
+                    ]
+                },
+                {
+                    "contentText": "Yıldızlar arası yolculuk için Star Trek’in warp hızı bile yeterli değil!",
+                    "contentLink": [
+                        "https://www.sciencealert.com/former-nasa-scientist-demonstrates-why-star-trek-s-warp-speeds-are-painfully-slow"
+                    ]
+                },
+                {
+                    "contentText": "Dünyadaki bütün buzullar bir gecede erirse ne olur?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/watch-what-would-happen-if-all-the-ice-on-earth-melted-overnight"
+                    ]
+                },
+                {
+                    "contentText": "Hagibis Tayfunu Japonya’yı vurdu! Tayfun, kasırga ve hortum arasındaki fark nedir?",
+                    "contentLink": [
+                        "https://www.bbc.co.uk/news/amp/world-asia-50032170",
+                        "https://www.bbc.com/news/science-environment-45519964"
+                    ]
+                },
+                {
+                    "contentText": "Peru’daki ünlü Machi Picchu kentinin sırrı çözülmüş olabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/geologists-have-figured-out-why-machu-picchu-is-built-in-such-a-remote-spot"
+                    ]
+                },
+                {
+                    "contentText": "Çernobil faciasının yaşandığı kontrol odasını artık turist olarak ziyaret etmek mümkün.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/you-can-now-tour-chernobyl-s-control-room-high-but-radiation-is-still-extremely-high"
+                    ]
+                },
+                {
+                    "contentText": "7 milyon yıllık insan evriminin özeti. İnsan türünün taksonomisi",
+                    "contentLink": [
+                        "https://www.youtube.com/watch?v=DZv8VyIQ7YU",
+                        "https://evrimagaci.org/insansilarin-evrimi-hominoidea-hominidae-homininae-hominini-hominina-ve-homo-sapiens-3760"
+                    ]
+                },
+                {
+                    "contentText": "Öğrencilere kötü haber: Birkaç gün öncesinden kalmış makarna yemek sizi öldürebilir!",
+                    "contentLink": [
+                        "https://www.sciencealert.com/here-s-how-eating-5-day-old-pasta-or-rice-can-actually-kill-you"
+                    ]
+                },
+                {
+                    "contentText": "Araştırmalara göre en iyi ve en kötü çalışma alışkanlıkları.",
+                    "contentLink": [
+                        "https://cognitiontoday.com/2019/04/the-worst-and-the-best-study-tips-habits-from-psychological-research-how-to/"
+                    ]
+                }
+            ]
         }
     ]
 }
