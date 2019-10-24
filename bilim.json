@@ -10691,6 +10691,74 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 40,
+            "totalCount": 114,
+            "uploadDate": "22.10.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/10/bilim_2019_40.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2019-40",
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2019/40",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "NASA yeni nesil astronot elbiselerini tanıttı.",
+                    "contentLink": [
+                        "https://www.nasa.gov/feature/a-next-generation-spacesuit-for-the-artemis-generation-of-astronauts"
+                    ]
+                },
+                {
+                    "contentText": "InSight’ın delici ucunu kurtarma çalışmaları başarılı olmuş görünüyor.",
+                    "contentLink": [
+                        "https://www.universetoday.com/143724/it-looks-like-its-working-nasa-insights-mole-is-making-progress-again-thanks-to-the-arm-scoop-hack/"
+                    ]
+                },
+                {
+                    "contentText": "NASA mühendisi, Mars’ta canlılık olduğu konusunda 1970’lerden beri kesin deliller olduğunu belirtiyor.",
+                    "contentLink": [
+                        "https://blogs.scientificamerican.com/observations/im-convinced-we-found-evidence-of-life-on-mars-in-the-1970s/"
+                    ]
+                },
+                {
+                    "contentText": "Starlink, ek 30 bin uydu için frekans izin işlemlerini başlattı.",
+                    "contentLink": [
+                        "https://spacenews.com/spacex-submits-paperwork-for-30000-more-starlink-satellites/"
+                    ]
+                },
+                {
+                    "contentText": "Aşı karşıtları ile konuşmak için dört ipucu.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/4-ways-to-talk-with-vaccine-skeptics"
+                    ]
+                },
+                {
+                    "contentText": "Yavaş yürümek daha hızlı yaşlanmak anlamına geliyor olabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/there-s-a-strange-lifelong-link-between-being-a-slow-walker-and-ageing-faster"
+                    ]
+                },
+                {
+                    "contentText": "Bilim adamları ilk kez mukusun mikropları baskılama yeteneğini gözlemledi. Mukus hakkında bir başka yazı",
+                    "contentLink": [
+                        "https://www.sciencealert.com/we-now-know-how-icky-mucus-performs-the-extremely-helpful-function-of-subduing-germs",
+                        "https://www.scientificamerican.com/article/mucus-the-bodys-unsung-hero/"
+                    ]
+                },
+                {
+                    "contentText": "Hatalı yazılan bir Python betiği bilimsel çalışmaların yanlış sonuçlar üretmesine neden olmuş olabilir.",
+                    "contentLink": [
+                        "https://arstechnica.com/information-technology/2019/10/chemists-discover-cross-platform-python-scripts-not-so-cross-platform/"
+                    ]
+                },
+                {
+                    "contentText": "Dünyanın en hızlı hareket eden hayvanı hangisi?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/world-s-fastest-ants-clock-855-millimetres-per-second"
+                    ]
+                }
+            ]
         }
     ]
 }
