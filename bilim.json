@@ -10759,6 +10759,56 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 41,
+            "totalCount": 115,
+            "uploadDate": "29.10.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/10/bilim_2019_41.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2019-41",
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2019/41",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Duyuru: 3. ODTÜ Astrobiyoloji Konferansı 30 Kasım tarihinde gerçekleşecek.",
+                    "contentLink": [
+                        "http://odtuastrobiyolojikonferansi.com/"
+                    ]
+                },
+                {
+                    "contentText": "Google, kuantum hesaplama üstünlüğü eşiğini geçtiğini açıkladı. IBM’in cevabı",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/10/23/20928294/google-quantum-supremacy-sycamore-computer-qubit-milestone",
+                        "https://www.ibm.com/blogs/research/2019/10/on-quantum-supremacy/"
+                    ]
+                },
+                {
+                    "contentText": "Sosyal medya bir nesli mahvetmedi!",
+                    "contentLink": [
+                        "https://www.scientificamerican.com/article/social-media-has-not-destroyed-a-generation/"
+                    ]
+                },
+                {
+                    "contentText": "Oxford Üniversitesi: Oyunlar psikolojik sorun değil, başka sorunların yansıması. Mı acaba?",
+                    "contentLink": [
+                        "http://www.nintendolife.com/news/2019/10/new_study_says_external_issues_are_more_likely_to_blame_for_gaming_addiction_not_gaming_itself"
+                    ]
+                },
+                {
+                    "contentText": "Bilim adamları genetik değişiklik yapmadan farelerin ömrünü uzatmayı başardı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/researchers-have-made-long-lived-mice-with-extended-chromosomes-inside-all-of-their-cells"
+                    ]
+                },
+                {
+                    "contentText": "Evrimsel bakış açısına göre evrende yalnız olabiliriz.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/evolution-suggests-we-might-be-the-only-intelligent-life-in-the-universe"
+                    ]
+                }
+            ]
         }
     ]
 }
