@@ -10809,6 +10809,80 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 42,
+            "totalCount": 116,
+            "uploadDate": "05.11.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/11/bilim_2019_42.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2019-42",
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2019/42",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Yılan hikayesine dönen InSight’ın delici ucundan kötü haber geldi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/mars-just-kicked-out-insight-s-heat-probe-again"
+                    ]
+                },
+                {
+                    "contentText": "2I/Borisov içinde güneş sistemi dışından gelen su olduğu tespit edildi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/interstellar-comet-2i-borisov-is-carrying-a-heap-of-water"
+                    ]
+                },
+                {
+                    "contentText": "Amerika’nın gizemli uzay uçağı 780 gün yörüngede kaldıktan sonra başarıyla iniş yaptı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/america-s-mysterious-space-plane-has-landed-after-a-record-780-days-in-orbit"
+                    ]
+                },
+                {
+                    "contentText": "Diğer gezegenleri koruma konusundaki kuralları güncellememiz gerekiyor.",
+                    "contentLink": [
+                        "https://www.universetoday.com/143792/panel-says-that-nasa-isnt-doing-enough-to-protect-other-worlds-from-earth-life/"
+                    ]
+                },
+                {
+                    "contentText": "Evren düşündüğümüzden daha hızlı genişliyor!",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-standard-model-discrepancy-has-created-a-crisis-in-cosmology",
+                        "https://www.theguardian.com/science/2019/nov/02/hubble-constant-mystery-that-keeps-getting-bigger-estimate-rate-expansion-universe-cosmology-cepheid"
+                    ]
+                },
+                {
+                    "contentText": "Eğer varsa bir solucan deliğini nasıl tespit edebiliriz?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/wormholes-probably-don-t-exist-but-here-s-how-we-could-find-one-if-they-did"
+                    ]
+                },
+                {
+                    "contentText": "Bazı memeliler hamilelik sürecini duraklatabiliyor!",
+                    "contentLink": [
+                        "https://www.sciencealert.com/some-animals-can-literally-pause-their-pregnancies-here-s-why"
+                    ]
+                },
+                {
+                    "contentText": "Vücudumuzda başkalarına ait hücrelerle yıllarca yaşıyoruz.",
+                    "contentLink": [
+                        "https://getpocket.com/explore/item/we-are-multitudes"
+                    ]
+                },
+                {
+                    "contentText": "Akıl sağlığı ve deri hastalıkları arasında bir bağlantı olabilir mi?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/there-s-a-link-between-itchy-skin-and-mental-health-and-we-need-to-talk-about-it"
+                    ]
+                },
+                {
+                    "contentText": "İçinde bulunduğumuz sistem kalitesiz bilimi özendiriyor.",
+                    "contentLink": [
+                        "https://blogs.scientificamerican.com/observations/were-incentivizing-bad-science/"
+                    ]
+                }
+            ]
         }
     ]
 }
