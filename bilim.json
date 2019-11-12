@@ -10883,6 +10883,91 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 43,
+            "totalCount": 117,
+            "uploadDate": "12.11.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/11/bilim_2019_43.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2019-43",
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2019/43",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "NASA, 1970’lerden beri el değmemiş Ay toprağı örneklerini açtı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/nasa-just-opened-an-apollo-dirt-sample-untouched-since-the-70s"
+                    ]
+                },
+                {
+                    "contentText": "Mars ile Jüpiter arasında yeni cüce gezegen keşfedildi!",
+                    "contentLink": [
+                        "https://earthsky.org/space/asteroid-hygiea-smallest-known-dwarf-planet-very-large-telescope-eso"
+                    ]
+                },
+                {
+                    "contentText": "Boeing, CST-100 Starliner fırlatma iptal testini başarıyla gerçekleştirdi.",
+                    "contentLink": [
+                        "https://www.universetoday.com/143939/boeings-starliner-performed-its-abort-test-today-one-parachute-failed-to-deploy/"
+                    ]
+                },
+                {
+                    "contentText": "SpaceX, Starlink uydularının ikinci setini uzaya gönderdi.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2019/11/10/spacex-readies-upgraded-starlink-satellites-for-launch/"
+                    ]
+                },
+                {
+                    "contentText": "Sosyal ağlardaki sahte haberleri tahmin etmek sandığınızdan daha zor.",
+                    "contentLink": [
+                        "https://news.utexas.edu/2019/11/05/fake-news-isnt-easy-to-spot-on-facebook-according-to-new-study/"
+                    ]
+                },
+                {
+                    "contentText": "Politik görüşlerimizin değişmesi neden bu kadar zor?",
+                    "contentLink": [
+                        "https://www.vox.com/science-and-health/2016/12/28/14088992/brain-study-change-minds"
+                    ]
+                },
+                {
+                    "contentText": "Karmaşık toplumsal yapılar oluşturmak sadece memelilere özgü bir davranış olmayabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/complex-societies-are-not-just-a-mammalian-trait-these-birds-are-in-on-it-too"
+                    ]
+                },
+                {
+                    "contentText": "230.000 kişi üzerinde yapılan bir çalışma haftada 50 dk koşmanın ömrü uzattığını gösteriyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/it-really-doesn-t-take-much-running-at-all-to-improve-your-health"
+                    ]
+                },
+                {
+                    "contentText": "Boyun ağrısının nedeni kötü oturma pozisyonu olmayabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/bad-posture-probably-isn-t-the-reason-you-have-neck-pain"
+                    ]
+                },
+                {
+                    "contentText": "Sağlık haberlerine inanmadan önce sormanız gereken beş soru.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/here-s-how-to-tell-if-that-new-medical-research-story-is-legit"
+                    ]
+                },
+                {
+                    "contentText": "Ev bitkileri havayı ne kadar temizliyor?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/sorry-your-potted-plants-are-not-making-the-air-any-cleaner"
+                    ]
+                },
+                {
+                    "contentText": "Yeni nesil gerçekten bitmiş mi?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/major-study-reviews-why-kids-these-days-are-so-difficult-turns-out-they-aren-t-the-problem"
+                    ]
+                }
+            ]
         }
     ]
 }
