@@ -10968,6 +10968,85 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 44,
+            "totalCount": 118,
+            "uploadDate": "19.11.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/11/bilim_2019_44.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2019-44",
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2019/44",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Hayabusa 2, göktaşı örnekleriyle dünyaya doğru yola çıktı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/japan-s-space-probe-is-returning-to-earth-with-an-actual-piece-of-asteroid?perpetual=yes&limitstart=1"
+                    ]
+                },
+                {
+                    "contentText": "Mars atmosferindeki oksijen oranındaki değişim bilim insanlarının kafasını kurcalıyor.",
+                    "contentLink": [
+                        "https://www.universetoday.com/144001/now-curiosity-has-found-another-gas-that-shouldnt-exist-in-the-martian-atmosphere-molecular-oxygen-a-sign-of-life/"
+                    ]
+                },
+                {
+                    "contentText": "Vatozlardan esinlenen uzay araçları Venüs atmosferini keşfedecek.",
+                    "contentLink": [
+                        "https://www.universetoday.com/144045/stingray-glider-to-explore-the-cloudtops-of-venus/#more-144045"
+                    ]
+                },
+                {
+                    "contentText": "Hubble teleskobu neden bir galaksiyi 12 tane olarak görüyor?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/massive-amounts-of-gravity-made-one-galaxy-appear-in-the-sky-at-least-12-times?perpetual=yes&limitstart=1"
+                    ]
+                },
+                {
+                    "contentText": "Sulara karışan antidepresanlar balıkların garip davranmasına yol açıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/our-antidepressants-are-having-a-strange-effect-on-the-way-fish-hunt-for-food"
+                    ]
+                },
+                {
+                    "contentText": "Google’da hastalık aratmak ve kaygılanmak: Siberkondriya için tedavi bulundu!",
+                    "contentLink": [
+                        "https://www.sciencealert.com/if-googling-your-illness-is-making-you-super-anxious-there-s-a-solution"
+                    ]
+                },
+                {
+                    "contentText": "E-sigaraların yol açtığı akciğer hasarının sorumlusu Vitamin-E asetat olabilir.",
+                    "contentLink": [
+                        "https://www.cdc.gov/tobacco/basic_information/e-cigarettes/severe-lung-disease.html"
+                    ]
+                },
+                {
+                    "contentText": "Ücretsiz internet temel insan hakkı olmalı mı?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/here-s-why-one-scientist-believes-free-internet-should-be-a-basic-human-right"
+                    ]
+                },
+                {
+                    "contentText": "Fikr-i takip: Strese bakışımızı değiştirmemiz gerekiyor!",
+                    "contentLink": [
+                        "https://youtu.be/RcGyVTAoXEU"
+                    ]
+                },
+                {
+                    "contentText": "Yedisinde neyse yetmişinde de o mu?",
+                    "contentLink": [
+                        "https://getpocket.com/explore/item/you-re-a-completely-different-person-at-14-and-77-the-longest-running-personality-study-ever-has"
+                    ]
+                },
+                {
+                    "contentText": "Hedeflerinize ulaşmanız için basit ama etkili bir yöntem.",
+                    "contentLink": [
+                        "https://ideas.ted.com/how-a-simple-if-then-ritual-can-help-you-overcome-obstacles-and-achieve-your-goals/"
+                    ]
+                }
+            ]
         }
     ]
 }
