@@ -11047,6 +11047,82 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 45,
+            "totalCount": 119,
+            "uploadDate": "26.11.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/11/bilim_2019_45.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2019-45",
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2019/45",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "SpaceX’in ilk Starship prototipi test sırasında patladı.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2019/11/20/spacexs-first-starship-prototype-ruptures-during-cryogenic-test/"
+                    ]
+                },
+                {
+                    "contentText": "Satürn’ün uydusu Titan’ın detaylı haritası çıkarıldı, dünyaya çok benziyor.",
+                    "contentLink": [
+                        "https://www.nature.com/articles/d41586-019-03539-8"
+                    ]
+                },
+                {
+                    "contentText": "Fizikçiler, evrendeki 4 temel kuvvete ek bir yenisini keşfetmiş olabilir.",
+                    "contentLink": [
+                        "https://www.kozmikanafor.com/evrendeki-temel-kuvvetler/",
+                        "https://www.sciencealert.com/physicists-claim-a-they-ve-found-even-more-evidence-of-a-new-force-of-nature"
+                    ]
+                },
+                {
+                    "contentText": "Evrendeki ilk renk neydi?",
+                    "contentLink": [
+                        "https://www.universetoday.com/143769/what-was-the-first-color-in-the-universe"
+                    ]
+                },
+                {
+                    "contentText": "Bill Gates’in desteklediği firma sadece güneş ışığıyla 1000 derece sıcaklık elde etmeyi başardı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/ai-plus-sunlight-equals-hotter-solar-ovens-and-no-need-for-fossil-fuels"
+                    ]
+                },
+                {
+                    "contentText": "Doktorlar ilk kez bir insanı “bekleme moduna” almayı başardı.",
+                    "contentLink": [
+                        "https://www.newscientist.com/article/2224004-exclusive-humans-placed-in-suspended-animation-for-the-first-time/"
+                    ]
+                },
+                {
+                    "contentText": "Bilimsel çalışmalar gösteriyor ki, müzik gerçekten de evrensel bir dil olabilir. Kendiniz deneyin.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/music-could-be-a-universal-language-we-all-understand",
+                        "https://www.themusiclab.org/quizzes/fc"
+                    ]
+                },
+                {
+                    "contentText": "Fikr-i Takip: Bilinçdışı ırkçılık eğilimlerimiz. Örtük Çağrışım Testi",
+                    "contentLink": [
+                        "https://implicit.harvard.edu/implicit/turkey/background/understanding.html",
+                        "https://implicit.harvard.edu/implicit/turkey/"
+                    ]
+                },
+                {
+                    "contentText": "Tükenmenin sınırına gelen kambur balinalardan iyi haber.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/humpback-whales-are-doing-surprisingly-well-after-a-close-brush-with-extinction"
+                    ]
+                },
+                {
+                    "contentText": "Dizi önerisi Inside Bill’s Brain.",
+                    "contentLink": [
+                        "https://www.imdb.com/title/tt10837476/?ref_=nv_sr_srsg_0"
+                    ]
+                }
+            ]
         }
     ]
 }
