@@ -11123,6 +11123,75 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 46,
+            "totalCount": 120,
+            "uploadDate": "03.12.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/12/bilim_2019_46.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2019-46",
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2019/46",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Samanyolu galaksisinde var olması imkansız bir kara delik bulundu.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/an-impossible-black-hole-has-been-found-in-the-milky-way-galaxy"
+                    ]
+                },
+                {
+                    "contentText": "Chang’e-4 göreviyle Ay’ın uzak tarafına yerleştirilen radyo teleskobu çalışmaya başladı.",
+                    "contentLink": [
+                        "https://www.universetoday.com/144206/theres-now-an-operational-radio-telescope-on-the-far-side-of-the-moon/"
+                    ]
+                },
+                {
+                    "contentText": "Organik besinler yerine CO2 ile yaşayabilen yapay bakteriler üretildi.",
+                    "contentLink": [
+                        "https://www.sciencedaily.com/releases/2019/11/191127161450.htm"
+                    ]
+                },
+                {
+                    "contentText": "Kara cuma alışveriş çılgınlığının psikolojik nedenleri. Kara cuma nereden geliyor?",
+                    "contentLink": [
+                        "https://www.cnbc.com/2019/11/29/psychology-of-black-friday-shopping-phenomenon-and-crowds-explained.html",
+                        "https://www.wikizeroo.org/index.php?q=aHR0cHM6Ly9lbi5tLndpa2lwZWRpYS5vcmcvd2lraS9CbGFja19GcmlkYXlfKHNob3BwaW5nKQ"
+                    ]
+                },
+                {
+                    "contentText": "Silikon Vadisi’nin yeni modası dopamin orucu işe yarıyor mu?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/dopamine-fasting-is-silicon-valley-s-latest-trend-here-s-what-an-expert-has-to-say"
+                    ]
+                },
+                {
+                    "contentText": "Dünya üzerinde 9 farklı insan türü varken neden şimdi sadece biz varız?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/did-homo-sapiens-kill-off-all-the-other-humans"
+                    ]
+                },
+                {
+                    "contentText": "Fikr-i Takip: Hayvanlar müzikten nasıl etkileniyorlar? Zoomüzikoloji",
+                    "contentLink": [
+                        "https://www.mentalfloss.com/article/70539/7-scientific-studies-about-how-animals-react-music",
+                        "https://www.wikizeroo.org/index.php?q=aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvWm9vbXVzaWNvbG9neQ"
+                    ]
+                },
+                {
+                    "contentText": "Einstein fiziği nasıl öğrendi? Genius dizi önerisi",
+                    "contentLink": [
+                        "https://getpocket.com/explore/item/how-einstein-learned-physics"
+                    ]
+                },
+                {
+                    "contentText": "Gollum karakteri hangi psikolojik bozukluğa sahip?",
+                    "contentLink": [
+                        "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC535969/"
+                    ]
+                }
+            ]
         }
     ]
 }
