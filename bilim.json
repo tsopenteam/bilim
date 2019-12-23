@@ -11192,6 +11192,82 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 47,
+            "totalCount": 121,
+            "uploadDate": "10.12.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/12/bilim_2019_47.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2019-47",
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2019/47",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Titan’da koloni kurmak Mars’ta kurmaktan daha kolay olabilir.",
+                    "contentLink": [
+                        "https://getpocket.com/explore/item/let-s-colonize-titan"
+                    ]
+                },
+                {
+                    "contentText": "Parker Solar Probe’un topladığı veriler Güneş hakkında yeni bilgiler içeriyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-sun-s-magnetic-field-appears-to-unexpectedly-flip-and-scientists-don-t-know-what-s-going-on"
+                    ]
+                },
+                {
+                    "contentText": "Yerçekimsiz ortam kanser hücrelerini büyük oranda yok ediyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/scientists-to-test-microgravity-s-potential-cancer-fighting-properties-on-the-iss"
+                    ]
+                },
+                {
+                    "contentText": "İlk canlılar buzul çağından nasıl sağ kurtuldu?",
+                    "contentLink": [
+                        "https://www.sciencedaily.com/releases/2019/12/191202190423.htm"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları yapay zekayı daha adil ve önyargısız yapmanın yollarını arıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/how-can-we-trust-intelligent-machines-to-be-fair-scientists-just-invented-a-way"
+                    ]
+                },
+                {
+                    "contentText": "Aşıların içindeki maddeler zararlı mı? Samoa’da kızamık salgınından 50’den fazla kişi hayatını kaybetti.",
+                    "contentLink": [
+                        "https://teknoseyir.com/durum/1181525",
+                        "https://www.sciencealert.com/a-measles-outbreak-has-killed-dozens-of-children-in-samoa",
+                        "https://yalansavar.org/2019/02/04/sik-rastlanan-asi-karsiti-iddialar-1-asilarin-luzum-ve-etkinligi/",
+                        "https://yalansavar.org/2019/02/28/sik-rastlanan-asi-karsiti-iddialar-2-asilarin-icerigi-ve-hazirlanma-surecleri/"
+                    ]
+                },
+                {
+                    "contentText": "Düşüncelere dalıp gitmek beynin varsayılan hali olabilir.",
+                    "contentLink": [
+                        "https://www.huffpost.com/entry/mind-wandering-creativity-mental-illness_n_5818acc4e4b0990edc33827a"
+                    ]
+                },
+                {
+                    "contentText": "Fakir insanlar neden daha fazla kalp krizi geçiriyor?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/here-s-one-key-reason-why-poorer-people-might-have-a-higher-risk-of-heart-disease-a-lack-of-sleep"
+                    ]
+                },
+                {
+                    "contentText": "Vücudumuz üç büyük aşamada yaşlanıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/our-bodies-age-in-three-separate-shifts-according-new-blood-tests"
+                    ]
+                },
+                {
+                    "contentText": "Kargalar, şekerleme testinde insan çocukları kadar başarılı olabiliyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/once-again-crows-have-passed-the-marshmallow-test-and-demonstrated-self-control"
+                    ]
+                }
+            ]
         }
     ]
 }
