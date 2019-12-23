@@ -11268,6 +11268,91 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 48,
+            "totalCount": 122,
+            "uploadDate": "17.12.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/12/bilim_2019_48.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2019-48",
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2019/48",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "SpaceX bir sonraki Starlink serisini az yansıtan bir kaplamayla kaplayacak.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2019/12/09/spacex-to-experiment-with-less-reflective-satellite-coatings-on-next-starlink-launch/"
+                    ]
+                },
+                {
+                    "contentText": "Boeing’in insansız Starliner test uçuşunu onaylandı.",
+                    "contentLink": [
+                        "https://spacenews.com/nasa-approves-dec-20-starliner-test-flight/"
+                    ]
+                },
+                {
+                    "contentText": "NASA, ilk SLS ana iticisinin montajının tamamlandığını duyurdu.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2019/12/15/nasa-declares-first-sls-core-stage-complete/"
+                    ]
+                },
+                {
+                    "contentText": "NASA, OSIRIS-REx örnek toplama alanını seçti.",
+                    "contentLink": [
+                        "https://www.universetoday.com/144380/the-site-has-been-chosen-heres-where-osiris-rex-is-going-to-take-a-sample-from-bennu/"
+                    ]
+                },
+                {
+                    "contentText": "NASA, Mars’ın toprak altındaki buzlarının haritasını çıkardı.",
+                    "contentLink": [
+                        "https://www.universetoday.com/144363/nasa-maps-out-the-water-on-mars-some-will-be-so-easy-to-get-you-could-dig-it-out-with-a-shovel/"
+                    ]
+                },
+                {
+                    "contentText": "Samanyolu Galaksisi’ndeki imkansız kara delik araştırması yanlışlandı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/whoops-looks-like-that-impossible-black-hole-was-an-interpretation-error"
+                    ]
+                },
+                {
+                    "contentText": "ESA ilk uzay çöpü toplama görevini ClearSpace firmasına verdi.",
+                    "contentLink": [
+                        "https://www.universetoday.com/144353/an-upcoming-esa-mission-is-going-to-remove-one-piece-of-space-junk-from-orbit/"
+                    ]
+                },
+                {
+                    "contentText": "The Ocean Cleanup, ilk plastik atıkları karaya taşımayı başardı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/that-ocean-garbage-collector-is-finally-hauling-in-bags-of-rubbish"
+                    ]
+                },
+                {
+                    "contentText": "İnsan ırkı olarak kendi kendimizi nasıl evcilleştirdik?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/experimental-evidence-shows-how-humans-could-have-domesticated-ourselves"
+                    ]
+                },
+                {
+                    "contentText": "Domuz maymun karışımı canlılar ilk kez başarılı bir doğumla dünyaya geldi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/pig-monkey-chimeras-have-been-brought-to-full-term-for-the-first-time"
+                    ]
+                },
+                {
+                    "contentText": "Hangi dili konuştuğumuz dikkatimizi şekillendiriyor.",
+                    "contentLink": [
+                        "https://blogs.scientificamerican.com/observations/the-language-you-speak-influences-where-your-attention-goes/"
+                    ]
+                },
+                {
+                    "contentText": "Kötü rüyalar, gerçek hayatta korkularla yüzleşmemize yardım ediyor olabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/your-bad-dreams-might-actually-help-you-face-your-fears-in-real-life"
+                    ]
+                }
+            ]
         }
     ]
 }
