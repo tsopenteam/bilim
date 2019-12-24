@@ -11353,6 +11353,82 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 49,
+            "totalCount": 123,
+            "uploadDate": "24.12.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/12/bilim_2019_49.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2019-49",
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2019/49",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Boeing Starliner, başarıyla fırlatıldı ancak ISS’e ulaşamadı.",
+                    "contentLink": [
+                        "https://www.universetoday.com/144454/starliner-launches-but-it-cant-reach-the-station/"
+                    ]
+                },
+                {
+                    "contentText": "Astronomlar pamuk şekeri kıvamında ötegezegenler olduğunu doğruladı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/adorably-named-super-puff-planets-are-like-nothing-in-the-solar-system"
+                    ]
+                },
+                {
+                    "contentText": "Antik sakız eski insanların yaşamları hakkında ilginç bilgiler veriyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/entire-genome-of-woman-who-lived-5-700-years-ago-reconstructed-from-chewing-gum"
+                    ]
+                },
+                {
+                    "contentText": "İnsanlar 3,500 yıl önce de kullan at bardaklar kullanıyor olabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/this-3-500-year-old-disposable-cup-shows-that-in-some-ways-humans-change-very-little"
+                    ]
+                },
+                {
+                    "contentText": "Dinazorların başı, meteor çarpmasından önce de cıva ile dertteydi. Civa zehirlenmesi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/earth-s-atmosphere-was-polluted-with-mercury-even-before-the-asteroid-that-killed-the-dinosaurs",
+                        "https://sagligim.gov.tr/merak-edilenler/civa-zehirlenmesi-ve-alinmasi-gereken-onlemler.html"
+                    ]
+                },
+                {
+                    "contentText": "Yeni Zelanda’daki volkan patlaması neden daha önceden farkedilmedi?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/why-there-was-no-warning-before-new-zealand-s-white-island-s-fatal-eruption"
+                    ]
+                },
+                {
+                    "contentText": "Maymun beyinleri, bilgisayara bağlanarak duydukları sesleri yeniden üretildi.",
+                    "contentLink": [
+                        "https://www.sciencedaily.com/releases/2019/12/191213115412.htm"
+                    ]
+                },
+                {
+                    "contentText": "Japonya, dünyanın en büyük nötrino dedektörünü inşa etmeye hazırlanıyor.",
+                    "contentLink": [
+                        "https://www.kozmikanafor.com/hayalet-parcacigimiz-notrino/",
+                        "https://www.scientificamerican.com/article/japan-will-build-the-worlds-largest-neutrino-detector2/"
+                    ]
+                },
+                {
+                    "contentText": "Düğün seçimlerimiz evlilik mutluluğunu etkiliyor mu?",
+                    "contentLink": [
+                        "https://www.leidenpsychologyblog.nl/articles/do-wedding-choices-influence-marriage-quality"
+                    ]
+                },
+                {
+                    "contentText": "Fikr-i Takip: Hayvanlarla yapılan bilimsel araştırmalarda etik kurallar",
+                    "contentLink": [
+                        "https://neu.edu.tr/wp-content/uploads/2018/01/03/Hayvan-Deneyleri-Eti%C4%9Fi-Yrd.Do%C3%A7.Dr_.-Sava%C5%9F-Volkan-Gen%C3%A7-1.pdf",
+                        "https://www.apa.org/science/leadership/care/guidelines"
+                    ]
+                }
+            ]
         }
     ]
 }
