@@ -11429,6 +11429,68 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 50,
+            "totalCount": 124,
+            "uploadDate": "31.12.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/12/bilim_2019_50.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2019-50",
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2019/50",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Dev yıldız Betelgeuse patlamak üzere mi?",
+                    "contentLink": [
+                        "https://www.nationalgeographic.com/science/2019/12/betelgeuse-is-acting-strange-astronomers-are-buzzing-about-supernova/"
+                    ]
+                },
+                {
+                    "contentText": "Güneş sistemini topluca hareket ettirmek mümkün mü?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/what-is-a-stellar-engine-and-could-it-help-us-escape-a-supernova"
+                    ]
+                },
+                {
+                    "contentText": "Nobel ödüllerinin yapısı değişmeli mi?",
+                    "contentLink": [
+                        "https://getpocket.com/explore/item/the-absurdity-of-the-nobel-prizes-in-science"
+                    ]
+                },
+                {
+                    "contentText": "Avrupa Birliği iklim değişikliği ile ticari olarak mücadele edebilir.",
+                    "contentLink": [
+                        "https://www.euronews.com/2019/12/19/the-eu-s-green-deal-is-ambitious-but-its-success-rides-on-its-most-controversial-part-view"
+                    ]
+                },
+                {
+                    "contentText": "Kendi vücudumuz beynimize saldırırsa ne olur?",
+                    "contentLink": [
+                        "https://getpocket.com/explore/item/when-the-body-attacks-the-mind"
+                    ]
+                },
+                {
+                    "contentText": "Sokak hayvanları şehir hayatına nasıl uyum sağlıyor? Kadıköy vapuruna binen köpek",
+                    "contentLink": [
+                        "https://abcnews.go.com/International/Technology/stray-dogs-master-complex-moscow-subway-system/story?id=10145833",
+                        "https://twitter.com/combocan/status/1209144163079479296"
+                    ]
+                },
+                {
+                    "contentText": "Fikr-i Takip: Eski çağlarda insan ömrü ne kadardı?",
+                    "contentLink": [
+                        "https://getpocket.com/explore/item/think-everyone-died-young-in-ancient-societies-think-again"
+                    ]
+                },
+                {
+                    "contentText": "Twitch’de bilim iletişimi olur mu?",
+                    "contentLink": [
+                        "https://www.leidenpsychologyblog.nl/articles/live-streaming-science-1"
+                    ]
+                }
+            ]
         }
     ]
 }
