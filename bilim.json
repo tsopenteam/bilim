@@ -11491,6 +11491,196 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2020",
+            "count": 1,
+            "totalCount": 125,
+            "uploadDate": "07.01.2020",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2020/01/bilim_2020_01.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2020-01",
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2020/1",
+            "explanationPodcast": "",
+            "content": [
+                {
+                    "contentText": "2019/1 - OSIRIS-REx uzay aracı Bennu göktaşının yörüngesine başarıyla girdi.",
+                    "contentLink": [
+                        "https://www.popsci.com/OSIRIS-REx-bennu-asteroid-orbit"
+                    ]
+                },
+                {
+                    "contentText": "2019/1 - Çin’in Cheng’e-4 uzay aracı Ay’ın uzak tarafına başarıyla indi.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2019/01/05/chinese-rover-begins-exploring-far-side-of-the-moon/"
+                    ]
+                },
+                {
+                    "contentText": "2019/3 - Gönderdiği tohumlar filizlendi.",
+                    "contentLink": [
+                        "http://www.xinhuanet.com/english/2019-01/15/c_137745505.htm"
+                    ]
+                },
+                {
+                    "contentText": "2019/46 - Ay’ın uzak tarafına yerleştirilen radyo teleskobu çalışmaya başladı.",
+                    "contentLink": [
+                        "https://www.universetoday.com/144206/theres-now-an-operational-radio-telescope-on-the-far-side-of-the-moon/"
+                    ]
+                },
+                {
+                    "contentText": "2019/3 - DSÖ, aşı karşıtlığını 2019 yılı için en büyük tehditler listesine ekledi. Yalansavar yazı dizisi: Sık Rastlanan Aşı Karşıtı İddialar",
+                    "contentLink": [
+                        "https://www.sciencealert.com/anti-vaxxers-are-officially-contributing-to-one-of-the-most-dire-global-health-threats-in-2019",
+                        "https://yalansavar.org/2019/02/04/sik-rastlanan-asi-karsiti-iddialar-1-asilarin-luzum-ve-etkinligi/"
+                    ]
+                },
+                {
+                    "contentText": "2019/8 - Hayabusa 2, Ryugu yüzeyinden ilk taş örneklerini topladı. 2019/44 - Dünyaya doğru yola çıktı.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2019/02/22/japanese-probe-lands-on-asteroid-to-capture-sample/",
+                        "https://www.sciencealert.com/japan-s-space-probe-is-returning-to-earth-with-an-actual-piece-of-asteroid?perpetual=yes&limitstart=1"
+                    ]
+                },
+                {
+                    "contentText": "2019/9 - Crew Dragon, Demo 1 görevinde ISS’ye başarıyla kenetlendi. 2019/10 - Başarıyla Dünya’ya geri döndü.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/space-x-s-crew-dragon-made-it-to-the-iss-in-what-nasa-calls-a-historic-achievement",
+                        "https://www.nasa.gov/press-release/spacex-crew-dragon-splashdown-marks-success-of-first-nasa-commercial-crew-flight-test"
+                    ]
+                },
+                {
+                    "contentText": "2019/12 - Yapılan bir araştırma insan beyninin manyetik alandaki değişimleri hissedebildiğini ortaya koydu.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/your-brain-can-detect-earth-s-magnetic-field-even-though-you-can-t-tell"
+                    ]
+                },
+                {
+                    "contentText": "2019/14 - SpaceIL’in uzay aracı Ay yörüngesine girdi. 2019/15 - İniş denemesi başarısız oldu.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2019/04/04/israels-beresheet-lander-brakes-into-lunar-orbit/",
+                        "https://www.sciencealert.com/the-first-private-moon-landing-mission-just-failed-spectacularly-at-the-last-minute"
+                    ]
+                },
+                {
+                    "contentText": "2019/15 - Filipinlerde yeni bir insan türüne ait fosiller bulundu. Alternatif Türkçe",
+                    "contentLink": [
+                        "https://www.nature.com/articles/d41586-019-01152-3",
+                        "https://www.sciencealert.com/new-hominin-species-suggests-we-once-lived-alongside-several-types-of-humans",
+                        "https://seyler.eksisozluk.com/yeni-kesfedilen-ve-cagdaslarindan-farkli-ozellikler-gosteren-insan-turu-homo-luzonensis"
+                    ]
+                },
+                {
+                    "contentText": "2019/15 - Olay Ufku Teleskobu (EHT) ilk kez bir kara deliğin fotoğrafını çekti.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/it-s-official-global-collaboration-of-astronomers-have-taken-the-first-ever-black-hole-photo"
+                    ]
+                },
+                {
+                    "contentText": "2019/16 - Kongo’daki ebola salgını nedeniyle DSÖ küresel acil durum ilan etti. Ebola aşısı pek çok hayat kurtardı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/who-declares-ebola-in-congo-to-be-emergency-of-international-concern",
+                        "https://www.sciencealert.com/an-experimental-ebola-vaccine-has-been-shown-to-be-97-effective-in-the-current-outbreak"
+                    ]
+                },
+                {
+                    "contentText": "2019/21 - Starlink’in 60 iletişim uydusu başarıyla fırlatıldı.",
+                    "contentLink": [
+                        "https://www.space.com/spacex-starlink-satellites-spotted-night-sky-video.html"
+                    ]
+                },
+                {
+                    "contentText": "2019/34 - ESA uydusu kaçınmak için manevra yapmak zorunda kaldı.  2019/43 - İkinci setini uzaya gönderdi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/esa-satellite-forced-to-move-aside-for-spacex-s-starlink-for-fear-of-collision",
+                        "https://spaceflightnow.com/2019/11/10/spacex-readies-upgraded-starlink-satellites-for-launch/"
+                    ]
+                },
+                {
+                    "contentText": "2019/22 - Mars’ın kuzey kutbunda yeraltı buz katmanları bulundu.",
+                    "contentLink": [
+                        "https://www.universetoday.com/142308/new-layers-of-water-ice-have-been-found-beneath-mars-north-pole/"
+                    ]
+                },
+                {
+                    "contentText": "2019/25 - Curiosity, Mars’ta büyük bir metan gazı artışı tespit etti.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/curiosity-has-detected-the-largest-amount-of-methane-on-mars-yet"
+                    ]
+                },
+                {
+                    "contentText": "2019/28 - Çin’in uzay üssü Tiangong-2 kontrollü bir şekilde Dünya’ya düşürüldü.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2019/07/19/chinese-space-station-testbed-ends-mission-with-controlled-re-entry/"
+                    ]
+                },
+                {
+                    "contentText": "2019/32 - Hindistan’ın Ay yolcusu Chandrayaan 2, Ay’ın yörüngesine girdi. 2019/34 - İniş denemesi başarısızlıkla sonuçlandı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/india-s-chandrayaan-2-is-now-in-orbit-around-the-moon",
+                        "https://spacenews.com/indias-moon-landing-attempt-ends-in-communication-loss/"
+                    ]
+                },
+                {
+                    "contentText": "2019/35 - Ötegezegen atmosferinde su keşfedildi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/water-has-been-detected-in-the-atmosphere-of-a-rocky-habitable-zone-exoplanet"
+                    ]
+                },
+                {
+                    "contentText": "2019/36 Canlı yayın sistemine geçtik.",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "2019/37 - Güneş sisteminde gözlemleyebildiğimiz ikinci yıldızlar arası nesne (2I/Borisov) resmen onaylandı.2019/42- İçinde güneş sistemi dışından gelen su olduğu tespit edildi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/our-new-interstellar-visitor-is-now-official-and-it-has-a-name",
+                        "https://www.sciencealert.com/interstellar-comet-2i-borisov-is-carrying-a-heap-of-water"
+                    ]
+                },
+                {
+                    "contentText": "2019/39 - Uzayda ilk kez et üretildi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/astronauts-just-printed-meat-in-space-for-the-first-time"
+                    ]
+                },
+                {
+                    "contentText": "2019/41 - Google, kuantum hesaplama üstünlüğü eşiğini geçtiğini açıkladı. IBM’in cevabı",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/10/23/20928294/google-quantum-supremacy-sycamore-computer-qubit-milestone",
+                        "https://www.ibm.com/blogs/research/2019/10/on-quantum-supremacy/"
+                    ]
+                },
+                {
+                    "contentText": "2019/42 - Yılan hikayesine dönen InSight’ın delici ucundan kötü haber geldi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/mars-just-kicked-out-insight-s-heat-probe-again"
+                    ]
+                },
+                {
+                    "contentText": "2019/47 - Parker Solar Probe’un topladığı veriler Güneş hakkında yeni bilgiler içeriyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-sun-s-magnetic-field-appears-to-unexpectedly-flip-and-scientists-don-t-know-what-s-going-on"
+                    ]
+                },
+                {
+                    "contentText": "2019/48 - Domuz maymun karışımı canlılar ilk kez başarılı bir doğumla dünyaya geldi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/pig-monkey-chimeras-have-been-brought-to-full-term-for-the-first-time"
+                    ]
+                },
+                {
+                    "contentText": "2019/49 - Boeing Starliner, başarıyla fırlatıldı ancak ISS’e ulaşamadı.",
+                    "contentLink": [
+                        "https://www.universetoday.com/144454/starliner-launches-but-it-cant-reach-the-station/"
+                    ]
+                },
+                {
+                    "contentText": "2019 insanlık tarihinin en iyi yılıydı.",
+                    "contentLink": [
+                        "https://www.nytimes.com/2019/12/28/opinion/sunday/2019-best-year-poverty.html"
+                    ]
+                }
+            ]
         }
     ]
 }
