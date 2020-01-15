@@ -11681,6 +11681,80 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2020",
+            "count": 2,
+            "totalCount": 126,
+            "uploadDate": "14.01.2020",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2020/01/bilim_2020_02.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2020-02",
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2020/2",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "14. Aykut Kence Evrim Konferansı 24-25 Ocak 2020 tarihinde gerçekleşecek.",
+                    "contentLink": [
+                        "https://www.biyogen.org/14-aykut-kence-evrim-konferansi"
+                    ]
+                },
+                {
+                    "contentText": "SpaceX, Crew Dragon kaçış testini önümüzdeki hafta gerçekleştirecek.",
+                    "contentLink": [
+                        "https://spacenews.com/spacex-ready-for-crew-dragon-in-flight-abort-test/"
+                    ]
+                },
+                {
+                    "contentText": "Hindistan, Ay’a gidecek olan Chandrayaan-3 görevini duyurdu.",
+                    "contentLink": [
+                        "https://spacenews.com/india-confirms-plans-for-second-lunar-lander-mission/"
+                    ]
+                },
+                {
+                    "contentText": "İnsan vücudunun ortalama sıcaklığı yüzyıllar içerisinde düşüyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/human-bodies-have-steadily-grown-colder-over-the-past-century"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları radyasyon dozunu bir saniyede kanserli hücreye veren bir yöntem geliştirdi.",
+                    "contentLink": [
+                        "https://www.pennmedicine.org/news/news-releases/2020/january/penn-medicine-shows-giving-entire-course-of-radiation-treatment-in-less-than-a-second-is-feasible"
+                    ]
+                },
+                {
+                    "contentText": "Rusya Bilimler Akademisi’nin araştırması sonrasında 800’den fazla makale dergilerden kaldırıldı. Yayın etiği.",
+                    "contentLink": [
+                        "https://www.sciencemag.org/news/2020/01/russian-journals-retract-more-800-papers-after-bombshell-investigation",
+                        "http://www.journalagent.com/cocukcerrahisi/pdfs/ccd_26_2_1_3.pdf"
+                    ]
+                },
+                {
+                    "contentText": "CRISPR tekniğini insanlar üzerinde kullanan Çinli bilim adamı hapis cezası aldı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/chinese-scientist-has-been-sentenced-to-three-years-jail-for-gene-editing-babies"
+                    ]
+                },
+                {
+                    "contentText": "Spor yapmak stresi nasıl azaltıyor?",
+                    "contentLink": [
+                        "https://getpocket.com/explore/item/why-one-neuroscientist-started-blasting-his-core"
+                    ]
+                },
+                {
+                    "contentText": "Hava kirliliği ile öğrenme arasında nasıl bir ilişki var?",
+                    "contentLink": [
+                        "https://www.vox.com/2020/1/8/21051869/indoor-air-pollution-student-achievement"
+                    ]
+                },
+                {
+                    "contentText": "Rick&Morty Dizisinden, Rick Sanchez hangi psikolojik bozukluğa sahip?",
+                    "contentLink": [
+                        "https://jedi-counsel.com/2017/09/04/the-psychology-of-rick-sanchez/"
+                    ]
+                }
+            ]
         }
     ]
 }
