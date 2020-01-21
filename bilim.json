@@ -11755,6 +11755,78 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2020",
+            "count": 3,
+            "totalCount": 127,
+            "uploadDate": "21.01.2020",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2020/01/bilim_2020_03.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2020-03",
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2020/3",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Wikipedia yasağı kaldırıldı.",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "SpaceX’in Crew Dragon kapsülü acil durum kaçış testini gerçekleştirdi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/spacex-s-crew-dragon-just-passed-a-crucial-safety-test-with-a-spectacular-launch"
+                    ]
+                },
+                {
+                    "contentText": "Galaksimizin merkezindeki kara deliğin etrafında gizemli toz cisimleri görüldü.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/strange-objects-have-been-found-orbiting-our-galaxy-s-supermassive-black-hole"
+                    ]
+                },
+                {
+                    "contentText": "Dünyadaki en yaşlı materyal güneş sisteminden de yaşlı çıktı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/a-meteorite-discovered-in-australia-contains-oldest-known-material-on-earth"
+                    ]
+                },
+                {
+                    "contentText": "Neandertaller düşündüğümüz kadar yeteneksiz olmayabilir. Türkçe çevirisi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/some-neanderthals-swam-and-dove-for-shells-to-use-as-tools-research-suggests",
+                        "https://evrimagaci.org/neandertaller-kabuk-toplamak-icin-denize-daldilar-8204"
+                    ]
+                },
+                {
+                    "contentText": "“Kuş beyinli” tabirini hakaret yerine iltifat olarak kullanabiliriz.",
+                    "contentLink": [
+                        "https://www.scientificamerican.com/article/birdbrain-turns-from-insult-to-praise/"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları canlı hücrelerden oluşan robotlar yapmayı başardı mı?",
+                    "contentLink": [
+                        "https://www.scientificamerican.com/article/worlds-first-living-machine-created-using-frog-cells-and-artificial-intelligence/"
+                    ]
+                },
+                {
+                    "contentText": "Kendini inşa eden bakteri tuğlaları geliştirildi.",
+                    "contentLink": [
+                        "https://www.scientificamerican.com/article/bacteria-filled-bricks-build-themselves/"
+                    ]
+                },
+                {
+                    "contentText": "Uykuda yeni şeyler öğrenmek mümkün mü?",
+                    "contentLink": [
+                        "https://youtu.be/vxCURpqLCLo"
+                    ]
+                },
+                {
+                    "contentText": "HAARP ile depremleri tetiklemek mümkün mü?",
+                    "contentLink": [
+                        "https://yalansavar.org/2020/01/18/haarp/"
+                    ]
+                }
+            ]
         }
     ]
 }
