@@ -11827,6 +11827,88 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2020",
+            "count": 4,
+            "totalCount": 128,
+            "uploadDate": "28.01.2020",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2020/01/bilim_2020_04.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2020-04",
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2020/4",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Manisa ve Elazığ çevresinde iki ayrı deprem meydana geldi. Büyüklük ve şiddet arasındaki fark nedir? Öncesi, sırası ve sonrasında yapılması gerekenler.",
+                    "contentLink": [
+                        "http://www.koeri.boun.edu.tr/sismo/2/22-ocak-2020-musalar-akhisar-manisa-depremi-3/",
+                        "http://www.koeri.boun.edu.tr/sismo/2/24-ocak-sivrice-elazig-depremi-2/",
+                        "https://evrimagaci.org/richter-olcegi-nedir-depremin-buyuklugu-siddeti-ve-gucu-arasindaki-fark-nedir-2128",
+                        "https://www.afad.gov.tr/deprem-oncesi-ani-ve-sonrasi-onlemini-al-guvende-kal"
+                    ]
+                },
+                {
+                    "contentText": "Çin’de başlayan Koronavirüs salgını hakkında endişelenmeli miyiz? Gerçek zamanlı harita. Sıradan grip aslında çok daha fazla can alıyor.",
+                    "contentLink": [
+                        "https://www.bbc.com/news/health-51048366",
+                        "https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6",
+                        "https://www.sciencealert.com/the-coronavirus-might-be-in-the-us-but-the-flu-is-a-way-bigger-threat-for-people"
+                    ]
+                },
+                {
+                    "contentText": "Dünya’nın en büyük radyo teleskopu Çin’de tam kapasite çalışmaya başladı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/china-s-huge-500-meter-fast-radio-telescope-is-finally-up-and-running"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları Ay toprağından oksijen elde etmenin yollarını arıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/a-new-facility-has-opened-to-make-breathable-air-out-of-moon-dust"
+                    ]
+                },
+                {
+                    "contentText": "Amerikan Uzay Kuvvetleri’nin üniformaları ve logosu tartışma konusu oldu.",
+                    "contentLink": [
+                        "https://www.universetoday.com/144680/space-force-uniforms-are-perfectly-camouflaged-for-a-forest-moon/",
+                        "https://spacenews.com/u-s-space-force-says-its-new-seal-is-not-a-starfleet-knockoff/",
+                        "https://spacenews.com/op-ed-what-should-we-call-the-men-and-women-of-space-force/"
+                    ]
+                },
+                {
+                    "contentText": "Bütün kanserlere karşı etkili olabilecek bir yöntem ilk denemelere göre gelecek vadediyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/new-t-cell-therapy-kills-most-human-cancer-types-and-might-work-across-individuals"
+                    ]
+                },
+                {
+                    "contentText": "Ölülerin nasıl bir sesi olduğunu merak ettiniz mi? Türkçe alternatif.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/egyptian-mummy-from-3-000-years-ago-finally-makes-its-voice-heard",
+                        "https://arkeofili.com/3-000-yillik-misir-mumyasinin-sesini-dinleyin/"
+                    ]
+                },
+                {
+                    "contentText": "Komadan sonra bilmediği dili konuşmak gerçek mi? Benzer bir durum ani savant sendromu",
+                    "contentLink": [
+                        "https://www.sciencealert.com/people-keep-waking-up-from-head-injuries-speaking-a-different-language",
+                        "https://getpocket.com/explore/item/brain-gain-a-person-can-instantly-blossom-into-a-savant-and-no-one-knows-why"
+                    ]
+                },
+                {
+                    "contentText": "Kıyamet saati, gece yarısına 20 saniye kaldığını gösteriyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-doomsday-clock-just-jumped-closer-to-midnight-than-ever-guess-why"
+                    ]
+                },
+                {
+                    "contentText": "Dünyayı etkileyen bir nükleer felaket sonrası insanlığı nasıl besleyebiliriz?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/a-nuclear-winter-would-trigger-a-global-famine-here-s-what-a-doomsday-diet-would-look-like"
+                    ]
+                }
+            ]
         }
     ]
 }
