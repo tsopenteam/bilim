@@ -11909,6 +11909,82 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2020",
+            "count": 5,
+            "totalCount": 129,
+            "uploadDate": "04.02.2020",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2020/02/bilim_2020_05.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2020-05",
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2020/5",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "DSÖ, Wuhan koronavirüsü için uluslarası acil durum ilan etti. Komplo teorisyenleri çamaşır sulu tedavi bulmuş. Virüsle ilgili komplo teorileri. Önceki salgınlara göre karşılaştırma",
+                    "contentLink": [
+                        "https://www.euronews.com/2020/01/31/coronavirus-what-changes-now-the-outbreak-has-been-declared-a-global-health-emergency",
+                        "https://www.sciencealert.com/a-dangerous-bleach-solution-is-being-touted-as-a-coronavirus-cure-by-conspiracy-theorists",
+                        "https://www.sciencealert.com/here-s-all-the-nonsense-people-are-spreading-about-the-wuhan-coronavirus",
+                        "https://www.sciencealert.com/this-chart-shows-how-the-wuhan-virus-compares-to-other-recent-outbreaks"
+                    ]
+                },
+                {
+                    "contentText": "Kenya, şimdiye kadar görülen en büyük çekirge istilasıyla boğuşuyor.",
+                    "contentLink": [
+                        "https://www.scientificamerican.com/article/unprecedented-locust-invasion-approaches-full-blown-crisis/"
+                    ]
+                },
+                {
+                    "contentText": "Spitzer Uzay Teleskopu’nun görevi sona erdi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/nasa-just-turned-out-the-lights-for-the-last-time-on-the-spitzer-space-telescope"
+                    ]
+                },
+                {
+                    "contentText": "Dünyanın en güçlü güneş teleskopu Hawaii’de çalışmaya başladı.",
+                    "contentLink": [
+                        "https://www.nature.com/articles/d41586-020-00224-z"
+                    ]
+                },
+                {
+                    "contentText": "Karbon temelli her türlü çöpten grafen üreten bir yöntem geliştirildi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/new-method-turns-virtually-any-carbon-containing-trash-into-high-quality-graphene"
+                    ]
+                },
+                {
+                    "contentText": "Aksolotl semenderlerinden rejenerasyon öğrenebilir miyiz?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/scientists-discover-axolotl-genes-involved-in-their-amazing-limb-regeneration"
+                    ]
+                },
+                {
+                    "contentText": "İlk defa yapay kalp kası nakli gerçekleştirildi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/researchers-transplant-lab-grown-heart-muscles-for-the-first-time"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları terleyen robot yapmaya çalışıyor.",
+                    "contentLink": [
+                        "https://www.scientificamerican.com/article/sweating-robot-beats-the-heat/"
+                    ]
+                },
+                {
+                    "contentText": "Bazı kanser türlerini aşırı teşhis ediyor olabiliriz.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/new-evidence-finds-numerous-cancers-are-over-diagnosed-and-treated-for-no-reason"
+                    ]
+                },
+                {
+                    "contentText": "Su uzayda donar mı buharlaşır mı?",
+                    "contentLink": [
+                        "https://medium.com/starts-with-a-bang/does-water-freeze-or-boil-in-space-7889856d7f36"
+                    ]
+                }
+            ]
         }
     ]
 }
