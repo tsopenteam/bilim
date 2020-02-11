@@ -11985,6 +11985,79 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2020",
+            "count": 6,
+            "totalCount": 130,
+            "uploadDate": "11.02.2020",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2020/02/bilim_2020_06.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2020-06",
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2020/6",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Koronavirüs ile SARS’ın ortak yanları aşı bulmamızı kolaylaştırabilir. Bilim insanları virüsün çocuklarda neden daha az etkili olduğunu araştırıyor. Çin, tüm ülke için bir şehri feda etti mi? Karantina kelimesi nereden geliyor?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/genetic-analysis-shows-wuhan-coronavirus-is-similar-to-sars",
+                        "https://www.sciencealert.com/experts-are-puzzled-over-why-so-few-children-have-caught-coronavirus-so-far",
+                        "https://www.bloomberg.com/news/articles/2020-02-05/china-sacrifices-a-province-to-save-the-world-from-coronavirus",
+                        "https://www.sciencealert.com/quarantines-have-been-used-to-try-keep-diseases-at-bay-for-thousands-of-years"
+                    ]
+                },
+                {
+                    "contentText": "SpaceX, Starship’i Mart ayında fırlatmayı planlıyor. Starlink’i ayrı bir firma haline getirmeye hazırlanıyor. OneWeb ilk uydularını gönderdi.",
+                    "contentLink": [
+                        "https://www.universetoday.com/144921/spacex-has-requested-permission-to-fly-starship-as-early-as-march/",
+                        "https://spaceflightnow.com/2020/02/07/spacex-considers-starlink-spinoff-as-teams-ready-for-mid-february-launch/",
+                        "https://spaceflightnow.com/2020/02/07/successful-soyuz-launch-deploys-34-satellites-for-oneweb-network/"
+                    ]
+                },
+                {
+                    "contentText": "Solar Orbiter başarıyla fırlatıldı.",
+                    "contentLink": [
+                        "https://www.nasa.gov/press-release/solar-orbiter-launch-takes-solar-science-to-new-heights",
+                        "https://www.nytimes.com/2020/02/09/science/nasa-solar-orbiter-launch.html"
+                    ]
+                },
+                {
+                    "contentText": "Kara deliklerden sızan ışımayı tespit etmenin bir yolunu bulmuş olabiliriz.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/gravitational-wave-echoes-may-help-us-detect-hawking-radiation-from-black-holes"
+                    ]
+                },
+                {
+                    "contentText": "Geniş çaplı kanser araştırması tümörlerin nasıl geliştiğine ışık tutmayı hedefliyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/decades-long-genome-study-reveals-the-secrets-of-cancer-formation"
+                    ]
+                },
+                {
+                    "contentText": "Sigara izmaritleri söndürüldükten sonra bile çevreye kimyasal yaymaya devam ediyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/cigarettes-produce-invisible-chemical-emissions-even-after-they-ve-been-extinguished"
+                    ]
+                },
+                {
+                    "contentText": "Bir su damlasından 140 V elektrik üreten jeneratör geliştirildi.",
+                    "contentLink": [
+                        "https://www.sciencedaily.com/releases/2020/02/200205132354.htm"
+                    ]
+                },
+                {
+                    "contentText": "Çift kör deneyler bazen faydadan çok zarar getiriyor olabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/these-researchers-claim-blinding-in-experiments-isn-t-always-the-golden-choice"
+                    ]
+                },
+                {
+                    "contentText": "Fikr-i Takip: Eskiden her şey daha mı güzeldi?",
+                    "contentLink": [
+                        "https://www.telegraph.co.uk/culture/11349364/Why-we-yearn-for-the-good-old-days.html"
+                    ]
+                }
+            ]
         }
     ]
 }
