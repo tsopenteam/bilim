@@ -5,7 +5,7 @@
 > teknoseyir.com tarafından yapılan, teknoloji ve bilim ile ilgili konuların konuşulduğu bir programdır.
 > Olabildiğince her hafta yayınlanır.
 
-### bilim Nedir ?
+### bilim.json Nedir ?
 
 > Yayınlanan tüm bilim bilgilerinin kayıt altına alındığı proje.
 
