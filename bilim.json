@@ -12058,6 +12058,76 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2020",
+            "count": 7,
+            "totalCount": 131,
+            "uploadDate": "18.02.2020",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2020/02/bilim_2020_07.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2020-07",
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2020/7",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "DSÖ korona virüsünü resmi adını açıkladı. COVID-19 bir yüzeyde ne kadar uzun yaşayabilir? Kullanılan maskeler gerçekten korumuyor olabilir. Virüsten korunma yolları.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/who-has-finally-named-the-deadly-coronavirus",
+                        "https://www.sciencealert.com/study-shows-just-how-long-coronaviruses-can-stick-around-on-a-surface",
+                        "https://www.sciencealert.com/demand-for-face-masks-are-surging-but-doctors-say-it-isn-t-the-safest-thing-you-can-do",
+                        "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public"
+                    ]
+                },
+                {
+                    "contentText": "Ultima Thule (Arrokoth) insanlığın ulaştığı en uzak cisim ve bize öğreteceği çok şey var.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/here-s-what-arrokoth-can-tell-us-about-how-baby-planets-are-born"
+                    ]
+                },
+                {
+                    "contentText": "Evrenden gelen düzenli radyo sinyallerin uzaylı olma ihtimali çok düşük.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/here-s-why-fast-radio-bursts-are-extremely-unlikely-to-be-aliens"
+                    ]
+                },
+                {
+                    "contentText": "Betelgeuse parlaklığını kaybetmeye devam ediyor.",
+                    "contentLink": [
+                        "https://www.universetoday.com/145011/betelgeuse-is-still-dimming-and-we-have-the-pictures-to-prove-it/"
+                    ]
+                },
+                {
+                    "contentText": "Yüksek tempolu müzikler spor yaparken performansı artırıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-right-type-of-music-during-exercise-might-act-as-a-performance-enhancer"
+                    ]
+                },
+                {
+                    "contentText": "Havayolu uçaklarının yüksekliğinde yapılacak küçük bir değişiklik, iklime etkilerini %59 oranında azaltabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/small-changes-in-aeroplane-altitude-could-have-a-big-impact-on-our-climate"
+                    ]
+                },
+                {
+                    "contentText": "Beyin tümörleriyle savaşımızda yeni müttefik: Ebola Virüsü!",
+                    "contentLink": [
+                        "https://www.sciencedaily.com/releases/2020/02/200212150149.htm"
+                    ]
+                },
+                {
+                    "contentText": "Doğuştan görme engelli olanlar şizofreni hastası olmuyor.",
+                    "contentLink": [
+                        "https://www.vice.com/en_us/article/939qbz/people-born-blind-are-mysteriously-protected-from-schizophrenia"
+                    ]
+                },
+                {
+                    "contentText": "Küresel eşek krizi kimse farkına varmadan büyüyor!",
+                    "contentLink": [
+                        "https://blogs.scientificamerican.com/observations/the-global-donkey-crisis-yes-really/"
+                    ]
+                }
+            ]
         }
     ]
 }
