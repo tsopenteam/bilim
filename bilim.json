@@ -12128,6 +12128,98 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2020",
+            "count": 8,
+            "totalCount": 132,
+            "uploadDate": "25.02.2020",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2020/02/bilim_2020_08.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2020-08",
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2020/8",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Korona virüsü diğer ülkelerde de can almaya başladı. Çin’deki yayılma hızı yavaşladı mı?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-basic-reproduction-number-is-one-way-to-tell-if-covid-19-is-nearly-over"
+                    ]
+                },
+                {
+                    "contentText": "Hiç belirti göstermeden hastalığı yayan örnek vaka onaylandı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/researchers-confirmed-patients-can-transmit-the-coronavirus-without-showing-symptoms"
+                    ]
+                },
+                {
+                    "contentText": "DSÖ’nün uyarısı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/who-warns-we-are-losing-the-opportunity-to-contain-the-coronavirus-outbreak"
+                    ]
+                },
+                {
+                    "contentText": "KOVID-19 vakalarının büyük kısmı hafif seyrediyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/large-chinese-study-finds-most-coronavirus-infections-are-mild"
+                    ]
+                },
+                {
+                    "contentText": "Salgının çevreye etkileri “olumlu” oldu.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/china-s-carbon-emissions-suddenly-dropped-recently-but-not-for-the-best-reasons"
+                    ]
+                },
+                {
+                    "contentText": "Mike Hughes ev yapımı roketiyle yere çakılarak hayatını kaybetti.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/infamous-flat-earth-daredevil-dies-in-crash-in-california"
+                    ]
+                },
+                {
+                    "contentText": "Japonya, Mars’ın uydusu Phobos’a araç gönderecek.",
+                    "contentLink": [
+                        "https://www.universetoday.com/145054/japan-is-sending-a-lander-to-phobos/",
+                        "http://mmx-news.isas.jaxa.jp/?p=1016&lang=en"
+                    ]
+                },
+                {
+                    "contentText": "InSight’ın delici ucunu Mars toprağına sokma denemeleri devam ediyor.",
+                    "contentLink": [
+                        "https://spacenews.com/insight-to-try-to-push-mole-into-martian-surface/"
+                    ]
+                },
+                {
+                    "contentText": "Space Adventures, Crew Dragon ile uzaya turist götürmeye hazırlanıyor.",
+                    "contentLink": [
+                        "https://spacenews.com/space-adventures-to-fly-tourists-on-crew-dragon-mission/"
+                    ]
+                },
+                {
+                    "contentText": "Uydular hackerlar tarafından silah gibi kullanılabilir.",
+                    "contentLink": [
+                        "https://theconversation.com/hackers-could-shut-down-satellites-or-turn-them-into-weapons-130932"
+                    ]
+                },
+                {
+                    "contentText": "Yeni bir şeyi hızlı öğrenmek için çok tekrar yerine şartları değiştirerek tekrarlamak daha iyi.",
+                    "contentLink": [
+                        "https://getpocket.com/explore/item/a-johns-hopkins-study-reveals-the-scientific-secret-to-double-how-fast-you-learn"
+                    ]
+                },
+                {
+                    "contentText": "Pablo Escobar’ın su aygırları Kolombiya ekolojisini değiştiriyor!",
+                    "contentLink": [
+                        "https://www.scientificamerican.com/podcast/episode/pablo-escobars-hippos-could-endanger-colombian-ecology/"
+                    ]
+                },
+                {
+                    "contentText": "İlginç bir dava hikayesi: Pepsi reklamını ciddiye alan adam. Büyük sayıları anlamlandırma zorluğu.",
+                    "contentLink": [
+                        "https://lithub.com/when-a-man-took-a-joke-in-a-pepsi-ad-seriously-chaos-ensued/"
+                    ]
+                }
+            ]
         }
     ]
 }
