@@ -12220,6 +12220,74 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2020",
+            "count": 9,
+            "totalCount": 133,
+            "uploadDate": "03.03.2020",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2020/03/bilim_2020_09.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2020-09",
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2020/9",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Covid-19 komplo teorileri, ikinci tur. Olası bir salgına nasıl hazırlanmalıyız?",
+                    "contentLink": [
+                        "https://www.euronews.com/2020/02/26/the-wild-covid-19-coronavirus-conspiracies-and-why-you-should-ignore-them",
+                        "https://evrimagaci.org/turkiyede-olasi-bir-koronavirus-salginina-birey-olarak-nasil-hazirlanmalisiniz-8308"
+                    ]
+                },
+                {
+                    "contentText": "Efsanevi NASA matematikçisi Katherine Johnson, 101 yaşında hayatını kaybetti.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/katherine-johnson-black-nasa-mathematician-portrayed-in-hidden-figures-dies-at-101"
+                    ]
+                },
+                {
+                    "contentText": "Freeman Dyson hayatını kaybetti.",
+                    "contentLink": [
+                        "https://evrimagaci.org/dyson-kuresi-kavraminin-fikir-babasi-buyuk-fizikci-freeman-dyson-96-yasinda-hayatini-kaybetti-1723"
+                    ]
+                },
+                {
+                    "contentText": "İki ticari uydu ilk kez uzayda bir araya geldi.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2020/02/26/two-commercial-satellites-link-up-in-space-for-first-time/"
+                    ]
+                },
+                {
+                    "contentText": "Betelgeuse kararmayı durdurdu, yakın gelecekte patlamayacak.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/betelgeuse-has-officially-stopped-dimming"
+                    ]
+                },
+                {
+                    "contentText": "Konya’da Kral Midas’in savaştığı Hartapu Krallığı’na ait yeni keşif.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/giant-mound-in-turkey-discovered-to-be-mysterious-ancient-kingdom-lost-in-history"
+                    ]
+                },
+                {
+                    "contentText": "Nakil için gönderilen organlardan bazıları kargoda kayboluyor!",
+                    "contentLink": [
+                        "https://massivesci.com/articles/lifesaving-organs-transplant-kidneys-shipping-delay/"
+                    ]
+                },
+                {
+                    "contentText": "Gelecekte okyanusları biyonik deniz analarıyla izlemek mümkün olabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/scientists-want-to-explore-the-ocean-with-human-controlled-bionic-jellyfish"
+                    ]
+                },
+                {
+                    "contentText": "Bazı insanlar kulaklarındaki bir kası hareket ettirerek gök gürültüsü benzeri bir ses duyabiliyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/some-people-can-make-a-roaring-sound-in-your-ears-just-by-tensing-a-muscle"
+                    ]
+                }
+            ]
         }
     ]
 }
