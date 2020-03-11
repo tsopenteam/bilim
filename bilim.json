@@ -12288,6 +12288,91 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2020",
+            "count": 10,
+            "totalCount": 134,
+            "uploadDate": "10.03.2020",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2020/03/bilim_2020_10.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2020-10",
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2020/10",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Corona virüs (Covid-19) diğer mevsimsel hastalıklar gibi kalıcı olabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-new-coronavirus-could-circulate-forever-says-experts"
+                    ]
+                },
+                {
+                    "contentText": "Halk arasında oluşan panik virüsten daha zararlı!",
+                    "contentLink": [
+                        "https://www.sciencealert.com/infectious-disease-researcher-explains-why-the-coronavirus-is-bringing-out-the-worst-in-us"
+                    ]
+                },
+                {
+                    "contentText": "Türkiye’ye henüz bulaşmamasının nedeni el yıkama alışkanlığı olabilir mi?",
+                    "contentLink": [
+                        "https://bigthink.com/strange-maps/revealed-dutch-are-least-hygienic-europeans"
+                    ]
+                },
+                {
+                    "contentText": "Hava kirliliği daha büyük bir salgın olarak değerlendirilebilir mi?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/air-pollution-is-far-more-dangerous-than-all-the-violence-in-the-world-study-shows"
+                    ]
+                },
+                {
+                    "contentText": "Yüzümüze dokunmadan durmak neden bu kadar zor?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/here-s-why-it-s-so-hard-to-stop-touching-your-face-even-though-it-spreads-germs"
+                    ]
+                },
+                {
+                    "contentText": "NASA’nın OSIRIS-REx aracı yanlışlıkla kara delik keşfetti.",
+                    "contentLink": [
+                        "https://www.universetoday.com/145209/even-though-it-was-observing-an-asteroid-osiris-rex-accidentally-spotted-a-black-hole/"
+                    ]
+                },
+                {
+                    "contentText": "NASA’nın bir sonraki Mars gezgininin ismi belli oldu.",
+                    "contentLink": [
+                        "https://www.nasa.gov/press-release/virginia-middle-school-student-earns-honor-of-naming-nasas-next-mars-rover"
+                    ]
+                },
+                {
+                    "contentText": "Bir dinozor fosilinde milyonlarca yıl öncesinden kalan DNA’ları bulmuş olabiliriz.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/dinosaur-cells-from-75-million-years-ago-look-and-act-shockingly-like-dna"
+                    ]
+                },
+                {
+                    "contentText": "İklim değişikliğini önlemek için artık dört kat fazla çalışmamız gerekiyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/we-must-now-work-four-times-harder-to-meet-paris-emission-targets"
+                    ]
+                },
+                {
+                    "contentText": "Bir valabi türü hayatı boyunca aralıksız hamilelik sürdürerek yaşayabiliyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/female-wallabies-are-constantly-pregnant-and-lactating-throughout-their-whole-reproductive-lives"
+                    ]
+                },
+                {
+                    "contentText": "Çekirge salgınını ördek ordusuyla durdurabilir miyiz?",
+                    "contentLink": [
+                        "https://time.com/5791466/ducks-locust-plague/"
+                    ]
+                },
+                {
+                    "contentText": "Papağanlar olasılık hesabı yapabiliyor!",
+                    "contentLink": [
+                        "https://www.sciencealert.com/parrots-are-only-the-second-animal-we-ve-found-that-can-grasp-probabilities"
+                    ]
+                }
+            ]
         }
     ]
 }
