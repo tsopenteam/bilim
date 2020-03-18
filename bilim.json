@@ -12373,6 +12373,111 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2020",
+            "count": 11,
+            "totalCount": 135,
+            "uploadDate": "17.03.2020",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2020/03/bilim_2020_11.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2020-11",
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2020/11",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kocaeli Üniversitesi 3. Öğrenci Biyoloji Kongresi 9-10 Nisan tarihlerinde gerçekleşecek.",
+                    "contentLink": [
+                        "https://twitter.com/trabzon_burmasi/status/1237293188534108165?s=20"
+                    ]
+                },
+                {
+                    "contentText": "Korona virüsü Türkiye’de de görüldü. Vaka sayısı giderek artıyor.",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Korona’dan şüpheleniyorsak ne yapmalıyız?",
+                    "contentLink": [
+                        "https://www.npr.org/sections/health-shots/2020/03/10/814091024/you-have-a-fever-and-a-dry-cough-now-what"
+                    ]
+                },
+                {
+                    "contentText": "Korona virüsünün öldürücülüğü ve diğer hastalıklar.",
+                    "contentLink": [
+                        "https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/"
+                    ]
+                },
+                {
+                    "contentText": "Gripten ne farkı var?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-new-coronavirus-isn-t-like-the-flu-but-they-have-one-big-thing-in-common?utm_source=ScienceAlert+-+Daily+Email+Updates&utm_campaign=036ebf4aa0-MAILCHIMP_EMAIL_CAMPAIGN&utm_medium=email&utm_term=0_fe5632fb09-036ebf4aa0-366013173"
+                    ]
+                },
+                {
+                    "contentText": "Karantina önlemleri neden işe yarıyor?",
+                    "contentLink": [
+                        "https://www.washingtonpost.com/graphics/2020/world/corona-simulator/"
+                    ]
+                },
+                {
+                    "contentText": "İnsanlar ölüm nedenleri istatistikleri konusunda çok yanılıyor.",
+                    "contentLink": [
+                        "https://medium.com/robertroybritt/odds-are-youre-dead-wrong-about-what-will-kill-you-f58ea3f19a28"
+                    ]
+                },
+                {
+                    "contentText": "Genel grip aşısı önemli bir klinik test aşamasını geçti.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/a-potential-universal-flu-vaccine-just-passed-its-fourth-clinical-trial"
+                    ]
+                },
+                {
+                    "contentText": "Korona virüsü uzay çalışmalarını da vurdu.",
+                    "contentLink": [
+                        "https://www.npr.org/2020/03/13/815470937/mars-rover-launch-delayed-until-2022-over-software-tests-and-coronavirus"
+                    ]
+                },
+                {
+                    "contentText": "Voyager 2’nin Dünya ile bağlantısı kesilmek üzere.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/voyager-2-already-isolated-in-interstellar-space-is-about-to-become-even-more-alone"
+                    ]
+                },
+                {
+                    "contentText": "Güneş sisteminin sınırında 100’den fazla yeni cüce gezegen keşfedildi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/more-than-100-new-minor-planets-have-been-identified-out-past-neptune?utm_source=ScienceAlert+-+Daily+Email+Updates&utm_campaign=036ebf4aa0-MAILCHIMP_EMAIL_CAMPAIGN&utm_medium=email&utm_term=0_fe5632fb09-036ebf4aa0-366013173"
+                    ]
+                },
+                {
+                    "contentText": "Uzay marulu Dünyadakiler kadar güvenli ve besleyici.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/research-finds-space-lettuce-is-just-as-good-for-you-as-earth-lettuce"
+                    ]
+                },
+                {
+                    "contentText": "70 milyon yıl önce günler 30 dakika daha kısaydı.",
+                    "contentLink": [
+                        "https://www.universetoday.com/145331/70-million-years-ago-days-were-30-minutes-shorter-according-to-this-ancient-clam/"
+                    ]
+                },
+                {
+                    "contentText": "Bilinen en küçük dinozor fosili bir kehribarın içinde bulundu.",
+                    "contentLink": [
+                        "https://www.scientificamerican.com/article/smallest-known-dinosaur-found-in-amber/"
+                    ]
+                },
+                {
+                    "contentText": "Oyun oynayarak Alzheimer araştırmasına yardım etmek ister misiniz?",
+                    "contentLink": [
+                        "https://stallcatchers.com/main"
+                    ]
+                },
+                {
+                    "contentText": "Korona salgını kaygısıyla nasıl başa çıkabiliriz?",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
