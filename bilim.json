@@ -12478,6 +12478,102 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2020",
+            "count": 12,
+            "totalCount": 136,
+            "uploadDate": "24.03.2020",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2020/03/bilim_2020_12.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2020-12",
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2020/12",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Korona virüsü Türkiye’de ve Dünya’da son durum.",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "COVID-19 şüpheniz varsa ibuprofen temelli ilaçları kullanabilir miyiz?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/ibuprofen-and-covid-19-symptoms-here-s-what-you-need-to-know"
+                    ]
+                },
+                {
+                    "contentText": "Bir araştırma korona virüsün iki farklı türü olduğunu belirtiyor.",
+                    "contentLink": [
+                        "https://www.dailymail.co.uk/health/article-8073543/TWO-strains-killer-coronavirus-spreading-study-claims.html"
+                    ]
+                },
+                {
+                    "contentText": "Hastalığı bir kere geçiren tekrar hasta olabiliyor mu?",
+                    "contentLink": [
+                        "https://www.npr.org/sections/goatsandsoda/2020/03/20/819038431/do-you-get-immunity-after-recovering-from-a-case-of-coronavirus"
+                    ]
+                },
+                {
+                    "contentText": "Aşı için ilk insanlı deneyler başladı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/us-begins-first-human-trial-of-coronavirus-vaccine"
+                    ]
+                },
+                {
+                    "contentText": "Tarihteki salgın hastalıklar. Flu TV videosu",
+                    "contentLink": [
+                        "https://www.visualcapitalist.com/history-of-pandemics-deadliest/",
+                        "https://www.youtube.com/watch?v=Lt5gTWG-rRw"
+                    ]
+                },
+                {
+                    "contentText": "Koronavirüs endişesiyle başa çıkma yolları.",
+                    "contentLink": [
+                        "https://www.helpguide.org/articles/anxiety/coronavirus-anxiety.htm"
+                    ]
+                },
+                {
+                    "contentText": "Yalan haberlere düşmemek için basit ipuçları.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/fake-coronavirus-news-is-everywhere-here-s-how-to-discern-the-facts-not-the-fiction"
+                    ]
+                },
+                {
+                    "contentText": "InSight’ın delici ucu ilerleme kaydediyor gibi görünüyor.",
+                    "contentLink": [
+                        "https://www.universetoday.com/145404/good-news-the-new-strategy-of-using-insights-arm-to-push-the-mole-seems-to-be-making-progress/"
+                    ]
+                },
+                {
+                    "contentText": "NASA, insanlı Crew Dragon uçuşunu Mayıs ayı içinde yapmayı planlıyor.",
+                    "contentLink": [
+                        "https://spacenews.com/nasa-targets-may-for-crew-dragon-test-flight/"
+                    ]
+                },
+                {
+                    "contentText": "SpaceX, Starlink uydularının parlaklığının azaltılmasında ilerleme kaydettiğini iddia ediyor.",
+                    "contentLink": [
+                        "https://spacenews.com/spacex-claims-some-success-in-darkening-starlink-satellites/"
+                    ]
+                },
+                {
+                    "contentText": "Sadece toprağı doğru kullanarak yılda 5.5 milyar ton karbon salınımı azaltabiliriz.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/protecting-earth-s-soil-could-make-a-huge-impact-on-carbon-emissions-each-year"
+                    ]
+                },
+                {
+                    "contentText": "Bilgisayarınız araştırmacılarının hastalıklara çare bulmasına yardım edebilir.",
+                    "contentLink": [
+                        "https://www.bilimtreni.com/2020/03/19/bilgisayariniz-stanford-arastirmacilarinin-coronavirus-ile-savasmasina-yardimci-olabilir-nasil-mi/"
+                    ]
+                },
+                {
+                    "contentText": "Zihinsel uyumsuzluk teorisi ve et tüketiminden ne öğrenebiliriz?",
+                    "contentLink": [
+                        "http://bbc.com/future/article/20190206-what-the-meat-paradox-reveals-about-moral-decision-making"
+                    ]
+                }
+            ]
         }
     ]
 }
