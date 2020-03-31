@@ -12574,6 +12574,96 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2020",
+            "count": 13,
+            "totalCount": 137,
+            "uploadDate": "31.03.2020",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2020/03/bilim_2020_13.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2020-13",
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2020/13",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Korona virüsü Türkiye’de ve Dünya’da son durum.",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Sürü bağışıklığı nedir Covid-19 için bu yöntem kullanılabilir mi?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/why-herd-immunity-will-not-save-us-from-the-covid-19-pandemic"
+                    ]
+                },
+                {
+                    "contentText": "Virüs yayılma simülasyonu ve alınan önlemlerin etkisi",
+                    "contentLink": [
+                        "https://www.youtube.com/watch?v=gxAaO2rsdIs"
+                    ]
+                },
+                {
+                    "contentText": "Sıfır çift sayı mıdır tek sayı mıdır?",
+                    "contentLink": [
+                        "https://twitter.com/kilickusanan/status/1244357419368689666"
+                    ]
+                },
+                {
+                    "contentText": "Salgınlar genelde et yeme alışkanlığımızdan kaynaklanıyor!",
+                    "contentLink": [
+                        "https://blogs.scientificamerican.com/observations/one-root-cause-of-pandemics-few-people-think-about/"
+                    ]
+                },
+                {
+                    "contentText": "Koruyucu maskelerin tarihi.",
+                    "contentLink": [
+                        "https://www.fastcompany.com/90479846/the-untold-origin-story-of-the-n95-mask"
+                    ]
+                },
+                {
+                    "contentText": "SpaceX, Crew Dragon paraşüt testinde sorun çıktı.",
+                    "contentLink": [
+                        "https://spacenews.com/spacex-reports-problem-in-crew-dragon-parachute-test/"
+                    ]
+                },
+                {
+                    "contentText": "NASA, Lunar Gateway’e kargo taşımak için SpaceX’i seçti.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2020/03/27/nasa-picks-spacex-to-deliver-cargo-to-gateway-station-in-lunar-orbit/"
+                    ]
+                },
+                {
+                    "contentText": "Uranüs’ün atmosferi uzaya sızıyor!",
+                    "contentLink": [
+                        "https://www.sciencealert.com/uranus-atmosphere-is-leaking-gas-into-space"
+                    ]
+                },
+                {
+                    "contentText": "Dişleriniz hayat hikayenizi saklıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/major-life-events-are-recorded-in-teeth-like-tree-rings-hidden-inside-your-mouth"
+                    ]
+                },
+                {
+                    "contentText": "Elektrikli arabalar gerçekten çevreye daha az CO2 yayıyor. Engineering Explained",
+                    "contentLink": [
+                        "https://www.sciencealert.com/electric-cars-really-do-produce-less-co2-overall-than-petrol-models-study-shows",
+                        "https://www.youtube.com/watch?v=6RhtiPefVzM"
+                    ]
+                },
+                {
+                    "contentText": "Plague Inc. adlı oyun ile salgınları daha iyi anlayabiliriz.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/plague-inc-develops-a-game-version-in-which-you-save-the-world-from-a-virus-pandemic"
+                    ]
+                },
+                {
+                    "contentText": "Evden çalışmakta zorlananlar için bilimsel ipuçları.",
+                    "contentLink": [
+                        "https://www.sciencefocus.com/the-human-body/wfh-sos-how-to-work-from-home-successfully-during-lockdown/"
+                    ]
+                }
+            ]
         }
     ]
 }
