@@ -12664,6 +12664,109 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2020",
+            "count": 14,
+            "totalCount": 138,
+            "uploadDate": "07.04.2020",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2020/04/bilim_2020_14.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2020-14",
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2020/14",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Koronavirüs salgını Türkiye’de ve Dünya’da son durum.",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Çin’in açıkladığı  istatistikler güven vermiyor.",
+                    "contentLink": [
+                        "https://www.rfa.org/english/news/china/wuhan-deaths-03272020182846.html"
+                    ]
+                },
+                {
+                    "contentText": "Dünya artık çok daha az titreşiyor.",
+                    "contentLink": [
+                        "https://edition.cnn.com/2020/04/02/world/coronavirus-earth-seismic-noise-scn-trnd/index.html"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları atık su içinde korona bulmaya çalışıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/scientists-are-developing-a-test-that-can-find-the-new-coronavirus-in-wastewater"
+                    ]
+                },
+                {
+                    "contentText": "Korona hastalarında koku ve tat kaybı oluyor mu? Karşı açıklama.",
+                    "contentLink": [
+                        "https://www.vox.com/2020/4/2/21200217/coronavirus-symptoms-covid-19-fever-cough-smell-taste",
+                        "https://www.cebm.net/covid-19/what-is-the-evidence-for-anosmia-loss-of-smell-as-a-clinical-feature-of-covid-19/"
+                    ]
+                },
+                {
+                    "contentText": "Korona salgınının nedeni 5G mi?",
+                    "contentLink": [
+                        "https://www.npr.org/sections/coronavirus-live-updates/2020/04/04/827343675/u-k-cellphone-towers-ablaze-as-conspiracy-theories-link-5g-networks-to-covid-19"
+                    ]
+                },
+                {
+                    "contentText": "New York’taki bir hayvanat bahçesinde kaplanlara korona teşhisi kondu.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/a-tiger-in-new-york-has-tested-positive-for-coronavirus"
+                    ]
+                },
+                {
+                    "contentText": "Tamam, 0 çift sayıdır. Peki, 1 asal sayı mıdır? Matematik bir keşif mi bir icat mı?",
+                    "contentLink": [
+                        "https://www.youtube.com/watch?v=IQofiPqhJ_s",
+                        "https://youtu.be/X_xR5Kes4Rs"
+                    ]
+                },
+                {
+                    "contentText": "SpaceX’in üçüncü Starship prototip denemesi de başarısız oldu.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2020/04/03/spacex-loses-third-starship-prototype-in-cryogenic-ground-test/"
+                    ]
+                },
+                {
+                    "contentText": "NASA, Crew Dragon’un ilk resmi görev mürettebatını tamamladı.",
+                    "contentLink": [
+                        "https://spacenews.com/nasa-selects-astronauts-for-crew-dragon-mission/"
+                    ]
+                },
+                {
+                    "contentText": "Astronot idrarı Ay’daki binaların yapımında kullanılabilir",
+                    "contentLink": [
+                        "https://www.sciencealert.com/future-moon-bases-could-be-made-out-of-astronaut-wee"
+                    ]
+                },
+                {
+                    "contentText": "Avustralya'da çok sevimli yeni örümcek türleri keşfedildi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/a-bunch-of-new-spiders-have-been-discovered-in-australia-and-they-re-utterly-adorable"
+                    ]
+                },
+                {
+                    "contentText": "Eskiden Antarktika’nın altında kadim bir yağmur ormanı vardı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/discovery-of-ancient-rainforest-in-antarctica-is-a-grim-warning-of-earth-s-future"
+                    ]
+                },
+                {
+                    "contentText": "Yapay zeka ile insan beyin sinyallerini %97 başarı oranıyla yazıya dökmek mümkün.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/new-ai-system-translates-human-brain-signals-into-text-with-up-to-97-accuracy"
+                    ]
+                },
+                {
+                    "contentText": "Yemek yemeden, vücut yağlarından yiyerek ne kadar hayatta kalabilirsiniz?",
+                    "contentLink": [
+                        "https://www.sciencefocus.com/the-human-body/how-long-could-you-live-off-body-fat-alone/"
+                    ]
+                }
+            ]
         }
     ]
 }
