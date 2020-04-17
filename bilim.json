@@ -12767,6 +12767,116 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2020",
+            "count": 15,
+            "totalCount": 139,
+            "uploadDate": "14.04.2020",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2020/04/bilim_2020_15.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2020-15",
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2020/15",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "COVID-19 salgını Türkiye’de ve Dünya’da son durum",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Yeni yayınlanan aşı araştırmaları umut vadediyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/scientists-in-pittsburgh-say-they-ve-already-developed-a-covid-19-vaccine-candidate"
+                    ]
+                },
+                {
+                    "contentText": "COVID-19 çocuklarda daha hafif seyrediyor olabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/here-s-the-biggest-study-on-kids-and-covid-19-published-to-date"
+                    ]
+                },
+                {
+                    "contentText": "Astım hastalarının bu süreçte dikkat etmesi gerekenler.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/what-should-people-with-asthma-be-doing-in-the-coronavirus-pandemic"
+                    ]
+                },
+                {
+                    "contentText": "CERN’deki bilim insanları pille çalışan solunum cihazı üretecek.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/physicists-from-the-lhc-are-making-a-covid-19-ventilator-that-runs-on-batteries"
+                    ]
+                },
+                {
+                    "contentText": "Maske konusunda uzmanlar neden kararsız?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/this-is-why-advice-on-whether-you-should-wear-a-mask-is-just-so-confusing"
+                    ]
+                },
+                {
+                    "contentText": "10 yıldır pandalardan beklenen güzel haber korona salgını sırasında geldi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/two-pandas-at-a-hong-kong-zoo-finally-mated-during-the-coronavirus-closure"
+                    ]
+                },
+                {
+                    "contentText": "Boeing, Starliner kapsülünü ikinci kere astronotsuz test edecek.",
+                    "contentLink": [
+                        "https://spacenews.com/boeing-to-fly-second-starliner-uncrewed-test-flight/"
+                    ]
+                },
+                {
+                    "contentText": "NASA, Apollo 13 görevinin 50. yılını anıyor. İnfografik",
+                    "contentLink": [
+                        "https://www.nasa.gov/press-release/nasa-commemorates-50th-anniversary-of-apollo-13-a-successful-failure",
+                        "https://nasa.tumblr.com/post/615041186936324096/youve-heard-houston-weve-had-a-problem-but"
+                    ]
+                },
+                {
+                    "contentText": "NASA, insanlı görev öncesi gereken cihazları Ay’a taşıyacak firmayı belirledi.",
+                    "contentLink": [
+                        "https://spacenews.com/masten-wins-nasa-lunar-lander-award/"
+                    ]
+                },
+                {
+                    "contentText": "Trump’ın imzaladığı kararname Rusları kızdırdı!",
+                    "contentLink": [
+                        "https://www.universetoday.com/145622/trump-signs-an-executive-order-allowing-mining-the-moon-and-asteroids/"
+                    ]
+                },
+                {
+                    "contentText": "NASA’nın çılgın projesi: Ay kraterinden radyo teleskop!",
+                    "contentLink": [
+                        "https://www.sciencealert.com/check-out-this-amazing-plan-to-turn-a-crater-on-the-far-side-of-the-moon-into-a-radio-telescope"
+                    ]
+                },
+                {
+                    "contentText": "Çernobil yakınlarında çıkan orman yangını radyasyon seviyesini yükseltti.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/forest-fires-have-pushed-radiation-around-chernobyl-to-16-times-normal-levels"
+                    ]
+                },
+                {
+                    "contentText": "Bakterilerle işbirliği yapıp metanla hayatta kalan kurtcuklar keşfedildi.",
+                    "contentLink": [
+                        "https://phys.org/news/2020-04-deep-sea-worms-bacteria-team-harvest.html"
+                    ]
+                },
+                {
+                    "contentText": "Yağmurun kokusu aslında bir bakterinin gizli planı olabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/that-rain-smell-turns-out-we-re-smelling-the-circle-of-life"
+                    ]
+                },
+                {
+                    "contentText": "Manyetik beyin uyarımı depresyon için umut vaad ediyor.  TMS ve ECT",
+                    "contentLink": [
+                        "https://www.sciencealert.com/a-small-brain-stimulating-study-relieves-depression-in-nearly-all-of-its-participants",
+                        "https://youtu.be/7UKqY-sC7qQ",
+                        "https://www.youtube.com/watch?v=AcmarVpo2xE"
+                    ]
+                }
+            ]
         }
     ]
 }
