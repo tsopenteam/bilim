@@ -12877,6 +12877,119 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2020",
+            "count": 16,
+            "totalCount": 140,
+            "uploadDate": "21.04.2020",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2020/04/bilim_2020_16.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2020-16",
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2020/16",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "COVID-19 salgını Türkiye’de ve Dünya’da son durum.",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Halihazırda geliştirilen 70 koronavirüs aşısı var.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/who-report-gives-update-on-how-we-re-going-with-a-covid-19-vaccine"
+                    ]
+                },
+                {
+                    "contentText": "Tedavi için kullanılan ilaçlar hakkında ne biliyoruz?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/these-drugs-are-being-tested-to-stop-covid-19-how-do-they-work"
+                    ]
+                },
+                {
+                    "contentText": "İyileşenlerin sayısı yarım milyonu aştı. İyileşme süreci ile ilgili bildiklerimiz.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/over-370-000-people-have-survived-covid-19-here-s-what-we-know-about-recovery"
+                    ]
+                },
+                {
+                    "contentText": "Koku ve tat kaybı bir erken belirti olabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/loss-of-smell-is-quite-often-an-early-sign-of-covid-19-in-those-with-mild-cases"
+                    ]
+                },
+                {
+                    "contentText": "Koronavirüsten kaçmak için Antarktika’ya gitmemiz gerekebilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/hunkering-down-for-an-antarctic-winter-during-covid-19"
+                    ]
+                },
+                {
+                    "contentText": "Yeni koronavirüs testi: Köpeğe koklatma.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/medical-detection-dogs-being-tested-to-see-if-they-can-help-identify-coronavirus-cases"
+                    ]
+                },
+                {
+                    "contentText": "Tübitak websitesi",
+                    "contentLink": [
+                        "https://covid19.tubitak.gov.tr/"
+                    ]
+                },
+                {
+                    "contentText": "SpaceX’in Demo 2 görev tarihi resmen açıklandı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/nasa-has-announced-the-very-first-spacex-crewed-flight-for-may-27"
+                    ]
+                },
+                {
+                    "contentText": "BAE, Mars uydusunu bu Temmuz’da fırlatmayı planlıyor.",
+                    "contentLink": [
+                        "https://spacenews.com/uae-mars-mission-to-ship-to-launch-site/"
+                    ]
+                },
+                {
+                    "contentText": "Kara Delik etrafında dönen yıldızın çiçeğe benzer yörüngesi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/a-star-dancing-around-a-supermassive-black-hole-is-another-win-for-relativity"
+                    ]
+                },
+                {
+                    "contentText": "Erken insanlar neden yanlarında taş gülleler taşıyordu?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/archaeologists-may-have-figured-out-the-purpose-of-mysterious-prehistoric-stone-balls"
+                    ]
+                },
+                {
+                    "contentText": "Eriyen buzullar, yeni Viking kalıntıları ortaya çıkardı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/artefacts-scattered-along-a-lost-viking-highway-in-norway-uncovered-by-melting-ice"
+                    ]
+                },
+                {
+                    "contentText": "Çok eski zamanlarda yok olan uygarlıkların kalıntıları günümüze ulaşabilir mi?",
+                    "contentLink": [
+                        "https://getpocket.com/explore/item/if-we-weren-t-the-first-industrial-civilization-on-earth-would-we-ever-know"
+                    ]
+                },
+                {
+                    "contentText": "Ekran başında geçirilen zaman çocukların sosyal yeteneklerini fazla etkilemiyor.",
+                    "contentLink": [
+                        "https://www.sciencedaily.com/releases/2020/04/200413103532.htm"
+                    ]
+                },
+                {
+                    "contentText": "Evden bilime katkı sağlayanlar, dünyanın neredeyse en güçlü süper bilgisayarına dönüştü.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/so-many-people-are-running-folding-home-that-it-s-created-the-world-s-biggest-supercomputer"
+                    ]
+                },
+                {
+                    "contentText": "Ağız şapırtısı yüzünden katil olacak kıvama gelmek: mizofoni.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/housemate-chewing-too-loudly-you-could-have-misophonia"
+                    ]
+                }
+            ]
         }
     ]
 }
