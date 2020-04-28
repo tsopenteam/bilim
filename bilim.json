@@ -12990,6 +12990,76 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2020",
+            "count": 17,
+            "totalCount": 141,
+            "uploadDate": "28.04.2020",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2020/04/bilim_2020_17.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2020-17",
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2020/17",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "COVID-19 salgını Türkiye’de ve Dünya’da son durum.",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "DSÖ: Bir kere geçiren bir kişinin tekrar hasta olmayacağına dair elimizde bir kanıt yok?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/there-s-still-no-evidence-people-who-ve-had-covid-19-can-t-get-it-again-warns-who"
+                    ]
+                },
+                {
+                    "contentText": "Salgın sonrası neler değişecek?",
+                    "contentLink": [
+                        "https://marker.medium.com/7-predictions-for-a-post-coronavirus-world-aaac052c8514"
+                    ]
+                },
+                {
+                    "contentText": "19 yeni yıldızlararası asteroid bulundu!",
+                    "contentLink": [
+                        "https://www.sciencealert.com/astronomers-have-just-identified-19-more-asteroids-they-think-are-interstellar"
+                    ]
+                },
+                {
+                    "contentText": "Son fırlatmadan sonra Starlink’in yörüngede 400’den fazla uydusu oldu. Türkiye üzerinden ne zaman geçecek?",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2020/04/22/spacexs-starlink-network-surpasses-400-satellite-mark-after-successful-launch/",
+                        "https://findstarlink.com/"
+                    ]
+                },
+                {
+                    "contentText": "Canlılık nedir sorusuna cevabımız çok fazla Dünya merkezli.",
+                    "contentLink": [
+                        "https://massivesci.com/articles/definition-of-life-earth-universe-virus/"
+                    ]
+                },
+                {
+                    "contentText": "Meteor düşmesi sonucu can kaybı yaşandığına dair ilk ciddi belge Türkiye’den çıktı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/we-finally-have-credible-evidence-of-someone-being-killed-by-a-falling-meteorite"
+                    ]
+                },
+                {
+                    "contentText": "Başkalarını daha iyi kandırmak için önce kendimizi kandırıyoruz.",
+                    "contentLink": [
+                        "https://getpocket.com/explore/item/living-a-lie-we-deceive-ourselves-to-better-deceive-others"
+                    ]
+                },
+                {
+                    "contentText": "Otonom araçların önündeki psikolojik engeller.",
+                    "contentLink": [
+                        "https://qz.com/1076574/the-guide-psychologists-gave-carmakers-to-convince-us-its-safe-to-buy-self-driving-cars/"
+                    ]
+                },
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
