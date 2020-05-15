@@ -13060,6 +13060,72 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2020",
+            "count": 18,
+            "totalCount": 142,
+            "uploadDate": "05.05.2020",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2020/05/bilim_2020_18.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2020-18",
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2020/18",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "COVID-19 salgını Türkiye’de ve Dünya’da son durum.",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Belirti göstermeden korona geçiriyor ve bulaştırıyor olabilirsiniz.",
+                    "contentLink": [
+                        "https://theconversation.com/infected-with-the-coronavirus-but-not-showing-symptoms-a-physician-answers-5-questions-about-asymptomatic-covid-19-137029"
+                    ]
+                },
+                {
+                    "contentText": "Meteor düşmesi sonucu can kaybı yaşandığına dair ilk ciddi belge Türkiye’den çıktı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/we-finally-have-credible-evidence-of-someone-being-killed-by-a-falling-meteorite"
+                    ]
+                },
+                {
+                    "contentText": "NASA, Artemis görevinde Ay’a insan indirecek araçları geliştirecek firmaları duyurdu.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2020/04/30/companies-release-new-details-on-human-rated-lunar-lander-concepts/"
+                    ]
+                },
+                {
+                    "contentText": "Starship prototipi nihayet basınç testini geçmeyi başardı.",
+                    "contentLink": [
+                        "https://spacenews.com/starship-passes-key-pressurization-test/"
+                    ]
+                },
+                {
+                    "contentText": "Starlink bir sonraki fırlatılacak uydulara gölgelik ekleyeceğini açıkladı.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2020/04/28/spacex-to-debut-satellite-dimming-sunshade-on-starlink-launch-next-month/"
+                    ]
+                },
+                {
+                    "contentText": "Spinosaurus bilinen ilk sucul dinozor türü oldu. Türkçe Her tarih öncesi sürüngen dinozor mudur?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/dinosaurs-could-swim-startling-spinosaurus-discovery-in-sahara-desert-suggests",
+                        "https://evrimagaci.org/bilinen-ilk-sucul-dinozor-spinosaurus-8630",
+                        "https://www.nhm.ac.uk/discover/what-are-dinosaurs.html"
+                    ]
+                },
+                {
+                    "contentText": "Hidrojen ilk kez çelik fırınında yakıt olarak kullanıldı. Avustralya da Hidrojen öncüsü olmak için kesenin ağzını açtı.",
+                    "contentLink": [
+                        "https://www.google.com/amp/s/www.cnbc.com/amp/2020/05/01/hydrogen-has-been-used-to-heat-steel-in-a-bid-to-boost-sustainability.html",
+                        "https://www.rechargenews.com/transition/australia-to-back-scale-up-of-fuel-of-the-future-hydrogen/2-1-802127"
+                    ]
+                },
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
