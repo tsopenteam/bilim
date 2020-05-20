@@ -13126,6 +13126,76 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2020",
+            "count": 19,
+            "totalCount": 143,
+            "uploadDate": "12.05.2020",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2020/05/bilim_2020_19.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2020-19",
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2020/19",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "COVID-19 salgını Türkiye’de ve Dünya’da son durum.",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "İyileşen hastaların tekrar pozitif test sonucu vermesi virüsü bulaştırdıkları anlamına gelmiyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/those-positive-results-from-recovered-covid-19-patients-weren-t-reinfections-after-all"
+                    ]
+                },
+                {
+                    "contentText": "NASA, Tom Cruise ile ISS’te film çekecek.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2020/05/05/nasa-is-working-with-actor-tom-cruise-to-film-a-movie-on-the-international-space-station/"
+                    ]
+                },
+                {
+                    "contentText": "Çin’in yeni nesil uzay kapsülü insansız deneme uçuşunu başarıyla tamamladı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/china-s-new-spacecraft-has-officially-returned-to-earth",
+                        "https://spaceflightnow.com/2020/05/08/chinas-next-generation-crew-spacecraft-lands-after-unpiloted-test-flight/"
+                    ]
+                },
+                {
+                    "contentText": "Güneş sistemi dışından gelen nesneleri yakından incelemek için ilginç bir öneri.",
+                    "contentLink": [
+                        "https://news.mit.edu/2020/catch-interstellar-visitor-use-solar-powered-space-statite-slingshot-0506"
+                    ]
+                },
+                {
+                    "contentText": "Canan Dağdeviren ve ekibinden, giysilere entegre edilebilen yeni sensor.",
+                    "contentLink": [
+                        "https://twitter.com/gelecekbilimde/status/1256306721221296130?s=20"
+                    ]
+                },
+                {
+                    "contentText": "Yapay zeka ile yapılan müzikler gerçeğinden ayırt edilemiyor.",
+                    "contentLink": [
+                        "https://onezero.medium.com/deepfake-music-is-so-good-it-might-be-illegal-c11f9618d1f9"
+                    ]
+                },
+                {
+                    "contentText": "Her bir kalp atışımız algımızı etkiliyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/every-heartbeat-alters-our-perception-of-the-world-study-finds"
+                    ]
+                },
+                {
+                    "contentText": "Çıplak ayakla koşmak daha mı iyi?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/running-shoes-can-cause-injuries-here-s-what-the-science-says-to-do"
+                    ]
+                },
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
