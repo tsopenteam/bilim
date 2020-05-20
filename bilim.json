@@ -13196,6 +13196,81 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2020",
+            "count": 20,
+            "totalCount": 144,
+            "uploadDate": "19.05.2020",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2020/05/bilim_2020_20.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2020-20",
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2020/20",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "COVID-19 salgını Türkiye’de ve Dünya’da son durum.",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Yarasalar dost mu düşman mı?",
+                    "contentLink": [
+                        "https://blogs.scientificamerican.com/observations/bats-are-not-our-enemies/"
+                    ]
+                },
+                {
+                    "contentText": "Korona virüsü yapay zekaları da vurdu.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/our-behaviour-in-this-pandemic-has-seriously-confused-ai-machine-learning-systems"
+                    ]
+                },
+                {
+                    "contentText": "Crew Dragon Demo-2 görevinin süresinde güneş paneli belirleyici olacak.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2020/05/12/dragon-solar-array-concerns-driving-duration-of-first-crewed-test-flight/"
+                    ]
+                },
+                {
+                    "contentText": "Lunar Gateway kurulumunda Falcon Heavy kullanılabilir.",
+                    "contentLink": [
+                        "https://www.universetoday.com/146008/lunar-gateway-could-be-built-with-the-falcon-heavy/"
+                    ]
+                },
+                {
+                    "contentText": "Göbeklitepe’yi yapanların geometride usta oldukları ortaya çıktı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/world-s-oldest-known-temple-reveals-mysterious-knowledge-of-geometry-scientists-say"
+                    ]
+                },
+                {
+                    "contentText": "Dinozorların dişileriyle erkekleri arasındaki farkları bilmiyoruz.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/paleontologists-can-t-yet-tell-male-and-female-dinosaurs-apart"
+                    ]
+                },
+                {
+                    "contentText": "Köpekler de insanlar gibi ergenliğe giriyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/study-shows-dogs-can-make-for-problematic-teens-just-like-humans"
+                    ]
+                },
+                {
+                    "contentText": "Penguenleri inceleyen bilim insanları zaman zaman kafayı bulabiliyor!",
+                    "contentLink": [
+                        "https://www.sciencealert.com/researchers-love-antarctic-penguin-poop-here-s-why"
+                    ]
+                },
+                {
+                    "contentText": "Tekerleği kim icat etti?",
+                    "contentLink": [
+                        "https://www.wired.com/story/who-invented-wheel-how-did-they-do-it"
+                    ]
+                },
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
