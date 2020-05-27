@@ -13271,6 +13271,63 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2020",
+            "count": 21,
+            "totalCount": 145,
+            "uploadDate": "26.05.2020",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2020/05/bilim_2020_21.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2020-21",
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2020/21",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Sosyal mesafeyi korumak için sosyal farkındalık gerekli.",
+                    "contentLink": [
+                        "https://www.leidenpsychologyblog.nl/articles/keeping-social-distance-obliges-others-to-be-prosocial-too"
+                    ]
+                },
+                {
+                    "contentText": "Atmosfer için iyi haber kömür endüstrisi korona salgınından sağ çıkamayabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-coronavirus-pandemic-might-be-enough-to-seal-coal-s-fate-for-good"
+                    ]
+                },
+                {
+                    "contentText": "Crew Dragon Demo-2 görevi için her şey yolunda görünüyor. ISS Kenetlenme Simülatörü",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-first-crewed-space-flight-in-9-years-will-take-place-this-month-using-a-spacex-vessel",
+                        "https://iss-sim.spacex.com/"
+                    ]
+                },
+                {
+                    "contentText": "NASA, Artemis görevinde yer alacak taraflar için anlaşma şartlarını yayınladı. Artemis Accords",
+                    "contentLink": [
+                        "https://www.sciencealert.com/nasa-has-just-released-the-artemis-accords-a-rule-book-on-how-we-re-all-gonna-behave-on-the-moon",
+                        "https://www.nasa.gov/specials/artemis-accords/index.html"
+                    ]
+                },
+                {
+                    "contentText": "Dünyanın manyetik kutbu neden yer değiştiriyor?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/russia-is-stealing-magnetic-north-from-canada-and-this-could-be-what-s-behind-it"
+                    ]
+                },
+                {
+                    "contentText": "Erkeklerin sakalları yumruk darbesini hafifletmek için mi evrimleşti?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/researchers-suggest-my-bushy-beard-evolved-so-you-can-safely-punch-me-in-the-head"
+                    ]
+                },
+                {
+                    "contentText": "Airbus ve Boeing, iki rakibin tarihi.",
+                    "contentLink": [
+                        "https://www.businessinsider.nl/airbus-history-boeing-rivalry-2018-4?international=true&r=US"
+                    ]
+                }
+            ]
         }
     ]
 }
