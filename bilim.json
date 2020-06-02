@@ -13473,6 +13473,75 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2020",
+            "count": 22,
+            "totalCount": 146,
+            "uploadDate": "02.06.2020",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2020/06/bilim_2020_22.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2020-22",
+            "podcastTime": 4609,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2020/22",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Korona önlemlerinde normalleşme süreci başladı.",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Türkiye’nin kuzeyinde meteor düşüşü görüntülendi. Doç. Dr. Ozan Ünsalan detaylı analizi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/a-possible-meteor-has-been-seen-exploding-in-the-sky-in-turkey",
+                        "https://youtu.be/e-iRYpP2g9A?t=4187"
+                    ]
+                },
+                {
+                    "contentText": "SpaceX CrewDragon Demo-2 başarıyla ISS’e kenetlendi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/yes-spacex-has-now-safely-delivered-astronauts-to-the-space-station"
+                    ]
+                },
+                {
+                    "contentText": "Starship’in dördüncü prototipi de havaya uçtu.",
+                    "contentLink": [
+                        "https://www.theverge.com/2020/5/29/21274931/spacex-starship-prototype-rocket-explosion-static-fire-test"
+                    ]
+                },
+                {
+                    "contentText": "Mars’ın manyetik alanı varmış ve haritalandı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/mars-does-have-a-magnetic-field-of-sorts-and-we-ve-finally-got-enough-data-to-map-it"
+                    ]
+                },
+                {
+                    "contentText": "Bodrum’da soyu tükenmekte olan Anadolu Parsı görüntülenmiş olabilir mi? Bilimsel doğa gözlemi nasıl yapılır?",
+                    "contentLink": [
+                        "https://kenttv.net/siki-durun-bitezde-goruntulendi",
+                        "https://youtu.be/s9gxIcH-M3g"
+                    ]
+                },
+                {
+                    "contentText": "Kafein yerine spor yaparak enerjik olabilir miyiz?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/does-exercise-produce-the-same-mental-boost-as-caffeine"
+                    ]
+                },
+                {
+                    "contentText": "Sihirli mantarlar ve LSD nasıl ego çözünmesi yapıyor? Halüsinojenler nedir?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/new-clinical-trial-points-to-how-psilocybin-works-in-the-brain-to-dissolve-your-ego",
+                        "https://youtu.be/wOsWFHNRz7U?t=2063"
+                    ]
+                },
+                {
+                    "contentText": "Elon Musk’ın eski telefon numarasına sahip olan kadına gelen ilginç istekler.",
+                    "contentLink": [
+                        "https://www.npr.org/2020/05/21/858155045/she-gets-calls-and-texts-meant-for-elon-musk-some-are-pretty-weird"
+                    ]
+                }
+            ]
         }
     ]
 }
