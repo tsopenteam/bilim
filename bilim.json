@@ -13542,6 +13542,68 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2020",
+            "count": 23,
+            "totalCount": 147,
+            "uploadDate": "09.06.2020",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2020/06/bilim_2020_23.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2020-23",
+            "podcastTime": 5854,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2020/23",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Çin, yeni uzay istasyonu inşaatına 2021 yılında başlamayı planlıyor.",
+                    "contentLink": [
+                        "https://www.universetoday.com/146298/china-will-begin-constructing-its-space-station-in-2021/"
+                    ]
+                },
+                {
+                    "contentText": "Bir zamanlar Mars’ın da Satürn’e benzer halkaları olduğu düşünülüyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-weird-orbit-of-mars-moon-suggests-the-red-planet-once-had-a-ring"
+                    ]
+                },
+                {
+                    "contentText": "InSight’ın delici ucu şimdilik ilerliyor gibi görünüyor.",
+                    "contentLink": [
+                        "https://www.dlr.de/blogs/en/all-blog-posts/The-InSight-mission-logbook.aspx"
+                    ]
+                },
+                {
+                    "contentText": "Komşu yıldızlara gitmek için uzay aracında en az kaç kişi olmalı?",
+                    "contentLink": [
+                        "https://medium.com/mit-technology-review/this-is-how-many-people-wed-have-to-send-to-proxima-centauri-to-make-sure-someone-actually-arrives-cee96bd3a962"
+                    ]
+                },
+                {
+                    "contentText": "Laboratuvar ortamında yetiştirilen minik insan karaciğerleri farelere nakledildi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/bioengineered-human-livers-grown-from-skin-cells-successfully-transplanted-into-rats"
+                    ]
+                },
+                {
+                    "contentText": "Oyun oynayan birini izlemenin psikolojisi.",
+                    "contentLink": [
+                        "https://theconversation.com/crucible-the-science-behind-why-watching-others-playing-video-games-has-become-so-popular-139190"
+                    ]
+                },
+                {
+                    "contentText": "Lityum-iyon pillerin yerini Sodyum-iyon piller alabilir mi?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/new-sodium-ion-battery-performs-as-well-as-some-commercial-lithium-ion-models"
+                    ]
+                },
+                {
+                    "contentText": "Şoförler etrafından geçerken 'otopilot' sol şeritteki devrilmiş kamyonun içinden geçti.",
+                    "contentLink": [
+                        "https://www.google.com/amp/s/www.theweek.in/news/sci-tech/2020/06/06/video-of-tesla-on-autopilot-crashing-into-truck-kicks-off-debate-online.amp.html"
+                    ]
+                }
+            ]
         }
     ]
 }
