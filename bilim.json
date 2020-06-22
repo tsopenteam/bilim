@@ -13604,6 +13604,72 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2020",
+            "count": 24,
+            "totalCount": 148,
+            "uploadDate": "16.06.2020",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2020/06/bilim_2020_24.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2020-24",
+            "podcastTime": 4504,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2020/24",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Korona salgını son durum",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Korona salgını hava durumu tahminlerini de etkiliyor.",
+                    "contentLink": [
+                        "https://www.wired.com/story/a-drop-in-commercial-flights-is-bad-for-hurricane-forecasts"
+                    ]
+                },
+                {
+                    "contentText": "Tarihin en büyük psikoloji deneyi şu anda gerçekleşiyor.",
+                    "contentLink": [
+                        "https://www.scientificamerican.com/interactive/the-biggest-psychological-experiment-in-history-is-running-now/"
+                    ]
+                },
+                {
+                    "contentText": "Starlink’in dokuzuncu seri uyduları başarıyla yörüngeye yerleştirildi.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2020/06/13/starlink-satellite-deployments-continue-with-successful-falcon-9-launch/"
+                    ]
+                },
+                {
+                    "contentText": "ISS kenetlenme mekanizması nasıl çalışıyor?",
+                    "contentLink": [
+                        "https://www.youtube.com/watch?v=dWYpVfhvsak"
+                    ]
+                },
+                {
+                    "contentText": "Astronotlar gaz çıkardığında ne oluyor? Apollo 16’nın ilginç hikayesi.",
+                    "contentLink": [
+                        "https://youtu.be/WetZdYCBWXs"
+                    ]
+                },
+                {
+                    "contentText": "Dünyanın en derin yeri Mariana Çukuru’nun dibinde ne var?",
+                    "contentLink": [
+                        "https://www.quickanddirtytips.com/education/science/mariana-trench?utm_source=sciam&utm_campaign=sciam"
+                    ]
+                },
+                {
+                    "contentText": "Sabunun kirli tarihi",
+                    "contentLink": [
+                        "https://getpocket.com/explore/item/the-dirty-history-of-soap"
+                    ]
+                },
+                {
+                    "contentText": "Pepsi’nin büyük çekiliş çuvallaması kitlelerin ayaklanmasıyla sonuçlanmış.",
+                    "contentLink": [
+                        "https://medium.com/better-marketing/pepsis-40-billion-typo-caused-deadly-riots-3d671295d1bd"
+                    ]
+                }
+            ]
         }
     ]
 }
