@@ -13670,6 +13670,72 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2020",
+            "count": 25,
+            "totalCount": 149,
+            "uploadDate": "23.06.2020",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2020/06/bilim_2020_25.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2020-25",
+            "podcastTime": 4169,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2020/25",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Korona salgını genel durum değerlendirmesi",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Bazı COVID-19 vakalarında ani koku kaybının nedeni bulundu.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/scientists-worked-out-how-covid-19-disrupts-some-people-s-smell"
+                    ]
+                },
+                {
+                    "contentText": "Maskeyle spor yapmak tehlikeli olabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/exercising-intensely-with-a-face-mask-could-be-dangerous"
+                    ]
+                },
+                {
+                    "contentText": "Dünya’dan bakıldığında en büyük görünen gezegen hangisi?",
+                    "contentLink": [
+                        "https://medium.com/starts-with-a-bang/which-planet-appears-the-largest-from-earth-d95f2f72a8f8"
+                    ]
+                },
+                {
+                    "contentText": "Sıcaklığın iki derece artması bitkileri etkileyen patojenlerin miktarını üç kat artırıyor.",
+                    "contentLink": [
+                        "https://massivesci.com/notes/soil-health-pathogens-food-agriculture-production/"
+                    ]
+                },
+                {
+                    "contentText": "İlk kez bir oyun reçeteyle kullanılmak üzere onay aldı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-fda-just-approved-the-first-prescription-video-game-for-kids-with-adhd"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları sanal deniz salyangozunu uyuşturucu bağımlısı yaptı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/scientists-made-a-slug-brain-just-to-watch-it-on-addictive-drugs-it-got-addicted"
+                    ]
+                },
+                {
+                    "contentText": "Komplo teorilerinin temel bilişsel kaynağı nedir?",
+                    "contentLink": [
+                        "https://getpocket.com/explore/item/conspiracy-theorists-have-a-fundamental-cognitive-problem-say-scientists"
+                    ]
+                },
+                {
+                    "contentText": "Dünya’nın en şanssız savaş gemisi.",
+                    "contentLink": [
+                        "https://www.youtube.com/watch?v=pmu57C8er6Q"
+                    ]
+                }
+            ]
         }
     ]
 }
