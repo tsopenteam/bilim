@@ -13736,6 +13736,74 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2020",
+            "count": 26,
+            "totalCount": 150,
+            "uploadDate": "30.06.2020",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2020/06/bilim_2020_26.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2020-26",
+            "podcastTime": 4425,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2020/26",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Aşılar için iyi haber: Korona virüsünün genetik yapısı çok hızlı değişmiyor.",
+                    "contentLink": [
+                        "https://www.npr.org/sections/health-shots/2020/06/26/883477681/this-coronavirus-doesnt-change-quickly-and-thats-good-news-for-vaccine-makers"
+                    ]
+                },
+                {
+                    "contentText": "Amerikan Uzay Kuvvetleri, SpaceX’in tekrar kullanılabilir roketlerine sıcak bakmaya başladı.",
+                    "contentLink": [
+                        "https://spacenews.com/space-force-more-receptive-to-reusable-rockets-as-it-continues-to-review-spacex-missions/"
+                    ]
+                },
+                {
+                    "contentText": "NASA, kullanılmış Crew Dragon kapsüllerinin tekrar kullanılmasına onay verdi.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2020/06/23/nasa-agrees-to-fly-astronauts-on-reused-crew-dragon-spacecraft/"
+                    ]
+                },
+                {
+                    "contentText": "NASA, yörünge altı uçuşlarda özel firmaların çözümlerini kullanmayı planlıyor.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2020/06/25/nasa-developing-plans-to-fly-astronauts-on-suborbital-rockets/"
+                    ]
+                },
+                {
+                    "contentText": "Uzmanlar koku testiyle komadan uyanma ihtimali olan hastaları teşhis etmeye çalışıyor.",
+                    "contentLink": [
+                        "https://massivesci.com/articles/brain-disorder-of-consciousness-coma-smell-test-odor/"
+                    ]
+                },
+                {
+                    "contentText": "Fazla duş almanın zararları.",
+                    "contentLink": [
+                        "https://www.theatlantic.com/magazine/archive/2020/07/hygiene-is-overrated/612235/"
+                    ]
+                },
+                {
+                    "contentText": "Çiftlerin bir arada uyuması uyku kalitesini artırıyor mu?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/comprehensive-study-suggests-most-heterosexuals-get-better-sleep-with-a-partner"
+                    ]
+                },
+                {
+                    "contentText": "Bazı insanlar zihinlerinde görüntüleri canlandıramıyor. Afantazi nedir?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/some-people-can-t-picture-things-in-their-mind-and-it-might-make-it-hard-for-them-to-remember"
+                    ]
+                },
+                {
+                    "contentText": "Kuşlar Everest’in zirvesinden daha yükseğe nasıl uçabiliyor?",
+                    "contentLink": [
+                        "http://nautil.us/issue/86/energy/why-birds-can-fly-over-mount-everest"
+                    ]
+                }
+            ]
         }
     ]
 }
