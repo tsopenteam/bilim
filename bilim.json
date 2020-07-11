@@ -13804,6 +13804,72 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2020",
+            "count": 27,
+            "totalCount": 151,
+            "uploadDate": "07.07.2020",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2020/07/bilim_2020_27.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2020-27",
+            "podcastTime": 4774,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2020/27",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Korona salgını değerlendirmesi",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Korku filmi severler salgına daha hazırlıklı olabilir.",
+                    "contentLink": [
+                        "https://futurism.com/neoscope/horror-movie-fans-prepared-pandemic"
+                    ]
+                },
+                {
+                    "contentText": "NASA’nın bir sonraki Mars gezgini yanında drone götürecek.",
+                    "contentLink": [
+                        "https://www.universetoday.com/146791/heres-how-perseverances-helicopter-sidekick-will-deploy-on-mars/"
+                    ]
+                },
+                {
+                    "contentText": "Rocket Lab’ın son fırlatma denemesi başarısız oldu.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2020/07/04/rocket-lab-satellite-launch-fails-before-reaching-orbit/"
+                    ]
+                },
+                {
+                    "contentText": "Amazon’un AWS hizmeti uzay görevlerine özel birim kurdu.",
+                    "contentLink": [
+                        "https://spacenews.com/amazon-web-services-establishes-space-focused-business-unit/"
+                    ]
+                },
+                {
+                    "contentText": "Görebilen görme engelliler bilinç nedir sorusuna cevap olabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/a-man-who-s-blind-but-can-still-somehow-see-could-help-explain-consciousness"
+                    ]
+                },
+                {
+                    "contentText": "Çocuklukta yaşadığınız çevre, hayatınıza genetik seviyede etki ediyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/your-childhood-neighbourhood-can-influence-how-your-genes-work-says-new-study"
+                    ]
+                },
+                {
+                    "contentText": "Mikrodalga fırın ve çikolata ile ışık hızını ölçmek mümkün mü?",
+                    "contentLink": [
+                        "https://wonders.physics.wisc.edu/measure-the-speed-of-light/"
+                    ]
+                },
+                {
+                    "contentText": "Neden acı yiyoruz?",
+                    "contentLink": [
+                        "https://www.theguardian.com/science/blog/2010/sep/14/chilli-hot-food#:~:text=The%20sensation%20of%20spiciness%20is,hot%20peppers%20every%20single%20day.&text=Chillies%20are%20unique%20among%20foods%20that%20we%20should%20otherwise%20not%20enjoy."
+                    ]
+                }
+            ]
         }
     ]
 }
