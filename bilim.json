@@ -13870,6 +13870,72 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2020",
+            "count": 28,
+            "totalCount": 152,
+            "uploadDate": "14.07.2020",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2020/07/bilim_2020_28.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2020-28",
+            "podcastTime": 4052,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2020/28",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Covid-19 genel değerlendirme",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Perseverance gezgini öncekilerden farklı olarak neler yapacak?",
+                    "contentLink": [
+                        "https://www.nasa.gov/feature/jpl/7-things-to-know-about-the-mars-2020-perseverance-rover-mission"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları ilk kez mitokondriyal DNA üzerinde hedeflenmiş düzenleme yapmayı başardı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/a-modified-bacterial-toxin-could-soon-make-genetic-edits-to-our-cell-s-powerhouses"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları canlıların tümünü tek bir listede toplamayı planlıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/scientists-are-planning-to-make-a-single-authoritative-list-of-all-the-world-s-species"
+                    ]
+                },
+                {
+                    "contentText": "Genç kalmanın sırrı kemiklerimizde olabilir.",
+                    "contentLink": [
+                        "https://www.theguardian.com/science/2020/jul/04/does-the-key-to-anti-ageing-lie-in-our-bones"
+                    ]
+                },
+                {
+                    "contentText": "Diz ameliyatlarında kullanılabilecek kadar dayanıklı yapay kıkırdak üretildi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/there-s-now-an-artificial-cartilage-gel-that-s-strong-enough-to-work-on-knees"
+                    ]
+                },
+                {
+                    "contentText": "Sera gazı salınımını şu an bitirsek bile etkilerini görmemiz on yıllar sonra olabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/even-in-optimistic-scenarios-cutting-carbon-means-we-won-t-see-results-for-decades"
+                    ]
+                },
+                {
+                    "contentText": "Bir zamanlar devasa akrepler denizlerde hüküm sürüyordu.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/massive-scorpions-some-larger-than-humans-once-swum-australia-s-prehistoric-waters"
+                    ]
+                },
+                {
+                    "contentText": "Bir araştırmaya göre para, eskiye göre daha fazla mutluluk satın alabiliyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/as-class-divides-widen-money-buys-more-happiness-large-new-analysis-finds"
+                    ]
+                }
+            ]
         }
     ]
 }
