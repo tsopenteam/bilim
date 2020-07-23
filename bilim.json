@@ -13936,6 +13936,74 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2020",
+            "count": 29,
+            "totalCount": 153,
+            "uploadDate": "21.07.2020",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2020/07/bilim_2020_29.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2020-29",
+            "podcastTime": 2827,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2020/29",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Korona salgını değerlendirmesi",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Önümüzdeki 10 gün içerisinde üç Mars yolcusu yola çıkacak. Hope ayrıntılı bilgi",
+                    "contentLink": [
+                        "https://www.sciencealert.com/three-new-projects-are-about-to-launch-to-look-for-signs-of-ancient-life-on-mars",
+                        "https://spaceflightnow.com/2020/07/13/arab-worlds-first-mars-mission-packs-a-scientific-punch/"
+                    ]
+                },
+                {
+                    "contentText": "NASA, James Webb Uzay Telekopu’nun yeni fırlatma tarihini açıkladı.",
+                    "contentLink": [
+                        "https://www.nasa.gov/press-release/nasa-announces-new-james-webb-space-telescope-target-launch-date/"
+                    ]
+                },
+                {
+                    "contentText": "Crew Dragon’un 2 Ağustos tarihinde Dünya’ya dönmesi planlanıyor.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2020/07/17/nasa-confirms-plans-for-crew-dragon-return-to-earth-on-aug-2/"
+                    ]
+                },
+                {
+                    "contentText": "Kandaki demir oranıyla insan ömrü arasında ilginç bir bağ olabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/a-study-of-1m-people-finds-a-strange-link-between-iron-levels-and-long-life"
+                    ]
+                },
+                {
+                    "contentText": "Tarımda kullanılacak basit bir yöntemle atmosferdeki CO2 geri emilebilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/a-sprinkling-of-rock-dust-could-help-crops-soak-up-billions-of-tonnes-of-extra-co2"
+                    ]
+                },
+                {
+                    "contentText": "Karbon salınımını azaltmak için karbon vergisi işe yarayabilir mi? Kobra etkisi",
+                    "contentLink": [
+                        "https://www.sciencealert.com/carbon-pricing-definitely-works-confirms-huge-study",
+                        "https://en.wikipedia.org/wiki/Cobra_effect"
+                    ]
+                },
+                {
+                    "contentText": "Bilimin cevap aradığı önemli sorular: Bir insanın en yüksek sosisli yeme hızı nedir?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/study-finds-hot-dog-eating-champions-have-nearly-reached-the-limits-of-the-human-gut"
+                    ]
+                },
+                {
+                    "contentText": "800 km’den uzağa gidemeyen e-posta sorunu.",
+                    "contentLink": [
+                        "http://web.mit.edu/jemorris/humor/500-miles"
+                    ]
+                }
+            ]
         }
     ]
 }
