@@ -14004,6 +14004,84 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2020",
+            "count": 30,
+            "totalCount": 154,
+            "uploadDate": "28.07.2020",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2020/07/bilim_2020_30.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2020-30",
+            "podcastTime": 4423,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2020/30",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kovid-19 genel değerlendirme",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Çin’in Mars giden Tianwen-1 uzay aracı fırlatıldı.",
+                    "contentLink": [
+                        "https://spacenews.com/tianwen-1-launches-for-mars-marking-dawn-of-chinese-interplanetary-exploration/",
+                        "https://spaceflightnow.com/2020/07/23/china-launches-robotic-mission-to-orbit-land-and-drive-on-mars/"
+                    ]
+                },
+                {
+                    "contentText": "SpaceX ilk kez iki roket kaportasını da yakalamayı başardı.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2020/07/21/spacex-shares-video-of-first-double-fairing-catch/"
+                    ]
+                },
+                {
+                    "contentText": "Amerika’nın iddiasına göre Rusya uzayda uydu yok eden bir teknoloji denedi.",
+                    "contentLink": [
+                        "https://www.theverge.com/2020/7/23/21335506/russia-anti-satellite-weapon-test-kosmos-2543",
+                        "https://spaceflightnow.com/2020/07/23/u-s-officials-say-russia-tested-a-new-anti-satellite-weapon/"
+                    ]
+                },
+                {
+                    "contentText": "Domuzlar, nakil bekleyen hasar görmüş insan akciğerlerini iyileştirebiliyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/a-damaged-human-lung-has-been-repaired-by-attaching-it-to-a-pig"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları ilk kez insan kromozomunun tamamını çözmeyi başardı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/for-the-first-time-scientists-have-completely-sequenced-a-human-chromosome"
+                    ]
+                },
+                {
+                    "contentText": "İnsan beyni yuvarlak sayıları tercih ediyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/we-actually-prefer-round-numbers-even-when-the-real-number-is-better-news"
+                    ]
+                },
+                {
+                    "contentText": "Seyirci etkisi sadece insanlarda görülen bir davranış değil.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-bystander-effect-is-not-exclusive-to-humans-but-neither-is-a-willingness-to-help"
+                    ]
+                },
+                {
+                    "contentText": "Maymunlar insan davranışlarını önceden tahmin edebiliyor.",
+                    "contentLink": [
+                        "https://massivesci.com/notes/monkey-perception-actions-human-eyes-cognition/"
+                    ]
+                },
+                {
+                    "contentText": "Köpek balığı saldırısında ne yapmak lazım?",
+                    "contentLink": [
+                        "https://getpocket.com/explore/item/5-expert-tips-for-surviving-a-shark-attack"
+                    ]
+                },
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
