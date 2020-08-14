@@ -14082,6 +14082,90 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2020",
+            "count": 31,
+            "totalCount": 155,
+            "uploadDate": "11.08.2020",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2020/08/bilim_2020_31.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2020-31",
+            "podcastTime": 4727,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2020/31",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Korona salgını değerlendirmesi",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "SpaceX DM-2 astronotları geri döndü.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2020/08/02/astronauts-back-on-earth-after-near-flawless-dragon-test-flight/"
+                    ]
+                },
+                {
+                    "contentText": "Canları sıkılan astronotlar, telefon şakası yapmış.",
+                    "contentLink": [
+                        "https://futurism.com/the-byte/nasa-astronauts-prank-phone-calls"
+                    ]
+                },
+                {
+                    "contentText": "Starship SN-5 ilk başarılı sıçramasını gerçekleştirdi.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2020/08/05/spacex-clears-big-hurdle-on-next-gen-starship-rocket-program/"
+                    ]
+                },
+                {
+                    "contentText": "ULA ve SpaceX, milyar dolarlık askeri uydu fırlatma ihalesini kazandı.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2020/08/07/ula-spacex-win-landmark-launch-agreements-with-pentagon/"
+                    ]
+                },
+                {
+                    "contentText": "Perseverance yola çıktı. Salda gölü ve Jezero krateri arasındaki benzerlik.",
+                    "contentLink": [
+                        "https://earthobservatory.nasa.gov/images/147041/jez-like-mars"
+                    ]
+                },
+                {
+                    "contentText": "Bakteriler uzayda antibiyotiklere karşı daha dirençli oluyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/space-flights-show-bacteria-are-more-deadly-and-resilient-in-microgravity"
+                    ]
+                },
+                {
+                    "contentText": "1000 yıllık soğan-sarımsak tarifi ilaç, antibiyotik dirençli bakterileri öldürüyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/a-1-000-year-old-recipe-for-eye-infections-could-make-a-comeback-as-a-modern-antiseptic"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları yarasaların dillerini çözdü.",
+                    "contentLink": [
+                        "https://getpocket.com/explore/item/researchers-translate-bat-talk-turns-out-they-argue-a-lot"
+                    ]
+                },
+                {
+                    "contentText": "Dünyanın en büyük şelaleleri okyanus altında.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/one-of-earth-s-largest-waterfalls-is-actually-found-deep-in-the-sea-and-we-just-discovered-its-main-source"
+                    ]
+                },
+                {
+                    "contentText": "İnsanları ikna etmek için bütün kanıtları boca etmek ters tepiyor.",
+                    "contentLink": [
+                        "https://getpocket.com/explore/item/how-to-make-your-arguments-stronger-hint-longer-is-not-the-answer"
+                    ]
+                },
+                {
+                    "contentText": "Bir dinozordan nasıl kaçılır?",
+                    "contentLink": [
+                        "https://www.wired.com/story/how-outrun-dinosaur/"
+                    ]
+                }
+            ]
         }
     ]
 }
