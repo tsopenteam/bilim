@@ -14166,6 +14166,80 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2020",
+            "count": 32,
+            "totalCount": 156,
+            "uploadDate": "18.08.2020",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2020/08/bilim_2020_32.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2020-32",
+            "podcastTime": 5642,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2020/32",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "CDC önceki yıllara göre ölüm sayılarındaki artış istatistiğini açıkladı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/2020-has-killed-up-to-200-000-extra-people-in-the-us-so-far"
+                    ]
+                },
+                {
+                    "contentText": "NASA, ilk Crew Dragon görevinin tarihini 23 Ekim olarak belirledi.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2020/08/14/nasa-sets-oct-23-as-target-launch-date-for-first-operational-crew-dragon-mission/"
+                    ]
+                },
+                {
+                    "contentText": "SpaceX, uzay turizmi tesisi için eleman alımına başladı.",
+                    "contentLink": [
+                        "https://www.universetoday.com/147415/spacex-is-hiring-people-to-help-build-a-resort-at-the-boca-chica-launch-facility/"
+                    ]
+                },
+                {
+                    "contentText": "InSight’ın delici ucu en sonunda tamamen toprak altına girdi.",
+                    "contentLink": [
+                        "https://www.universetoday.com/147405/insights-mole-is-in/"
+                    ]
+                },
+                {
+                    "contentText": "Işık hızının %8’ine kadar hızlanan bir yıldız tespit edildi.",
+                    "contentLink": [
+                        "https://www.universetoday.com/147447/fastest-star-ever-seen-is-moving-at-8-the-speed-of-light/"
+                    ]
+                },
+                {
+                    "contentText": "Google, Android telefonları sismometre olarak kullanacak.",
+                    "contentLink": [
+                        "https://techcrunch.com/2020/08/11/google-is-turning-android-phones-into-seismometers/"
+                    ]
+                },
+                {
+                    "contentText": "Uzmanlar bir insanın tam olarak ne zaman ölü kabul edileceğini belirlemeye çalışıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/world-brain-death-project-proposes-better-ways-to-tell-when-we-re-really-truly-gone"
+                    ]
+                },
+                {
+                    "contentText": "Besi hayvanlarının arkasına göz çizmek yırtıcılara karşı başarılı bir yöntem!",
+                    "contentLink": [
+                        "https://www.sciencealert.com/lions-are-less-likely-to-attack-cattle-with-eyes-painted-on-their-backsides"
+                    ]
+                },
+                {
+                    "contentText": "Tarımda ilaçlama yerine robotları kullanmak mümkün mü?",
+                    "contentLink": [
+                        "https://onezero.medium.com/tiny-weed-killing-robots-could-make-pesticides-obsolete-99b3a6359c39"
+                    ]
+                },
+                {
+                    "contentText": "İçme suyuna Lityum katarak toplumsal ruh sağlığını iyileştirmek mümkün mü?",
+                    "contentLink": [
+                        "https://twitter.com/mserdark/status/1291648345329610754"
+                    ]
+                }
+            ]
         }
     ]
 }
