@@ -14308,6 +14308,79 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2020",
+            "count": 34,
+            "totalCount": 158,
+            "uploadDate": "01.09.2020",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2020/08/bilim_2020_34.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2020-34",
+            "podcastTime": 3753,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2020/34",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "COVID-19’a tekrar yakalanan hastalar bize ne anlatıyor?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/someone-has-contracted-covid-19-twice-in-hong-kong-the-first-case-of-reinfection"
+                    ]
+                },
+                {
+                    "contentText": "DSÖ: Çocuk felcinin Afrika’dan tamamen temizlendiğini açıklandı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/who-officially-declares-africa-free-of-wild-poliovirus"
+                    ]
+                },
+                {
+                    "contentText": "Roketsan Uydu Fırlatma, Uzay Sistemleri ve İleri Araştırmalar Merkezi açıldı.",
+                    "contentLink": [
+                        "https://www.aa.com.tr/tr/pg/foto-galeri/cumhurbaskani-erdogan-roketsanda-acilis-torenine-katildi-"
+                    ]
+                },
+                {
+                    "contentText": "Boeing, ikinci insansız Starliner denemesini bu yılın sonuna doğru yapmayı planlıyor.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2020/08/25/boeing-plans-second-starliner-test-flight-in-december-or-january/"
+                    ]
+                },
+                {
+                    "contentText": "Google, kuantum bilgisayarlar üzerindeki ilk kimyasal reaksiyon simülasyonunu gerçekleştirdi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/google-claims-the-first-ever-simulation-of-a-chemical-reaction-using-a-quantum-computer"
+                    ]
+                },
+                {
+                    "contentText": "Neuralink, beyin implantları konusundaki gelişmeleri yaptığı etkinlikte duyurdu.",
+                    "contentLink": [
+                        "https://www.cnet.com/news/elon-musk-shows-neuralink-brain-implant-working-in-a-pig",
+                        "https://www.theverge.com/2020/8/28/21406143/elon-musk-neuralink-ai-pigs-demo-brain-computer-interface"
+                    ]
+                },
+                {
+                    "contentText": "Hücreler hareket ederken yönlerini nasıl buluyor?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/cells-can-avoid-dead-ends-in-a-microscopic-maze-here-s-how"
+                    ]
+                },
+                {
+                    "contentText": "Rüzgar türbinlerine yapılacak küçük bir değişiklik kuş ölümlerini önemli ölçüde azaltabiliyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/a-simple-wind-turbine-paint-job-has-cut-bird-deaths-by-70-percent"
+                    ]
+                },
+                {
+                    "contentText": "Sivrisinekler tarihi nasıl değiştirdi?",
+                    "contentLink": [
+                        "https://www.newyorker.com/magazine/2019/08/05/how-mosquitoes-changed-everything"
+                    ]
+                },
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
