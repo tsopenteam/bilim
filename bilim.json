@@ -14533,6 +14533,72 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2020",
+            "count": 37,
+            "totalCount": 161,
+            "uploadDate": "22.09.2020",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2020/09/bilim_2020_37.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=o7KHG7ublBs",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2020-37",
+            "podcastTime": 5080,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2020/37",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Maske takmak Covid-19’a karşı bağışıklık sağlıyor olabilir.",
+                    "contentLink": [
+                        "https://www.telegraph.co.uk/global-health/science-and-disease/face-masks-could-giving-people-covid-19-immunity-researchers/"
+                    ]
+                },
+                {
+                    "contentText": "NASA, resmen Güneş’in 25. döngüsü içinde olduğunu açıkladı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/we-ve-officially-entered-solar-cycle-25-here-is-what-this-means-for-us"
+                    ]
+                },
+                {
+                    "contentText": "Starship, Ekim ayının sonlarına doğru 20 km irtifa ve dikey iniş testi yapmaya hazırlanıyor.",
+                    "contentLink": [
+                        "https://www.universetoday.com/147799/the-spacex-starship-could-be-making-its-biggest-hop-yet-next-month-1/"
+                    ]
+                },
+                {
+                    "contentText": "TV yapımcıları uzayda reality show yapmanın peşinde.",
+                    "contentLink": [
+                        "https://spacenews.com/reality-show-latest-sign-of-growing-commercial-interest-in-iss/"
+                    ]
+                },
+                {
+                    "contentText": "Uzayda hayatını kaybedenlerin bedenleri ne yapılacak?",
+                    "contentLink": [
+                        "https://getpocket.com/explore/item/what-happens-to-your-body-when-you-die-in-space"
+                    ]
+                },
+                {
+                    "contentText": "Yapay zeka satrancı güzelleştirmeye çalışıyor.",
+                    "contentLink": [
+                        "https://arstechnica.com/gaming/2020/09/ai-ruined-chess-now-its-making-the-game-beautiful-again/"
+                    ]
+                },
+                {
+                    "contentText": "Tuatara dünya üzerindeki en farklı canlılardan birisi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-tuatara-s-full-genome-is-neither-lizard-nor-mammal-it-s-a-strange-in-between"
+                    ]
+                },
+                {
+                    "contentText": "İnsanlık neden kıllarını kaybetti?",
+                    "contentLink": [
+                        "https://getpocket.com/explore/item/why-did-humans-lose-their-fur"
+                    ]
+                },
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
