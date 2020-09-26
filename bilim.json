@@ -14452,6 +14452,87 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2020",
+            "count": 36,
+            "totalCount": 160,
+            "uploadDate": "15.09.2020",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2020/09/bilim_2020_36.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=cCZtO0r6O0M",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2020-36",
+            "podcastTime": 4059,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2020/36",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "BBC Korona Anketi",
+                    "contentLink": [
+                        "https://www.bbc.com/news/world-54106474"
+                    ]
+                },
+                {
+                    "contentText": "Oxford’un korona virüsü aşı çalışmaları duraklatıldı ve tekrar başlatıldı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/what-you-need-to-know-about-that-covid-19-vaccine-trial-put-on-hold",
+                        "https://www.sciencealert.com/the-oxford-university-covid-19-vaccine-trial-has-officially-started-again"
+                    ]
+                },
+                {
+                    "contentText": "Venüs atmosferinde olası yaşam izi bilim insanlarını heyecanlandırdı.",
+                    "contentLink": [
+                        "https://evrimagaci.org/venuste-olasi-yasam-izi-venus-atmosferinde-biyolojik-kokenli-fosfin-kesfedilmis-olabilir-9340",
+                        "https://www.sciencealert.com/have-scientists-detected-evidence-of-microbial-life-on-venus-not-so-fast"
+                    ]
+                },
+                {
+                    "contentText": "NASA, özel firmalardan Ay toprağı satın almak istiyor.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2020/09/11/nasa-challenges-companies-to-mine-lunar-soil/",
+                        "https://spacenews.com/nasa-offers-to-buy-lunar-samples-to-set-space-resources-precedent/"
+                    ]
+                },
+                {
+                    "contentText": "Araştırmacılar yapışkan Ay tozlarından kolayca kurtulmanın yollarını arıyor.",
+                    "contentLink": [
+                        "https://www.universetoday.com/147737/finally-a-solution-to-deal-with-sticky-lunar-dust/"
+                    ]
+                },
+                {
+                    "contentText": "Çin’in yeniden kullanılabilir uzay aracı iki gün yörüngede kaldıktan sonra başarıyla iniş yaptı.",
+                    "contentLink": [
+                        "https://www.universetoday.com/147755/chinas-new-reusable-spaceplane-lands-after-2-days-in-space/"
+                    ]
+                },
+                {
+                    "contentText": "Mars’taki Güneş tutulmasından alınan veriler bilim insanlarının kafasını karıştırıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/something-strange-happens-on-mars-during-a-solar-eclipse"
+                    ]
+                },
+                {
+                    "contentText": "Atmosferdeki CO2 miktarının artmasının ağaçlar üzerinde beklenmedik bir etkisi var.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/too-much-co2-makes-trees-live-fast-and-die-young-says-study"
+                    ]
+                },
+                {
+                    "contentText": "Kilo vermek isteyenler uyku düzenine dikkat etmeli.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/a-full-night-s-sleep-appears-to-be-a-key-part-of-healthy-weight-loss"
+                    ]
+                },
+                {
+                    "contentText": "Parasetamolün, kullananlarda risk iştahını artırdığı gözlendi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-most-common-pain-relief-drug-in-the-world-induces-risky-behaviour-study-finds"
+                    ]
+                }
+            ]
         }
     ]
 }
