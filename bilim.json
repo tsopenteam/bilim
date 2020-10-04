@@ -14599,6 +14599,96 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2020",
+            "count": 38,
+            "totalCount": 162,
+            "uploadDate": "29.09.2020",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2020/09/bilim_2020_38.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2020-38",
+            "podcastTime": 6720,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2020/38",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik",
+            "content": [
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Gözlük takmak Covid-19’a yakalanma riskini düşürüyor mu?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/does-wearing-glasses-protect-you-from-coronavirus-here-s-what-you-need-to-know"
+                    ]
+                },
+                {
+                    "contentText": "Corona virüsü aşı çalışmalarında çocuklar üzerinde testler henüz başlamadı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/potential-covid-19-vaccines-still-aren-t-being-tested-in-children"
+                    ]
+                },
+                {
+                    "contentText": "Finlandiya havaalanlarında Covid-19 hastalarını tespit etmek için köpekleri kullanacak.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/dogs-deployed-at-helsinki-airport-can-detect-covid-19-with-near-perfect-accuracy"
+                    ]
+                },
+                {
+                    "contentText": "Başka bir galakside bulunan bir gezegene dair ilk kanıtı bulmuş olabiliriz.",
+                    "contentLink": [
+                        "https://www.discovermagazine.com/the-sciences/first-evidence-of-a-planet-in-another-galaxy"
+                    ]
+                },
+                {
+                    "contentText": "NASA, Artemis görevleri için ayrıntılı planını açıkladı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/nasa-just-unveiled-its-details-and-risky-plan-to-get-humans-back-on-the-moon-by-2024",
+                        "https://spaceflightnow.com/2020/09/21/nasa-lays-out-28-billion-plan-to-return-astronauts-to-the-moon-in-2024/"
+                    ]
+                },
+                {
+                    "contentText": "NASA, önümüzdeki hafta ISS’e yeni tasarım tuvalet gönderecek.",
+                    "contentLink": [
+                        "https://www.universetoday.com/148003/astronauts-are-getting-a-new-toilet-next-week/"
+                    ]
+                },
+                {
+                    "contentText": "ISS’teki hava kaçağı iki Rus modülünden birinde olabilir. ISS, uzay çöpünden kurtulmak için manevra yaptı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/an-elusive-leak-on-iss-narrowed-down-to-2-russian-modules-with-crucial-equipment",
+                        "https://www.sciencealert.com/the-space-station-had-to-make-emergency-maneuvers-to-dodge-an-object-today"
+                    ]
+                },
+                {
+                    "contentText": "NASA, uzay projelerini ticarileştirmek için ilk adımı bir makyaj firmasıyla atıyor.",
+                    "contentLink": [
+                        "https://spacenews.com/nasa-working-with-cosmetics-company-on-space-station-commercialization/"
+                    ]
+                },
+                {
+                    "contentText": "Blue Origin, özel uzay istasyonu işine girmeye hazırlanıyor.",
+                    "contentLink": [
+                        "https://spacenews.com/blue-origin-considers-entering-commercial-space-station-business/"
+                    ]
+                },
+                {
+                    "contentText": "Tesla pil gününde neler tanıtıldı?",
+                    "contentLink": [
+                        "https://www.theverge.com/2020/9/22/21450840/tesla-battery-day-production-elon-musk-tabless-range-cathode-cobalt-plaid"
+                    ]
+                },
+                {
+                    "contentText": "İnsanlar evrimleşmeye devam ediyor mu?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/are-humans-still-evolving"
+                    ]
+                },
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
