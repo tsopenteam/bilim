@@ -14908,6 +14908,96 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2020",
+            "count": 42,
+            "totalCount": 166,
+            "uploadDate": "27.10.2020",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2020/10/bilim_2020_42.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2020-42",
+            "podcastTime": 5882,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2020/42",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "James Randi hayatını kaybetti.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-amazing-randi-has-passed-away-leaving-a-legacy-for-generations-of-skeptics"
+                    ]
+                },
+                {
+                    "contentText": "NASA, Ay yüzeyinde su bulduğunu açıkladı.",
+                    "contentLink": [
+                        "https://www.nasa.gov/press-release/nasa-s-sofia-discovers-water-on-sunlit-surface-of-moon/"
+                    ]
+                },
+                {
+                    "contentText": "OSIRIS-REx, Bennu göktaşından örnek alma işlemini başarıyla tamamladı.",
+                    "contentLink": [
+                        "https://www.nasa.gov/press-release/nasa-s-osiris-rex-spacecraft-successfully-touches-asteroid",
+                        "https://www.nasa.gov/press-release/nasa-s-osiris-rex-spacecraft-collects-significant-amount-of-asteroid"
+                    ]
+                },
+                {
+                    "contentText": "SpaceX 100. başarılı fırlatmasını gerçekleştirdi. Starlink’in çalışmayan uyduları kaygılandırıyor.",
+                    "contentLink": [
+                        "https://spacenews.com/spacex-reaches-100-successful-launches-with-starlink-mission/",
+                        "https://www.universetoday.com/148514/about-3-of-starlinks-have-failed-so-far/"
+                    ]
+                },
+                {
+                    "contentText": "ISS’de yaşanan hava sızıntısı çay yaprakları sayesinde bulundu.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/iss-crew-just-used-floating-tea-leaves-to-find-an-elusive-air-leak"
+                    ]
+                },
+                {
+                    "contentText": "Voyager Uzay Aracı, Güneş Sistemi dışında uzay yoğunluğunda artış tespit etti.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/for-some-reason-the-density-of-space-is-higher-just-outside-the-solar-system"
+                    ]
+                },
+                {
+                    "contentText": "Dünya’nın en büyük güneş enerjisi tarlası Avustralya’da inşa edilecek. (Not: 2023 yılında bitmesi planlanan ve şuan kısmi faaliyette olan Dünya’nın en büyük güneş enerjisi tarlası Konya’da.)",
+                    "contentLink": [
+                        "https://www.sciencealert.com/world-s-largest-solar-farm-to-pipe-power-internationally-from-australia-under-the-sea",
+                        "https://www.trthaber.com/haber/ekonomi/dunyanin-en-buyuk-gunes-enerji-santrali-elektrik-uretimine-basladi-519135.html#:~:text=Konya%27da%2020%20milyon%20metrekare,projenin%2C%202023%20y%C4%B1l%C4%B1nda%20tamamlanmas%C4%B1%20planlan%C4%B1yor."
+                    ]
+                },
+                {
+                    "contentText": "Güneş panellerine basit bir desen işlemek verimliliği %125 oranında arttırılabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/checkerboard-design-for-solar-panels-boosts-light-absorption-by-125-study-shows",
+                        "https://www.osapublishing.org/optica/fulltext.cfm?uri=optica-7-10-1377"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları kafamızın merkezinde gizemli bir organ keşfetti.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/chance-discovery-reveals-mysterious-organ-lurking-in-human-head-missed-for-centuries"
+                    ]
+                },
+                {
+                    "contentText": "Mikro robotlar gelecekte vücudumuzun içini yakından gözlemlemek için kullanılabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/this-tumbling-microrobot-is-the-first-inside-a-live-animal-colon"
+                    ]
+                },
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
