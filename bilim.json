@@ -14834,6 +14834,80 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2020",
+            "count": 41,
+            "totalCount": 165,
+            "uploadDate": "20.10.2020",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2020/10/bilim_2020_41.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2020-41",
+            "podcastTime": 6325,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2020/41",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Başlangıç",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Kan gruplarına göre korona virüsüne karşı dayanıklılık değişiyor olabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/study-gives-more-evidence-that-blood-type-may-change-covid-19-risk-and-severity"
+                    ]
+                },
+                {
+                    "contentText": "İki eski uzay aracının birbirine çok yakın geçmesi uzay çöplerini yeniden gündeme getirdi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/two-high-speed-slabs-of-space-junk-just-narrowly-missed-a-major-collision"
+                    ]
+                },
+                {
+                    "contentText": "Rusya, NASA’nın Lunar Gateway projesine katılmayacak.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2020/10/14/russias-space-agency-unlikely-to-join-nasa-led-lunar-program/"
+                    ]
+                },
+                {
+                    "contentText": "InSight’ın delici ucu tamamen toprağın altında.",
+                    "contentLink": [
+                        "https://www.dlr.de/blogs/en/desktopdefault.aspx/tabid-5893/9577_read-1144/httpstatus-404/"
+                    ]
+                },
+                {
+                    "contentText": "Fizikçiler ilk kez oda sıcaklığında süperiletkenlik özelliğine sahip malzeme üretmeyi başardı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/for-the-first-time-superconductivity-has-been-achieved-at-room-temperature"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları böcek yiyen bitkilerin uyarılara tepki verme mekanizmasını anlamaya çalışıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/chilling-experiment-pinpoints-the-moment-you-have-a-venus-flytrap-s-full-attention"
+                    ]
+                },
+                {
+                    "contentText": "Birlikte yaşlanan çiftler fiziksel olarak gitgide birbirine benzer hale geliyor mu?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/do-couples-start-looking-more-alike-over-time-a-new-study-finally-solves-the-mystery"
+                    ]
+                },
+                {
+                    "contentText": "Nobel ödülleri hakkında genel istatistikler.",
+                    "contentLink": [
+                        "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/"
+                    ]
+                },
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
