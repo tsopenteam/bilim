@@ -14689,6 +14689,79 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2020",
+            "count": 39,
+            "totalCount": 163,
+            "uploadDate": "06.10.2020",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2020/10/bilim_2020_39.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2020-39",
+            "podcastTime": 5850,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2020/39",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Haftalık Covid-19 değerlendirmesi",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "ISS’teki hava kaçağının yeri tespit edildi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/we-finally-know-which-compartment-the-new-leak-in-the-iss-is-coming-from"
+                    ]
+                },
+                {
+                    "contentText": "Astronotlar Ay’da ne kadar radyasyona maruz kalacak?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/scientists-predict-how-long-humans-can-survive-radiation-on-the-moon"
+                    ]
+                },
+                {
+                    "contentText": "Mars yüzeyinin altında düşündüğümüzden daha fazla göl var.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/multiple-underground-lakes-of-liquid-water-have-been-found-on-mars",
+                        "https://www.universetoday.com/148110/mars-express-finds-even-more-ponds-of-water-under-the-ground-on-mars/"
+                    ]
+                },
+                {
+                    "contentText": "Dünya’nın kendi etrafında bir tam tur dönmesi tam olarak bir gün etmiyor!",
+                    "contentLink": [
+                        "https://www.sciencealert.com/quick-animation-shows-two-ways-to-measure-a-day-on-earth-ours-is-4-minutes-longer"
+                    ]
+                },
+                {
+                    "contentText": "En akıllı böcek hangisi?",
+                    "contentLink": [
+                        "https://getpocket.com/explore/item/i-asked-leading-entomologists-what-s-the-smartest-bug-in-the-world"
+                    ]
+                },
+                {
+                    "contentText": "Soyu tükenen balıkları korumak için denizanası yemek bir çözüm olabilir mi?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/stop-eating-threatened-seafood-and-eat-jellyfish-instead-says-scientists"
+                    ]
+                },
+                {
+                    "contentText": "Şekeri yeniden tasarlama yarışı tüm hızıyla devam ediyor.",
+                    "contentLink": [
+                        "https://www.newyorker.com/magazine/2020/09/28/the-race-to-redesign-sugar"
+                    ]
+                },
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
