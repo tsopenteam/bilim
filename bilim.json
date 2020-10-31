@@ -14762,6 +14762,78 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2020",
+            "count": 40,
+            "totalCount": 164,
+            "uploadDate": "13.10.2020",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2020/10/bilim_2020_40.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2020-40",
+            "podcastTime": 6082,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2020/40",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Dünya, korona’ya odaklanmışken bir başka tehlikeli salgın yavaş yavaş gelişiyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/as-the-world-focuses-on-coronavirus-another-devastating-health-threat-is-brewing"
+                    ]
+                },
+                {
+                    "contentText": "BAE, Ay yüzeyine araç indirmeyi planlıyor.",
+                    "contentLink": [
+                        "https://spacenews.com/uae-to-develop-small-lunar-rover/"
+                    ]
+                },
+                {
+                    "contentText": "NASA, SpaceX’in Crew-1 görevini erteledi.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2020/10/10/spacex-crew-launch-delayed-to-assess-merlin-engine-concern/"
+                    ]
+                },
+                {
+                    "contentText": "Starlink, son fırlatılan 60 uyduyla açık beta testine hazır halde geldi.",
+                    "contentLink": [
+                        "https://arstechnica.com/information-technology/2020/10/spacex-has-launched-enough-satellites-for-starlinks-upcoming-public-beta/"
+                    ]
+                },
+                {
+                    "contentText": "Nobel Tıp Ödülü’nü Hepatit C’nin bulunuşu aldı.",
+                    "contentLink": [
+                        "https://www.scientificamerican.com/article/discovery-of-hepatitis-c-snags-nobel-prize-in-medicine1/"
+                    ]
+                },
+                {
+                    "contentText": "Nobel Kimya Ödülü’nü CRISPR tekniğini geliştiren bilim insanları aldı.",
+                    "contentLink": [
+                        "https://www.scientificamerican.com/article/nobel-prize-in-chemistry-goes-to-discovery-of-genetic-scissors-called-crispr-cas911/"
+                    ]
+                },
+                {
+                    "contentText": "Nobel Fizik Ödülü karadelikler üzerine çalışma yapan bilim insanlarına verildi.",
+                    "contentLink": [
+                        "https://www.scientificamerican.com/article/black-hole-scientists-win-nobel-prize-in-physics1/"
+                    ]
+                },
+                {
+                    "contentText": "Beynimiz yüksek kalorili yiyeceklerin yerini daha kolay hatırlıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/our-brains-remember-where-we-left-junk-food-easier-than-healthy-food"
+                    ]
+                },
+                {
+                    "contentText": "Kedilere onlara sevdiğinizi belli etmenin yolu: yavaş göz kırpma.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/you-can-build-a-rapport-with-your-cat-by-blinking-real-slow"
+                    ]
+                },
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
