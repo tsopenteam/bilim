@@ -14998,6 +14998,86 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2020",
+            "count": 43,
+            "totalCount": 167,
+            "uploadDate": "02.11.2020",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2020/11/bilim_2020_43.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2020-43",
+            "podcastTime": 6689,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2020/43",
+            "explanationPodcast": "",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Mete Atatüre, Thomas Young Madalyası’na layık görüldü.",
+                    "contentLink": [
+                        "https://evrimagaci.org/mete-atature-thomas-young-madalyasina-layik-goruldu-9492"
+                    ]
+                },
+                {
+                    "contentText": "Dünya’nın dış katmanını ne kırdı, levha tektoniği nasıl başladı?",
+                    "contentLink": [
+                        "https://www.universetoday.com/147154/what-cracked-the-earths-outer-shell-and-started-its-plate-tectonics/"
+                    ]
+                },
+                {
+                    "contentText": "Crew-1 görevinin ertelenmesinin nedeni basit bir cilalama hatası çıktı.",
+                    "contentLink": [
+                        "https://arstechnica.com/science/2020/10/nasa-and-spacex-set-new-date-for-crew-launch-explain-merlin-engine-issue/"
+                    ]
+                },
+                {
+                    "contentText": "Bennu’dan alınan örnekler güvenli bir şekilde depolandı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/nasa-secured-the-precious-asteroid-sample-320-million-km-away-and-it-s-coming-home"
+                    ]
+                },
+                {
+                    "contentText": "Titan’ın atmosferinde tespit edilen ender görülen molekül bilim insanların ilgisini çekiyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/scientists-have-just-found-a-really-bizarre-molecule-in-titan-s-atmosphere"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları Venüs’teki yaşam izini doğrulamaya çalışıyor.",
+                    "contentLink": [
+                        "https://www.popsci.com/story/science/venus-phosphine-doubts/"
+                    ]
+                },
+                {
+                    "contentText": "Yarasalar ‘Sosyal Mesafe’ ile kendilerini koruyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/vampire-bats-social-distance-when-they-feel-sick"
+                    ]
+                },
+                {
+                    "contentText": "Süper siyahtan sonra bilim insanları süper beyazın peşinde.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/you-ve-heard-of-vantablack-this-is-what-super-white-paint-can-do"
+                    ]
+                },
+                {
+                    "contentText": "Soğuğa alerjisi olan adam duştan çıkınca neredeyse ölüyordu.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/man-almost-dies-from-an-allergic-reaction-to-cold-air-after-stepping-out-of-his-shower"
+                    ]
+                },
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
