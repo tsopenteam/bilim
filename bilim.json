@@ -15179,6 +15179,107 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2020",
+            "count": 45,
+            "totalCount": 169,
+            "uploadDate": "16.11.2020",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2020/11/bilim_2020_45.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2020-45",
+            "podcastTime": 6208,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2020/45",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Başlangıç",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Dünya 50 milyon coronavirüs vakasını aştı. İtalya’da Eylül 2019’dan kalma kan örneklerinde korona antikorları tespit edildi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-world-has-surpassed-50-million-confirmed-coronavirus-cases",
+                        "https://www.ntv.com.tr/saglik/corona-virusun-2019-eylulden-beri-oldugu-ortaya-cikti,3HexcF1kiUKxilghIG7Zuw"
+                    ]
+                },
+                {
+                    "contentText": "Yeni bir aşı daha duyuruldu. Covid-19 aşısı ile bilinmesi gerekenler. Covid-19 aşısı ne zaman bize ulaşacak?",
+                    "contentLink": [
+                        "https://edition.cnn.com/2020/11/16/health/moderna-vaccine-results-coronavirus/index.html",
+                        "https://www.sciencealert.com/here-s-how-a-covid-19-vaccine-might-work-in-the-real-world-according-to-the-numbers",
+                        "https://www.sciencealert.com/this-timeline-shows-when-pfizer-s-new-coronavirus-vaccine-could-reach-ordinary-people"
+                    ]
+                },
+                {
+                    "contentText": "SpaceX’in Dragon kapsülünü kullanan ilk resmi görev Crew 1 başarıyla fırlatıldı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/success-spacex-just-launched-4-astronauts-into-orbit-and-landed-safely-afterwards"
+                    ]
+                },
+                {
+                    "contentText": "NASA, 2021 yılında Rus kozmonotları da ISS’e taşımak istiyor.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2020/11/15/nasa-officials-hope-to-fly-russian-cosmonaut-on-crew-dragon-next-year/"
+                    ]
+                },
+                {
+                    "contentText": "Bir yıl boyunca Uluslararası Uzay İstasyonu (ISS) dışında yaşayan bakteri.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/this-bacterium-survived-on-the-outside-of-the-space-station-for-a-year"
+                    ]
+                },
+                {
+                    "contentText": "Bakteriler uzay madenciliğinde verimliliği ciddi oranda arttırabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/we-might-be-able-to-use-bacteria-to-mine-rocks-on-the-moon"
+                    ]
+                },
+                {
+                    "contentText": "Arecibo Radyo Teleskobu’nda ikinci kablo kopması sonucu yeniden hasar meydana geldi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/another-cable-just-broke-at-the-arecibo-dish-and-scientists-are-worried"
+                    ]
+                },
+                {
+                    "contentText": "Hyperloop taşımacılığında ilk insanlı test gerçekleştirildi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/passengers-just-took-their-first-ever-ride-in-virgin-s-hyperloop"
+                    ]
+                },
+                {
+                    "contentText": "Uzmanlar alkolün etkisini hızlı bir şekilde yok eden cihaz üzerinde çalışıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/new-method-for-reversing-alcohol-intoxication-could-be-a-lifesaver"
+                    ]
+                },
+                {
+                    "contentText": "Bir kişiyi ikna etmek için uygulayabileceğiniz basit bir teknik.",
+                    "contentLink": [
+                        "https://entrepreneurshandbook.co/according-to-science-these-4-words-make-you-instantly-more-persuasive-447b0d89ca4a"
+                    ]
+                },
+                {
+                    "contentText": "Martılar yiyecek çalabilmek için, okulların öğle arasına girmesini bekliyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/gulls-in-the-uk-have-figured-out-when-schools-are-on-lunch-break-so-they-can-steal-food"
+                    ]
+                },
+                {
+                    "contentText": "Japonlar, ayıların şehre yaklaşmasını robot kurtlarla engellemeye çalışıyor.",
+                    "contentLink": [
+                        "https://www.theverge.com/21561095/japanese-town-robot-wolf-scarecrow-bear-deterrent"
+                    ]
+                },
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
