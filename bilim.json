@@ -15368,6 +15368,100 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2020",
+            "count": 47,
+            "totalCount": 171,
+            "uploadDate": "30.11.2020",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2020/11/bilim_2020_47.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2020-47",
+            "podcastTime": 6281,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2020/47",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Başlangıç",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Oxford aşısı ne kadar etkili?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-oxford-astrazeneca-vaccine-is-now-a-global-game-changer-here-s-why",
+                        "https://www.sciencealert.com/scientists-are-trying-to-understand-how-effective-the-oxford-vaccine-really-is"
+                    ]
+                },
+                {
+                    "contentText": "Bir hastanın yoğun bakıma ihtiyacı olup olmayacağını tahmin eden yapay zeka geliştirildi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/new-algorithm-works-out-which-covid-19-pneumonia-cases-require-intensive-care"
+                    ]
+                },
+                {
+                    "contentText": "Yapay zeka ne zaman güvenilir olmadığını bilecek kadar akıllı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/neural-networks-are-now-smart-enough-to-know-when-they-shouldn-t-be-trusted"
+                    ]
+                },
+                {
+                    "contentText": "Çin’in Chang’e-5 (Cháng'é wǔhào) uzay aracı Ay’dan örnek toplamak için yola çıktı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/china-has-just-launched-a-moon-mission-to-collect-lunar-rock-samples"
+                    ]
+                },
+                {
+                    "contentText": "Güneş sistemini nasıl bir gelecek bekliyor?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/our-solar-system-is-going-to-totally-disintegrate-sooner-than-we-thought"
+                    ]
+                },
+                {
+                    "contentText": "BM, Covid-19 salgınına rağmen sera gazlarının rekor düzeyde olduğunu söylüyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/despite-covid-19-lockdowns-greenhouse-gases-are-still-at-record-levels"
+                    ]
+                },
+                {
+                    "contentText": "Charles Darwin’in defteri kayıp, çalındığından şüphe ediliyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/charles-darwin-notebooks-stolen-from-cambridge-university-20-years-ago"
+                    ]
+                },
+                {
+                    "contentText": "Utah Çölü’ne bu gizemli anıtı kim dikti, kim kaldırdı?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/someone-set-up-this-mysterious-metal-monolith-in-utah-desert",
+                        "https://www.sciencealert.com/that-mysterious-metal-monolith-in-utah-has-now-just-as-mysteriously-disappeared"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları yepyeni bir periyodik tablo öneriyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/scientists-propose-a-brand-new-periodic-table-and-it-s-a-trip"
+                    ]
+                },
+                {
+                    "contentText": "Üst kat komşumuzun gürültüsünü güve kanatları mı engelleyecek?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/moth-wings-have-evolved-an-extremely-rare-metamaterial-to-hide-from-bats"
+                    ]
+                },
+                {
+                    "contentText": "İnsanlardan saklanmak için evrimleşen bitki.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/these-mountain-plants-have-evolved-to-be-less-visible-to-humans"
+                    ]
+                },
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
