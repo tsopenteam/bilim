@@ -15078,6 +15078,107 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2020",
+            "count": 44,
+            "totalCount": 168,
+            "uploadDate": "09.11.2020",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2020/11/bilim_2020_44.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2020-44",
+            "podcastTime": 6971,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2020/44",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Pfizer ve BioNTech’in geliştirdiği aşı %90 oranında etkili.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/a-promising-covid-19-vaccine-was-just-found-90-effective-in-phase-3-trial"
+                    ]
+                },
+                {
+                    "contentText": "Korona virüsünü 70 gün boyunca yayan hasta tespit edildi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/case-study-reveals-rare-patient-who-showed-no-symptoms-but-shed-infectious-sars-cov-2-for-70-days"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları öksürük üzerinden korona testi yapabilen yapay zeka geliştiriyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/ai-cough-analysis-could-detect-covid-19-even-if-you-re-asymptomatic"
+                    ]
+                },
+                {
+                    "contentText": "İngiliz bilim insanları; ekmek ve süte D vitamini eklenmesini istiyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/uk-scientists-want-vitamin-d-added-to-bread-and-milk-to-fight-covid-19"
+                    ]
+                },
+                {
+                    "contentText": "Uluslararası Uzay İstasyonu (ISS) yörüngede ki 20. yılını doldurdu.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/after-20-years-in-orbit-iss-is-approaching-retirement-here-s-what-might-replace-it",
+                        "https://arstechnica.com/science/2020/11/after-20-years-of-service-the-space-station-flies-into-an-uncertain-future/"
+                    ]
+                },
+                {
+                    "contentText": "Voyager 2 ile uzun bir aradan sonra yeniden iletişim kuruldu. Görev durumu",
+                    "contentLink": [
+                        "https://www.sciencealert.com/nasa-finally-makes-contact-with-voyager-2-after-long-spell-of-radio-silence",
+                        "https://voyager.jpl.nasa.gov/mission/status/"
+                    ]
+                },
+                {
+                    "contentText": "İlk Starlink beta kullanıcılarından yorumlar gelmeye başladı.",
+                    "contentLink": [
+                        "https://arstechnica.com/information-technology/2020/11/spacex-starlink-beta-tester-takes-user-terminal-into-forest-gets-120mbps"
+                    ]
+                },
+                {
+                    "contentText": "Mars yasaları olgunlaşıyor. Öncü SpaceX ve Elon Musk. Starship ve Falcon 9 farkları",
+                    "contentLink": [
+                        "https://www.sciencealert.com/spacex-wants-to-impose-its-own-legal-regime-on-mars",
+                        "https://everydayastronaut.com/definitive-guide-to-starship/"
+                    ]
+                },
+                {
+                    "contentText": "İngiltere'deki füzyon deneyi sonucu “İlk Plazma” elde edildi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/huge-fusion-experiment-achieves-first-plasma-in-landmark-step-towards-clean-energy"
+                    ]
+                },
+                {
+                    "contentText": "ABD, Paris İklim Anlaşması’ndan resmen çekildi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/us-just-officially-left-the-paris-climate-agreement-here-s-what-that-means"
+                    ]
+                },
+                {
+                    "contentText": "Hangi pilav pişirme yöntemi daha sağlıklı?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/scientists-say-this-rice-cooking-hack-removes-arsenic-but-keeps-the-nutrients"
+                    ]
+                },
+                {
+                    "contentText": "Hindistan’da bulunan sarı kaplumbağa şaşırtıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/what-s-the-deal-with-this-ridiculous-golden-turtle-found-in-india"
+                    ]
+                },
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
