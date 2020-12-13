@@ -15280,6 +15280,94 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2020",
+            "count": 46,
+            "totalCount": 170,
+            "uploadDate": "23.11.2020",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2020/11/bilim_2020_46.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2020-46",
+            "podcastTime": 6140,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2020/46",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Covid-19 vakaları tüm dünyada rapor edilenlerden çok daha yüksek.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-actual-number-of-covid-19-cases-is-far-higher-than-official-figures-in-many-nations"
+                    ]
+                },
+                {
+                    "contentText": "Covid-19 virüsü, aşılar etkisini göstermeye başlamadan evrimleşebilir mi? Covid-19 aşıları nasıl çalışıyor?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/can-we-stop-covid-19-from-out-evolving-a-vaccine-by-learning-from-the-past",
+                        "https://www.sciencealert.com/the-pfizer-and-moderna-vaccines-are-a-breakthrough-here-s-how-they-work"
+                    ]
+                },
+                {
+                    "contentText": "Crew-1 görevi başarılı bir şekilde ISS’e ulaştı. Kaçak bir yolcu ISS’i ziyaret etti.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/there-was-a-special-extra-crew-member-onboard-yesterday-s-spacex-launch-baby-yoda"
+                    ]
+                },
+                {
+                    "contentText": "Dünya’nın çok yakınından geçen göktaşının, geldiğinden haberimiz bile yoktu.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/earth-just-had-a-record-close-shave-with-a-house-sized-asteroid"
+                    ]
+                },
+                {
+                    "contentText": "Deniz araştırması sırasında şans eseri kaydedilen inanılmaz göktaşı görüntüsü.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/watch-a-meteor-flame-and-crumble-as-it-falls-over-the-tasman-sea"
+                    ]
+                },
+                {
+                    "contentText": "Hayabusa-2 uzayda geçen 6 yıl ve 5 milyar km sonrasında yükünü bırakmaya geliyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/hayabusa2-is-about-to-return-to-earth-bringing-us-a-piece-of-precious-asteroid"
+                    ]
+                },
+                {
+                    "contentText": "Arecibo gözlemevi kopan ikinci kablodan sonra çökmenin eşiğinde.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/engineers-race-to-deconstruct-the-arecibo-telescope-before-its-catastrophic-collapse"
+                    ]
+                },
+                {
+                    "contentText": "Rocket Lab, Electron roketinin birinci aşamasını kurtarmayı başardı.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2020/11/20/rocket-lab-recovers-booster-after-launch-with-30-small-satellites/"
+                    ]
+                },
+                {
+                    "contentText": "Kulağınızdaki çınlama gerçek mi? Artık ölçmek için bir yol var.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/scientists-have-discovered-a-way-to-objectively-measure-tinnitus-in-the-brain"
+                    ]
+                },
+                {
+                    "contentText": "Mikroplastikler Everest Dağı’nın zirvesinden Mariana Çukuru’na kadar her yere yayılmış.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/microplastics-found-on-mount-everest-the-tallest-peak-in-the-world"
+                    ]
+                },
+                {
+                    "contentText": "Sadece 12 dakikalık yoğun egzersiz bile kan değerlerinin iyi yönde değişmesini sağlıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/just-12-minutes-of-intense-exercise-is-enough-to-change-biomarkers-in-your-blood"
+                    ]
+                },
+                {
+                    "contentText": "Yüz hafızamız ne kadar kuvvetli. Siz de test edin.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/think-you-re-good-at-recognising-faces-scientists-want-you-to-try-this-test",
+                        "https://facetest.psy.unsw.edu.au/UNSWfacetest.html"
+                    ]
+                }
+            ]
         }
     ]
 }
