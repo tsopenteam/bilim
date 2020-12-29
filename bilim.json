@@ -15728,6 +15728,98 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2020",
+            "count": 51,
+            "totalCount": 175,
+            "uploadDate": "28.12.2020",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2020/12/bilim_2020_51.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2020-51",
+            "podcastTime": 5794,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2020/51",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Gelecek Bilimde anketi",
+                    "contentLink": [
+                        "https://twitter.com/gelecekbilimde/status/1341747291506532352?s=21"
+                    ]
+                },
+                {
+                    "contentText": "Covid-19 salgını değerlendirme",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Covid-19’a karşı oluşan bağışıklık tepkisi en az sekiz ay boyunca devam ediyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/latest-research-adds-to-evidence-immunity-covid-19-could-last-8-months-or-more"
+                    ]
+                },
+                {
+                    "contentText": "NASA’nın astronot taşıyacak ilk Artemis görevine bir Kanadalı astronot da katılacak.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2020/12/21/canadian-astronaut-to-join-nasas-first-crewed-artemis-mission-around-the-moon/"
+                    ]
+                },
+                {
+                    "contentText": "Yüzlerce görevden sonra Ay yüzeyine neler bıraktık?",
+                    "contentLink": [
+                        "https://seyler.eksisozluk.com/yaklasik-226-tonluk-malzeme-goturulen-ayda-neler-birakildi",
+                        "https://en.wikipedia.org/wiki/List_of_artificial_objects_on_the_Moon",
+                        "https://en.wikipedia.org/wiki/List_of_artificial_objects_on_extraterrestrial_surfaces"
+                    ]
+                },
+                {
+                    "contentText": "Chang’e 5’e ulaşan ekipler zor arazide hareket için dış iskelet desteğinden yararlanmış.",
+                    "contentLink": [
+                        "https://www.scmp.com/news/china/military/article/3114387/change-5-recovery-team-use-exoskeletons-aid-mission"
+                    ]
+                },
+                {
+                    "contentText": "Çin, uzayda kütleçekimsel dalgaları ölçebilecek bir yapı kurmayı planlıyor.",
+                    "contentLink": [
+                        "https://www.universetoday.com/149343/chinas-planning-to-launch-a-space-based-gravitational-wave-observatory-in-the-2030s-tianqin-heres-how-itll-stack-up-against-lisa/"
+                    ]
+                },
+                {
+                    "contentText": "Astronomlar, Proxima Centauri’den gelen ilgi çekici bir sinyal üzerine yoğunlaşıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/astronomers-detect-intriguing-signal-coming-from-proxima-centauri"
+                    ]
+                },
+                {
+                    "contentText": "Yiyecek endüstrisinin bilimsel araştırmalardaki katkısı tartışmalara yol açıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/nutrition-studies-tied-to-food-industry-are-6-times-more-likely-to-report-favourable-results"
+                    ]
+                },
+                {
+                    "contentText": "Bir yapay zeka iyi niyetle yola çıkarak bütün dünyayı yok edecek noktaya gelebilir mi?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/could-an-ai-santanet-destroy-the-world"
+                    ]
+                },
+                {
+                    "contentText": "Taylandlı kurtarma görevlisi bir bebek file kalp masajı yaparak hayatını kurtardı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/a-rescue-worker-saved-a-baby-elephant-with-cpr-in-thailand"
+                    ]
+                },
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
