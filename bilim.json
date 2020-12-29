@@ -15549,6 +15549,90 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2020",
+            "count": 49,
+            "totalCount": 173,
+            "uploadDate": "14.12.2020",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2020/12/bilim_2020_49.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2020-49",
+            "podcastTime": 6970,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2020/49",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Covid-19 istatistikleri",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Starship SN8 roketi nihayet başarıyla test edildi.",
+                    "contentLink": [
+                        "https://www.youtube.com/watch?v=ap-BkkrRg-o&feature=youtu.be&t=6486"
+                    ]
+                },
+                {
+                    "contentText": "Boeing, Starliner kapsülünün test uçuşunun Mart ayı sonunda yapılacağını açıkladı.",
+                    "contentLink": [
+                        "https://spacenews.com/next-starliner-test-flight-scheduled-for-late-march/"
+                    ]
+                },
+                {
+                    "contentText": "NASA, Artemis görevi için astronotları seçti ve eğitimlerine başladı.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2020/12/09/nasa-names-18-astronauts-for-artemis-moon-missions/"
+                    ]
+                },
+                {
+                    "contentText": "Önümüzdeki yıl Ay yüzeyinde robot gezginlerin yarışını izleyebiliriz.",
+                    "contentLink": [
+                        "https://www.syfy.com/syfywire/moon-mark-remote-controlled-race-cars-square-off"
+                    ]
+                },
+                {
+                    "contentText": "Ay yörüngesinde işi biten Chang’e 5 aracı Ay yüzeyine çarptırıldı.",
+                    "contentLink": [
+                        "https://spacenews.com/change-5-spacecraft-smashes-into-moon-after-completing-mission/"
+                    ]
+                },
+                {
+                    "contentText": "Çin, dünyanın en hızlı kuantum bilgisayarına sahip olduğunu iddia etti.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/china-has-developed-the-fastest-and-most-powerful-quantum-computer-yet"
+                    ]
+                },
+                {
+                    "contentText": "Deniz suyu yükseldikçe alanı artan adalar.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/some-small-islands-are-growing-bigger-in-the-face-of-rising-seas-not-being-swallowed"
+                    ]
+                },
+                {
+                    "contentText": "Everest Dağı’nın kesin yüksekliği konusunda anlaşmaya varıldı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/mount-everest-has-officially-grown-taller-in-2020"
+                    ]
+                },
+                {
+                    "contentText": "Pandemi döneminde balinalar kafa dinliyor!",
+                    "contentLink": [
+                        "https://www.theverge.com/22166314/covid-19-pandemic-ocean-noise-pollution"
+                    ]
+                },
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
