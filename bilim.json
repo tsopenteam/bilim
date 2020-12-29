@@ -15633,6 +15633,101 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2020",
+            "count": 50,
+            "totalCount": 174,
+            "uploadDate": "21.12.2020",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2020/12/bilim_2020_50.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2020-50",
+            "podcastTime": 6504,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2020/50",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "COVID-19 Değerlendirme",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "İngiltere’de ortaya çıkan SARS-CoV-2 virüsünün yeni varyasyonu ne anlama geliyor?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/scientists-skeptical-over-uk-health-secretary-s-claims-new-coronavirus-strain-is-more-contagious"
+                    ]
+                },
+                {
+                    "contentText": "Belçikalı bakan yanlışlıkla aşı fiyatlarını açıkladı.",
+                    "contentLink": [
+                        "https://tr.euronews.com/2020/12/18/belcikal-bakan-yanl-sl-kla-as-fiyatlar-n-yay-nlad-en-pahal-as-n-n-tek-dozu-138-tl"
+                    ]
+                },
+                {
+                    "contentText": "Aşı olmaktan çekinen birine söylenebilecek dokuz madde.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/here-are-9-ways-to-discuss-the-coronavirus-vaccine-with-someone-hesitant-to-get-it"
+                    ]
+                },
+                {
+                    "contentText": "Jüpiter ile Satürn'ün yakınlaşması.",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Chang’e 5’in topladığı örnekler Dünya’ya döndü. Yörüngede kalan bölümü uzatılmış göreve devam edecek.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2020/12/16/chinese-sample-return-capsule-lands-on-earth-after-round-trip-flight-to-moon/",
+                        "https://spacenews.com/change-5-orbiter-embarks-on-extended-mission-to-sun-earth-lagrange-point/"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları Hayabusa 2’nin getirdiği göktaşı örneklerinden memnun.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2020/12/15/scientists-thrilled-with-asteroid-treasure-returned-by-japanese-spacecraft/"
+                    ]
+                },
+                {
+                    "contentText": "25 yıldır Güneş’i kaydettik ve şimdi onu güzel bir video ile izleyelim.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/25-years-of-solar-cycles-in-one-incredible-image"
+                    ]
+                },
+                {
+                    "contentText": "Güneş’in bu ilginç fotoğrafı sekiz yıllık uzun pozlamanın eseri.",
+                    "contentLink": [
+                        "https://www.herts.ac.uk/about-us/media-centre/news/2020/longest-known-exposure-photograph-ever-captured-using-a-beer-can"
+                    ]
+                },
+                {
+                    "contentText": "Neden kardeş sporculardan küçük olanı genellikle daha başarılı oluyor?",
+                    "contentLink": [
+                        "https://fivethirtyeight.com/features/why-are-great-athletes-more-likely-to-be-the-younger-siblings/"
+                    ]
+                },
+                {
+                    "contentText": "Yeni bir araştırmaya göre ön-insanlar kış uykusuna yatıyor olabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/early-humans-may-have-hibernated-through-long-winters"
+                    ]
+                },
+                {
+                    "contentText": "İdeal oda sıcaklığı kaç derece olmalı?",
+                    "contentLink": [
+                        "https://ytong.com.tr/blog-detay.asp?blogID=21"
+                    ]
+                },
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
