@@ -15971,6 +15971,96 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2021",
+            "count": 3,
+            "totalCount": 178,
+            "uploadDate": "18.01.2021",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2021/01/bilim_2021_3.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2021-3",
+            "podcastTime": 5957,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2021/3",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Covid-19 genel değerlendirme",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Dev kompozit üretim tesisi Ankara’da üretime başladı.",
+                    "contentLink": [
+                        "https://www.aa.com.tr/tr/ekonomi/turkiyenin-dev-kompozit-tesisi-ankarada-uretime-basladi/2108115"
+                    ]
+                },
+                {
+                    "contentText": "NASA, InSight’ın delici ucunu kurtarma çalışmalarını sonlandırdı.",
+                    "contentLink": [
+                        "https://www.universetoday.com/149625/nasa-has-given-up-on-trying-to-deploy-insights-mole/"
+                    ]
+                },
+                {
+                    "contentText": "NASA, ISS’in güneş panellerini yenileyecek.",
+                    "contentLink": [
+                        "https://spacenews.com/nasa-to-upgrade-space-station-solar-arrays/"
+                    ]
+                },
+                {
+                    "contentText": "NASA, SLS roket motoru denemesini erken sonlandırmak zorunda kaldı.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2021/01/17/nasa-studying-cause-of-early-end-to-nasa-moon-rocket-test-firing/"
+                    ]
+                },
+                {
+                    "contentText": "Blue Origin, insanlı için olan kapsülünün ilk deneme uçuşunu gerçekleştirdi.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2021/01/14/blue-origin-new-shepard-ns-14/"
+                    ]
+                },
+                {
+                    "contentText": "Virgin Orbit, ikinci denemesinde yörüngeye ulaşmayı başardı.",
+                    "contentLink": [
+                        "https://spacenews.com/virgin-orbit-reaches-orbit-on-second-launcherone-mission/"
+                    ]
+                },
+                {
+                    "contentText": "Starlink uyduları çıplak gözle görülemeyecek hale geldi, peki bu yeterli mi?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/new-starlink-satellites-third-as-bright-but-could-still-ruin-ground-based-astronomy"
+                    ]
+                },
+                {
+                    "contentText": "Canlılarda uyku mu önce oluştu beyin mi?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/basic-life-forms-may-answer-the-question-of-which-came-first-sleep-or-the-brain"
+                    ]
+                },
+                {
+                    "contentText": "Doğanın şaşırtıcı göz yanılmaları: Yerçekimine meydan okuyan arabalar!",
+                    "contentLink": [
+                        "https://www.sciencealert.com/these-gravity-defying-hills-are-one-of-the-weirdest-natural-phenomena-we-ve-seen"
+                    ]
+                },
+                {
+                    "contentText": "Sihirli mantarı damardan almaya kalkan adamın dramı!",
+                    "contentLink": [
+                        "https://www.sciencealert.com/patient-grows-magic-mushrooms-in-his-blood-after-injecting-himself-with-shroom-tea"
+                    ]
+                },
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
