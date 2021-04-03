@@ -15896,6 +15896,81 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2021",
+            "count": 2,
+            "totalCount": 177,
+            "uploadDate": "11.01.2021",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2021/01/bilim_2021_2.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2021-2",
+            "podcastTime": 5545,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2021/2",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "COVID-19 hastalarının %76’sı 6 ay geçtikten sonra bile bazı semptomları gösteriyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/most-covid-19-patients-still-have-at-least-one-symptom-after-6-months"
+                    ]
+                },
+                {
+                    "contentText": "Türksat 5A başarıyla fırlatıldı. Önümüzdeki yıllarda fırlatılacak diğer Türk uyduları.",
+                    "contentLink": [
+                        "https://spacenews.com/spacex-launches-turksat-5a/",
+                        "https://www.haberturk.com/son-dakika-cumhurbaskani-erdogan-dan-onemli-aciklamalar-2930565-ekonomi"
+                    ]
+                },
+                {
+                    "contentText": "2020 yılında uzay görevlerinde Amerika ve Çin açık arayla öndeydi.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2021/01/05/u-s-companies-led-by-spacex-launched-more-than-any-other-country-in-2020/"
+                    ]
+                },
+                {
+                    "contentText": "Çin, uzay istasyonu, kargo taşıma ve insanlı uzay görevlerinde adımlarını hızlandırıyor.",
+                    "contentLink": [
+                        "https://spacenews.com/china-gears-up-for-space-station-cargo-and-crewed-mission-launches/"
+                    ]
+                },
+                {
+                    "contentText": "Dünya 2020 yılında normalden daha hızlı döndü.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/earth-was-spinning-faster-last-year-than-at-any-other-time-in-the-past-50-years"
+                    ]
+                },
+                {
+                    "contentText": "Jüpiter devasa boyutuna rağmen neden bizim ikinci güneşimiz olmadı?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/why-isn-t-jupiter-a-star"
+                    ]
+                },
+                {
+                    "contentText": "Tek yumurta ikizleri %100 aynı genetik yapıya sahip değiller.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/study-suggests-that-identical-twins-are-not-so-identical-after-splitting"
+                    ]
+                },
+                {
+                    "contentText": "Uzmanlar yapay zeka kullanarak komplo teorileriyle gerçekleri birbirinden ayırmaya çalışıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/an-ai-tool-can-distinguish-between-a-conspiracy-theory-and-a-true-conspiracy"
+                    ]
+                },
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
