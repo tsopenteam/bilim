@@ -15820,6 +15820,82 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2021",
+            "count": 1,
+            "totalCount": 176,
+            "uploadDate": "04.01.2021",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2021/01/bilim_2021_1.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2021-1",
+            "podcastTime": 6312,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2021/1",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Covid-19 gelişmeler. Aşı tartışmaları. Aşılar nasıl üretiliyor?",
+                    "contentLink": [
+                        "https://youtu.be/0jzseDD1RDw"
+                    ]
+                },
+                {
+                    "contentText": "ESA ve ISRO, dikey iniş yapabilen roket sistemleri üzerinde çalışıyor.",
+                    "contentLink": [
+                        "https://www.universetoday.com/149359/esa-is-working-on-its-own-reusable-booster-stage-1/",
+                        "https://spacenews.com/india-aims-for-reusable-rockets-advanced-propulsion-in-decadal-spaceflight-plan/"
+                    ]
+                },
+                {
+                    "contentText": "Roscosmos yöneticisi SpaceX’e laf çarptı.",
+                    "contentLink": [
+                        "https://arstechnica.com/science/2020/12/russias-space-chief-cannot-seem-to-get-gentle-spacex-out-of-his-mind/"
+                    ]
+                },
+                {
+                    "contentText": "SpaceX, Starship birinci aşamasını havada yakalamaya çalışacak!",
+                    "contentLink": [
+                        "https://www.slashgear.com/spacex-outlines-plan-to-catch-falcon-super-heavy-booster-for-reuse-31653075/"
+                    ]
+                },
+                {
+                    "contentText": "Amerikan Uzay Kuvvetleri’nde görev yapacak askerlere ne isim verileceği belli oldu.",
+                    "contentLink": [
+                        "https://www.universetoday.com/149462/the-personnel-of-space-force-will-be-called-guardians/"
+                    ]
+                },
+                {
+                    "contentText": "Arecibo teleskobu yeniden yapılacak mı?",
+                    "contentLink": [
+                        "https://spacenews.com/puerto-rico-government-supports-rebuilding-arecibo/"
+                    ]
+                },
+                {
+                    "contentText": "Güney Kore’nin füzyon santrali rekor sıcaklık değerine ulaştı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/south-korea-s-artificial-sun-just-set-a-new-world-record-for-high-temperature-plasma"
+                    ]
+                },
+                {
+                    "contentText": "Yazıları ekrandan okumak mı kağıttan okumak mı daha iyi?",
+                    "contentLink": [
+                        "https://leidenpsychologyblog.nl/articles/screen-vs-paper-battle-of-the-e-books?fbclid=IwAR3RtJJz1k2vr3mpVqf0NVva16FeyPAKMwy_I4uht57k5FnE6Hk5T4qcFwU"
+                    ]
+                },
+                {
+                    "contentText": "Bazı kişiler uyurken koyunları sayamıyor! Aphantasia nedir?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/people-with-aphantasia-can-t-visualise-sheep-jumping-over-a-fence",
+                        "https://www.vox.com/2016/5/19/11683274/aphantasia"
+                    ]
+                },
+                {
+                    "contentText": "Restoran menülerinde kullanılan 8 psikolojik hile.",
+                    "contentLink": [
+                        "http://mentalfloss.com/article/63443/8-psychological-tricks-restaurant-menus"
+                    ]
+                }
+            ]
         }
     ]
 }
