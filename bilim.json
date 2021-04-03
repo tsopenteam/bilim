@@ -16061,6 +16061,90 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2021",
+            "count": 4,
+            "totalCount": 179,
+            "uploadDate": "25.01.2021",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2021/01/bilim_2021_4.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2021-4",
+            "podcastTime": 5859,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2021/4",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "COVID-19 İstatistikleri",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Antipsikotik ilaçlar COVID-19’da tedavi edici olabilir mi?",
+                    "contentLink": [
+                        "https://gelecekbilimde.net/koronavirus-yeni-ilac/"
+                    ]
+                },
+                {
+                    "contentText": "Starlink uydu sayısı 1000’i geçti.",
+                    "contentLink": [
+                        "https://spacenews.com/spacex-surpasses-1000-satellite-mark-in-latest-starlink-launch/"
+                    ]
+                },
+                {
+                    "contentText": "SpaceX, bir seferde 143 uydu yörüngeye taşıdı.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2021/01/24/spacex-launches-record-setting-rideshare-mission-with-143-small-satellites/"
+                    ]
+                },
+                {
+                    "contentText": "SpaceX, fırlatma rampası olarak kullanmak için deniz üstü petrol kulesi satın aldı.",
+                    "contentLink": [
+                        "https://www.universetoday.com/149720/starships-will-be-launching-from-these-oil-drilling-platforms-bought-by-spacex/"
+                    ]
+                },
+                {
+                    "contentText": "Google, Loon projesini sona erdiriyor.",
+                    "contentLink": [
+                        "https://spacenews.com/google-to-shut-down-loon/"
+                    ]
+                },
+                {
+                    "contentText": "Soğuk dünyaları keşfetmek için buzdan robotlar kullanılabilir mi?",
+                    "contentLink": [
+                        "https://www.universetoday.com/149543/a-robot-made-of-ice-could-adapt-and-repair-itself-on-other-worlds/"
+                    ]
+                },
+                {
+                    "contentText": "Gateway Vakfı, Voyager Uzay İstasyonu konseptinin ayrıntılarını açıkladı.",
+                    "contentLink": [
+                        "https://www.universetoday.com/149551/gateway-foundation-gives-a-detailed-update-on-its-voyager-station-concept/"
+                    ]
+                },
+                {
+                    "contentText": "Vejetaryenler, sağlıklı yaşlılık için doğru olanı mı yapıyor?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/eating-less-meat-is-linked-to-healthy-aging-turns-out-a-smelly-fart-gas-is-involved"
+                    ]
+                },
+                {
+                    "contentText": "Sosyal hareketler nasıl başarıya ulaşıyor?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/change-don-t-happen-overnight-but-here-s-how-social-movements-have-succeeded"
+                    ]
+                },
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
