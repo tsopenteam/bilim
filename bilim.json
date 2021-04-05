@@ -16641,6 +16641,90 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2021",
+            "count": 11,
+            "totalCount": 186,
+            "uploadDate": "15.03.2021",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2021/03/bilim_2021_11.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2021-11",
+            "podcastTime": 5143,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2021/11",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Covid-19 değerlendirmeleri",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Önceden Covid-19 geçirmiş kişilere tek doz aşı yeterli olabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/more-research-emerges-suggesting-one-shot-strategy-for-people-who-ve-had-covid"
+                    ]
+                },
+                {
+                    "contentText": "Aşılanan kişiler neleri yapabilir?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/once-fully-vaccinated-people-can-hug-and-gather-without-masks-says-cdc"
+                    ]
+                },
+                {
+                    "contentText": "SpaceX son Starlink fırlatmasıyla roket yeniden kullanım sayısını bir adım daha ileri taşıdı.",
+                    "contentLink": [
+                        "https://spacenews.com/spacex-sets-new-booster-reuse-mark-with-starlink-launch/"
+                    ]
+                },
+                {
+                    "contentText": "Blue Origin, Ay yerçekimi eğitiminde NASA’ya yardımcı olacak.",
+                    "contentLink": [
+                        "https://spacenews.com/blue-origin-to-simulate-lunar-gravity-on-suborbital-flights-for-nasa/"
+                    ]
+                },
+                {
+                    "contentText": "Hubble Uzay Teleskobu yazılım hatası nedeniyle ara verdiği çalışmalarına tekrar başladı.",
+                    "contentLink": [
+                        "https://spacenews.com/aging-hubble-returns-to-operations-after-software-glitch/"
+                    ]
+                },
+                {
+                    "contentText": "Fransa’nın yaptığı nükleer denemeler 110.000 kişiyi etkilemiş olabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/french-nuclear-tests-in-pacific-exposed-110-000-people-to-radiation-researchers-say"
+                    ]
+                },
+                {
+                    "contentText": "Tatlı su kaynaklarındaki dalgalanma büyük oranda insanlar tarafından kontrol ediliyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/humans-have-seized-control-of-the-majority-of-all-surface-freshwater-on-earth"
+                    ]
+                },
+                {
+                    "contentText": "Enerji verimliliği etiketleri Avrupa'da değişiyor.",
+                    "contentLink": [
+                        "https://www.wired.co.uk/article/energy-efficiency-ratings"
+                    ]
+                },
+                {
+                    "contentText": "Bu odaya neden gelmiştim?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/scientists-find-the-doorway-effect-could-be-real-but-only-in-overloaded-brains"
+                    ]
+                },
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
