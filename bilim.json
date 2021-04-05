@@ -16557,6 +16557,90 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2021",
+            "count": 10,
+            "totalCount": 185,
+            "uploadDate": "08.03.2021",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2021/03/bilim_2021_10.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2021-10",
+            "podcastTime": 5887,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2021/10",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Covid-19 değerlendirmeleri",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Aynı anda iki farklı Sars-Cov-2 varyantına maruz kalırsanız ne olur?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/people-are-getting-infected-with-different-covid-variants-at-once-here-s-why-it-s-a-conern"
+                    ]
+                },
+                {
+                    "contentText": "Zengin ülkelerin aşıları saklaması salgının süresini ciddi ölçüde arttırabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/vaccine-hoarding-could-make-the-pandemic-drag-on-for-many-more-years"
+                    ]
+                },
+                {
+                    "contentText": "Starship SN10, ilk kez başarıyla dikey iniş yaptı; patlamadan önce.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2021/03/03/starship-sn10-test-flight/"
+                    ]
+                },
+                {
+                    "contentText": "SpaceX, geçen ay dikey iniş yapamayan Falcon 9 birinci aşamasıyla ilgili bilgileri paylaştı.",
+                    "contentLink": [
+                        "https://spacenews.com/engine-shutdown-led-to-failed-falcon-9-booster-landing/"
+                    ]
+                },
+                {
+                    "contentText": "NASA Crew-2 görevinin 22 Nisan’da fırlatılacağını duyurdu.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2021/03/05/next-crew-dragon-launch-set-for-april-22/"
+                    ]
+                },
+                {
+                    "contentText": "Perseverance Mars yüzeyinde ilk hareket testini başarıyla geçti.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2021/03/05/perseverance-rover-aces-first-test-drive-on-mars/"
+                    ]
+                },
+                {
+                    "contentText": "Çin, patent ve inovasyon alanında son yıllara göre ciddi gelişmeler sağladı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/china-s-now-innovating-far-more-rapidly-than-the-us"
+                    ]
+                },
+                {
+                    "contentText": "Konuşmalarımızın çok büyük bir çoğunluğu istediğimiz zaman bitmiyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/only-2-of-conversations-end-when-we-want-them-to-here-s-why-that-s-a-good-thing"
+                    ]
+                },
+                {
+                    "contentText": "Yapay zeka destekli sohbet robotları vefat eden yakınlarımızı geri getirebilecek mi?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-latest-chatbots-are-capable-of-resurrecting-the-dead-if-we-let-them"
+                    ]
+                },
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
