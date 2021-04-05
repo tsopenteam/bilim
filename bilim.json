@@ -16476,6 +16476,87 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2021",
+            "count": 9,
+            "totalCount": 184,
+            "uploadDate": "01.03.2021",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2021/03/bilim_2021_9.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2021-9",
+            "podcastTime": 5298,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2021/9",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Covid 19 değerlendirmeleri. Yasakların tablo haline getirilmiş hali.",
+                    "contentLink": [
+                        "https://twitter.com/ufubo/status/1366446913101455362"
+                    ]
+                },
+                {
+                    "contentText": "FDA, Johnson & Johnson’ın Covid 19 aşısına onay verdi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/breaking-us-regulators-approve-johnson-johnson-covid-19-vaccine"
+                    ]
+                },
+                {
+                    "contentText": "Rusya, ilk kez kuşlardan insanlara geçtiği görülen H5N8 virüsünü DSÖ’ye bildirdi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/russia-has-just-detected-the-world-s-first-case-of-h5n8-avian-flu-in-humans"
+                    ]
+                },
+                {
+                    "contentText": "Perseverance’tan fotoğraf ve videolar gelmeye devam ediyor. Aracın üzerindeki gizli mesajlar.",
+                    "contentLink": [
+                        "https://mars.nasa.gov/news/8870/nasas-mars-perseverance-rover-provides-front-row-seat-to-landing-first-audio-recording-of-red-planet/",
+                        "https://www.sciencealert.com/internet-sleuths-have-decoded-the-beautiful-message-hidden-in-perseverance-s-parachute"
+                    ]
+                },
+                {
+                    "contentText": "ESA, Ay’daki mağaraları incelemek için yöntemler geliştirmeye çalışıyor.",
+                    "contentLink": [
+                        "https://www.universetoday.com/150319/esa-is-working-on-a-mission-to-explore-caves-on-the-moon/"
+                    ]
+                },
+                {
+                    "contentText": "Blue Origin, New Glenn’in ilk fırlatma tarihini 2022’nin sonuna erteledi.",
+                    "contentLink": [
+                        "https://spacenews.com/blue-origin-delays-first-launch-of-new-glenn-to-late-2022/"
+                    ]
+                },
+                {
+                    "contentText": "NASA, parlayan bulutları incelemek için; parlayan bulutlar yaptı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/nasa-is-studying-eerie-glowing-clouds-by-making-eerie-glowing-clouds"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları orta boy dinozor türlerinin neden az olduğunu bulmaya çalışıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/teenage-t-rex-edged-out-smaller-dinosaur-species-says-study"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları rüya gören insanlarla iletişim kurmaya çalışıyor.",
+                    "contentLink": [
+                        "https://www.npr.org/2021/02/27/971958260/scientists-talked-to-people-in-their-dreams-they-answered"
+                    ]
+                },
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
