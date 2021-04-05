@@ -16225,6 +16225,94 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2021",
+            "count": 6,
+            "totalCount": 181,
+            "uploadDate": "08.02.2021",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2021/02/bilim_2021_6.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2021-6",
+            "podcastTime": 5556,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2021/6",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Aşılama çalışmaları başarılı oluyor mu?",
+                    "contentLink": [
+                        "https://twitter.com/virusfantom/status/1357796608298000392?s=21"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları Covid-19 için farklı aşıların birlikte kullanılmasının etkilerini araştırıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/scientists-are-testing-mixing-astrazeneca-s-covid-19-vaccine-with-pfizer-s"
+                    ]
+                },
+                {
+                    "contentText": "Türkiye Uzay Ajansı, 9 Şubat tarihini gösteren bir video yayınladı.",
+                    "contentLink": [
+                        "https://twitter.com/tuajans/status/1357751178419990528"
+                    ]
+                },
+                {
+                    "contentText": "Göbekli tepede bir gece ortaya çıkan monolit herkesin dikkatini çekti.",
+                    "contentLink": [
+                        "https://www.ntv.com.tr/galeri/turkiye/gobeklitepedeki-monolit-nobeti-devam-ediyor,Z_sKkVEkYk-7N7HhHc5nWg/rzRXfEu-qUGr_BehvNwFmg"
+                    ]
+                },
+                {
+                    "contentText": "Starship SN9 dikey iniş denemesinde başarılı olamadı. FAA ile yaşanan kriz biraz daha aydınlandı.",
+                    "contentLink": [
+                        "https://spacenews.com/spacex-violated-launch-license-in-starship-sn8-launch/"
+                    ]
+                },
+                {
+                    "contentText": "BAE’nin uzay aracı Hope Mars yörüngesine girecek.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-uae-s-hope-probe-expected-to-win-the-2020-race-to-mars"
+                    ]
+                },
+                {
+                    "contentText": "Dubai, uzay mahkemesi kuruyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/dubai-announce-it-will-create-a-space-court-for-settling-off-earth-disputes"
+                    ]
+                },
+                {
+                    "contentText": "Bazı bakteriler antibiyotiklerden kurtulmak için şekil değiştirebiliyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/bacteria-can-change-shape-to-help-them-become-more-resillient-to-antibiotics"
+                    ]
+                },
+                {
+                    "contentText": "Evrimin bozduğu ilişkiler!",
+                    "contentLink": [
+                        "https://www.sciencealert.com/why-some-species-evolve-to-exploit-others-and-why-those-other-species-are-cool-with-it"
+                    ]
+                },
+                {
+                    "contentText": "Çiftler ayrılmadan aylar öncesinde farklı şekilde konuşmaya başlıyorlar.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/people-start-using-different-language-3-months-before-a-breakup-research-finds"
+                    ]
+                },
+                {
+                    "contentText": "Bir balinanın, gemi trafiği arasında avlanma çabası.",
+                    "contentLink": [
+                        "https://www.theverge.com/2021/2/3/22265059/animation-blue-whales-ship-strikes"
+                    ]
+                },
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
