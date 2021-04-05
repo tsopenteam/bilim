@@ -16145,6 +16145,86 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2021",
+            "count": 5,
+            "totalCount": 180,
+            "uploadDate": "01.02.2021",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2021/02/bilim_2021_5.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2021-5",
+            "podcastTime": 5399,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2021/5",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Resmi duyurusundan çok önce COVID-19 semptomları sosyal medyada paylaşılıyormuş.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/signs-of-spreading-symptoms-were-on-twitter-well-before-reports-of-pandemic-cases"
+                    ]
+                },
+                {
+                    "contentText": "COVID-19’un nörolojik etkileri düşündüğümüzden fazla olabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/a-shocking-percentage-of-covid-19-survivors-are-being-diagnosed-with-neurological-and-psychiatric-illnesses"
+                    ]
+                },
+                {
+                    "contentText": "NASA, yarım kalan SLS ateşleme testini bir kere daha yapacak.",
+                    "contentLink": [
+                        "https://spacenews.com/nasa-to-perform-second-sls-green-run-test/"
+                    ]
+                },
+                {
+                    "contentText": "SpaceX ve Amazon’un uydu üzerinden internet kavgası.",
+                    "contentLink": [
+                        "https://www.cnbc.com/2021/01/26/elon-musk-blasts-jeff-bezos-amazon-competitor-to-spacexs-starlink-.html"
+                    ]
+                },
+                {
+                    "contentText": "Starlink’in kutup yörüngelerine gönderilen uyduları lazer iletişim özelliğine sahip.",
+                    "contentLink": [
+                        "https://spacenews.com/spacex-adds-laser-crosslinks-to-polar-starlink-satellites/"
+                    ]
+                },
+                {
+                    "contentText": "FAA, Spaceship SN9 deneme fırlatması için bir türlü izin veremedi.",
+                    "contentLink": [
+                        "https://www.theverge.com/2021/1/29/22256657/spacex-launch-violation-explosive-starship-faa-investigation-elon-musk"
+                    ]
+                },
+                {
+                    "contentText": "Axiom Space ilk tamamen ticari uçuşuna katılacak personeli açıkladı.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2021/01/26/axiom-reveals-passengers-for-first-all-private-crew-mission-to-international-space-station/"
+                    ]
+                },
+                {
+                    "contentText": "Koma durumundaki hastaları ultrason ile tedavi etmek mümkün mü?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/scientists-have-managed-to-jumpstart-the-brains-of-two-people-in-comas"
+                    ]
+                },
+                {
+                    "contentText": "Şehirlerdeki ağaçlar ve depresyon arasındaki ilişki.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/street-trees-not-only-help-mitigate-climate-change-but-might-reduce-depression-too"
+                    ]
+                },
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
