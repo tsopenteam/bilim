@@ -16725,6 +16725,90 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2021",
+            "count": 12,
+            "totalCount": 187,
+            "uploadDate": "22.03.2021",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2021/03/bilim_2021_12.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2021-12",
+            "podcastTime": 5205,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2021/12",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Covid-19 değerlendirmeleri",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Aşılar, uzun süreli Covid semptomlarına da iyi geliyor olabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/woman-with-months-of-long-covid-finds-her-symptoms-vanish-after-vaccination"
+                    ]
+                },
+                {
+                    "contentText": "Amatör telsizciler SpaceX’in telemetri verisini çözmeyi başardı.",
+                    "contentLink": [
+                        "https://www.r00t.cz/Sats/Falcon9"
+                    ]
+                },
+                {
+                    "contentText": "SpaceX ve NASA uzay güvenliği anlaşması imzaladı.",
+                    "contentLink": [
+                        "https://spacenews.com/nasa-and-spacex-sign-agreement-on-spaceflight-safety/"
+                    ]
+                },
+                {
+                    "contentText": "NASA, Perseverance’ın Mars’ta hareket ederken çıkardığı sesleri yayınladı.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2021/03/17/perseverance-rover-records-sounds-of-driving-on-mars/"
+                    ]
+                },
+                {
+                    "contentText": "NASA’nın SLS ateşleme denemesi bu sefer başarılı oldu.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2021/03/18/nasas-moon-rocket-gets-a-grade-after-critical-engine-test/"
+                    ]
+                },
+                {
+                    "contentText": "Amazon ormanları Dünya’nın ciğerleri olmaya devam edebilecek mi?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-amazon-rainforest-could-now-be-making-climate-change-worse"
+                    ]
+                },
+                {
+                    "contentText": "Trolle avlanmanın atmosferdeki CO2 miktarına etkisi ciddi boyutlarda olabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/bottom-trawling-in-the-ocean-is-running-the-tap-on-earth-s-largest-carbon-sink"
+                    ]
+                },
+                {
+                    "contentText": "Plastik su şişelerini yeniden kullanmak güvenli mi?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/it-is-safe-to-reuse-plastic-water-bottles-these-scientists-explain"
+                    ]
+                },
+                {
+                    "contentText": "İkiz doğum oranları nede tarihin en yüksek seviyelerinde?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/more-twins-are-being-born-now-than-ever-in-history-here-s-what-could-be-happening"
+                    ]
+                },
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
