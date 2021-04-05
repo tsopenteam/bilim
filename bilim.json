@@ -16313,6 +16313,77 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2021",
+            "count": 7,
+            "totalCount": 182,
+            "uploadDate": "15.02.2021",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2021/02/bilim_2021_7.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2021-7",
+            "podcastTime": 5727,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2021/7",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Japonya’da milyonlarca doz Covid-19 aşısı boşa gidebilir.",
+                    "contentLink": [
+                        "https://www.npr.org/2021/02/11/966712940/short-on-syringes-japan-may-waste-millions-of-pfizer-vaccine-doses"
+                    ]
+                },
+                {
+                    "contentText": "Türkiye’nin 10 yıllık uzay yol haritası açıklandı. PDF (29-47 Sayfa)",
+                    "contentLink": [
+                        "https://www.haberturk.com/turkiye-nin-uzay-yolculugu-2967491-teknoloji",
+                        "https://cdn.tua.gov.tr/60227c3d5f551.pdf"
+                    ]
+                },
+                {
+                    "contentText": "UAE (Birleşik Arap Emirlikleri) ve Çin’in uzay araçları Mars’ın yörüngesine başarıyla girdi. Perseverance ise hızla yaklaşıyor.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2021/02/09/arab-worlds-first-interplanetary-spacecraft-safely-arrives-at-mars/",
+                        "https://spaceflightnow.com/2021/02/10/chinas-first-mars-mission-enters-orbit-around-red-planet/",
+                        "https://mars.nasa.gov/mars2020/"
+                    ]
+                },
+                {
+                    "contentText": "Lunar Gateway’in ilk modüllerini Ay yörüngesine SpaceX taşıyacak.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2021/02/09/spacex-wins-contract-to-launch-first-two-elements-of-nasas-gateway-lunar-outpost/"
+                    ]
+                },
+                {
+                    "contentText": "Elon Musk, atmosferden karbondioksiti çekecek yeni fikirler için $100 Milyon bağış yaptı.",
+                    "contentLink": [
+                        "https://www.npr.org/2021/02/08/965372754/elon-musk-funds-100-million-xprize-for-pursuit-of-new-carbon-removal-ideas"
+                    ]
+                },
+                {
+                    "contentText": "Yapay zeka insan davranışlarını etkilemek için eğitiliyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/ai-can-now-learn-to-manipulate-human-behavior"
+                    ]
+                },
+                {
+                    "contentText": "Kedinizin doğal hayata daha az zarar vermesi için ne yapabilirsiniz?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/feeding-your-cat-more-meat-makes-it-less-likely-to-kill-wildlife-study-finds"
+                    ]
+                },
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
