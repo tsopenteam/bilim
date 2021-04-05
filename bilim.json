@@ -16384,6 +16384,98 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2021",
+            "count": 8,
+            "totalCount": 183,
+            "uploadDate": "22.02.2021",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2021/02/bilim_2021_8.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2021-8",
+            "podcastTime": 5598,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2021/8",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Covid 19 değerlendirmeleri",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Perseverance Mars’a başarıyla iniş yaptı. Aracın üzerinde ne gibi cihazlar yer alıyor?",
+                    "contentLink": [
+                        "https://www.nasa.gov/press-release/touchdown-nasas-mars-perseverance-rover-safely-lands-on-red-planet",
+                        "https://spacenews.com/helicopter-and-other-technology-demos-hitch-a-ride-on-mars-2020/"
+                    ]
+                },
+                {
+                    "contentText": "Önümüzdeki aylarda NASA’daki Perseverance takımı Mars zamanına göre çalışacak.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/perseverance-team-goes-on-jet-lag-inducing-mars-time-for-the-mission"
+                    ]
+                },
+                {
+                    "contentText": "Mars, Linux çalışan bilgisayarların Windows’tan daha fazla olduğu ikinci gezegen oldu. Ayrıca; elektrikli araçların Mars’taki payı %100.",
+                    "contentLink": [
+                        "https://twitter.com/mikko/status/1362763793042972673",
+                        "https://twitter.com/mikko/status/1362878168202412033"
+                    ]
+                },
+                {
+                    "contentText": "NASA ve Çin’in ortak çalışamaması bilimsel alanda fırsatların kaçmasına neden olabilir.",
+                    "contentLink": [
+                        "https://spacenews.com/nasas-china-exclusion-could-spell-a-missed-opportunity-for-mars-insight/"
+                    ]
+                },
+                {
+                    "contentText": "InSight, bir toz fırtınası tarafından temizleyene kadar tam kapasite çalışamayacak.",
+                    "contentLink": [
+                        "https://www.universetoday.com/150161/nasas-insight-will-have-reduced-capability-until-a-dust-devil-cleans-off-its-solar-panels/"
+                    ]
+                },
+                {
+                    "contentText": "Rusya ve Çin, Ay üzerinde uluslararası araştırma istasyonu kurmak konusunda anlaşmaya vardı.",
+                    "contentLink": [
+                        "https://spacenews.com/russia-china-to-sign-agreement-on-international-lunar-research-station/"
+                    ]
+                },
+                {
+                    "contentText": "Starlink uydularının kapsama alanları.",
+                    "contentLink": [
+                        "https://satellitemap.space/"
+                    ]
+                },
+                {
+                    "contentText": "Dünya’nın manyetik alanı 42 bin yıl önce ters döndü.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/earth-s-magnetic-field-flipped-42-000-years-ago-with-dramatic-consequences"
+                    ]
+                },
+                {
+                    "contentText": "Soğuğa dayanıklılığın genetik temelleri keşfedildi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/1-in-5-of-us-have-a-genetic-mutation-that-makes-us-more-resilient-to-the-cold"
+                    ]
+                },
+                {
+                    "contentText": "Narsistler iş hayatında basamakları daha hızlı çıkıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/narcissists-climb-up-the-ladder-to-ceo-faster-than-their-peers-study-finds"
+                    ]
+                },
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
