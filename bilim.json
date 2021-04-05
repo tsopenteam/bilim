@@ -16809,6 +16809,97 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2021",
+            "count": 13,
+            "totalCount": 188,
+            "uploadDate": "29.03.2021",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2021/03/bilim_2021_13.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2021-13",
+            "podcastTime": 6006,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2021/13",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Duyuru: Aykut Kence Evrim Konferansı Youtube kanalı",
+                    "contentLink": [
+                        "https://www.youtube.com/channel/UCbRCgMvn4_wSon3i-9Tl2Mg"
+                    ]
+                },
+                {
+                    "contentText": "Covid-19 Değerlendirmeleri",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "AstraZeneca aşısının etkinliği %76 olarak güncellendi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/astrazeneca-revises-down-its-vaccine-efficacy-a-little-in-a-huge-us-trial"
+                    ]
+                },
+                {
+                    "contentText": "Hap biçimindeki Covid-19 aşısı, ilk klinik denemelere girecek.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/a-potential-pill-form-coronavirus-vaccine-could-soon-undergo-clinical-trials"
+                    ]
+                },
+                {
+                    "contentText": "Ingenuity Nisan ayında ilk uçuş denemesini yapmaya hazırlanıyor.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2021/03/26/nasa-primed-for-historic-flight-of-experimental-mars-helicopter/"
+                    ]
+                },
+                {
+                    "contentText": "Kara delik etrafındaki bükülmüş ışık manyetik alan hakkında ipuçları içeriyor.",
+                    "contentLink": [
+                        "https://www.universetoday.com/150699/the-event-horizon-telescope-has-revealed-the-magnetic-field-lines-around-m87s-central-black-hole/"
+                    ]
+                },
+                {
+                    "contentText": "Hayalet parçacıkları araştırmak için Baykal Gölü’ne bir teleskop yerleştirildi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/researchers-sink-a-telescope-in-the-world-s-deepest-lake-to-catch-ghost-particles"
+                    ]
+                },
+                {
+                    "contentText": "Münazara yapay zekası gelecekte insanları ikna etmekte zorlanmayacak.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/this-new-ai-exists-for-the-sole-purpose-of-arguing-with-humans"
+                    ]
+                },
+                {
+                    "contentText": "Egzersizden önce bir bardak kahve içmek daha kolay yağ yakmanızı sağlıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/drinking-coffee-before-exercising-does-something-pretty-awesome-to-your-body"
+                    ]
+                },
+                {
+                    "contentText": "Fiyat etiketleri algımızı yönetiyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/psychologists-find-cheap-wine-tastes-better-when-it-s-sold-as-expensive"
+                    ]
+                },
+                {
+                    "contentText": "Ön ayakları üzerinde yürüyen tavşanlar, rüya gören ahtapotlar!",
+                    "contentLink": [
+                        "https://www.sciencealert.com/this-bunny-walks-on-its-front-paws-because-it-has-a-defect-in-a-hopping-gene",
+                        "https://www.sciencealert.com/the-shifting-hues-of-sleeping-octopuses-indicate-a-second-sleep-state"
+                    ]
+                },
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
