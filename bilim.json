@@ -16900,6 +16900,85 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2021",
+            "count": 14,
+            "totalCount": 189,
+            "uploadDate": "05.04.2021",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2021/04/bilim_2021_14.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2021-14",
+            "podcastTime": 5680,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2021/14",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Başlangıç",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Covid-19 genel durum değerlendirmesi",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Starship SN11 test aracı havada patladı.",
+                    "contentLink": [
+                        "https://www.universetoday.com/150717/latest-starship-prototype-sn11-explodes-in-mid-air-raining-debris-on-the-launch-site/"
+                    ]
+                },
+                {
+                    "contentText": "Virgin Galactic yeni uzay uçağını duyurdu.",
+                    "contentLink": [
+                        "https://spacenews.com/virgin-galactic-unveils-new-suborbital-spaceplane/"
+                    ]
+                },
+                {
+                    "contentText": "Ingenuity, Perseverance’tan ayrıldı, artık tek başına.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2021/04/04/mars-rover-deploys-ingenuity-helicopter-for-historic-flight/"
+                    ]
+                },
+                {
+                    "contentText": "Çin, Mars gezginini Mayıs ayında yüzeye indirmeyi deneyecek.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2021/04/01/chinas-tianwen-1-mission-targets-mid-may-landing-on-mars/"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları antimaddeyi yavaşlatmayı başardı. Antimadde nedir?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/researchers-hit-a-new-record-in-slowing-antimatter-to-its-slowest-speed-yet",
+                        "https://www.symmetrymagazine.org/article/april-2015/ten-things-you-might-not-know-about-antimatter"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları büyüyen ve bölünebilen yapay hücre üretmeyi başardı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/scientists-have-built-a-synthetic-cell-that-grows-and-divides-normally"
+                    ]
+                },
+                {
+                    "contentText": "Hareketli parça olmadan yakınlaştırma yapabilen lensler geliştiriliyor.",
+                    "contentLink": [
+                        "https://medium.com/extremetech-access/mit-creates-zoomable-lens-without-any-moving-parts-87286a791047"
+                    ]
+                },
+                {
+                    "contentText": "Yapay tatlandırıcılar sağlıklı mı?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/are-artificial-sweeteners-are-better-for-you-than-sugar-scientists-weigh-in"
+                    ]
+                },
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
