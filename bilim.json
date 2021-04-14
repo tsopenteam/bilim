@@ -16979,6 +16979,81 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2021",
+            "count": 15,
+            "totalCount": 190,
+            "uploadDate": "12.04.2021",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2021/04/bilim_2021_15.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2021-15",
+            "podcastTime": 5739,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2021/15",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Covid-19 genel durum değerlendirmesi",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "2023’te Ay’a gidecek olan roketin ilk motor ateşleme testi yapıldı.",
+                    "contentLink": [
+                        "https://www.aa.com.tr/tr/bilim-teknoloji/aya-sert-inis-gorevinde-kullanilmasi-planlanan-hibrit-roket-motorunun-testi-basariyla-sonuclandi/2204997"
+                    ]
+                },
+                {
+                    "contentText": "Ingenuity ilk deneme uçuşunu 14 Nisan’da yapacak.",
+                    "contentLink": [
+                        "https://mars.nasa.gov/technology/helicopter/status/291/mars-helicopter-flight-delayed-to-no-earlier-than-april-14/",
+                        "https://spacenews.com/nasa-delays-first-flight-of-mars-helicopter/"
+                    ]
+                },
+                {
+                    "contentText": "Mars’ta gökkuşağı olur mu? Peki Mars’ta deprem olur mu? InSight iki güçlü deprem tespit etti.",
+                    "contentLink": [
+                        "https://www.universetoday.com/150803/perseverance-captured-this-image-of-a-rainbow-on-mars-but-its-just-a-lens-flare-in-the-rovers-camera/",
+                        "https://www.sciencealert.com/two-strong-quakes-have-been-detected-on-mars"
+                    ]
+                },
+                {
+                    "contentText": "Starship SN 11 metan sızıntısı nedeniyle patlamış.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2021/04/05/musk-says-methane-leak-doomed-latest-starship-test-flight/"
+                    ]
+                },
+                {
+                    "contentText": "Son yapılan müon deneyine göre evrende henüz bilmediğimiz kuvvetler ve parçacıklar olabilir. Parçacık fiziği youtube oynatma listesi",
+                    "contentLink": [
+                        "https://www.nytimes.com/2021/04/07/science/particle-physics-muon-fermilab-brookhaven.html",
+                        "https://www.youtube.com/watch?v=n-WTovOT4Lw&list=PLRN3HroZGu2lkRDsRxzqy_WU8NRk6evbD&index=1"
+                    ]
+                },
+                {
+                    "contentText": "Bir sorun için çözüm üretmemiz istendiğinde karmaşıklığı arttırma eğilimindeyiz.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/here-s-why-our-brains-always-want-to-solve-problems-by-adding-not-taking-away"
+                    ]
+                },
+                {
+                    "contentText": "Tokatlayarak tavuk pişirilebilir mi?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/this-guy-on-youtube-actually-cooked-meat-by-slapping-it-a-lot"
+                    ]
+                },
+                {
+                    "contentText": "Soru - Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
