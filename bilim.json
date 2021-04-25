@@ -17054,6 +17054,102 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2021",
+            "count": 16,
+            "totalCount": 191,
+            "uploadDate": "19.04.2021",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2021/04/bilim_2021_16.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2021-16",
+            "podcastTime": 5728,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2021/16",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Açılış ve Özet",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Covid-19 genel durum değerlendirmesi",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Ingenuity’nin ilk uçuşunu başarıyla gerçekleştirdi.",
+                    "contentLink": [
+                        "https://spacenews.com/ingenuity-performs-first-flight-on-mars/"
+                    ]
+                },
+                {
+                    "contentText": "Dünden bugüne Mars’a giden keşif araçlarının bazı özellikleri.",
+                    "contentLink": [
+                        "https://teknoseyir.com/durum/1406657"
+                    ]
+                },
+                {
+                    "contentText": "Blue Origin yörünge altı uçuş için insanlı prova yaptı.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2021/04/14/blue-origin-practices-crew-operations-on-suborbital-test-flight/"
+                    ]
+                },
+                {
+                    "contentText": "NASA, Artemis görevindeki iniş aracı olarak SpaceX’i seçti.",
+                    "contentLink": [
+                        "https://spacenews.com/nasa-selects-spacex-to-develop-crewed-lunar-lander/"
+                    ]
+                },
+                {
+                    "contentText": "Güneş ışığını yansıtarak aydaki enerji ihtiyacını karşılamak mümkün olabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/distributing-energy-on-the-moon-could-just-be-a-matter-of-bending-sunlight"
+                    ]
+                },
+                {
+                    "contentText": "37 yıllık iklim değişikliğine Google Earth gözüyle bakalım.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/google-earth-now-lets-you-look-back-at-the-impact-of-climate-change-in-3d"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları yarı maymun yarı insan embriyo üretmeyi başardı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/controversial-chimera-embryos-made-by-scientists-are-part-human-part-monkey"
+                    ]
+                },
+                {
+                    "contentText": "Fukishima Nükleer Santrali’nde depolanan arıtılmış soğutma suyu okyanusa bırakılacak.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/japan-has-plans-to-soon-release-treated-fukushima-water-into-the-sea"
+                    ]
+                },
+                {
+                    "contentText": "Eski insanlar mağaralara çizim yapmak için kendilerini oksijensiz bırakıyor olabilirler.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/ancient-cave-artists-might-ve-knowingly-deprived-themselves-of-oxygen-to-paint"
+                    ]
+                },
+                {
+                    "contentText": "Neuralink videosu: Düşünce gücüyle oyun oynayan maymun.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/elon-musk-s-neuralink-on-track-to-be-ready-for-human-trials-within-a-year"
+                    ]
+                },
+                {
+                    "contentText": "Zoom yorgunluğu kadınları daha fazla etkiliyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/we-may-have-found-one-of-the-main-reasons-for-zoom-fatigue-and-it-s-affecting-women-more"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
