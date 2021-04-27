@@ -17150,6 +17150,84 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2021",
+            "count": 17,
+            "totalCount": 192,
+            "uploadDate": "26.04.2021",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2021/04/bilim_2021_17.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2021-17",
+            "podcastTime": 5503,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2021/17",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "4. İTÜ Gökbilim Günleri 1 - 2 Mayıs tarihinde internet üzerinde yapılacak.",
+                    "contentLink": [
+                        "https://astronomi.itu.edu.tr/iv-itu-gokbilim-gunleri"
+                    ]
+                },
+                {
+                    "contentText": "Covid-19 genel durum değerlendirmesi",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Oxford Üniversitesi sonuçları gözlemlemek için bir grup gönülleye ikinci kere korona virüsü bulaştırdı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/brave-volunteers-are-being-deliberately-reinfected-with-covid-19"
+                    ]
+                },
+                {
+                    "contentText": "Sıtmaya karşı üretilen ilk başarılı aşı binlerce ölümün önüne geçebilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/new-malaria-vaccine-is-major-breakthrough-with-77-percent-rate-of-effectiveness"
+                    ]
+                },
+                {
+                    "contentText": "Crew-2 görevi başarıyla ISS’e kenetlendi.",
+                    "contentLink": [
+                        "https://spacenews.com/crew-2-arrives-at-iss/"
+                    ]
+                },
+                {
+                    "contentText": "Ingenuity üçüncü uçuşunu başarıyla yaptı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/ingenuity-just-took-it-s-third-flight-over-mars-and-it-was-it-s-most-exciting-yet"
+                    ]
+                },
+                {
+                    "contentText": "Perseverance, Mars atmosferinden oksijen üretmeyi başardı.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2021/04/22/in-another-first-nasas-perseverance-rover-generates-oxygen-on-mars/"
+                    ]
+                },
+                {
+                    "contentText": "Yapay zeka insanlık için tehlike oluşturabilir mi?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/here-s-why-ai-is-not-an-existential-threat-to-humanity"
+                    ]
+                },
+                {
+                    "contentText": "Göz kontağı kurmak zaman algımızı etkiliyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/our-sense-of-time-is-warped-when-we-catch-the-eye-of-another-person"
+                    ]
+                },
+                {
+                    "contentText": "Yerin derinliklerinde yaşayan bir bakteri türü 175 Milyon yıldır neredeyse hiç evrimleşmemiş.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/these-weird-chthonic-microbes-haven-t-evolved-for-millions-of-years"
+                    ]
+                },
+                {
+                    "contentText": "Neden at kadar büyük  tavşan yok?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/scientists-have-figured-out-a-reason-why-we-don-t-have-horse-sized-rabbits"
+                    ]
+                }
+            ]
         }
     ]
 }
