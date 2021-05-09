@@ -17228,6 +17228,89 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2021",
+            "count": 18,
+            "totalCount": 193,
+            "uploadDate": "03.05.2021",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2021/05/bilim_2021_18.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2021-18",
+            "podcastTime": 5561,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2021/18",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Bloomberg Pandemiye Direnç endeksi",
+                    "contentLink": [
+                        "https://www.bloomberg.com/graphics/covid-resilience-ranking/"
+                    ]
+                },
+                {
+                    "contentText": "Covid-19 hastalığını tamamen ortadan kaldırabilecek miyiz?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/covid-19-is-likely-to-become-endemic-says-expert-consensus"
+                    ]
+                },
+                {
+                    "contentText": "Grip salgınları ortadan kayboldu.",
+                    "contentLink": [
+                        "https://www.scientificamerican.com/article/flu-has-disappeared-worldwide-during-the-covid-pandemic/"
+                    ]
+                },
+                {
+                    "contentText": "Apollo 11 astronotlarından Michael Collins hayatını kaybetti.",
+                    "contentLink": [
+                        "https://www.universetoday.com/151017/put-lucky-on-my-tombstone-apollo-11-astronaut-michael-collins-dies-at-90/"
+                    ]
+                },
+                {
+                    "contentText": "Çin, yeni uzay istasyonunun ilk modülünü uzaya gönderdi.",
+                    "contentLink": [
+                        "https://www.universetoday.com/151047/china-launches-the-core-module-of-its-new-space-station/",
+                        "https://spaceflightnow.com/2021/04/29/assembly-of-chinese-space-station-begins-with-successful-core-module-launch/"
+                    ]
+                },
+                {
+                    "contentText": "Ingenuity dördüncü uçuşunu başarıyla yaptı. Yeni aşamaya geçiliyor.",
+                    "contentLink": [
+                        "https://spacenews.com/ingenuity-shifts-from-technology-to-operations-demo-after-successful-fourth-flight/",
+                        "https://mars.nasa.gov/news/8936/nasas-ingenuity-helicopter-to-begin-new-demonstration-phase/"
+                    ]
+                },
+                {
+                    "contentText": "SpaceX daha alçak yörüngeler için FCC’den onay aldı. Uydudan haberleşmeyle ilgili düzenleme",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2021/04/29/spacex-launches-60-more-starlink-spacecraft-fcc-clears-spacex-to-fly-satellites-at-lower-altitudes/",
+                        "https://www.resmigazete.gov.tr/eskiler/2021/05/20210501-6.htm"
+                    ]
+                },
+                {
+                    "contentText": "Bilimsel bir deney için 40 gün mağarada kalan 15 kişi gün ışığına çıktı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/15-volunteers-lived-in-a-cave-with-no-phones-clocks-or-sunlight-for-40-days"
+                    ]
+                },
+                {
+                    "contentText": "İnternet gittikçe daha az web sitesinin hakimiyeti altına giriyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/we-re-going-to-fewer-and-fewer-websites-and-that-could-be-a-problem"
+                    ]
+                },
+                {
+                    "contentText": "Soru - Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
