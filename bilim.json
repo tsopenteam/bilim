@@ -17311,6 +17311,98 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2021",
+            "count": 19,
+            "totalCount": 194,
+            "uploadDate": "10.05.2021",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2021/05/bilim_2021_19.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2021-19",
+            "podcastTime": 5660,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2021/19",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Başlangıç",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Çin’in kontrolsüz bir şekilde atmosfere giren roketi Hint Okyanusu’na düştü.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/long-march-5b-rocket-segments-re-enters-atmosphere-disintegrates-over-indian-ocean"
+                    ]
+                },
+                {
+                    "contentText": "SpaceX Starship SN15 bu sefer başarıyla iniş yaptı.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2021/05/05/starship-sn15-test-flight/"
+                    ]
+                },
+                {
+                    "contentText": "Blue Origin Temmuz ayında ilk insanlı görevini yapacak.",
+                    "contentLink": [
+                        "https://spacenews.com/blue-origin-to-fly-first-people-on-new-shepard-in-july/"
+                    ]
+                },
+                {
+                    "contentText": "Boeing Starliner’ın ikinci demo uçuşu 30 Temmuz’da yapılacak.",
+                    "contentLink": [
+                        "https://spacenews.com/starliner-test-flight-scheduled-for-july-30/"
+                    ]
+                },
+                {
+                    "contentText": "SpaceX’in kazandığı HLS (Human Landing System) programına yapılan itirazı değerlendirmek için süreç durduruldu.",
+                    "contentLink": [
+                        "https://www.universetoday.com/151078/protests-from-dynetics-and-blue-origin-put-nasas-lunar-lander-award-to-spacex-on-hold/"
+                    ]
+                },
+                {
+                    "contentText": "SpaceX Doge-1 uydusunu gelecek yıl aya fırlatacak.",
+                    "contentLink": [
+                        "https://twitter.com/elonmusk/status/1391523807148527620"
+                    ]
+                },
+                {
+                    "contentText": "Genetiği değiştirilmiş sivrisinekler Amerika’da doğaya salındı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-first-genetically-modified-mosquitoes-have-just-been-released-in-us"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları DNA’ya veri depolamanın ucuz yolunu arıyor.",
+                    "contentLink": [
+                        "https://massivesci.com/articles/dna-storage-living-bacteria/"
+                    ]
+                },
+                {
+                    "contentText": "Yıldırımlar, hava temizlemede önemli bir paya sahip olabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/study-shows-how-lightning-actually-helps-earth-s-atmosphere-clean-itself"
+                    ]
+                },
+                {
+                    "contentText": "Kompakt makarnalar %60 daha az yer kaplıyor.",
+                    "contentLink": [
+                        "https://www.inverse.com/innovation/3d-morphing-pasta-to-alleviate-package-waste"
+                    ]
+                },
+                {
+                    "contentText": "Kediler, olmayan kutuların içinde oturmayı seviyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/cats-don-t-just-like-to-sit-in-real-boxes-they-ll-choose-to-sit-in-illusions-of-boxes-too"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
