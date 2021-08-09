@@ -17403,6 +17403,108 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2021",
+            "count": 20,
+            "totalCount": 195,
+            "uploadDate": "17.05.2021",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2021/05/bilim_2021_20.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2021-20",
+            "podcastTime": 5865,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2021/20",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Mobiler.dev’in düzenlediği mobil kontrollü robot savaşı 18 Eylül’de yapılacak.",
+                    "contentLink": [
+                        "https://www.robowars.dev/"
+                    ]
+                },
+                {
+                    "contentText": "Genel Covid-19 değerlendirmesi",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "CDC (Hastalık Kontrol ve Önleme Merkezi): Aşıları tamamlanan kişiler maske takmadan dolaşabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/cdc-says-there-s-no-need-to-physically-distance-if-you-re-fully-vaccinated"
+                    ]
+                },
+                {
+                    "contentText": "Aşı ile vücuda çip takmak gerçek mi oluyor?",
+                    "contentLink": [
+                        "https://www.eurekalert.org/pub_releases/2021-05/cuso-twi051121.php"
+                    ]
+                },
+                {
+                    "contentText": "Aşı karşıtı iddiaların büyük kısmı çok az sayıda kişi tarafından yayılıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/most-anti-vaccine-conspiracies-online-come-from-the-same-12-people-study-shows"
+                    ]
+                },
+                {
+                    "contentText": "Çin, Mars yörüngesindeki aracını yüzeye indirmeyi başardı.",
+                    "contentLink": [
+                        "https://www.scientificamerican.com/article/china-lands-tianwen-1-rover-on-mars-in-a-major-first-for-the-country/"
+                    ]
+                },
+                {
+                    "contentText": "Ingenuity ilk tek yön uçuşunu yaptı.",
+                    "contentLink": [
+                        "https://mars.nasa.gov/news/8942/nasas-ingenuity-mars-helicopter-completes-first-one-way-trip/"
+                    ]
+                },
+                {
+                    "contentText": "NASA: ISS’e özel uçuş istekleri beklentilerin çok üzerinde.",
+                    "contentLink": [
+                        "https://spacenews.com/nasa-says-demand-for-private-iss-missions-exceeds-flight-opportunities/"
+                    ]
+                },
+                {
+                    "contentText": "Starlink ve OneWeb ilk kez çarpışmayı önleme manevrası yapmak zorunda kaldı.",
+                    "contentLink": [
+                        "https://www.universetoday.com/151137/starlink-and-oneweb-have-their-first-avoidance-maneuver-with-each-others-constellations/"
+                    ]
+                },
+                {
+                    "contentText": "Sekme kalabalığına yapay zeka çözüm olabilir mi?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/tab-overload-is-a-common-problem-for-people-browsing-the-internet-survey-finds"
+                    ]
+                },
+                {
+                    "contentText": "Domuzlar ve kemirgenler bağırsak solunumu yapabiliyor!",
+                    "contentLink": [
+                        "https://www.sciencealert.com/pigs-and-rodents-can-breathe-through-their-butts-apparently"
+                    ]
+                },
+                {
+                    "contentText": "Beyin büyüklüğü ile esneme süresi arasında ilişki olabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-length-of-a-yawn-is-tied-to-the-size-of-the-brain"
+                    ]
+                },
+                {
+                    "contentText": "Aşırı uyumak mümkün mü?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/oversleeping-is-not-bad-for-you-according-to-experts-but-don-t-make-it-a-habit"
+                    ]
+                },
+                {
+                    "contentText": "Soru - Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
