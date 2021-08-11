@@ -17505,6 +17505,78 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2021",
+            "count": 21,
+            "totalCount": 196,
+            "uploadDate": "24.05.2021",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2021/05/bilim_2021_21.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=zSZhw0b92hI",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2021-21",
+            "podcastTime": 5867,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2021/21",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Covid-19 değerlendirmesi",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Çin’in Mars’a iniş yapan aracından ilk görüntüler yayınlandı.",
+                    "contentLink": [
+                        "https://spacenews.com/zhurong-rover-rolls-onto-martian-surface-a-week-after-landing/"
+                    ]
+                },
+                {
+                    "contentText": "Virgin Galactic’in SpaceShip Two aracı test uçuşunu başarıyla gerçekleştirdi.",
+                    "contentLink": [
+                        "https://spacenews.com/spaceshiptwo-makes-first-flight-to-space-from-new-mexico/"
+                    ]
+                },
+                {
+                    "contentText": "Tardigradlar (su ayıları) yüksek hızda çarpışmaya karşı ne kadar dayanıklı?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/tardigrades-can-survive-high-velocity-impacts-after-being-fired-from-a-gun"
+                    ]
+                },
+                {
+                    "contentText": "Uzay kirliliğine mantardan yapılmış uydular çözüm olabilir mi?",
+                    "contentLink": [
+                        "https://www.universetoday.com/150960/a-solution-to-space-junk-satellites-made-of-mushrooms/"
+                    ]
+                },
+                {
+                    "contentText": "Amerikalı astronotların uzayda isyan hikayesi.",
+                    "contentLink": [
+                        "https://www.bbc.com/news/stories-56346001"
+                    ]
+                },
+                {
+                    "contentText": "Nüfus artışının azalması ve sonuçları.",
+                    "contentLink": [
+                        "https://www.nytimes.com/2021/05/22/world/global-population-shrinking.html"
+                    ]
+                },
+                {
+                    "contentText": "Aptallığın beş evrensel kanunu.",
+                    "contentLink": [
+                        "https://getpocket.com/explore/item/the-five-universal-laws-of-human-stupidity"
+                    ]
+                },
+                {
+                    "contentText": "Soru - Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
