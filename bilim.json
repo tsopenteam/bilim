@@ -17577,6 +17577,92 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2021",
+            "count": 22,
+            "totalCount": 197,
+            "uploadDate": "31.05.2021",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2021/05/bilim_2021_22.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=K8B-3Dx-ftU",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2021-22",
+            "podcastTime": 5424,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2021/22",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Tek doz aşı Covid-19’a karşı ne kadar koruyor?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/only-have-your-first-vaccination-so-far-here-s-the-data-on-how-protected-you-are"
+                    ]
+                },
+                {
+                    "contentText": "SARS-COV-2 insan eliyle üretilmiş bir virüs mü?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-lab-leak-theory-of-covid-19-may-be-possible-but-that-doesn-t-make-it-likely"
+                    ]
+                },
+                {
+                    "contentText": "Ingenuity, bazı aksaklıklar yaşasa da altıncı uçuşunu başarıyla tamamladı.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2021/05/27/mars-helicopter-muscles-through-navigation-glitch-on-sixth-flight/"
+                    ]
+                },
+                {
+                    "contentText": "Çin’in kargo aracı uzay istasyonuyla başarılı bir şekilde kenetlendi.",
+                    "contentLink": [
+                        "https://spacenews.com/tianzhou-2-docks-with-chinas-space-station-module/"
+                    ]
+                },
+                {
+                    "contentText": "Çin, uydudan geniş bant internet sağlayacak firma için düğmeye bastı.",
+                    "contentLink": [
+                        "https://spacenews.com/china-establishes-company-to-build-satellite-broadband-megaconstellation/"
+                    ]
+                },
+                {
+                    "contentText": "Viasat, Starlink’in uydu fırlatmalarına ara vermesini istiyor.",
+                    "contentLink": [
+                        "https://spacenews.com/viasat-asks-fcc-to-halt-starlink-launches-while-it-seeks-court-ruling/"
+                    ]
+                },
+                {
+                    "contentText": "ISS’e çarpan uzay çöpü robot kola zarar verdi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/space-debris-has-damaged-the-international-space-station"
+                    ]
+                },
+                {
+                    "contentText": "Uzmanlar depremle sırasında oluşan elektromanyetik dalgalanmaların nedenini araştırıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/weird-electromagnetic-bursts-appear-before-earthquakes-and-we-may-finally-know-why"
+                    ]
+                },
+                {
+                    "contentText": "Erken doğumlarda bebeğin anne ile teması ölüm oranlarını azaltıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/immediate-skin-to-skin-contact-saves-the-lives-of-many-preterm-babies-study-shows"
+                    ]
+                },
+                {
+                    "contentText": "Bilim dünyasının tekrarlanabilirlik krizi düşündüğümüzden daha derin olabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/non-replicable-studies-make-the-most-impact-scientists-find"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
