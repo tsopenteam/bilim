@@ -17663,6 +17663,86 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2021",
+            "count": 23,
+            "totalCount": 198,
+            "uploadDate": "07.06.2021",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2021/06/bilim_2021_23.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2021-23",
+            "podcastTime": 5613,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2021/23",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Başlangıç",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "COVID-19 mutasyonları için yeni isimlendirme yöntemi belirlendi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/who-assigns-greek-letters-to-covid-19-variants"
+                    ]
+                },
+                {
+                    "contentText": "Gün içindeki aşılanma zamanı antikor miktarını etkiliyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/how-well-your-immune-system-works-can-depend-on-the-time-of-day"
+                    ]
+                },
+                {
+                    "contentText": "İki grip virüsü türü tamamen yok olmuş olabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/two-flu-strains-may-have-gone-extinct-due-to-drop-in-transmission-during-the-pandemic"
+                    ]
+                },
+                {
+                    "contentText": "NASA, uzun bir aradan sonra Venüs’e iki ayrı görev yapmaya hazırlanıyor.",
+                    "contentLink": [
+                        "https://spacenews.com/nasa-selects-two-venus-missions-for-discovery-program/"
+                    ]
+                },
+                {
+                    "contentText": "Kullanım ömrü dolan Rus ISS modülünün ayrılma süreci başlatıldı.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2021/06/02/spacewalkers-prepare-space-stations-russian-pirs-docking-compartment-for-disposal/"
+                    ]
+                },
+                {
+                    "contentText": "Amerikan Ordusu Dünya’nın herhangi bir yerine roketlerle malzeme taşıyabilir olmayı planlıyor.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2021/06/04/new-military-program-huge-rockets-for-global-cargo-delivery/"
+                    ]
+                },
+                {
+                    "contentText": "Gezegenimizi sürdürülebilir hale getirmek için yabanlaştırmamız gerekiyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/we-must-rewild-a-billion-hectares-to-combat-climate-change-warns-un-report"
+                    ]
+                },
+                {
+                    "contentText": "Çin, füzyon reaktörü konusunda önemli bir aşamayı daha geride bıraktı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/china-s-artificial-sun-fusion-reactor-reached-another-milestone"
+                    ]
+                },
+                {
+                    "contentText": "Kısa bir eğitimle insanlar da yarasalar gibi sesleri kullanarak yollarını bulabiliyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/blind-and-sighted-people-can-learn-to-echolocate-in-as-few-as-10-weeks"
+                    ]
+                },
+                {
+                    "contentText": "Soru - Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
