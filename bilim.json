@@ -17743,6 +17743,86 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2021",
+            "count": 24,
+            "totalCount": 199,
+            "uploadDate": "14.06.2021",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2021/06/bilim_2021_24.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2021-24",
+            "podcastTime": 5399,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2021/24",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Bazı insanlar aylar sonra bile Covid-19 etkisinden kurtulamıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/long-covid-is-likely-going-to-be-with-us-for-a-while-here-s-the-latest-theories"
+                    ]
+                },
+                {
+                    "contentText": "Şu anda tüm dünyada kaç kilo SARS-CoV-2 virüsü var?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/how-much-does-all-the-sars-cov-2-in-the-world-weigh"
+                    ]
+                },
+                {
+                    "contentText": "Çin’in Mars’taki gezgininden yeni fotoğraflar yayınlandı.",
+                    "contentLink": [
+                        "https://www.universetoday.com/151491/chinas-mars-rover-seen-from-orbit-and-from-the-surface/"
+                    ]
+                },
+                {
+                    "contentText": "InSight, güneş panelleri üzerindeki tozu temizlemek için üzerine toprak atıyor!",
+                    "contentLink": [
+                        "https://www.universetoday.com/151410/clever-trick-used-to-clean-off-insights-solar-panels-and-boost-its-power/"
+                    ]
+                },
+                {
+                    "contentText": "Ingenuity yedinci uçuşunu başarıyla gerçekleştirdi. Perseverance",
+                    "contentLink": [
+                        "https://mars.nasa.gov/news/8963/nasas-perseverance-rover-begins-its-first-science-campaign-on-mars/"
+                    ]
+                },
+                {
+                    "contentText": "Blue Origin’in bir sonraki uçuşunda yolcular arasında Jeff Bezos da olacak.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/amazon-s-jeff-bezos-to-be-part-of-blue-origin-s-first-crewed-light-into-space"
+                    ]
+                },
+                {
+                    "contentText": "Karapınar Enerji Santrali’nin birinci fazı tamamlandı.",
+                    "contentLink": [
+                        "https://www.haberturk.com/gunes-enerjisi-alanindaki-teknolojileri-gelistirmeye-devam-edecegiz-3100977-ekonomi"
+                    ]
+                },
+                {
+                    "contentText": "Her şehrin kendine göre mikrobiyomu var.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/cities-are-teeming-with-thousands-of-species-of-unknown-microbes-scientists-find"
+                    ]
+                },
+                {
+                    "contentText": "Uzun yaşamak konusunda genler ne kadar etkili?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/do-your-genes-determine-how-long-you-ll-live"
+                    ]
+                },
+                {
+                    "contentText": "Soru - Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
