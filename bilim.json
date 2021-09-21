@@ -17823,6 +17823,92 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2021",
+            "count": 25,
+            "totalCount": 200,
+            "uploadDate": "21.06.2021",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2021/06/bilim_2021_25.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=g94DCMwIh80",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2021-25",
+            "podcastTime": 5192,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2021/25",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Genel korona değerlendirmesi",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "DSÖ, Gine’deki ikinci ebola salgınının sona erdiğini açıkladı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/who-declares-an-end-to-second-ebola-outbreak-in-guinea"
+                    ]
+                },
+                {
+                    "contentText": "Üç taykonot Tiangong uzay istasyonuna ilk kez giriş yaptı.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2021/06/17/chinese-astronauts-enter-tiangong-space-station-for-first-time/"
+                    ]
+                },
+                {
+                    "contentText": "Çin ve Rusya, uluslararası ay üssü yol haritasını açıkladı.",
+                    "contentLink": [
+                        "https://spacenews.com/china-russia-reveal-roadmap-for-international-moon-base/"
+                    ]
+                },
+                {
+                    "contentText": "Kulağımızın duymayacağı frekanslara bakarak roket fırlatmaları ayırt edilebiliyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/scientists-have-tracked-the-infrasound-rumbles-of-rocket-launches-that-human-ears-can-t-hear"
+                    ]
+                },
+                {
+                    "contentText": "Uzay kaynakları kanunu Japonya meclisi tarafından onaylandı.",
+                    "contentLink": [
+                        "https://spacenews.com/japan-passes-space-resources-law/"
+                    ]
+                },
+                {
+                    "contentText": "Hubble Uzay Teleskobu bellek arızası nedeniyle çalışmaz durumda.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/hubble-s-payload-computer-is-having-problems-and-it-looks-like-a-tricky-fix"
+                    ]
+                },
+                {
+                    "contentText": "Okyanuslardaki plastik kirliliğini uydudan takip etmek için yeni bir teknik geliştirildi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/satellite-system-reveals-the-fluctuations-of-microplastics-around-the-world"
+                    ]
+                },
+                {
+                    "contentText": "Dünya’nın jeolojik kalp atışı: büyük değişimler belirli aralıklarla oluyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/our-planet-has-a-27-5-million-year-old-pulse-says-study-we-don-t-know-what-causes-it"
+                    ]
+                },
+                {
+                    "contentText": "Şehirlerdeki ısınmayı azaltmak için daha yansıtıcı yol malzemesi kullanılabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/reflective-lighter-colored-pavements-can-help-cool-cities-if-it-s-done-right"
+                    ]
+                },
+                {
+                    "contentText": "İnsanlar hiç olmadığı kadar hızlı evrimleşiyor ve neden genetik değil.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/human-culture-might-be-making-genetic-evolution-obsolete-says-new-study"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
