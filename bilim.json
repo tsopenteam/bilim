@@ -17909,6 +17909,92 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2021",
+            "count": 26,
+            "totalCount": 201,
+            "uploadDate": "28.06.2021",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2021/06/bilim_2021_26.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=nCgT9RWzwkI",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2021-26",
+            "podcastTime": 4848,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2021/26",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Covid-19 aşıları ölümleri %99 oranında engelliyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-vaccines-are-working-99-of-current-us-covid-19-deaths-are-unvaccinated-people"
+                    ]
+                },
+                {
+                    "contentText": "Türksat 5A göreve başladı.",
+                    "contentLink": [
+                        "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-turksat-5a-uydusunu-hizmete-aldi/2287622"
+                    ]
+                },
+                {
+                    "contentText": "FAA, SpaceShip 2’nin yolcu taşımasına onay verdi.",
+                    "contentLink": [
+                        "https://spacenews.com/virgin-galactic-cleared-to-fly-customers-on-spaceshiptwo/"
+                    ]
+                },
+                {
+                    "contentText": "Space Perspective, stratosfer balonu turları için bilet satışına başladı.",
+                    "contentLink": [
+                        "https://www.universetoday.com/151617/space-perspective-puts-tickets-for-stratospheric-balloon-tours-on-sale/"
+                    ]
+                },
+                {
+                    "contentText": "NASA, astronotların maruz kaldığı radyasyon sınırlarını değiştirmeye hazırlanıyor.",
+                    "contentLink": [
+                        "https://spacenews.com/report-backs-nasa-proposal-to-change-astronaut-radiation-exposure-limits/"
+                    ]
+                },
+                {
+                    "contentText": "SpaceX, Starship’in ilk yörünge uçuşunu Temmuz ayı içinde yapmayı planlıyor.",
+                    "contentLink": [
+                        "https://spacenews.com/spacex-aiming-for-july-for-starship-orbital-launch-despite-regulatory-reviews/"
+                    ]
+                },
+                {
+                    "contentText": "Betelgeuse’un parlaklık değişimlerinin nedeni toz olduğu anlaşıldı.",
+                    "contentLink": [
+                        "https://www.universetoday.com/151612/betelgeuses-mysterious-dimming-solved-it-was-dust/"
+                    ]
+                },
+                {
+                    "contentText": "Böyle giderse InSight gelecek yılı çıkarmayabilir.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2021/06/27/declining-power-supply-could-end-nasas-insight-mars-mission-next-year/"
+                    ]
+                },
+                {
+                    "contentText": "Stres nedeniyle saçların beyazlaması mümkün mü?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/stress-really-can-turn-your-hair-gray-study-shows-but-it-s-reversible"
+                    ]
+                },
+                {
+                    "contentText": "Uzmanlar çocuklara daha fazla sebze yedirmenin yollarını arıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/scientists-have-found-a-sneaky-way-of-getting-kids-to-eat-more-vegetables"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
