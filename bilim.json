@@ -17995,6 +17995,86 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2021",
+            "count": 27,
+            "totalCount": 202,
+            "uploadDate": "05.07.2021",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2021/07/bilim_2021_27.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=joA3bapy5a8",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2021-27",
+            "podcastTime": 5311,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2021/27",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Nedir bu Delta varyantı?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-delta-variant-has-experts-worried-here-s-what-you-should-know-about-it"
+                    ]
+                },
+                {
+                    "contentText": "Virgin Orbit, ilk görevinde askeri küp uyduları yörüngeye yerleştirdi.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2021/07/01/virgin-orbits-first-operational-mission-deploys-military-cubesats/"
+                    ]
+                },
+                {
+                    "contentText": "Richard Branson, 11 Temmuz’da SpaceShip 2 ile uzaya çıkacak.",
+                    "contentLink": [
+                        "https://spacenews.com/branson-to-be-on-next-spaceshiptwo-flight-july-11/"
+                    ]
+                },
+                {
+                    "contentText": "82 yaşındaki Wally Funk, Blue Origin ile uzaya gidecek yolculardan biri olacak.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2021/07/01/bezos-invites-82-year-old-aviation-pioneer-to-join-him-for-spaceflight/"
+                    ]
+                },
+                {
+                    "contentText": "OneWeb son fırlattığı uydularla ticari müşteri almaya hazır hale geldi.",
+                    "contentLink": [
+                        "https://spacenews.com/oneweb-hits-coverage-goal-with-latest-launch-sets-sights-on-southern-regions/"
+                    ]
+                },
+                {
+                    "contentText": "NASA’nın 2021-2022 yazılım kataloğu gerçek hayatta kullanılmış yazılımları da içeriyor.",
+                    "contentLink": [
+                        "https://nasa.tumblr.com/post/655697878482894848/download-software-used-to-get-rovers-to-the-red"
+                    ]
+                },
+                {
+                    "contentText": "Günde beş dakika harcanarak yapılan nefes egzersizi tansiyon sorununu önemli ölçüde gideriyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/this-5-minute-breathing-exercise-lowers-blood-pressure-as-much-as-drugs-or-exercise"
+                    ]
+                },
+                {
+                    "contentText": "Yeni geliştirilen kilo verme cihazı çenenizi kapalı tutuyor.",
+                    "contentLink": [
+                        "https://www.otago.ac.nz/news/news/releases/otago830110.html"
+                    ]
+                },
+                {
+                    "contentText": "Sıcak hava dalgaları sadece insanları değil besin kaynaklarımızı da tehdit ediyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/heat-stress-is-going-to-get-worse-not-just-for-us-but-for-the-food-we-depend-on"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
