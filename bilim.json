@@ -18075,6 +18075,96 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2021",
+            "count": 28,
+            "totalCount": 203,
+            "uploadDate": "12.07.2021",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2021/07/bilim_2021_28.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=_PapBuJw56U",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2021-28",
+            "podcastTime": 5566,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2021/28",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Covid-19 Durum Değerlendirmesi",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Aynı anda iki farklı corona varyantına yakalanan hasta ilk kez duyuruldu.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/patient-with-first-known-case-of-two-simultaneous-covid-19-strain-infections-did-not-survive"
+                    ]
+                },
+                {
+                    "contentText": "Uzmanlar akıllı saat verilerini inceleyerek Covid-19’un etkilerini anlamaya çalışıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/modern-fitness-wearables-track-the-long-route-to-recovery-from-covid-19"
+                    ]
+                },
+                {
+                    "contentText": "Richard Branson, Spaceship 2 ile uzayın sınırına uçtu.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/billionaire-richard-branson-and-3-virgin-galactic-employees-successfully-made-it-to-the-edge-of-space"
+                    ]
+                },
+                {
+                    "contentText": "Super Heavy Booster 3 yer denemelerine muhtemelen bu hafta başlayacak.",
+                    "contentLink": [
+                        "https://www.universetoday.com/151731/after-just-6-weeks-of-construction-super-heavy-is-built-and-ready-to-move/"
+                    ]
+                },
+                {
+                    "contentText": "Enceladus’un püskürttüğü gazlardaki metan miktarı canlılığa işaret ediyor.",
+                    "contentLink": [
+                        "https://www.universetoday.com/151763/cassini-saw-methane-in-enceladus-plumes-scientists-dont-know-how-it-could-be-there-without-life/"
+                    ]
+                },
+                {
+                    "contentText": "NASA, Lunar Gateway modülü için Northrop Grumman ile anlaştı.",
+                    "contentLink": [
+                        "https://spacenews.com/nasa-awards-contract-to-northrop-grumman-to-build-gateway-module/"
+                    ]
+                },
+                {
+                    "contentText": "Talebin artması Derin Uzay Ağı’na ekstra yük getiriyor.",
+                    "contentLink": [
+                        "https://spacenews.com/increasing-demands-putting-pressure-on-deep-space-network/"
+                    ]
+                },
+                {
+                    "contentText": "Yeni geliştirilen yöntemle dolgu yapmadan çürükleri iyileştirmek mümkün olabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/ingeniously-simple-dental-treatment-could-heal-tooth-cavities-without-any-fillings"
+                    ]
+                },
+                {
+                    "contentText": "Mühendisler hamam böceğinden esinlenerek ezilmelere karşı dayanıklı robot yapmaya çalışıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/engineers-built-a-cockroach-inspired-robot-that-can-t-be-squashed"
+                    ]
+                },
+                {
+                    "contentText": "Bazen makineleri makine olarak bırakmak daha çok işe yarıyor!",
+                    "contentLink": [
+                        "https://www.ted.com/talks/anne_scherer_why_we_re_more_honest_with_machines_than_people"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
