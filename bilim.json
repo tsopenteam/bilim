@@ -18165,6 +18165,91 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2021",
+            "count": 29,
+            "totalCount": 204,
+            "uploadDate": "26.07.2021",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2021/07/bilim_2021_29.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=dD6sywWDDVU",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2021-29",
+            "podcastTime": 5308,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2021/29",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Covid-19 Durum Değerlendirmesi",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Sinovac’ın Türkiye Faz-3 sonuçları açıklandı.",
+                    "contentLink": [
+                        "https://twitter.com/drfahrettinkoca/status/1415714609244352517"
+                    ]
+                },
+                {
+                    "contentText": "Jeff Bezos da kendi şirketiyle uzaya giden zenginler arasına katıldı. FAA astronot kanatlarına ayar çekti.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2021/07/20/bezos-flies-to-space-on-blue-origins-first-crew-launch/",
+                        "https://spacenews.com/faa-revises-criteria-for-commercial-astronaut-wings/"
+                    ]
+                },
+                {
+                    "contentText": "Boeing Starliner ISS’e gitmek için geri sayıyor.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2021/07/22/nasa-clears-boeing-starliner-for-launch-on-second-unpiloted-test-flight/"
+                    ]
+                },
+                {
+                    "contentText": "Hubble Uzay Teleskobu bir ay aranın ardından tekrar çalışmaya başladı.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2021/07/18/hubble-resumes-science-observations-after-month-long-outage/"
+                    ]
+                },
+                {
+                    "contentText": "Balonla bir teleskopu atmosferin üst katmanına taşımak mümkün mü?",
+                    "contentLink": [
+                        "https://www.universetoday.com/151943/a-new-balloon-based-observatory-could-produce-images-as-fine-as-hubble/"
+                    ]
+                },
+                {
+                    "contentText": "En son kuantum üstünlüğü rekoru Çinli araştırma ekibinden geldi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/china-s-latest-56-qubit-computer-marks-another-quantum-milestone"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları yapay zekaya hayal etme yeteneği kazandırmaya çalışıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/scientists-are-trying-to-get-ai-to-have-imagination"
+                    ]
+                },
+                {
+                    "contentText": "Sinir sistemimiz demokrasi mi diktatörlük mü?",
+                    "contentLink": [
+                        "https://theconversation.com/is-your-nervous-system-a-democracy-or-a-dictatorship-when-controlling-your-behavior-61888"
+                    ]
+                },
+                {
+                    "contentText": "RDR2 oynayanlar doğadaki hayvan türlerine karşı daha bilgili ve dikkatli oluyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/red-dead-redemption-2-study-shows-just-how-educational-video-games-can-be"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
