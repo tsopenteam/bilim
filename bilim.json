@@ -18250,6 +18250,86 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2021",
+            "count": 30,
+            "totalCount": 205,
+            "uploadDate": "02.08.2021",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2021/08/bilim_2021_30.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2021-30",
+            "podcastTime": 5355,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2021/30",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Genel Covid-19 değerlendirmesi",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Delta varyantı aşı olanlar tarafından da yayılıyor mu?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/cdc-says-fully-vaccinated-people-spread-the-delta-variant-and-should-wear-masks"
+                    ]
+                },
+                {
+                    "contentText": "ISS’ye bağlanan yeni Rus modülü yanlış ateşleme yaparak ISS’nin yönünün bozulmasına neden oldu?",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2021/07/29/nauka-docking-oft-2-delay/"
+                    ]
+                },
+                {
+                    "contentText": "Mars’ta yer altında bulunduğu tahmin edilen tuzlu su gölleri gerçekte var olmayabilir.",
+                    "contentLink": [
+                        "https://www.universetoday.com/152016/bad-news-those-underground-lakes-on-mars-theyre-probably-just-frozen-clay/"
+                    ]
+                },
+                {
+                    "contentText": "Perseverance ilk örnek toplama işlemini kısa bir süre içinde yapacak. Ingenuity onuncu uçuşunu başarıyla yaptı.",
+                    "contentLink": [
+                        "https://www.universetoday.com/151935/perseverance-is-about-to-collect-the-first-sample-on-mars-that-could-eventually-be-returned-to-earth/",
+                        "https://www.sciencealert.com/nasa-s-ingenuity-helicopter-just-nailed-its-10th-flight-on-mars"
+                    ]
+                },
+                {
+                    "contentText": "Blue Origin ve Dynetics’in itirazı reddedildi. Blue Origin’den 2 milyar $ indirim teklifi geldi.",
+                    "contentLink": [
+                        "https://spacenews.com/gao-denies-blue-origin-and-dynetics-protests-of-nasa-lunar-lander-contract/",
+                        "https://www.universetoday.com/151996/blue-origin-offers-a-2-billion-discount-to-get-back-in-the-lunar-lander-game/"
+                    ]
+                },
+                {
+                    "contentText": "Bilime olan güveni kullanarak da yalan haber yaymak mümkün.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/trust-in-science-can-ironically-give-rise-to-false-beliefs-luckily-there-is-a-solution"
+                    ]
+                },
+                {
+                    "contentText": "Uzmanlar sözel yaratıcılığı ölçmenin kolay yollarını arıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/scientists-think-they-may-have-come-up-with-an-objective-measure-of-creativity"
+                    ]
+                },
+                {
+                    "contentText": "Bilimsel gelişmeler olimpiyatlar da dahil sporun her alanını etkiliyor.",
+                    "contentLink": [
+                        "https://www.bbc.com/turkce/haberler-dunya-58010582"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
