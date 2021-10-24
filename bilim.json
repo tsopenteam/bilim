@@ -18330,6 +18330,98 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2021",
+            "count": 31,
+            "totalCount": 206,
+            "uploadDate": "09.08.2021",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2021/08/bilim_2021_31.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2021-31",
+            "podcastTime": 5846,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2021/31",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Covid-19 salgını çocuklarda miyop görülme oranlarını artırıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-global-pandemic-might-be-weakening-the-eyes-of-children"
+                    ]
+                },
+                {
+                    "contentText": "Starship tam boy zuhur etti.",
+                    "contentLink": [
+                        "https://www.universetoday.com/152090/starship-is-stacked-on-the-super-heavy-booster-the-tallest-rocket-ever-built/"
+                    ]
+                },
+                {
+                    "contentText": "Boeing, Starliner deneme uçuşunu erteledi.",
+                    "contentLink": [
+                        "https://spacenews.com/starliner-investigation-continues/"
+                    ]
+                },
+                {
+                    "contentText": "Virgin Galactic bilet satışlarına başladı ama ilk ticari uçuşu ileri bir tarihe erteledi.",
+                    "contentLink": [
+                        "https://spacenews.com/virgin-galactic-resumes-ticket-sales-but-delays-start-of-commercial-service/"
+                    ]
+                },
+                {
+                    "contentText": "Milyarder değilseniz üzülmeyin; Mars’ta bir yıl geçirmek için doğru yerdesiniz.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/if-you-want-to-spend-a-year-on-mars-nasa-s-recruiting-for-the-mission-of-your-dreams"
+                    ]
+                },
+                {
+                    "contentText": "Perseverance ilk örnek toplama denemesinde başarılı olamadı.",
+                    "contentLink": [
+                        "https://spacenews.com/perseverance-first-sampling-attempt-comes-up-empty/"
+                    ]
+                },
+                {
+                    "contentText": "Dünya’nın dönüşünün yavaşlaması oksijen üretimini ciddi oranda arttırmış olabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/earth-s-spin-is-slowing-down-and-that-might-be-why-it-has-enough-oxygen-for-life"
+                    ]
+                },
+                {
+                    "contentText": "Bazı bakteriler betonun içinde yaşayacak kadar dayanıklı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/some-bacteria-are-so-tough-they-can-grow-in-concrete"
+                    ]
+                },
+                {
+                    "contentText": "Dev orman yangınlarını önlemenin yolu küçük yangınlara izin vermekten geçiyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/a-chronic-lack-of-fire-in-the-us-is-fueling-megafires-scientists-warn"
+                    ]
+                },
+                {
+                    "contentText": "Kariyer değiştirmek isteyenlere yapay zeka desteği geliyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/ai-can-now-help-you-decide-which-careers-will-be-future-proof"
+                    ]
+                },
+                {
+                    "contentText": "Pentagon, geleceği tahmin eden yapay zeka geliştirmeye çalışıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-pentagon-is-experimenting-with-ai-that-can-predict-events-days-in-advance"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
