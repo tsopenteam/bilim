@@ -18422,6 +18422,90 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2021",
+            "count": 32,
+            "totalCount": 207,
+            "uploadDate": "16.08.2021",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2021/08/bilim_2021_32.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=PzPGcBTyfX8",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2021-32",
+            "podcastTime": 5476,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2021/32",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Covid-19 Değerlendirmesi",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Semptom göstermeyen Covid-19 vakaları tahmin edilenden daha yüksek olabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/over-a-third-of-covid-infections-are-truly-asymptomatic-says-massive-new-analysis"
+                    ]
+                },
+                {
+                    "contentText": "Boeing, Starliner’da yaşanan sorunu düzeltmek için birkaç aya ihtiyacı olduğunu duyurdu.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2021/08/13/boeing-opts-to-haul-starliner-back-to-hangar-delays-flight-indefinitely/"
+                    ]
+                },
+                {
+                    "contentText": "NASA’nın Ay görevlerinde kullanacağı yeni astronot elbiseleri gecikiyor.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2021/08/15/development-of-spacesuits-for-artemis-moonwalks-lagging/"
+                    ]
+                },
+                {
+                    "contentText": "NASA, Perseverance’ın başarısız örnek toplama girişimiyle ilgili açıklama yaptı.",
+                    "contentLink": [
+                        "https://www.universetoday.com/152150/perseverance-fails-to-collect-its-first-sample/"
+                    ]
+                },
+                {
+                    "contentText": "Vücut metabolizma hızı yaşlandıkça yavaşlıyor ama ne zaman?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/scientists-have-mapped-out-how-our-metabolisms-change-over-our-lives"
+                    ]
+                },
+                {
+                    "contentText": "IPCC iklim raporu ne söylüyor?",
+                    "contentLink": [
+                        "https://qz.com/2043894/what-does-the-ipcc-say-about-climate-change/"
+                    ]
+                },
+                {
+                    "contentText": "Ormanların yok olması böcek türlerinin değişmesine neden oluyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/deforestation-may-be-causing-some-island-insects-to-lose-their-wings"
+                    ]
+                },
+                {
+                    "contentText": "Ayçiçeğinin neden güneşe baktığını artık biliyoruz.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/we-finally-know-why-sunflowers-face-east"
+                    ]
+                },
+                {
+                    "contentText": "Terleme insanlığın en önemli yeteneklerinden birisi.",
+                    "contentLink": [
+                        "https://www.npr.org/sections/health-shots/2021/07/30/1022546464/why-sweat-is-a-human-superpower"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
