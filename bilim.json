@@ -18506,6 +18506,102 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2021",
+            "count": 33,
+            "totalCount": 208,
+            "uploadDate": "23.08.2021",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2021/08/bilim_2021_33.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2021-33",
+            "podcastTime": 5691,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2021/33",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Covid-19 Değerlendirmesi",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Sinovac aşısı, Delta varyantına karşı ne kadar etkili?",
+                    "contentLink": [
+                        "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3895639"
+                    ]
+                },
+                {
+                    "contentText": "Aylar sonra bile devam eden uzun Covid-19 semptomlarına başka bir virüs neden oluyor olabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/mounting-evidence-suggests-many-covid-19-long-haulers-are-co-infected-with-epstein-barr"
+                    ]
+                },
+                {
+                    "contentText": "FDA, Pfizer-Biontech aşısına tam kullanım onayı verdi.",
+                    "contentLink": [
+                        "https://www.washingtonpost.com/health/2021/08/23/pfizer-vaccine-full-approval/"
+                    ]
+                },
+                {
+                    "contentText": "Moderna, HIV için geliştirdiği mRNA aşısı için birinci faz çalışmalarına başlıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/moderna-s-experimental-hiv-vaccine-could-begin-human-trials-as-soon-as-this-week"
+                    ]
+                },
+                {
+                    "contentText": "Blue Origin, HLS (Human Landing System) ihalesi için NASA’ya dava açtı.",
+                    "contentLink": [
+                        "https://www.universetoday.com/152220/musk-says-that-refueling-starship-for-lunar-landings-will-take-8-launches-maybe-4/"
+                    ]
+                },
+                {
+                    "contentText": "Gök bilimini baştan yaratan Hubble Uzay Teleskobu hakkında bilmeniz gerekenler.",
+                    "contentLink": [
+                        "https://gelecekbilimde.net/gok-bilimini-bastan-yaratan-hubble-uzay-teleskobu-hakkinda-bilmeniz-gerekenler/"
+                    ]
+                },
+                {
+                    "contentText": "Laboratuvar ortamında geliştirilen minik beyinlerde göz gelişimi gözlendi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/scientists-used-stem-cells-to-make-mini-brains-they-grew-rudimentary-eyes"
+                    ]
+                },
+                {
+                    "contentText": "Geçmişte iklim değişikliğiyle ilgili uluslararası alanda başarılı adımlar da atıldı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/successfully-banning-cfcs-has-given-us-a-fighting-chance-against-climate-change"
+                    ]
+                },
+                {
+                    "contentText": "Bazı memeli hayvan türleri beklenmedik bir şekilde büyüyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-spread-of-cities-is-causing-many-mammal-species-to-get-bigger"
+                    ]
+                },
+                {
+                    "contentText": "Dilimin ucunda durumu bir grup içindeyken daha fazla görülüyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/here-s-why-that-tip-of-the-tongue-feeling-seems-contagious-when-you-re-in-a-group"
+                    ]
+                },
+                {
+                    "contentText": "Neden bazı rüyaları tekrar tekrar görüyoruz?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-science-of-recurring-dreams-is-more-fascinating-than-we-ever-imagined"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
