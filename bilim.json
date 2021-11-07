@@ -18602,6 +18602,101 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2021",
+            "count": 34,
+            "totalCount": 209,
+            "uploadDate": "30.08.2021",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2021/08/bilim_2021_34.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=cMgrJhFavfY",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2021-34",
+            "podcastTime": 5940,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2021/34",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Bloomberg Pandemiye Direnç endeksi",
+                    "contentLink": [
+                        "https://www.bloomberg.com/graphics/covid-resilience-ranking/"
+                    ]
+                },
+                {
+                    "contentText": "Biontech aşısı hakkında yapılan en kapsamlı güvenilirlik araştırması yayınlandı.",
+                    "contentLink": [
+                        "https://twitter.com/virusfantom/status/1430691696929435649?s=21"
+                    ]
+                },
+                {
+                    "contentText": "Pfizer-Biontech’in aşısına verdiği Comirnaty ismi tartışma konusu oldu.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/here-s-the-real-meaning-of-comirnaty-the-strange-name-pfizer-gave-their-vaccine"
+                    ]
+                },
+                {
+                    "contentText": "Covid-19 seviyesinde bir salgının ileride görülme ihtimali ne kadar?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/stats-suggest-the-probability-of-a-covid-19-like-pandemic-is-about-2-in-any-given-year"
+                    ]
+                },
+                {
+                    "contentText": "Çin’in Mars gezgini Zhurong 90 günlük ana görev süresini tamamladı.",
+                    "contentLink": [
+                        "https://www.universetoday.com/152307/chinas-rover-completes-its-primary-90-day-mission-but-it-still-has-more-science-to-do/"
+                    ]
+                },
+                {
+                    "contentText": "Perseverance ikinci kez örnek toplamaya hazırlanıyor.",
+                    "contentLink": [
+                        "https://www.universetoday.com/152356/after-its-last-rock-sample-crumbled-into-powder-perseverance-is-going-to-try-again/"
+                    ]
+                },
+                {
+                    "contentText": "Amazon, SpaceX’in ikinci nesil Starlink başvurusuna itiraz etti. İkinci nesil Starlink uyduları lazer ile iletişim kurabilecek.",
+                    "contentLink": [
+                        "https://spacenews.com/amazon-calls-on-fcc-to-reject-spacexs-revised-second-gen-starlink-plan/",
+                        "https://spacenews.com/all-future-starlink-satellites-will-have-laser-crosslinks/"
+                    ]
+                },
+                {
+                    "contentText": "Küçük uydu fırlatma sistemi geliştiren Astra’nın son yörünge denemesi de başarısız oldu.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2021/08/29/astra-rocket-fails-after-early-engine-shutdown/"
+                    ]
+                },
+                {
+                    "contentText": "Madagaskar iklim değişikliği nedeniyle açlık riskiyle karşı karşıya kalan ilk ülke olabilir.",
+                    "contentLink": [
+                        "https://www.bbc.com/turkce/haberler-dunya-58327755"
+                    ]
+                },
+                {
+                    "contentText": "Yemeklerde kullanılan tuzu azaltarak/değiştirerek her yıl milyonlarca hayat kurtarmak mümkün.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/making-1-simple-substitution-for-table-salt-could-save-millions-of-lives-study-shows"
+                    ]
+                },
+                {
+                    "contentText": "Tanımadığımız insanların iyiliğini ne kadar düşünüyoruz?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/not-all-cultures-are-equally-mindful-of-strangers-here-s-how-your-country-ranks"
+                    ]
+                },
+                {
+                    "contentText": "Bir kaplumbağanın canlı bir avı yakalaması ilk kez görüntülendi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/for-the-first-time-a-tortoise-has-been-filmed-going-in-for-the-kill-very-slowly"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
