@@ -18697,6 +18697,99 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2021",
+            "count": 35,
+            "totalCount": 210,
+            "uploadDate": "06.09.2021",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2021/09/bilim_2021_35.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2021-35",
+            "podcastTime": 5735,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2021/35",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "DSÖ, Mu olarak adlandırılan yeni COVID varyantını duyurdu.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/what-is-the-mu-variant-covid-19"
+                    ]
+                },
+                {
+                    "contentText": "Covid-19 tedavisinde kullanılan oksijen roket fırlatmalarını etkiliyor.",
+                    "contentLink": [
+                        "https://www.universetoday.com/152386/covid-19-treatments-require-so-much-oxygen-it-could-delay-rocket-launches/"
+                    ]
+                },
+                {
+                    "contentText": "Perseverance, ikinci örnek toplama işlemini başarıyla tamamladı. Ingenuity’nin görev süresi uzatıldı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/percy-s-second-attempt-to-get-a-mars-sample-succeeded-with-flying-colors",
+                        "https://www.sciencealert.com/remember-nasa-s-little-mars-copter-it-s-still-going-strong"
+                    ]
+                },
+                {
+                    "contentText": "Çin kendi Mars helikopterini yapıyor.",
+                    "contentLink": [
+                        "https://spacenews.com/china-is-developing-its-own-mars-helicopter/"
+                    ]
+                },
+                {
+                    "contentText": "FAA, son uçuşta yaşanan sorunlar çözülene kadar Virgin Galactic uçuşlarını durdurdu.",
+                    "contentLink": [
+                        "https://www.newyorker.com/news/news-desk/the-red-warning-light-on-richard-bransons-space-flight"
+                    ]
+                },
+                {
+                    "contentText": "ISS’de tespit edilen çatlakların yayılmasından endişe ediliyor.”",
+                    "contentLink": [
+                        "https://www.sciencealert.com/there-s-been-more-cracks-found-on-the-international-space-station"
+                    ]
+                },
+                {
+                    "contentText": "Tamamen sivil ekipten oluşan ilk uzay görevi Inspiration 4 fırlatma gününü bekliyor.",
+                    "contentLink": [
+                        "https://www.universetoday.com/152421/inspiration-4-crew-gets-a-sneak-peak-out-of-crew-dragons-cupola/"
+                    ]
+                },
+                {
+                    "contentText": "Dünya üzerinde kurşunlu benzin kullanan ülke kalmadı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-last-place-to-use-leaded-petrol-has-finally-stopped-says-un"
+                    ]
+                },
+                {
+                    "contentText": "Gözbebeğini kontrol edebilen genç bilim insanlarını şaşırttı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/this-german-student-can-dilate-his-pupils-on-command"
+                    ]
+                },
+                {
+                    "contentText": "Tardigradların yürüyüşü kayıt altına alındı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/scientists-take-videos-of-tardigrades-lumbering-to-work-out-why-they-walk-funny"
+                    ]
+                },
+                {
+                    "contentText": "Lir kuşlarının şaşırtıcı ses taklit yeteneği.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/listen-to-this-bird-perfectly-mimic-the-wailing-sobs-of-a-human-baby"
+                    ]
+                },
+                {
+                    "contentText": "Soru ve Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
