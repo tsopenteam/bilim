@@ -18790,6 +18790,92 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2021",
+            "count": 36,
+            "totalCount": 211,
+            "uploadDate": "13.09.2021",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2021/09/bilim_2021_36.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2021-36",
+            "podcastTime": 5179,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2021/36",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Aşı olmayanların Covid-19’dan ölme ihtimali 11 kat daha fazla.",
+                    "contentLink": [
+                        "https://www.npr.org/2021/09/10/1036023973/covid-19-unvaccinated-deaths-11-times-more-likely"
+                    ]
+                },
+                {
+                    "contentText": "Sabaha karşı çalan duman alarmı ISS’teki astronotları uyandırdı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/a-smoke-alarm-just-went-off-in-the-international-space-station"
+                    ]
+                },
+                {
+                    "contentText": "Virgin Galactic, olası bir üretim hatası nedeniyle bir sıradaki uçuşu erteledi.",
+                    "contentLink": [
+                        "https://spacenews.com/potential-component-defect-to-delay-next-virgin-galactic-flight/"
+                    ]
+                },
+                {
+                    "contentText": "James Webb Uzay Teleskobu Aralık ayının ortasında fırlatılacak.",
+                    "contentLink": [
+                        "https://spacenews.com/jwst-gets-mid-december-launch-date/"
+                    ]
+                },
+                {
+                    "contentText": "Araştırmacılar internetten indirebileceğiniz tamamen sanal bir evren oluşturdular.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/researchers-have-just-generated-an-entire-virtual-universe"
+                    ]
+                },
+                {
+                    "contentText": "Neden hiçbir zaman asteroit madenciliği yapmayacağız?",
+                    "contentLink": [
+                        "https://allanmlees59.medium.com/why-we-will-never-ever-mine-the-asteroid-belt-df77d8d4b4ce"
+                    ]
+                },
+                {
+                    "contentText": "Hayvanların vücutları iklim değişimine uyum sağlamak için değişiyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/new-research-reveals-animals-are-changing-their-body-shapes-to-cope-with-climate-change"
+                    ]
+                },
+                {
+                    "contentText": "Bu yılın Ig ödülünü baş aşağı duran gergedanlar kazandı.",
+                    "contentLink": [
+                        "https://news.yahoo.com/upside-down-rhino-research-wins-222255252.html"
+                    ]
+                },
+                {
+                    "contentText": "Detoks diyetleri işe yarıyor mu?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/detox-diets-that-rid-your-body-of-toxins-are-not-all-they-re-cracked-up-to-be"
+                    ]
+                },
+                {
+                    "contentText": "Çok fazla boş zamanınızın olması sağlığınız açısından iyi değil.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/having-more-free-time-boosts-wellbeing-but-only-to-a-point-study-finds"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
