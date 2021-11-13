@@ -18876,6 +18876,93 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2021",
+            "count": 37,
+            "totalCount": 212,
+            "uploadDate": "20.09.2021",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2021/09/bilim_2021_37.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2021-37",
+            "podcastTime": 5039,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2021/37",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Shenzhou-12 taykonotları üç aylık görevin ardından Dünya’ya döndü.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2021/09/17/chinese-crew-landing-caps-record-setting-day-in-human-spaceflight/"
+                    ]
+                },
+                {
+                    "contentText": "SpaceX’in Inspiration4 görevi başarıyla tamamlandı.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2021/09/18/four-civilian-space-travelers-back-on-earth-after-landmark-flight/"
+                    ]
+                },
+                {
+                    "contentText": "Astronot Mark Vande Hei, ISS’te neredeyse bir yıl kalacak.",
+                    "contentLink": [
+                        "https://spacenews.com/nasa-astronaut-to-stay-on-iss-for-nearly-a-year/"
+                    ]
+                },
+                {
+                    "contentText": "Orman yangınlarının dolaylı etkisi deniz canlılarına da zarar verebiliyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/australia-bushfire-smoke-spawned-a-plankton-bloom-larger-than-the-entire-continent"
+                    ]
+                },
+                {
+                    "contentText": "Araştırmacılar dünyanın en güçlü mıknatısını başarıyla test etti.",
+                    "contentLink": [
+                        "https://www.universetoday.com/152521/researchers-create-the-most-powerful-magnet-ever-made-on-earth-20-teslas/"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları bir çeşit duyulmazlık pelerini üzerine çalışıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/scientists-have-built-an-invisibility-cloak-for-your-ears"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları mamutları geri getirmeye çalışıyor.",
+                    "contentLink": [
+                        "https://www.npr.org/2021/09/14/1036884561/dna-resurrection-jurassic-park-woolly-mammoth"
+                    ]
+                },
+                {
+                    "contentText": "Bağırsaklarımızda yaşayan bakteriler içtiğimiz ilaçlardaki maddeleri biriktiriyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-drugs-you-swallow-are-probably-hijacked-by-microorganisms-living-inside-you"
+                    ]
+                },
+                {
+                    "contentText": "Büyükbaş hayvanlara tuvalet eğitimi vermek küresel ısınmayı yavaşlatmada işe yarayabilir. Hayvancılığın küresel ısınmaya katkısı",
+                    "contentLink": [
+                        "https://www.npr.org/2021/09/15/1037387164/cows-pee-training-mooloo-nitrous-oxide-pollution",
+                        "https://www.sciencealert.com/animal-farming-causes-twice-as-many-emissions-as-plants-finds-new-study"
+                    ]
+                },
+                {
+                    "contentText": "Hırsız maymunlar, sarhoş filler: Hayvanların suç dünyası.",
+                    "contentLink": [
+                        "https://www.npr.org/sections/health-shots/2021/09/14/1036701285/fuzz-animal-mary-roach-author-crime"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
