@@ -18963,6 +18963,86 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2021",
+            "count": 38,
+            "totalCount": 213,
+            "uploadDate": "27.09.2021",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2021/09/bilim_2021_38.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=xG9v-SJDSqw",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2021-38",
+            "podcastTime": 5790,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2021/38",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "NASA, bir sonraki Ay aracının nereye ineceğini açıkladı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/nasa-is-sending-a-lunar-rover-to-a-shadowy-south-pole-crater"
+                    ]
+                },
+                {
+                    "contentText": "Boeing Starliner, yine bir başka bahara kaldı.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2021/09/22/nasa-official-says-starliner-demo-mission-not-likely-to-launch-until-next-year/"
+                    ]
+                },
+                {
+                    "contentText": "InSight, şu ana kadar en büyük deprem ölçümünü kaydetti.",
+                    "contentLink": [
+                        "https://www.universetoday.com/152689/nasas-insight-experiences-its-most-powerful-marsquake-so-far-magnitude-4-2-lasting-90-minutes/"
+                    ]
+                },
+                {
+                    "contentText": "3600 yıl önce havada patlayan bir göktaşı bütün bir şehri haritadan silmiş olabilir.",
+                    "contentLink": [
+                        "https://www.universetoday.com/152645/3600-years-ago-a-50-meter-wide-meteor-exploded-in-the-sky-and-destroyed-a-city-near-the-dead-sea/"
+                    ]
+                },
+                {
+                    "contentText": "Mühendisler, plastiklerin geri dönüştürülmesi için tamamen yeni bir yaklaşım geliştirdiler.",
+                    "contentLink": [
+                        "https://actu.epfl.ch/news/epfl-engineers-introduce-a-new-approach-for-recycl/"
+                    ]
+                },
+                {
+                    "contentText": "Çiftleşme olmadan milyonlarca yıldır türünü devam ettiren böcek bilim insanlarını şaşırttı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/this-one-tiny-animal-has-found-a-way-to-give-up-sex-altogether-and-still-do-fine"
+                    ]
+                },
+                {
+                    "contentText": "Kum tanesi büyüklüğünde üretilen uçan çipler atmosfer olaylarını takip edebiliyor.",
+                    "contentLink": [
+                        "https://www.npr.org/2021/09/23/1040035430/flying-microchip-sand-grain-northwestern-winged"
+                    ]
+                },
+                {
+                    "contentText": "Popüler şarkılar virüsler gibi yayılıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-popularity-of-some-songs-spreads-like-an-infectious-disease-study-finds"
+                    ]
+                },
+                {
+                    "contentText": "Laboratuvar ortamında üretilen etler bir gün gerçek olacak mı?",
+                    "contentLink": [
+                        "https://thecounter.org/lab-grown-cultivated-meat-cost-at-scale/"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
