@@ -19043,6 +19043,96 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2021",
+            "count": 39,
+            "totalCount": 214,
+            "uploadDate": "04.10.2021",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2021/10/bilim_2021_39.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=pM2rOD-7J38",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2021-39",
+            "podcastTime": 5427,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2021/39",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Bloomberg Pandemiye Direnç endeksi Aşılama oranları",
+                    "contentLink": [
+                        "https://www.bloomberg.com/graphics/covid-resilience-ranking/",
+                        "https://www.bloomberg.com/graphics/covid-vaccine-tracker-global-distribution/"
+                    ]
+                },
+                {
+                    "contentText": "Covid-19 2020 - 2021 karşılaştırması",
+                    "contentLink": [
+                        "https://twitter.com/GucluYaman/status/1442554617838010379"
+                    ]
+                },
+                {
+                    "contentText": "Covid-19’a karşı %50 etkili olduğu belirtilen ilaç duyuruldu.",
+                    "contentLink": [
+                        "https://www.npr.org/2021/10/01/1042247080/merck-drug-pill-covid-death-hospitalization-treat"
+                    ]
+                },
+                {
+                    "contentText": "Youtube aşı karşıtı içeriği kaldırma kararı aldı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/google-to-expand-its-ban-to-all-anti-vaccination-content-on-youtube"
+                    ]
+                },
+                {
+                    "contentText": "Kendi iniş platformunu oluşturan araçlar ileride Ay görevlerinde kullanılabilir.",
+                    "contentLink": [
+                        "https://www.universetoday.com/152757/lunar-landers-could-spray-instant-landing-pads-as-they-arrive-at-the-moon/"
+                    ]
+                },
+                {
+                    "contentText": "Starlink uyduları GPS’e alternatif olarak kullanılabilir mi?",
+                    "contentLink": [
+                        "https://www.universetoday.com/152791/starlink-can-be-used-as-a-navigation-system-too/"
+                    ]
+                },
+                {
+                    "contentText": "FAA, Virgin Galactic uçuş yasağını kaldırdı, Blue Origin’i incelemeye aldı.",
+                    "contentLink": [
+                        "https://spacenews.com/faa-clears-virgin-galactic-to-resume-spaceshiptwo-flights/",
+                        "https://spacenews.com/faa-reviewing-blue-origin-safety-allegations/"
+                    ]
+                },
+                {
+                    "contentText": "2021 Nobel Tıp ödülü dokunma ve sıcaklık reseptörlerini keşfeden bilim insanlarına verildi.",
+                    "contentLink": [
+                        "https://www.nobelprize.org/prizes/medicine/2021/press-release/"
+                    ]
+                },
+                {
+                    "contentText": "Düşük gelir seviyesine sahip olan kişilerin çektiği acılar azımsanıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/there-s-a-horrible-bias-that-makes-us-dismiss-the-pain-of-poorer-people"
+                    ]
+                },
+                {
+                    "contentText": "Soğuk duş almak bağışıklık sistemini güçlendiriyor mu?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/here-s-the-science-behind-the-benefits-of-cold-showers"
+                    ]
+                },
+                {
+                    "contentText": "İklim değişikliği sorunu bir çocuk hakları sorunudur.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/children-today-will-experience-up-to-7-times-more-climate-disasters-than-their-grandparents"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
