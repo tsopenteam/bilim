@@ -19133,6 +19133,99 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2021",
+            "count": 40,
+            "totalCount": 215,
+            "uploadDate": "11.10.2021",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2021/10/bilim_2021_40.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=7ecMK6ymlmg",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2021-40",
+            "podcastTime": 4841,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2021/40",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "6 milyon Amerikalının verilerinin yer aldığı mRNA aşısı yan etkileri araştırması yayınlandı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/study-of-over-6-million-americans-finds-no-significant-side-effects-from-mrna-vaccines"
+                    ]
+                },
+                {
+                    "contentText": "Pfizer 5 - 11 yaş aralığındaki çocukların aşı onayı için başvurdu. Peki bu ne kadar gerekli?",
+                    "contentLink": [
+                        "https://www.npr.org/2021/10/07/1043973744/pfizer-fda-authorize-kids-children-covid-vaccine",
+                        "https://www.haberturk.com/yazarlar/muharrem-sarikaya/3214873-12-yas-alti-eriskin-asili-gibi"
+                    ]
+                },
+                {
+                    "contentText": "SpaceX filosuna iki yeni Crew Dragon ekliyor.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2021/10/06/spacex-is-adding-two-more-crew-dragons-to-its-fleet/"
+                    ]
+                },
+                {
+                    "contentText": "Blue Origin, Kaptan Kirk’ü uzaya gönderiyor.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2021/10/04/blue-origin-confirms-star-trek-actor-william-shatner-will-fly-to-space-next-week/"
+                    ]
+                },
+                {
+                    "contentText": "Rus film ekibi ISS’ye ulaştı ve çekimlere başladı.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2021/10/05/soyuz-arrives-at-space-station-for-out-of-this-world-film-shoot/"
+                    ]
+                },
+                {
+                    "contentText": "2021 Nobel Kimya Ödülü organokatalizörü keşfeden bilimadamlarına verildi.",
+                    "contentLink": [
+                        "https://www.nobelprize.org/prizes/chemistry/2021/summary/"
+                    ]
+                },
+                {
+                    "contentText": "2021 Nobel Fizik Ödülü iklim ve diğer karmaşık sistemler alanındaki çalışmalara verildi.",
+                    "contentLink": [
+                        "https://www.nobelprize.org/prizes/physics/2021/press-release/"
+                    ]
+                },
+                {
+                    "contentText": "Yapay zeka desteği ile hastanelerdeki ölüm oranlarını azaltmak mümkün.",
+                    "contentLink": [
+                        "https://massivesci.com/articles/ai-artifical-intelligence-machine-learning-healthcare-tedmed/"
+                    ]
+                },
+                {
+                    "contentText": "BM, 2050 yılında 5 milyar insanın tatlı suya erişim sıkıntısı yaşayacağını öngörüyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/over-five-billion-people-will-have-inadequate-access-water-in-2050"
+                    ]
+                },
+                {
+                    "contentText": "Kekeleyen insanlar, kimsenin dinlemediğini düşündüğünde kekelemeleri azalıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/study-shows-adults-who-stutter-stop-if-they-think-no-one-is-listening"
+                    ]
+                },
+                {
+                    "contentText": "100 yılda bir çıkan bir gazeteniz olsaydı manşete ne yazardınız?",
+                    "contentLink": [
+                        "https://www.ted.com/talks/steven_johnson_how_humanity_doubled_life_expectancy_in_a_century"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
