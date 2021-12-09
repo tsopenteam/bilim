@@ -19226,6 +19226,86 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2021",
+            "count": 41,
+            "totalCount": 216,
+            "uploadDate": "18.10.2021",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2021/10/bilim_2021_41.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2021-41",
+            "podcastTime": 5461,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2021/41",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Uzmanlar ikiz salgın konusunda uyarıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/expect-a-sharp-flu-rebound-after-distancing-measures-lift-potentially-creating-a-twindemic"
+                    ]
+                },
+                {
+                    "contentText": "NASA’nın Lucy uzay aracı başarıyla fırlatıldı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/lucy-spacecraft-launches-on-ambitious-mission-to-study-the-origins-of-the-solar-system"
+                    ]
+                },
+                {
+                    "contentText": "Blue Origin’in ikinci insanlı uçuşunu başarıyla tamamlandı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/william-shatner-joins-elite-group-of-space-tourists-in-profound-blue-origin-experience"
+                    ]
+                },
+                {
+                    "contentText": "ISS’te çekimleri bitiren Rus film ekibi Dünya’ya döndü.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2021/10/17/russian-actress-returns-to-earth-after-space-station-movie-shoot/"
+                    ]
+                },
+                {
+                    "contentText": "James Webb Uzay Teleskobu’nun 30 günlük kritik yolculuğu.",
+                    "contentLink": [
+                        "https://www.universetoday.com/152863/jwsts-30-days-of-terror/"
+                    ]
+                },
+                {
+                    "contentText": "Uzmanlar çok kısa bir süre içinde beynin kendine özgü parmak izini çıkarabiliyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/our-brains-unique-fingerprints-change-across-different-time-scales"
+                    ]
+                },
+                {
+                    "contentText": "Gelecekte bunamayı basit bir kan testiyle erken dönemde tespit etmek mümkün olabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/blood-biomarkers-could-carry-early-signs-of-dementia-study-shows"
+                    ]
+                },
+                {
+                    "contentText": "Yapay zeka destekli baston görme engellilerin hayatını kolaylaştırıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/this-400-cane-uses-autonomous-vehicle-tech-to-help-guide-the-visually-impaired"
+                    ]
+                },
+                {
+                    "contentText": "Ata binmek, kayak yapmaktan veya motosiklet kullanmaktan daha tehlikeli.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/horse-riding-is-more-likely-to-put-you-in-hospital-than-football-skiing-or-motorbike-racing"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
