@@ -19306,6 +19306,98 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2021",
+            "count": 42,
+            "totalCount": 217,
+            "uploadDate": "25.10.2021",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2021/10/bilim_2021_42.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=DTDJYIL1OJE",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2021-42",
+            "podcastTime": 6452,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2021/42",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Doktorlar rüşvet vererek sahte aşı yaptırmak isteyenlere gerçek aşı yapmış.",
+                    "contentLink": [
+                        "https://www.keeptalkinggreece.com/2021/10/10/greece-fake-vaccinations-water-real-vaccine/"
+                    ]
+                },
+                {
+                    "contentText": "Bize yararı olan ve teşekkür etmemiz gereken virüsler de var.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/there-is-at-least-one-type-of-virus-we-should-be-very-thankful-for-bacteriophages"
+                    ]
+                },
+                {
+                    "contentText": "NASA, Lucy görevinde tam açılmayan güneş paneli konusunda iyimser.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2021/10/18/nasa-officials-optimistic-lucy-asteroid-mission-will-overcome-solar-array-snag/"
+                    ]
+                },
+                {
+                    "contentText": "NASA, James Webb Uzay Teleskobu’nun ismini şimdilik değiştirmiyor.",
+                    "contentLink": [
+                        "https://spacenews.com/nasa-defends-decision-to-retain-jwst-name/"
+                    ]
+                },
+                {
+                    "contentText": "Kendi ötegezegenininizi keşfetmek ister misiniz?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/scientists-need-your-help-in-identifying-new-extrasolar-planets-out-in-space"
+                    ]
+                },
+                {
+                    "contentText": "Dinozorların karmaşık sürüler halinde yaşadığına dair kanıt bulundu.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/jurassic-graveyard-reveals-oldest-evidence-that-dinosaurs-traveled-in-herds"
+                    ]
+                },
+                {
+                    "contentText": "Domuz böbreği ilk kez bir insana başarıyla nakledildi.",
+                    "contentLink": [
+                        "https://www.npr.org/2021/10/20/1047560631/in-a-major-scientific-advance-a-pig-kidney-is-successfully-transplanted-into-a-h"
+                    ]
+                },
+                {
+                    "contentText": "Beyne yerleştirilen implant sayesinde görme engelli bir öğretmen yeniden görebilir hale geldi.",
+                    "contentLink": [
+                        "https://www.npr.org/2021/10/23/1048699230/scientists-used-a-tiny-brain-implant-to-help-a-blind-teacher-see-letters-again"
+                    ]
+                },
+                {
+                    "contentText": "Beynimizin yol bulma algoritması bazen uzun yoldan gitmemize neden oluyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/humans-are-actually-terrible-at-navigating-cities"
+                    ]
+                },
+                {
+                    "contentText": "Zenginlerin parasıyla ilgili hislerimiz karışık.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/people-are-more-tolerant-of-billionaires-if-they-know-their-personal-story-study-reveals"
+                    ]
+                },
+                {
+                    "contentText": "Diğer hominin türleri yok olmasaydı, yine de kendimize insan der miydik?",
+                    "contentLink": [
+                        "https://theconversation.com/would-we-still-see-ourselves-as-human-if-other-hominin-species-hadnt-gone-extinct-166759"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
