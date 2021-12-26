@@ -19398,6 +19398,94 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2021",
+            "count": 43,
+            "totalCount": 218,
+            "uploadDate": "01.11.2021",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2021/11/bilim_2021_43.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2021-43",
+            "podcastTime": 5420,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2021/43",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Bloomberg Pandemiye Direnç endeksi Aşılama oranları",
+                    "contentLink": [
+                        "https://www.bloomberg.com/graphics/covid-resilience-ranking/",
+                        "https://www.bloomberg.com/graphics/covid-vaccine-tracker-global-distribution/"
+                    ]
+                },
+                {
+                    "contentText": "Pfizer aşısı 5-11 yaş arası için FDA’dan onay aldı.",
+                    "contentLink": [
+                        "https://www.npr.org/sections/health-shots/2021/10/29/1049704374/fda-authorizes-use-of-pfizers-covid-vaccine-for-5-to-11-year-olds"
+                    ]
+                },
+                {
+                    "contentText": "Alçak Dünya Yörüngesi ticaret savaşları kızışıyor.",
+                    "contentLink": [
+                        "https://arstechnica.com/science/2021/10/a-once-quiet-battle-to-replace-the-space-station-suddenly-is-red-hot"
+                    ]
+                },
+                {
+                    "contentText": "Artemis I Şubat ayında fırlatılacak ve ilk iki görevi National Geographic belgeselleştirecek.",
+                    "contentLink": [
+                        "https://www.universetoday.com/153146/artemis-1-is-launching-in-february/",
+                        "https://www.nasa.gov/press-release/nasa-national-geographic-partner-to-show-inside-artemis-moon-mission"
+                    ]
+                },
+                {
+                    "contentText": "Starship’in gövdesi Ay’a üs kurmak için kullanılabilir.",
+                    "contentLink": [
+                        "https://www.universetoday.com/153061/new-idea-use-the-starship-hls-to-create-a-lunar-base/"
+                    ]
+                },
+                {
+                    "contentText": "Samanyolu Galaksisi dışındaki ilk ötegezegeni tespit etmiş olabiliriz.",
+                    "contentLink": [
+                        "https://exoplanets.nasa.gov/news/1691/first-evidence-of-a-planet-identified-beyond-our-galaxy/"
+                    ]
+                },
+                {
+                    "contentText": "Başka yıldız sistemlerinde fotosentez nasıl olabilir?",
+                    "contentLink": [
+                        "https://massivesci.com/articles/photosynthesis-exoplanets-alien-worlds-wavelength/"
+                    ]
+                },
+                {
+                    "contentText": "Gözbebeklerimiz sayısal veriyi algılayabiliyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/pupil-size-changes-depending-on-how-many-objects-we-re-looking-at"
+                    ]
+                },
+                {
+                    "contentText": "İnsan beyninin neden küçüldüğünü karıncalar açıklayabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/ants-could-help-explain-why-our-brains-mysteriously-shrank-thousands-of-years-ago"
+                    ]
+                },
+                {
+                    "contentText": "Afrika filleri avcıların baskısıyla evrimleşerek dişlerini kaybediyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-selective-pressure-of-poaching-has-made-more-elephants-tuskless"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
