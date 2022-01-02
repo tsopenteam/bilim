@@ -19652,6 +19652,74 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2021",
+            "count": 46,
+            "totalCount": 221,
+            "uploadDate": "22.11.2021",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2021/11/bilim_2021_46.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2021-46",
+            "podcastTime": 5497,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2021/46",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Pfizer, Covid-19 ilacının eşdeğer üretim lisansını 95 ülkeye vereceğini duyurdu.",
+                    "contentLink": [
+                        "https://www.npr.org/2021/11/16/1056142912/pfizer-generic-paxlovid-deal-countries"
+                    ]
+                },
+                {
+                    "contentText": "Rusya’nın kendi uydusunu vurması ISS’teki astronotları tehlikeye attı.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2021/11/18/station-resumes-normal-operations-but-russian-anti-satellite-test-poses-continued-risk/"
+                    ]
+                },
+                {
+                    "contentText": "Starship, ilk yörünge denemesini Ocak veya Şubat ayında yapabilir.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2021/11/18/spacex-targets-january-or-february-for-first-launch-of-worlds-largest-rocket/"
+                    ]
+                },
+                {
+                    "contentText": "Mars’ta manyetik alan yaratmak için kullanılabilecek ilginç bir plan.",
+                    "contentLink": [
+                        "https://www.universetoday.com/153368/an-absolutely-bonkers-plan-to-give-mars-an-artificial-magnetosphere/"
+                    ]
+                },
+                {
+                    "contentText": "NASA, bir göktaşını vurmaya hazırlanıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/nasa-is-about-to-launch-a-probe-that-will-smash-into-an-asteroid-nudging-its-orbit"
+                    ]
+                },
+                {
+                    "contentText": "Radyo astronominin keşfinin ilginç hikayesi.",
+                    "contentLink": [
+                        "https://massivesci.com/articles/radio-astronomy-sagittarius-karl-jansky/"
+                    ]
+                },
+                {
+                    "contentText": "İnsanlık bir anda yok olsaydı köpeklere ne olurdu?",
+                    "contentLink": [
+                        "https://aeon.co/essays/who-could-dogs-become-without-humans-in-their-lives"
+                    ]
+                },
+                {
+                    "contentText": "Soru ve Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
