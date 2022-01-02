@@ -19572,6 +19572,86 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2021",
+            "count": 45,
+            "totalCount": 220,
+            "uploadDate": "15.11.2021",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2021/11/bilim_2021_45.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2021-45",
+            "podcastTime": 5614,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2021/45",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "NASA, Ay’a insanlı iniş görevini en erken 2025 yılına ertelendi.",
+                    "contentLink": [
+                        "https://spacenews.com/nasa-delays-human-lunar-landing-to-at-least-2025/"
+                    ]
+                },
+                {
+                    "contentText": "Virgin Galactic bilet satışlarından memnun.",
+                    "contentLink": [
+                        "https://spacenews.com/virgin-galactic-adds-100-customers-after-resuming-ticket-sales/"
+                    ]
+                },
+                {
+                    "contentText": "Alternatif bir yoldan uzaya bir şeyler göndermeye çalışan bir firma: Spin Launch",
+                    "contentLink": [
+                        "https://www.cnbc.com/2021/11/09/spinlaunch-completes-first-test-flight-of-alternative-rocket.html"
+                    ]
+                },
+                {
+                    "contentText": "Radyasyon emebilen mantarlar ileride astronotları koruyabilir.",
+                    "contentLink": [
+                        "https://www.universetoday.com/153283/fungi-were-able-to-absorb-radiation-on-the-iss-could-astronauts-grow-their-own-radiation-shields-in-space/"
+                    ]
+                },
+                {
+                    "contentText": "Uzun uzay görevi simülasyonlarındaki ekipler zaman içinde Dünya ile iletişimlerini azaltıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/space-colonies-are-likely-to-rely-less-on-earth-for-support-over-time-due-to-isolation"
+                    ]
+                },
+                {
+                    "contentText": "Yeni geliştirilen bir ilaç farelerde omurilik hasarını giderebiliyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/new-drug-reversed-paralysis-in-mice-with-spinal-injuries"
+                    ]
+                },
+                {
+                    "contentText": "Fosil yakıtlarını bırakmanın anında hayatımıza girecek faydaları da var.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/banning-the-burning-of-fossil-fuels-could-immediately-save-one-in-five-from-early-death"
+                    ]
+                },
+                {
+                    "contentText": "Kediniz sizi görmese de konumunuzu takip edebiliyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/don-t-freak-out-or-anything-but-your-cat-is-tracking-your-movements"
+                    ]
+                },
+                {
+                    "contentText": "Kalabalıkta sıkışıp kalırsanız dikkat etmeniz gerekenler.",
+                    "contentLink": [
+                        "https://www.npr.org/2021/11/09/1053828800/astroworld-travis-scott-crowd-safety-tips"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
