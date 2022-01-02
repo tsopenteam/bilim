@@ -19486,6 +19486,92 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2021",
+            "count": 44,
+            "totalCount": 219,
+            "uploadDate": "08.11.2021",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2021/11/bilim_2021_44.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2021-44",
+            "podcastTime": 5589,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2021/44",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Pfizer, Covid-19 için geliştirdiği ilacı duyurdu.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/pfizer-announces-its-covid-19-pill-reduces-risk-of-hospitalization-or-death-by-89-percent"
+                    ]
+                },
+                {
+                    "contentText": "Blue Origin, NASA’ya karşı HLS ihalesiyle ilgili açtığı davayı kaybetti.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2021/11/04/blue-origin-loses-lawsuit-clearing-way-for-nasa-to-move-forward-with-spacex-moon-lander/"
+                    ]
+                },
+                {
+                    "contentText": "SpaceX’in sızdıran tuvaleti nedeniyle astronotlar dönüş yolculuğunda çişlerini tutmak zorunda kalacak.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/poor-iss-astronauts-will-have-to-come-home-in-nappies-cause-spacex-s-toilet-keeps-leaking-pee"
+                    ]
+                },
+                {
+                    "contentText": "Hubble Uzay Teleskobu yine güvenli moda girdi.",
+                    "contentLink": [
+                        "https://spacenews.com/hubble-remains-in-safe-mode-after-latest-glitch/"
+                    ]
+                },
+                {
+                    "contentText": "NASA, diğer gezegenlerde bulunabilecek canlılıkla ilgili bilimsel sonuçlara bir çerçeve hazırlıyor.",
+                    "contentLink": [
+                        "https://www.universetoday.com/153199/nasa-is-getting-serious-about-the-search-for-life-in-the-universe/"
+                    ]
+                },
+                {
+                    "contentText": "Ingenuity, 14. uçuşuyla görevine devam etti.",
+                    "contentLink": [
+                        "https://www.universetoday.com/153173/ingenuity-back-in-action-on-mars-on-its-14th-flight/"
+                    ]
+                },
+                {
+                    "contentText": "Mars’tan örnek getirme yarışı kızışıyor.",
+                    "contentLink": [
+                        "https://spacenews.com/china-is-planning-a-complex-mars-sample-return-mission/"
+                    ]
+                },
+                {
+                    "contentText": "Yeni geliştirilen beyin implantı sayesinde felçli bir hastanın düşünceleri kağıda döküldü.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/brain-implant-enables-paralyzed-man-to-communicate-thoughts-via-imaginary-handwriting"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları kril paradoksunu çözdü.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/whales-eat-far-more-than-we-thought-so-it-s-even-more-important-we-protect-them"
+                    ]
+                },
+                {
+                    "contentText": "Köpekler kafayı yana yatırma hareketini sevimlilik olsun diye yapmıyorlar.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/new-study-explains-why-dogs-do-the-head-tilt-and-it-s-honestly-too-cute-to-handle"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
