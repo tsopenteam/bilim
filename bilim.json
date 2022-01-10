@@ -19720,6 +19720,80 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2021",
+            "count": 47,
+            "totalCount": 222,
+            "uploadDate": "29.11.2021",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2021/11/bilim_2021_47.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2021-47",
+            "podcastTime": 5845,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2021/47",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Yeni tespit edilen Covid-19 varyantı yüksek oranda mutasyon içeriyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/what-we-know-so-far-about-omicron-the-latest-covid-variant-of-concern"
+                    ]
+                },
+                {
+                    "contentText": "Turkovac acil kullanım onayı için başvuru yapıldı.",
+                    "contentLink": [
+                        "https://www.aa.com.tr/tr/koronavirus/5-soruda-yerli-asi-turkovac/2431201"
+                    ]
+                },
+                {
+                    "contentText": "DAG’ın 4 metrelik aynası gözlem evine taşındı.",
+                    "contentLink": [
+                        "https://www.haberturk.com/son-dakika-teleskop-aynasi-icin-5-saatlik-yolculuk-3266448"
+                    ]
+                },
+                {
+                    "contentText": "JWST montajı sırasında yaşanan bir sorun fırlatma tarihini birkaç gün ileri attı.",
+                    "contentLink": [
+                        "https://www.universetoday.com/153378/incident-that-occurred-during-loading-pushes-the-webb-launch-date-to-dec-22nd/"
+                    ]
+                },
+                {
+                    "contentText": "Pentagon, açıklanamayan UFO görüntüleri için inceleme görev gücü kuruyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/inexplicable-phenomena-spurs-pentagon-to-launch-new-ufo-investigation-force"
+                    ]
+                },
+                {
+                    "contentText": "Nötrinolar ilk kez LHC deneylerinde gözlemlendi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/for-the-first-time-neutrinos-may-have-been-detected-at-the-large-hadron-collider"
+                    ]
+                },
+                {
+                    "contentText": "Bir araştırmaya göre insanlar 4-5 saniye süren sarılmalardan hoşlanıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/science-provides-the-instructions-on-how-to-deliver-the-perfect-hug"
+                    ]
+                },
+                {
+                    "contentText": "Amerikan Ordusu’nun devasa karayolu treninin ilginç hikayesi.",
+                    "contentLink": [
+                        "https://www.thedrive.com/news/33645/the-incredible-story-of-the-us-armys-earth-shaking-off-road-land-trains"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
