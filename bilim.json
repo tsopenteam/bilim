@@ -19794,6 +19794,80 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2021",
+            "count": 48,
+            "totalCount": 223,
+            "uploadDate": "06.12.2021",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2021/12/bilim_2021_48.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=_vATSe3VTdQ",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2021-48",
+            "podcastTime": 5463,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2021/48",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Bloomberg Pandemiye Direnç endeksi",
+                    "contentLink": [
+                        "https://www.bloomberg.com/graphics/covid-resilience-ranking/"
+                    ]
+                },
+                {
+                    "contentText": "Starship’in taşıma kapasitesi bilim insanlarını heyecanlandırıyor.",
+                    "contentLink": [
+                        "https://arstechnica.com/science/2021/12/planetary-scientists-are-starting-to-get-stirred-up-by-starships-potential/"
+                    ]
+                },
+                {
+                    "contentText": "SpaceX, Raptor üretim krizini aşmaya çalışıyor.",
+                    "contentLink": [
+                        "https://spacenews.com/spacex-grapples-with-raptor-production-problems/"
+                    ]
+                },
+                {
+                    "contentText": "Ay yörüngesindeki ISRO uydusu çarpışma ihtimalini azaltmak için manevra yaptı.",
+                    "contentLink": [
+                        "https://spacenews.com/indias-chandrayaan-2-maneuvered-to-avoid-close-approach-to-nasas-lunar-reconnaissance-orbiter/"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları bir tuz tanesi büyüklüğünde kamera yapmayı başardı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/this-new-ultracompact-camera-is-the-size-of-a-grain-of-salt"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları kendi kendini çoğaltabilen ilk canlı robotları yaptıklarını duyurdular.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/world-s-first-self-replicating-living-robots-look-like-pac-man-but-are-much-weirder"
+                    ]
+                },
+                {
+                    "contentText": "“İstilacı tür” terimini kullanmaktan vazgeçmeliyiz.",
+                    "contentLink": [
+                        "https://www.vox.com/down-to-earth/22796160/invasive-species-climate-change-range-shifting"
+                    ]
+                },
+                {
+                    "contentText": "Mantarlardan korkmaya başlamanın zamanı geldi.",
+                    "contentLink": [
+                        "https://arstechnica.com/science/2021/11/its-time-to-fear-the-fungi"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
