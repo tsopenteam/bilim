@@ -19868,6 +19868,88 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2021",
+            "count": 49,
+            "totalCount": 224,
+            "uploadDate": "13.12.2021",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2021/12/bilim_2021_49.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=LNAxTwOQRUc",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2021-49",
+            "podcastTime": 5656,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2021/49",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Omicron varyantı üzerinde yapılan ilk araştırma sonuçları gelmeye başladı.",
+                    "contentLink": [
+                        "https://www.npr.org/sections/goatsandsoda/2021/12/08/1062352212/studies-suggest-sharp-drop-in-vaccine-protection-v-omicron-yet-cause-for-optimis",
+                        "https://www.theatlantic.com/ideas/archive/2021/12/everything-about-omicron-cases-vaccines/620956"
+                    ]
+                },
+                {
+                    "contentText": "Rocket Lab, tekrar kullanılabilir Neutron roketinin ayrıntılarını paylaştı. Falcon 9 karşılaştırması",
+                    "contentLink": [
+                        "https://www.universetoday.com/153525/rocket-lab-shows-off-its-new-reusable-neutron-rocket-due-for-launch-in-2024/",
+                        "https://erik-engheim.medium.com/can-neutron-compete-with-falcon-9-ec8238750892"
+                    ]
+                },
+                {
+                    "contentText": "Bir grup bilim insanı neye gezegen diyeceğimizi yeniden düşünmemiz gerektiğini söylüyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/fascinating-paper-lays-out-why-we-need-to-rethink-moons-as-planets-and-reinstate-pluto"
+                    ]
+                },
+                {
+                    "contentText": "NASA, yeni nesil göktaşı izleme sistemini devreye aldı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/nasa-s-next-gen-asteroid-impact-monitoring-system-was-just-switched-on"
+                    ]
+                },
+                {
+                    "contentText": "NASA, en yeni astronot adayları listesini açıkladı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/nasa-announces-10-new-astronaut-trainees"
+                    ]
+                },
+                {
+                    "contentText": "Farklı bir yere odaklanma anında anlık körlükler yaşıyoruz.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/a-brief-period-of-blindness-is-key-to-how-our-vision-works"
+                    ]
+                },
+                {
+                    "contentText": "Katarakt ameliyatı bunama riskini ciddi oranda azaltıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/having-cataract-surgery-is-linked-to-a-lower-risk-of-dementia"
+                    ]
+                },
+                {
+                    "contentText": "Yediğimiz yiyecekler kızgın söylemleri artırıyor mu?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/are-our-diets-contributing-to-the-rise-in-angry-rhetoric-we-need-more-micronutrients"
+                    ]
+                },
+                {
+                    "contentText": "Dizi izleme bağımlısı mısınız?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/being-actually-addicted-to-binge-watching-tv-could-be-more-real-than-you-think"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
