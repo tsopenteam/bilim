@@ -19950,6 +19950,87 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2021",
+            "count": 50,
+            "totalCount": 225,
+            "uploadDate": "20.12.2021",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2021/12/bilim_2021_50.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=8w9xhCOXN8k",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2021-50",
+            "podcastTime": 5406,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2021/50",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Pfizer aşısı Omicron varyantına karşı ne kadar etkili?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/preliminary-south-african-omicron-data-suggest-2-pfizer-doses-cuts-hospitalization-risk-by-70"
+                    ]
+                },
+                {
+                    "contentText": "Turksat 5B başarıyla fırlatıldı.",
+                    "contentLink": [
+                        "https://www.aa.com.tr/tr/bilim-teknoloji/turkiyenin-8inci-uydusu-uzayda/2451461"
+                    ]
+                },
+                {
+                    "contentText": "Parker Güneş Sondası, Güneş’e dokunan ilk uzay aracı oldu.",
+                    "contentLink": [
+                        "https://www.universetoday.com/153723/parker-solar-probe-flies-through-the-suns-outer-atmosphere-for-the-first-time/",
+                        "https://www.sciencealert.com/for-the-first-time-in-history-a-spacecraft-has-touched-the-sun"
+                    ]
+                },
+                {
+                    "contentText": "James Webb Uzay Teleskopu’nun fırlatılışı 24 Aralık’a ertelendi.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2021/12/14/nasa-delays-launch-of-webb-telescope-to-no-earlier-than-dec-24/"
+                    ]
+                },
+                {
+                    "contentText": "Dünya’ya çarpan göktaşlarını büyük yokoluşlara neden olması için nereye çarptıkları da önemli.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/it-is-not-bolide-size-that-determines-how-deadly-a-meteor-is"
+                    ]
+                },
+                {
+                    "contentText": "Göçmen kuşların yüksek yapılara çarpmalarını engellemek için beyaz gürültü kullanılabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/sound-could-save-birds-from-slamming-into-tall-buildings-wind-turbines-here-s-how"
+                    ]
+                },
+                {
+                    "contentText": "Yeni geliştirilen gençlik aşısı farelerde olumlu sonuçlar verdi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/new-vaccine-removes-damaged-cells-to-slow-down-aging-in-mice"
+                    ]
+                },
+                {
+                    "contentText": "Kanser araştırma sonuçlarının tekrarlanabilirliği hakkında soru işaretleri artıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/massive-8-year-study-finds-only-25-percent-of-cancer-research-can-be-reproduced"
+                    ]
+                },
+                {
+                    "contentText": "Şimdiye kadar yapılan en ayrıntılı evrim ağacı ile tanışın: OneZoom",
+                    "contentLink": [
+                        "https://www.sciencealert.com/explore-evolution-on-earth-in-the-most-comprehensive-tree-of-life-ever-created"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
