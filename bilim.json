@@ -20031,6 +20031,68 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2021",
+            "count": 51,
+            "totalCount": 226,
+            "uploadDate": "27.12.2021",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2021/12/bilim_2021_51.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=GvKTjkLI24s",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2021-51",
+            "podcastTime": 5174,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2021/51",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Bloomberg Pandemiye Direnç endeksi",
+                    "contentLink": [
+                        "https://www.bloomberg.com/graphics/covid-resilience-ranking/"
+                    ]
+                },
+                {
+                    "contentText": "Hastaneye yatış oranları omikron varyantında daha düşük.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/early-studies-out-of-uk-indicate-omicron-has-a-lower-hospitalization-rate-than-delta"
+                    ]
+                },
+                {
+                    "contentText": "James Webb Uzay Teleskobu fırlatıldı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-fate-of-the-james-webb-telescope-rests-on-a-knife-s-edge"
+                    ]
+                },
+                {
+                    "contentText": "SpaceX, atmosferdeki karbondioksitten yakıt üretmeyi planlıyor.",
+                    "contentLink": [
+                        "https://www.universetoday.com/153764/spacex-is-hoping-to-turn-atmospheric-co2-into-rocket-fuel/"
+                    ]
+                },
+                {
+                    "contentText": "Yumurtanın içinde fosilleşen dinozor yeni evrimsel ipuçları sunuyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/exquisitely-preserved-dinosaur-embryo-showing-bird-like-behavior-reveals-new-evolutionary-links"
+                    ]
+                },
+                {
+                    "contentText": "Yapılan bir araştırmaya göre varlıklı ailelerin çocuklarının dişleri daha fazla aşınıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/affluent-children-are-more-likely-to-have-a-common-dental-problem-here-s-why"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
