@@ -20093,6 +20093,74 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2022",
+            "count": 1,
+            "totalCount": 227,
+            "uploadDate": "03.01.2022",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2022/01/bilim_2022_1.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=jz0F8EvGhQo",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2022-1",
+            "podcastTime": 5719,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2022/1",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Covid-19 Değerlendirmeleri",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "James Webb Uzay Telekobu ne aşamada? Görev süresi 10 yıldan fazla olabilir.",
+                    "contentLink": [
+                        "https://www.jwst.nasa.gov/content/webbLaunch/whereIsWebb.html?units=metric",
+                        "https://www.universetoday.com/153851/jwsts-precise-launch-and-near-perfect-course-corrections-mean-fuel-savings-and-that-means-a-longer-mission/"
+                    ]
+                },
+                {
+                    "contentText": "Çin Uzay İstasyonu Starlink uydularından kaçınma manevrası yaptı.",
+                    "contentLink": [
+                        "https://spacenews.com/chinas-space-station-maneuvered-to-avoid-starlink-satellites/",
+                        "https://www.sciencealert.com/china-accuses-us-of-unsafe-conduct-in-space-after-close-encounter-with-starlink"
+                    ]
+                },
+                {
+                    "contentText": "İnsanlık hangi gezegene veya uyduya yerleşebilir?",
+                    "contentLink": [
+                        "https://erik-engheim.medium.com/which-planet-or-moon-would-you-colonize-987778b1b0a6"
+                    ]
+                },
+                {
+                    "contentText": "Apple’ın AirTag ürünleri istenmeyen takip olaylarına neden oluyor.",
+                    "contentLink": [
+                        "https://www.nytimes.com/2021/12/30/technology/apple-airtags-tracking-stalking.html"
+                    ]
+                },
+                {
+                    "contentText": "Bazı şeker katkıları süper bakterilerin güçlenmesinde rol oynuyor olabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/a-common-sugar-additive-could-be-driving-the-rise-of-one-of-the-most-aggressive-superbugs"
+                    ]
+                },
+                {
+                    "contentText": "Negatif kalorili yiyecek diye bir şey var mı?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/this-holiday-season-don-t-burden-yourself-with-the-nonsense-of-zero-calorie-foods"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
