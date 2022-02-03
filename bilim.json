@@ -20161,6 +20161,75 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2022",
+            "count": 2,
+            "totalCount": 228,
+            "uploadDate": "10.01.2022",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2022/01/bilim_2022_2.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=cjxJUqzQ-nY",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2022-2",
+            "podcastTime": 4734,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2022/2",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "James Webb Uzay Teleskobu açılma işlemlerini tamamladı. Teleskopun üzerinde neden kamera yok?",
+                    "contentLink": [
+                        "https://spacenews.com/nasa-completes-major-jwst-deployments/",
+                        "https://blogs.nasa.gov/webb/2022/01/06/why-doesnt-webb-have-deployment-cameras/"
+                    ]
+                },
+                {
+                    "contentText": "Çin’in Mars yörüngesindeki uydusu yine selfie çekti.",
+                    "contentLink": [
+                        "https://www.universetoday.com/153902/chinas-tianwen-1-spacecraft-took-a-selfie-using-a-tiny-secondary-spacecraft/"
+                    ]
+                },
+                {
+                    "contentText": "Çin’in füzyon reaktörü yeni bir rekora imza attı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/china-s-artificial-sun-just-broke-a-major-world-record-for-plasma-fusion"
+                    ]
+                },
+                {
+                    "contentText": "FDA’nın onayladığı göz damlası yakın gözlüğü kullanımını ortadan kaldırıyor.",
+                    "contentLink": [
+                        "https://www.extremetech.com/extreme/329716-fda-approves-new-eye-drops-that-could-replace-glasses-for-millions"
+                    ]
+                },
+                {
+                    "contentText": "Antibiyotiğe dirençli bakteriler biz ilaçları kullanmaya başlamadan önce de vardı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/origins-of-drug-resistant-superbug-weren-t-what-we-thought-surprise-discovery-shows"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları hayvanat bahçesindeki hayvanların DNA’larını havadan tespit edebildiler.",
+                    "contentLink": [
+                        "https://www.npr.org/2022/01/09/1071238185/vacuuming-airborne-zoo-animal-dna"
+                    ]
+                },
+                {
+                    "contentText": "Erkek cerrahlar tarafından ameliyat edilen kadın hastaların hayatını kaybetme ihtimali daha yüksek.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/female-patients-are-much-likelier-to-suffer-complications-and-death-at-the-hands-of-male-surgeons"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
