@@ -20230,6 +20230,86 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2022",
+            "count": 3,
+            "totalCount": 229,
+            "uploadDate": "17.01.2022",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2022/01/bilim_2022_3.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2022-3",
+            "podcastTime": 5932,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2022/3",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "DSÖ: Bir buçuk ay içinde Avrupa nüfusunun yarısı omikron varyantına maruz kalacak.",
+                    "contentLink": [
+                        "https://www.nbcnews.com/news/world/omicron-track-infect-half-europe-who-rcna11762"
+                    ]
+                },
+                {
+                    "contentText": "Turkovac faz 3 sonuçları açıklandı.",
+                    "contentLink": [
+                        "https://www.cnnturk.com/turkiye/turkovac-asisinin-etkilinlik-orani-ne-faz-3-calismalari-sonucu-aciklaniyor"
+                    ]
+                },
+                {
+                    "contentText": "Türkiye’nin ilk cep uydusu uzaya gönderildi.",
+                    "contentLink": [
+                        "https://www.bloomberght.com/grizu-263a-nedir-2296502"
+                    ]
+                },
+                {
+                    "contentText": "James Webb Uzay Telekobu’nu kim kullanacak?",
+                    "contentLink": [
+                        "https://www.npr.org/2022/01/11/1071752559/who-gets-to-use-nasas-james-webb-space-telescope-astronomers-work-to-fight-bias"
+                    ]
+                },
+                {
+                    "contentText": "Perseverance’ın çakıl taşlarıyla başı belada.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/perseverance-has-run-into-a-problem-on-mars-pebbles-in-its-bit-carousel"
+                    ]
+                },
+                {
+                    "contentText": "İlk kez bir insana genetiği değiştirilmiş domuz kalbi nakledildi.",
+                    "contentLink": [
+                        "https://www.npr.org/2022/01/10/1071906223/doctors-transplant-genetically-modified-pig-heart"
+                    ]
+                },
+                {
+                    "contentText": "Bilimde teori-ötesi dönemi mi yaşamaya başlıyoruz?",
+                    "contentLink": [
+                        "https://www.theguardian.com/technology/2022/jan/09/are-we-witnessing-the-dawn-of-post-theory-science"
+                    ]
+                },
+                {
+                    "contentText": "Yapay zeka kullanarak terapi seanslarını iyileştirmek mümkün mü?",
+                    "contentLink": [
+                        "https://www.technologyreview.com/2021/12/06/1041345/ai-nlp-mental-health-better-therapists-psychology-cbt"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları balıklara akvaryumlarını etrafta gezdirme yeteneği kazandırdı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/scientists-taught-a-goldfish-to-steer-a-robotic-tank-through-a-room"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
