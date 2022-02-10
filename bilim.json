@@ -20310,6 +20310,81 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2022",
+            "count": 4,
+            "totalCount": 230,
+            "uploadDate": "24.01.2022",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2022/01/bilim_2022_4.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=krMzfj-4wrQ",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2022-4",
+            "podcastTime": 5791,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2022/4",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Covid aşılarında yaşanan yan etkilerin %60’ı nosebo etkisinden kaynaklanıyor olabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/nearly-two-thirds-of-adverse-covid-19-vaccine-reactions-might-be-due-to-the-nocebo-effect"
+                    ]
+                },
+                {
+                    "contentText": "Starlink uydu sayısı 2000’i geçti. Bazı ülkelerde ön siparişler lisans nedeniyle durduruldu.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2022/01/19/spacex-launches-2000th-starlink-satellite/",
+                        "https://spacenews.com/pakistan-is-next-to-halt-starlink-preorders/"
+                    ]
+                },
+                {
+                    "contentText": "Uzaydaki kan dolaşımı sorunu düşük basınçlı uyku tulumlarıyla çözülebilir.",
+                    "contentLink": [
+                        "https://www.universetoday.com/154107/a-suctioning-sleeping-bag-could-solve-eye-problems-in-space/"
+                    ]
+                },
+                {
+                    "contentText": "Türünün ilk örneği bir araştırmada arkeologlar ilk kez uzayda çalışma fırsatı bulacak.",
+                    "contentLink": [
+                        "https://www.npr.org/2022/01/20/1074216381/archeologists-launch-first-ever-dig-into-life-on-the-international-space-station"
+                    ]
+                },
+                {
+                    "contentText": "Domuzdan alınan böbrek başarıyla bir insana nakledildi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/a-clinical-grade-pig-kidney-has-been-transplanted-into-a-human-for-the-first-time"
+                    ]
+                },
+                {
+                    "contentText": "Göze bakarak bir kişinin erken ölüm ihtimalini belirlemek mümkün.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/looking-deep-into-your-eyes-could-reveal-whether-you-re-a-fast-ager"
+                    ]
+                },
+                {
+                    "contentText": "Pek çok insan laboratuvarda üretilen et fikrinden iğreniyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/many-people-seem-disgusted-by-the-thought-of-eating-cultured-meat"
+                    ]
+                },
+                {
+                    "contentText": "Bebekler salya değişiminin sevgiden ve yakınlıktan kaynaklandığını biliyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/this-is-how-toddlers-know-if-people-share-a-special-bond-and-it-s-gross"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
