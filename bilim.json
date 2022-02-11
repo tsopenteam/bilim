@@ -20385,6 +20385,86 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2022",
+            "count": 5,
+            "totalCount": 231,
+            "uploadDate": "31.01.2022",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2022/01/bilim_2022_5.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2022-5",
+            "podcastTime": 5765,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2022/5",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Bloomberg Pandemiye Direnç endeksi",
+                    "contentLink": [
+                        "https://www.bloomberg.com/graphics/covid-resilience-ranking/"
+                    ]
+                },
+                {
+                    "contentText": "James Webb Uzay Teleskobu hedefine başarıyla ulaştı.",
+                    "contentLink": [
+                        "https://www.universetoday.com/154189/webb-has-arrived-successfully-at-l2/"
+                    ]
+                },
+                {
+                    "contentText": "Mühendisler Mars’tan örnek getirme görevi için çalışıyor.",
+                    "contentLink": [
+                        "https://www.universetoday.com/154252/nasa-is-already-designing-hardware-for-a-mars-sample-return-mission/"
+                    ]
+                },
+                {
+                    "contentText": "Beynimiz gözlerden gelen veriyi 15 saniye geriden gelerek işleyebiliyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/to-help-us-see-a-stable-world-our-brains-keep-us-15-seconds-in-the-past"
+                    ]
+                },
+                {
+                    "contentText": "Beynimiz su içmemiz gerektiğini nasıl anlıyor?",
+                    "contentLink": [
+                        "https://www.npr.org/sections/health-shots/2022/01/27/1076089390/thirsty-heres-how-your-brain-answers-that-question"
+                    ]
+                },
+                {
+                    "contentText": "Acil serviste 5 saatten fazla kalmak ölüm oranını artırıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/long-waits-in-the-emergency-room-are-risking-patient-lives"
+                    ]
+                },
+                {
+                    "contentText": "Yeni geliştirilen bir teknikle kurbağaların kopan bacakları yeniden büyütüldü.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/scientists-have-developed-a-treatment-to-help-frogs-regenerate-limbs-in-just-18-months"
+                    ]
+                },
+                {
+                    "contentText": "Fakir annelere doğumdan sonra para yardımı yapmak bebeklerin beyin faaliyetini artırıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/providing-cash-to-low-income-mothers-puts-their-baby-s-brains-on-a-new-wavelength"
+                    ]
+                },
+                {
+                    "contentText": "Basit birkaç kelime yiyeceklerden aldığımız tadı etkileyebiliyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/researchers-show-just-how-powerful-descriptions-can-be-in-influencing-our-sense-of-taste"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
