@@ -20465,6 +20465,87 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2022",
+            "count": 6,
+            "totalCount": 232,
+            "uploadDate": "07.02.2022",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2022/02/bilim_2022_6.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=2xFarMMkc-4",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2022-6",
+            "podcastTime": 5261,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2022/6",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Aykut Kence Evrim Konferansı 22-23 Şubat tarihinde yapılacak.",
+                    "contentLink": [
+                        "https://www.aykutkenceevrimkonferansi.org/"
+                    ]
+                },
+                {
+                    "contentText": "Zengin ülkeler aşı stoklarının yarısını fakir ülkelere verseler ne olur?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/model-shows-what-would-happen-if-rich-countries-gave-away-half-their-covid-19-vaccines"
+                    ]
+                },
+                {
+                    "contentText": "NASA, ISS’in ömrünün nasıl sonlanacağına dair ayrıntıları paylaştı.",
+                    "contentLink": [
+                        "https://www.universetoday.com/154375/nasa-details-its-plan-for-the-end-of-the-international-space-station-in-2031/",
+                        "https://spacenews.com/nasa-outlines-cost-savings-from-iss-transition/"
+                    ]
+                },
+                {
+                    "contentText": "NASA, Artemis 1 görevini 2022 baharında tamamlamayı planlıyor.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2022/02/04/nasa-targets-march-rollout-for-sls-moon-rocket-launch-later-this-spring/"
+                    ]
+                },
+                {
+                    "contentText": "Hindistan, bu yaz tekrar Ay’a araç indirmeyi deneyecek.",
+                    "contentLink": [
+                        "https://spacenews.com/india-targets-august-launch-for-chandrayaan-3-lunar-lander/"
+                    ]
+                },
+                {
+                    "contentText": "Bilim adamları ilk kez başıboş gezen bir kara delik tespit ettiler.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/for-the-first-time-a-lone-black-hole-has-been-found-wandering-the-milky-way"
+                    ]
+                },
+                {
+                    "contentText": "Balıklar 155 Milyon yıldır konuşabiliyor!",
+                    "contentLink": [
+                        "https://www.sciencealert.com/fish-have-been-talking-with-delightfully-strange-sounds-for-at-least-155-million-years"
+                    ]
+                },
+                {
+                    "contentText": "Yapılan kapsamlı bir araştırmaya göre az içki içmek de zararlı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/low-or-moderate-drinking-probably-isn-t-as-good-for-us-as-we-thought"
+                    ]
+                },
+                {
+                    "contentText": "İngiltere’de çiçekler erken açıyor!",
+                    "contentLink": [
+                        "https://www.sciencealert.com/flowers-are-blooming-a-whole-month-earlier-in-britain-than-they-did-in-the-early-80s"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
