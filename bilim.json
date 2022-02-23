@@ -20546,6 +20546,74 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2022",
+            "count": 7,
+            "totalCount": 233,
+            "uploadDate": "14.02.2022",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2022/02/bilim_2022_7.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2022-7",
+            "podcastTime": 5321,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2022/7",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "NASA, JWST’nin çektiği ilk fotoğrafı yayınladı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/this-is-the-james-webb-space-telescope-s-first-ever-photograph-of-a-star"
+                    ]
+                },
+                {
+                    "contentText": "Milli Uzay Programı’nın 1 yılı doldu.",
+                    "contentLink": [
+                        "https://twitter.com/tuajans/status/1492527412822917122"
+                    ]
+                },
+                {
+                    "contentText": "Elon Musk, Spaceship’in son durumunu anlatan bir sunum yaptı.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2022/02/11/musk-foresees-florida-as-a-long-term-home-for-starship-operations/"
+                    ]
+                },
+                {
+                    "contentText": "SpaceX’in son fırlattığı 40 Starlink uydusu yörüngeye yerleşemedi.",
+                    "contentLink": [
+                        "https://www.theverge.com/2022/2/8/22924561/spacex-starlink-satellites-geomagnetic-storm"
+                    ]
+                },
+                {
+                    "contentText": "OneWeb 400 uyduyu geçti.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2022/02/10/oneweb-surpasses-400-satellites-with-arianespaces-first-launch-of-the-year/"
+                    ]
+                },
+                {
+                    "contentText": "Nükleer enerjinin Elon Musk’ı kim olacak?",
+                    "contentLink": [
+                        "https://erik-engheim.medium.com/who-is-the-elon-musk-of-nuclear-power-61840465ba31"
+                    ]
+                },
+                {
+                    "contentText": "İnsanlar fast food’u sağlıksız olduğu için değil suçluluk duydukları için daha az tüketiyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-main-reason-people-avoid-fast-food-isn-t-because-it-s-unhealthy-study-finds"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
