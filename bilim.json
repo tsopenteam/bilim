@@ -20614,6 +20614,87 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2022",
+            "count": 8,
+            "totalCount": 234,
+            "uploadDate": "21.02.2022",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2022/02/bilim_2022_8.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=y1YsOAykwt8",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2022-8",
+            "podcastTime": 5502,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2022/8",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Aykut Kence Evrim Konferansı 22-23 Şubat tarihinde yapılacak.",
+                    "contentLink": [
+                        "https://www.aykutkenceevrimkonferansi.org/"
+                    ]
+                },
+                {
+                    "contentText": "Covid’e karşı alınan önlemleri sigarayla savaşa benzetebiliriz.",
+                    "contentLink": [
+                        "https://www.theatlantic.com/health/archive/2022/02/covid-anti-vaccine-smoking/622819"
+                    ]
+                },
+                {
+                    "contentText": "JWST ne kadar soğuması gerekiyor?",
+                    "contentLink": [
+                        "https://www.universetoday.com/154533/webb-is-cool-but-it-still-needs-to-get-cooler/"
+                    ]
+                },
+                {
+                    "contentText": "Jared Isaacman yeni Crew Dragon görevleri yapacağını açıkladı.",
+                    "contentLink": [
+                        "https://spacenews.com/spacex-and-isaacman-to-partner-on-series-of-crewed-dragon-and-starship-flights/",
+                        "https://www.universetoday.com/154538/civilian-astronauts-are-going-to-try-spacewalking-from-a-crew-dragon-capsule/"
+                    ]
+                },
+                {
+                    "contentText": "NASA betonun uzayda nasıl davrandığını araştırıyor?",
+                    "contentLink": [
+                        "https://www.universetoday.com/154528/how-well-does-concrete-work-in-space/"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları füzyonun gücünü yapay zeka ile dizginlemeye çalışıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/physics-breakthrough-as-ai-successfully-controls-plasma-in-nuclear-fusion-experiment"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları bağışlanmış akciğerleri genel kan grubu tipine çevirmeyi başardı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/lungs-converted-to-a-universal-blood-type-could-help-transplant-donor-shortages"
+                    ]
+                },
+                {
+                    "contentText": "Canlıların soyları iki kere tükenebiliyor!",
+                    "contentLink": [
+                        "https://www.sciencealert.com/species-can-go-extinct-twice-and-the-second-time-is-a-big-problem"
+                    ]
+                },
+                {
+                    "contentText": "Mutlu ülkeler sıralamasında tepelerde olanların da sorunları var.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/in-countries-that-focus-on-happiness-people-are-susceptible-to-the-happiness-paradox"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
