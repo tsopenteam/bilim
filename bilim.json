@@ -20695,6 +20695,64 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2022",
+            "count": 9,
+            "totalCount": 235,
+            "uploadDate": "28.02.2022",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2022/02/bilim_2022_9.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=lPX9cqUssnI",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2022-9",
+            "podcastTime": 5691,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2022/9",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Yeni sponsorumuz VNGRS",
+                    "contentLink": [
+                        "http://vngrs.com/"
+                    ]
+                },
+                {
+                    "contentText": "Bloomberg Pandemiye Direnç endeksi",
+                    "contentLink": [
+                        "https://www.bloomberg.com/graphics/covid-resilience-ranking/"
+                    ]
+                },
+                {
+                    "contentText": "JWST ayna ayarlama süreci devam ediyor. Sürecin ayrıntıları",
+                    "contentLink": [
+                        "https://www.universetoday.com/154683/webb-turns-those-18-separate-star-images-into-a-single-unified-star-next-comes-even-better-focus/",
+                        "https://blogs.nasa.gov/webb/2022/02/03/photons-incoming-webb-team-begins-aligning-the-telescope/"
+                    ]
+                },
+                {
+                    "contentText": "Rus işgali ISS’in ve uzay çalışmalarının durumunu etkiler mi?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/despite-threatening-twitter-thread-from-rogozin-nasa-states-international-space-station-cooperation-will-continue"
+                    ]
+                },
+                {
+                    "contentText": "Rus işgali sonrası Çernobil civarındaki radyoaktivite arttı. Dünya’nın en büyük kargo uçağı zarar gördü.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/chernobyl-radiation-levels-have-increased-20-times-above-usual-levels-following-combat-and-military-movement",
+                        "https://www.sciencealert.com/world-s-largest-plane-antonov-225-destroyed-by-russian-strikes-in-ukraine"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanlarının ve turistlerin Antartika ziyaretleri kıtayı kötü etkiliyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/it-must-be-incredible-to-visit-antarctica-here-s-why-you-probably-never-should"
+                    ]
+                },
+                {
+                    "contentText": "Hayvanlar aleminden ilginç göz yapıları.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-weirdest-eyes-in-the-animal-kingdom-see-a-world-we-can-t-imagine"
+                    ]
+                }
+            ]
         }
     ]
 }
