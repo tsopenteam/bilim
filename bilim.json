@@ -20753,6 +20753,76 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2022",
+            "count": 10,
+            "totalCount": 236,
+            "uploadDate": "07.03.2022",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2022/03/bilim_2022_10.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=5OSABug9hLw",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2022-10",
+            "podcastTime": 5487,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2022/10",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Starlink, siber güvenlik ve sinyal bozmaya karşı önlemler üzerine çalışıyor.",
+                    "contentLink": [
+                        "https://spacenews.com/spacex-shifts-resources-to-cybersecurity-to-address-starlink-jamming/"
+                    ]
+                },
+                {
+                    "contentText": "OneWeb son anda iptal edilen fırlatmadan sonra alternatif roketlerle yola devam etmeye hazırlanıyor.",
+                    "contentLink": [
+                        "https://spacenews.com/rogozin-puts-poison-pill-conditions-on-oneweb-soyuz-launch/",
+                        "https://spacenews.com/with-soyuz-off-the-table-oneweb-back-in-the-mix/"
+                    ]
+                },
+                {
+                    "contentText": "Rusya, uzay görevlerinde Çin’in desteğini almaya çalışıyor.",
+                    "contentLink": [
+                        "https://spacenews.com/russia-looks-to-china-for-collaboration-in-space-but-faces-isolation-over-ukraine-invasion/"
+                    ]
+                },
+                {
+                    "contentText": "ESA (Avrupa Uzay Ajansı), ExoMars görevinin büyük ihtimalle bu yıl fırlatılamayacağını açıkladı. ISS’teki ortak deneyler de durduruldu.",
+                    "contentLink": [
+                        "https://spacenews.com/esa-says-its-very-unlikely-exomars-will-launch-this-year/",
+                        "https://www.sciencealert.com/russia-just-axed-joint-experiments-on-the-international-space-station-due-to-sanctions"
+                    ]
+                },
+                {
+                    "contentText": "İlk kez bir uzay aracı plansız bir şekilde Ay’a çarptı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/an-unmanned-rocket-hit-the-moon-after-zooming-through-space-at-5-800-mph"
+                    ]
+                },
+                {
+                    "contentText": "BM, plastik kirliliği üzerine yapılacak bir anlaşma üzerine çalışma kararı aldı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/world-first-as-un-set-to-deliver-a-global-treaty-on-plastic-waste-by-2024"
+                    ]
+                },
+                {
+                    "contentText": "Elektronik atıkları nasıl geri dönüşüme sokabiliriz.",
+                    "contentLink": [
+                        "https://www.kostebeknerede.com/"
+                    ]
+                },
+                {
+                    "contentText": "Yediğimiz yemekler genlerimizi etkiliyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/your-diet-has-the-power-to-reprogram-your-genes-an-expert-explains-how"
+                    ]
+                },
+                {
+                    "contentText": "Bilim adamları nostaljinin ağrı kesici özelliği üzerine çalışıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/nostalgia-evokes-many-things-even-pain-relief-scientists-show"
+                    ]
+                }
+            ]
         }
     ]
 }
