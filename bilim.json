@@ -20823,6 +20823,95 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2022",
+            "count": 11,
+            "totalCount": 237,
+            "uploadDate": "14.03.2022",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2022/03/bilim_2022_11.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2022-11",
+            "podcastTime": 5889,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2022/11",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "YAZGİG’22 19 - 20 Mart Tarihleri arasında yapılacak.",
+                    "contentLink": [
+                        "https://www.youtube.com/channel/UCVzfNAOw1Y8xpl1RHh3ts7g"
+                    ]
+                },
+                {
+                    "contentText": "SpaceX, Starlink için Ukrayna’dan savaştan önce izin almaya çalışmış.",
+                    "contentLink": [
+                        "https://spacenews.com/spacex-worked-for-weeks-to-begin-starlink-service-in-ukraine/"
+                    ]
+                },
+                {
+                    "contentText": "SLS’in her bir fırlatması 4.1 Milyar USD’ye mal olacak.",
+                    "contentLink": [
+                        "https://www.universetoday.com/154957/according-to-a-us-auditor-each-launch-of-the-space-launch-system-will-cost-an-unsustainable-4-1-billion/"
+                    ]
+                },
+                {
+                    "contentText": "Astra, son denemesindeki başarısızlığı yanlış kablolamadan kaynaklandığını açıkladı.",
+                    "contentLink": [
+                        "https://spacenews.com/astra-blames-launch-failure-on-wiring-error-and-software-flaw/",
+                        "https://astra.com/news/post-launch-investigation-what-we-found-and-next-steps/"
+                    ]
+                },
+                {
+                    "contentText": "Çin, uzay istasyonunu ticari çalışmalara açmayı planlıyor.",
+                    "contentLink": [
+                        "https://spacenews.com/china-to-open-space-station-to-commercial-activity/"
+                    ]
+                },
+                {
+                    "contentText": "İran, ikinci askeri uydusunu başarıyla fırlattı.",
+                    "contentLink": [
+                        "https://www.reuters.com/world/middle-east/irans-revolutionary-guards-put-noor-2-satellite-orbit-tasnim-2022-03-08/"
+                    ]
+                },
+                {
+                    "contentText": "Rus Uzay Ajansı, ISS’ten ayrılan Rus modüllerinin animasyonunu yayınladı. Dmitry Rogozin ve Scot Kelly atışması.",
+                    "contentLink": [
+                        "https://www.universetoday.com/154888/russian-space-agency-tweets-a-bizarre-video-showing-the-russian-modules-detaching-from-iss-1/",
+                        "https://spaceflightnow.com/2022/03/07/war-of-words-between-russian-space-chief-and-retired-astronaut/"
+                    ]
+                },
+                {
+                    "contentText": "Domuzdan kalp nakli yapılan hasta iki ay sonra hayatını kaybetti.",
+                    "contentLink": [
+                        "https://www.npr.org/2022/03/09/1085420836/pig-heart-transplant"
+                    ]
+                },
+                {
+                    "contentText": "Bebeğe yapılan kalp ve timus bezi nakli ömür boyu ilaç kullanmasını engelleyebilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/baby-receives-the-first-ever-thymus-tissue-and-heart-transplant-from-same-donor"
+                    ]
+                },
+                {
+                    "contentText": "1915 yılında Antartika’da batan geminin enkazının yeri bulundu. Belgesel",
+                    "contentLink": [
+                        "https://www.npr.org/2022/03/09/1085432575/endurance-ship-found-ernest-shackleton",
+                        "https://www.youtube.com/watch?v=5OBsHnS5S4U"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
