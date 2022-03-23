@@ -20912,6 +20912,87 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2022",
+            "count": 12,
+            "totalCount": 238,
+            "uploadDate": "21.03.2022",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2022/03/bilim_2022_12.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=_9EmVGOs03k",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2022-12",
+            "podcastTime": 5575,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2022/12",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Eugene Parker hayatını kaybetti.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/visionary-us-astrophysicist-eugene-parker-namesake-of-nasa-solar-probe-has-died"
+                    ]
+                },
+                {
+                    "contentText": "James Webb Uzay Teleskobu ne aşamada?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/webb-has-taken-a-beautiful-picture-of-a-star-to-demonstrate-its-operational-perfection"
+                    ]
+                },
+                {
+                    "contentText": "NASA: ISS’te işler her zamanki gibi normal bir şekilde ilerliyor.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2022/03/14/nasa-says-space-station-operations-continue-smoothly-despite-ukraine-invasion/"
+                    ]
+                },
+                {
+                    "contentText": "Falcon 9’un birinci aşaması 12. kere başarıyla fırlatıldı.",
+                    "contentLink": [
+                        "https://spacenews.com/spacex-sets-reuse-and-payload-mass-records-in-starlink-launch/"
+                    ]
+                },
+                {
+                    "contentText": "Güneş sisteminden çıkmanın en kolay yolu Güneş’in çok yakınından geçmek olabilir.",
+                    "contentLink": [
+                        "https://www.universetoday.com/154791/the-best-way-to-leave-the-solar-system-might-be-to-fly-uncomfortably-close-to-the-sun/"
+                    ]
+                },
+                {
+                    "contentText": "Dev ısı pompaları ısınmada kullanılabilir mi?",
+                    "contentLink": [
+                        "https://www.bbc.com/turkce/haberler-turkiye-60792913"
+                    ]
+                },
+                {
+                    "contentText": "Ay tutulmasının göç eden kuşlar üzerinde ilginç etkisi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/migrating-swifts-fly-higher-with-the-full-moon-and-plummet-during-lunar-eclipses"
+                    ]
+                },
+                {
+                    "contentText": "İnsanlar her geçen gün daha çok evrimleşmenin temel iticilerinden birisi oluyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/we-humans-are-now-a-dominant-force-driving-evolution-on-earth",
+                        "https://www.sciencealert.com/octopuses-are-using-human-rubbish-to-put-a-roof-over-their-heads"
+                    ]
+                },
+                {
+                    "contentText": "Sürekli kötü haberlerle karşılaşmak kafa sağlığı ve hayat kalitesi için iyi değil.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/here-s-what-doomscrolling-is-doing-to-your-brain-and-how-to-fix-the-problem"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
