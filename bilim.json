@@ -21074,6 +21074,80 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2022",
+            "count": 14,
+            "totalCount": 240,
+            "uploadDate": "04.04.2022",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2022/04/bilim_2022_14.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2022-14",
+            "podcastTime": 5488,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2022/14",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Ömrünün sonuna yaklaşan Hubble Uzay Teleskobu’ndan yeni bir rekor geldi.",
+                    "contentLink": [
+                        "https://www.universetoday.com/155204/a-new-record-hubble-detects-an-individual-star-from-a-time-when-the-universe-was-less-than-a-billion-years-old/"
+                    ]
+                },
+                {
+                    "contentText": "ISS’te yapılan araştırmalar Dünya’yı değiştiriyor.",
+                    "contentLink": [
+                        "https://spacenews.com/tech-in-orbit-leads-to-breakthroughs-on-earth/"
+                    ]
+                },
+                {
+                    "contentText": "Starship ilk yörünge denemesini Mayıs ayı içinde yapabilir.",
+                    "contentLink": [
+                        "https://www.universetoday.com/155174/starship-could-be-ready-for-an-orbital-flight-in-may/"
+                    ]
+                },
+                {
+                    "contentText": "Yapılan bir araştırmaya göre çok az ışıklı bir ortamda uyumak bile sağlık açısından zararlı.",
+                    "contentLink": [
+                        "https://www.npr.org/sections/health-shots/2022/04/01/1089997121/light-disrupts-sleep"
+                    ]
+                },
+                {
+                    "contentText": "Araştırmalar beynimizin olayların oluş sıralamasını bile karıştırabildiğini gösteriyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-human-brain-overrides-the-flow-of-time-to-maintain-the-illusion-of-causality"
+                    ]
+                },
+                {
+                    "contentText": "Örümcekler, ağlarını sesleri duymak için kullanıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/study-shows-how-spiders-can-use-their-webs-as-giant-hearing-aids"
+                    ]
+                },
+                {
+                    "contentText": "Hayvanlar yalan söyleyebilir mi?",
+                    "contentLink": [
+                        "https://www.discovermagazine.com/planet-earth/are-humans-the-only-animals-that-lie"
+                    ]
+                },
+                {
+                    "contentText": "Bruce Willis’e oyunculuğu bıraktıran afazi nedir?",
+                    "contentLink": [
+                        "https://www.cadempsikoloji.com/calisma-alani/5-dil-konusma-ses-terapisi/13-edinilmis-dil-bozuklugu-afazi"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
