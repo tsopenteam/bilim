@@ -20993,6 +20993,87 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2022",
+            "count": 13,
+            "totalCount": 239,
+            "uploadDate": "28.03.2022",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2022/03/bilim_2022_13.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=IfZzLUEZLsU",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2022-13",
+            "podcastTime": 5335,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2022/13",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "NASA: Tespit edilen öte gezegen sayısı 5000’i geçti.",
+                    "contentLink": [
+                        "https://www.jpl.nasa.gov/news/cosmic-milestone-nasa-confirms-5000-exoplanets"
+                    ]
+                },
+                {
+                    "contentText": "NASA, ikinci bir Ay iniş aracı için çalışma başlatacağını duyurdu.",
+                    "contentLink": [
+                        "https://spacenews.com/nasa-to-support-development-of-second-artemis-lunar-lander/"
+                    ]
+                },
+                {
+                    "contentText": "Mars’tan getirilecek örnekler için yapılacak görevin tarihi ötelendi.",
+                    "contentLink": [
+                        "https://spacenews.com/nasa-to-delay-mars-sample-return-switch-to-dual-lander-approach/"
+                    ]
+                },
+                {
+                    "contentText": "OneWeb, uydularının fırlatılması için SpaceX ile anlaştığını duyurdu.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2022/03/21/oneweb-signs-with-spacex-to-resume-launching-internet-constellation/"
+                    ]
+                },
+                {
+                    "contentText": "SpaceX hizmetlerine zam yaptı. Starlink abone sayısı 250.000’i geçti.",
+                    "contentLink": [
+                        "https://spacenews.com/blaming-inflation-spacex-raises-starlink-and-launch-prices/",
+                        "https://spacenews.com/starlink-reaches-250000-subscribers-as-it-targets-aviation-and-other-markets/"
+                    ]
+                },
+                {
+                    "contentText": "Mikroplastikler ilk kez insan kanında tespit edildi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/four-out-of-five-people-tested-were-found-with-plastic-floating-in-their-blood"
+                    ]
+                },
+                {
+                    "contentText": "Yapay zeka ile altı saat içerisinde 40.000 biyolojik silah üretilebiliyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/ai-experiment-generated-40-000-hypothetical-bioweapons-in-6-hours-scientists-warn"
+                    ]
+                },
+                {
+                    "contentText": "Locked-In sendromu olan bir hastaya takılan beyin implantı iletişim kurmasına olanak sağlıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/completely-locked-in-patient-with-als-communicates-again-with-a-brain-transplant"
+                    ]
+                },
+                {
+                    "contentText": "Boa yılanları avlarını sıkarak öldürürken neden boğulmuyor?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/here-s-how-boa-constrictors-keep-breathing-while-they-crush-their-prey-to-death"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
