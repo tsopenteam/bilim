@@ -21148,6 +21148,74 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2022",
+            "count": 15,
+            "totalCount": 241,
+            "uploadDate": "11.04.2022",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2022/04/bilim_2022_15.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2022-15",
+            "podcastTime": 5484,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2022/15",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "İlk tamamen ticari uzay istasyonu görevi Ax-1 başarıyla ISS’e ulaştı.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2022/04/09/first-crew-of-private-astronauts-welcomed-aboard-international-space-station/"
+                    ]
+                },
+                {
+                    "contentText": "James Webb Uzay Teleskobu soğumaya devam ediyor.",
+                    "contentLink": [
+                        "https://www.universetoday.com/155351/its-been-three-months-in-deep-space-and-webbs-mid-infrared-instrument-is-still-cooling-down/"
+                    ]
+                },
+                {
+                    "contentText": "Amazon, Kuiper projesi için farklı firmalarla fırlatma anlaşmaları yaptığını duyurdu.",
+                    "contentLink": [
+                        "https://spacenews.com/amazon-signs-multibillion-dollar-project-kuiper-launch-contracts/"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları insan genomunu eksiksiz olarak okumayı başardı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/we-now-have-the-most-complete-gapless-sequence-of-the-human-genome-in-dazzling-detail"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları deri hücrelerini 30 yaş gençleştirmeyi başardı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/scientists-rewind-the-age-of-human-skin-cells-back-30-years"
+                    ]
+                },
+                {
+                    "contentText": "Bilgisayarlar sağduyuyu öğrenebilir mi?",
+                    "contentLink": [
+                        "https://www.newyorker.com/tech/annals-of-technology/can-computers-learn-common-sense"
+                    ]
+                },
+                {
+                    "contentText": "Bir firmanın duyurusunu yaptığı görünmezlik kalkanı nasıl çalışıyor?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/these-people-made-a-functioning-invisibility-shield-all-thanks-to-physics"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
