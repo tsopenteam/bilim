@@ -21216,6 +21216,80 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2022",
+            "count": 16,
+            "totalCount": 242,
+            "uploadDate": "18.04.2022",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2022/04/bilim_2022_16.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2022-16",
+            "podcastTime": 5519,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2022/16",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Geçen hafta ISS’e giden ticari astronotlar uzaya alışmakta zorluk yaşamamış.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2022/04/14/commercial-crew-has-no-problem-adapting-to-life-on-space-station/"
+                    ]
+                },
+                {
+                    "contentText": "NASA, Ay’a gidecek ilk roketi tamir ve düzeltmeler için hangara çekiyor.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2022/04/17/nasa-to-return-artemis-moon-rocket-to-assembly-building-for-repairs/"
+                    ]
+                },
+                {
+                    "contentText": "Rocket Lab, birinci aşama roketi havada yakalamaya çalışacak.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2022/04/11/rocket-lab-confirms-plan-to-catch-booster-with-helicopter-later-this-month/"
+                    ]
+                },
+                {
+                    "contentText": "Kozmik ışınlar kullanılarak, tsunami dalgalarının gelişini önceden haber verilebiliyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/in-a-scientific-first-a-cosmic-ray-sensor-has-detected-tsunami-waves"
+                    ]
+                },
+                {
+                    "contentText": "İnsan medeniyeti nasıl başladı?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/there-s-a-new-hypothesis-for-how-human-civilizations-first-got-started"
+                    ]
+                },
+                {
+                    "contentText": "Avcı hayvanlar kaynakları aşırı tüketmeyecek şekilde evrimleşiyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/animals-have-evolved-to-avoid-overexploiting-their-resources-can-humans-do-the-same"
+                    ]
+                },
+                {
+                    "contentText": "Gelişmiş ülkeler Dünya’nın kaynaklarını sömürüyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-us-and-eu-have-unsustainably-plundered-natural-resources-for-decades-study-shows"
+                    ]
+                },
+                {
+                    "contentText": "Köpeklerin yüz kasları insanların seveceği şekilde evrimleşmiş olabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/puppy-dogs-seem-so-darn-irresistible-to-us-and-it-s-our-own-fault"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
