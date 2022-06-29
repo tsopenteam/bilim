@@ -21290,6 +21290,86 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2022",
+            "count": 17,
+            "totalCount": 243,
+            "uploadDate": "25.04.2022",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2022/04/bilim_2022_17.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=Vs11StcW1g4",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2022-17",
+            "podcastTime": 5433,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2022/17",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Perseverance Mars üzerinde Güneş tutulması gözlemledi.",
+                    "contentLink": [
+                        "https://www.universetoday.com/155538/wow-perseverance-sees-a-solar-eclipse-on-mars/"
+                    ]
+                },
+                {
+                    "contentText": "Ingenuity, Mars’ta birinci yılını tamamladı.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2022/04/19/ingenuitys-record-breaking-year-transforms-mars-exploration/"
+                    ]
+                },
+                {
+                    "contentText": "NASA, Lucy’nin açılmayan güneş panelini tekrar açmaya çalışacak.",
+                    "contentLink": [
+                        "https://www.universetoday.com/155578/nasa-is-ready-to-try-and-fix-lucys-unlatched-solar-panel/"
+                    ]
+                },
+                {
+                    "contentText": "Çin, tehlike oluşturabilecek bir göktaşının yörüngesini değiştirmeye çalışacak.",
+                    "contentLink": [
+                        "https://spacenews.com/china-to-conduct-asteroid-deflection-test-around-2025/"
+                    ]
+                },
+                {
+                    "contentText": "İnsanlık ne zaman Tip 1 medeniyet seviyesine ulaşabilir?",
+                    "contentLink": [
+                        "https://www.universetoday.com/155521/when-will-humanity-become-a-type-i-civilization/"
+                    ]
+                },
+                {
+                    "contentText": "Son geliştirilen TPV hücreleri ile ısı enerjisini yüksek verimlilikle elektriğe çevirmek mümkün.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/a-new-heat-engine-with-no-moving-parts-just-hit-an-incredible-milestone"
+                    ]
+                },
+                {
+                    "contentText": "Büyüdüğünüz şehir yön bulma yeteneğinizi etkiliyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/your-navigational-skills-are-intricately-linked-to-your-past-research-shows"
+                    ]
+                },
+                {
+                    "contentText": "Yollardaki trafik uyarıcı mesajları faydadan çok zarar veriyor olabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/car-crash-statistics-on-road-signs-could-harm-drivers-more-than-help"
+                    ]
+                },
+                {
+                    "contentText": "Bal arılarının ayna ile imtihanı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/honeybees-go-crashing-into-the-ground-if-they-fly-over-a-mirror"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
