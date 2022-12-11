@@ -21450,6 +21450,86 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2022",
+            "count": 19,
+            "totalCount": 245,
+            "uploadDate": "16.05.2022",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2022/05/bilim_2022_19.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=pyuR1RCUfD4",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2022-19",
+            "podcastTime": 5643,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2022/19",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Bilim insanları Samanyolu Galaksisinin merkezindeki kara deliğin fotoğrafını çekti.",
+                    "contentLink": [
+                        "https://www.universetoday.com/155874/this-is-it-meet-the-supermassive-black-hole-at-the-heart-of-the-milky-way/"
+                    ]
+                },
+                {
+                    "contentText": "InSight Mars’taki şimdiye kadar ölçülen en büyük depremi ölçtü.",
+                    "contentLink": [
+                        "https://www.universetoday.com/155870/insight-just-detected-a-record-breaking-marsquake-magnitude-5/"
+                    ]
+                },
+                {
+                    "contentText": "Yaklaşan Mars kışı Ingenuity için riski artırıyor.",
+                    "contentLink": [
+                        "https://www.universetoday.com/155864/martian-dust-is-starting-to-darken-ingenuitys-solar-panel/"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları aydan getirilen toprakta bitki yetiştirmeyi başardı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/for-the-first-time-scientists-have-grown-plants-in-moon-dirt-it-didn-t-go-great"
+                    ]
+                },
+                {
+                    "contentText": "James Webb Uzay Teleskobu’nun hazırlanma aşaması son düzlüğe girdi.",
+                    "contentLink": [
+                        "https://www.universetoday.com/155822/webb-is-almost-ready-theres-one-last-thing-to-do/"
+                    ]
+                },
+                {
+                    "contentText": "Kanada, ceza kanununu Ay yüzeyinde ve yörüngesinde geçerli hale getirdi.",
+                    "contentLink": [
+                        "https://www.universetoday.com/155810/canadas-criminal-laws-now-extend-to-earth-orbit-and-the-moon/"
+                    ]
+                },
+                {
+                    "contentText": "Kediler, arkadaşlarının isimlerini tanıyabiliyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/cats-know-each-other-s-names-experiment-suggests"
+                    ]
+                },
+                {
+                    "contentText": "Gençler annelerinin seslerine çocukluktaki gibi tepki vermiyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/brain-signal-in-teenagers-shows-they-don-t-listen-to-their-parents-the-same-way"
+                    ]
+                },
+                {
+                    "contentText": "Bilgisayar oyunları çocukların zekasını arttırıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/video-games-could-be-able-to-boost-intelligence-in-kids"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
