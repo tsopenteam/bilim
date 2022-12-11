@@ -21370,6 +21370,86 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2022",
+            "count": 18,
+            "totalCount": 244,
+            "uploadDate": "09.05.2022",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2022/05/bilim_2022_18.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2022-18",
+            "podcastTime": 5482,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2022/18",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "RoketLab, Electron roketini havada yakalamayı başardı.",
+                    "contentLink": [
+                        "https://www.universetoday.com/155706/they-did-it-rocket-lab-uses-copter-to-catch-and-release-a-rocket/"
+                    ]
+                },
+                {
+                    "contentText": "SpaceX, Falcon 9 roketini tekrar fırlatmaya hazır olma süresini 3 haftaya kadar indirdi.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2022/04/29/spacex-launches-falcon-9-booster-for-second-time-in-three-weeks/"
+                    ]
+                },
+                {
+                    "contentText": "SpaceX mühendisinden NASA’ya: Büyük düşünün.",
+                    "contentLink": [
+                        "https://arstechnica.com/science/2022/05/spacex-engineer-says-nasa-should-plan-for-starships-significant-capability"
+                    ]
+                },
+                {
+                    "contentText": "Büyük Hadron Çarpıştırıcısı uzun bir aradan sonra yeniden çalışmaya başladı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/large-hadron-collider-breaks-proton-record-just-days-after-3-year-shutdown"
+                    ]
+                },
+                {
+                    "contentText": "Domuzdan kalp nakli yapılan hasta bir virüs nedeniyle hayatını kaybetmiş olabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/feral-animal-virus-may-be-the-cause-of-death-of-the-first-pig-heart-transplant-patient"
+                    ]
+                },
+                {
+                    "contentText": "Elon Musk: Neuralink kulak çınlaması hastalığını tedavi edebilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/musk-claim-s-neuralink-brain-chip-could-cure-tinnitus-but-researchers-are-skeptical"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları plastikleri günler içinde parçalayan bir enzim keşfetti.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/engineers-create-an-enzyme-that-breaks-down-plastic-waste-in-hours-not-decades"
+                    ]
+                },
+                {
+                    "contentText": "Okyanusun dibindeki şeker dağları",
+                    "contentLink": [
+                        "https://www.sciencealert.com/there-are-mountains-of-sugar-buried-in-the-ocean-and-we-re-only-just-learning-about-it"
+                    ]
+                },
+                {
+                    "contentText": "Spor Takip Cihazları Paradoksu: Satışlar artıyor hareket azalıyor?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-fitness-tracker-paradox-sales-are-booming-but-activity-is-plummeting-why"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
