@@ -21685,6 +21685,80 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2022",
+            "count": 22,
+            "totalCount": 248,
+            "uploadDate": "06.06.2022",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2022/06/bilim_2022_22.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=uDsy913qANE",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2022-22",
+            "podcastTime": 5600,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2022/22",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Ingenuity kışı yerde geçirecek.",
+                    "contentLink": [
+                        "https://spacenews.com/ingenuity-hunkering-down-during-martian-dust-storms-and-winter/"
+                    ]
+                },
+                {
+                    "contentText": "NASA, yeni astronot elbiseleri için iki firma ile anlaştı.",
+                    "contentLink": [
+                        "https://www.universetoday.com/156117/nasa-will-rent-future-spacesuits-from-longtime-supplier-and-newcomer/"
+                    ]
+                },
+                {
+                    "contentText": "Sony, uzayda lazerle haberleşme altyapısı üretecek bir girişim kurdu.",
+                    "contentLink": [
+                        "https://spacenews.com/sony-launches-space-laser-communications-business/"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları kana doğrudan oksijen vermenin bir yolunu bulmuş olabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/experimental-device-could-intravenously-deliver-oxygen-to-the-bloodstream"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları karaciğeri nakledilmeden önce vücut dışında günlerce canlı tutmayı başardı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/a-human-liver-was-kept-outside-a-body-for-three-days-before-being-transplanted-it-worked"
+                    ]
+                },
+                {
+                    "contentText": "Doktorlar hastanın kendi hücrelerinden 3B yazıcı ile basılan dış kulağı başarıyla naklettiler.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/surgeons-transplant-a-lab-made-3d-scanned-ear-made-of-living-cells-on-a-human-in-early-clinical-trial"
+                    ]
+                },
+                {
+                    "contentText": "Hava kirliliğini azaltarak insanları daha rahat doyurabiliriz.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/here-s-another-reason-to-reduce-air-pollution-higher-crop-yields"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları dünyanın en büyük bitkisini suyun altında keşfetti.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/scientists-discover-the-world-s-largest-plant-it-s-over-100-miles-long"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
