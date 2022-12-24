@@ -21530,6 +21530,86 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2022",
+            "count": 20,
+            "totalCount": 246,
+            "uploadDate": "23.05.2022",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2022/05/bilim_2022_20.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=fO7GqN_nhIE",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2022-20",
+            "podcastTime": 5715,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2022/20",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Türkiye Uzay Ajansı “Uzay Yolcusu” başvuruları başladı.",
+                    "contentLink": [
+                        "https://uzaya.gov.tr/"
+                    ]
+                },
+                {
+                    "contentText": "Boeing Starliner demo 2 görevi tamamlandı.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2022/05/21/boeings-starliner-capsule-completes-first-nail-biting-docking-at-space-station/"
+                    ]
+                },
+                {
+                    "contentText": "Uzay yürüyüşleri astronot elbiseleri kontrolden geçene kadar askıya alındı.",
+                    "contentLink": [
+                        "https://spacenews.com/nasa-puts-iss-spacewalks-on-hold-to-investigate-water-leak/"
+                    ]
+                },
+                {
+                    "contentText": "Voyager 1’in yönelimini kontrol eden sistemden gari veriler geliyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/nasa-s-voyager-1-is-sending-back-strange-data-from-beyond-our-solar-system-puzzling-scientists"
+                    ]
+                },
+                {
+                    "contentText": "SpinLaunch son denemesinde fırlattığı yüke kamera ekledi.",
+                    "contentLink": [
+                        "https://www.universetoday.com/155992/spinlaunch-hurled-a-test-rocket-into-the-air-see-what-it-looked-like-from-the-payloads-point-of-view/"
+                    ]
+                },
+                {
+                    "contentText": "Dünya’nın dönüş hızı nedeniyle bu yılın sonunda bir saniye kırpmamız gerekebilir.",
+                    "contentLink": [
+                        "https://futurism.com/earth-spinning-fast-skip-second"
+                    ]
+                },
+                {
+                    "contentText": "Maymun çiçeği virüsü nedir? Bir salgın tehlikesi var mı?",
+                    "contentLink": [
+                        "https://www.theatlantic.com/health/archive/2022/05/monkeypox-outbreak-covid-pandemic/629920/"
+                    ]
+                },
+                {
+                    "contentText": "Küresel ısınmanın beklenmedik yan etkilerinden birisi uykusuzluk.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/global-seep-tracking-data-reveals-we-re-all-losing-sleep-thanks-to-global-warming"
+                    ]
+                },
+                {
+                    "contentText": "Çimenlerin dayanılmaz çekiciliği.",
+                    "contentLink": [
+                        "https://www.bbc.com/future/article/20220426-should-people-get-rid-of-their-garden-lawns"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
