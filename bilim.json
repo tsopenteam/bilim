@@ -21610,6 +21610,81 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2022",
+            "count": 21,
+            "totalCount": 247,
+            "uploadDate": "30.05.2022",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2022/05/bilim_2022_21.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2022-21",
+            "podcastTime": 5308,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2022/21",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Türkiye’nin ilk ticari uydusu fırlatıldı. Plan-S",
+                    "contentLink": [
+                        "https://www.ntv.com.tr/galeri/teknoloji/turkiyenin-ilk-ticari-uydusu-plan-s-firlatildi,Tm_I-s-YSkC8nN0RJjmjsg/7S6TE2DqXUqWC1HfhdmnhA",
+                        "https://www.plan.space/"
+                    ]
+                },
+                {
+                    "contentText": "Boeing Starliner başarıyla Dünya’ya döndü.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2022/05/25/boeings-starliner-spacecraft-lands-in-new-mexico-after-successful-test-flight/"
+                    ]
+                },
+                {
+                    "contentText": "İnsanlık Satürn’e ne zaman gidecek?",
+                    "contentLink": [
+                        "https://www.universetoday.com/156005/forget-about-mars-when-will-humans-be-flying-to-saturn/"
+                    ]
+                },
+                {
+                    "contentText": "NASA yörüngedeki uyduları tamir edip yakıt takviyesi yapacak bir sistem üzerinde çalıyor.",
+                    "contentLink": [
+                        "https://www.universetoday.com/155863/nasa-is-building-a-mission-that-will-refuel-and-repair-satellites-in-orbit/"
+                    ]
+                },
+                {
+                    "contentText": "Dinozorlar sıcak kanlı mı soğuk kanlı mı?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/dinosaurs-last-ancient-breaths-reveal-if-they-were-cold-or-hot-blooded"
+                    ]
+                },
+                {
+                    "contentText": "Virüsleri kullanarak kanseri yok eden bir tedavi insanlar üzerinde denenmeye başlandı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/first-patient-injected-with-experimental-cancer-killing-virus-in-new-clinical-trial"
+                    ]
+                },
+                {
+                    "contentText": "Bazı insanlar neden ömür boyu sigara içse de kansere yakalanmıyor?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/we-re-closer-to-understanding-why-most-lifelong-smokers-never-get-lung-cancer"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları CRISPR ile domateslerin D vitamini seviyesini arttırdı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/scientists-use-crispr-to-add-more-vitamin-d-to-tomatoes"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
