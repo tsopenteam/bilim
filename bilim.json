@@ -21759,6 +21759,86 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2022",
+            "count": 23,
+            "totalCount": 249,
+            "uploadDate": "13.06.2022",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2022/06/bilim_2022_23.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2022-22-2",
+            "podcastTime": 5083,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2022/23",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Türkiye’nin ilk insanlı uzay görevi için bilimsel araştırma başvuruları açıldı.",
+                    "contentLink": [
+                        "https://uzay.tubitak.gov.tr/tr/haber/turkiyenin-insanli-ilk-uzay-gorevi-icin-bilimsel-arastirma-basvurulari-basladi"
+                    ]
+                },
+                {
+                    "contentText": "NASA, JWT’nin aynalarından birine mikro göktaşı çarptığını duyurdu.",
+                    "contentLink": [
+                        "https://www.universetoday.com/156219/jwst-was-recently-hit-by-a-surprisingly-large-micrometeoroid/"
+                    ]
+                },
+                {
+                    "contentText": "Ingenuity’nin yönünü bulmasını sağlayan algılayıcılarından birisi bozuldu.",
+                    "contentLink": [
+                        "https://www.universetoday.com/156193/ingenuity-has-lost-its-sense-of-direction-but-itll-keep-on-flying/"
+                    ]
+                },
+                {
+                    "contentText": "NASA, UFO’ları araştırmak üzere bağımsız bir araştırma başlatacak.",
+                    "contentLink": [
+                        "https://www.universetoday.com/156223/whats-out-there-nasa-sets-up-independent-study-on-ufos/"
+                    ]
+                },
+                {
+                    "contentText": "Hayatın yapı taşları ilk kez uzaydaki bir göktaşında tespit edildi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-asteroid-ryugu-was-hiding-twenty-amino-acids"
+                    ]
+                },
+                {
+                    "contentText": "SpaceX’ten Falcon 9, Starship, Starlink değerlendirmesi.",
+                    "contentLink": [
+                        "https://www.universetoday.com/156233/starship-will-spit-out-starlinks-like-a-candy-dispenser-1/"
+                    ]
+                },
+                {
+                    "contentText": "Doktorlar kanda bulunan kanserli DNA parçacıkları takip edilerek hastaların kemoterapi almalarına karar verebiliyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/technique-using-tumor-dna-can-help-determine-if-cancer-patients-need-chemo"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları havadaki mikro plastik miktarını örümcek ağlarından ölçebiliyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/microplastics-are-so-pervasive-you-can-even-find-them-stuck-in-spider-webs"
+                    ]
+                },
+                {
+                    "contentText": "Şimdiye kadar yapılan en büyük haftada dört gün çalışma deneyi İngiltere’de başladı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/huge-4-day-work-week-experiment-begins-in-the-uk-the-largest-ever-conducted"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
