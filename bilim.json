@@ -22182,6 +22182,86 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2022",
+            "count": 28,
+            "totalCount": 254,
+            "uploadDate": "25.07.2022",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2022/07/bilim_2022_28.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=tE0lJeL9J_o",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2022-28",
+            "podcastTime": 5549,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2022/28",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "DSÖ, maymun çiçeği virüsü için küresel acil durum ilan etti.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/who-has-declared-monkeypox-a-global-health-emergency"
+                    ]
+                },
+                {
+                    "contentText": "JWST, şimdiye kadar gözlemlenebilen en eski galaksinin fotoğrafını çekti.",
+                    "contentLink": [
+                        "https://arstechnica.com/science/2022/07/nasas-new-toy-may-have-already-spotted-the-oldest-known-galaxy/"
+                    ]
+                },
+                {
+                    "contentText": "Teleskopların çektiği fotoğrafları kendiniz de renklendirebilirsiniz.",
+                    "contentLink": [
+                        "https://youtu.be/DVuonz26P0w"
+                    ]
+                },
+                {
+                    "contentText": "Artemis I görevi için fırlatma tarihi belirlendi.",
+                    "contentLink": [
+                        "https://spacenews.com/nasa-sets-late-august-and-early-september-launch-dates-for-artemis-1/"
+                    ]
+                },
+                {
+                    "contentText": "SpaceX, son fırlatmasıyla 2021 yılındaki rekorunu geçti.",
+                    "contentLink": [
+                        "https://arstechnica.com/science/2022/07/spacex-just-matched-its-record-for-annual-launches-and-its-only-july/"
+                    ]
+                },
+                {
+                    "contentText": "NASA’nın güvenlik danışmanları ticari uzay üslerinin zamanında hazır olmayabileceği konusunda uyarıyor.",
+                    "contentLink": [
+                        "https://spacenews.com/nasa-safety-advisers-warn-iss-transition-plans-on-precarious-trajectory/"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları sıcak kanlı hayvanların tam olarak ne zaman evrimleştiğini bulmaya çalışıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/new-fossil-evidence-reveals-when-warm-blooded-mammals-evolved"
+                    ]
+                },
+                {
+                    "contentText": "Bebekler doğduktan birkaç saat sonra konuşma öğrenmeye başlıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/babies-can-learn-language-sounds-in-the-first-few-hours-of-being-born-new-research"
+                    ]
+                },
+                {
+                    "contentText": "Köpek sahipliği yaygın olan mahallelerde suç oranları daha düşük oluyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/dogs-may-lower-crime-levels-seriously"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
