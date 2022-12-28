@@ -21920,6 +21920,94 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2022",
+            "count": 25,
+            "totalCount": 251,
+            "uploadDate": "27.06.2022",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2022/06/bilim_2022_25.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2022-25",
+            "podcastTime": 5592,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2022/25",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "NASA, SLS yakıt dolum testlerini tamamladı. Artemis I görevinin yaz sonunda yapılması planlanıyor.",
+                    "contentLink": [
+                        "https://www.universetoday.com/156446/nasa-says-its-satisfied-with-rehearsal-for-sls-moon-rocket-launch/",
+                        "https://spaceflightnow.com/2022/06/24/nasa-targeting-late-summer-launch-for-first-artemis-moon-rocket/"
+                    ]
+                },
+                {
+                    "contentText": "Buzulların altında yüksek tuz ve düşük oksijen ortamında yaşayan canlılar bulundu.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/life-has-been-found-in-a-low-oxygen-super-salty-sub-zero-arctic-spring"
+                    ]
+                },
+                {
+                    "contentText": "Eski paralarda 1054 yılında yaşanan süpernovanın izlerine rastlamak mümkün.",
+                    "contentLink": [
+                        "https://www.universetoday.com/156416/do-ancient-coins-record-the-supernova-of-1054/"
+                    ]
+                },
+                {
+                    "contentText": "İlk kuantum devresi oluşturuldu.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/a-huge-step-forward-in-quantum-computing-was-just-announced-the-first-ever-quantum-circuit"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları kalp krizi geçiren farelerde kalp kasını yeniden üretmeyi başardı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/new-technique-could-be-used-to-repair-the-heart-after-a-heart-attack"
+                    ]
+                },
+                {
+                    "contentText": "Derimizde yaşayan akarlar bizim bir parçamız olma yolunda ilerliyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/skin-mites-that-mate-on-our-faces-at-night-may-soon-become-one-with-humans"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları şimdiye kadar bulunan en büyük bakteriyi keşfetti.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/giant-bacteria-visible-to-the-human-eye-have-a-never-before-seen-structure"
+                    ]
+                },
+                {
+                    "contentText": "İklim değişikliğiyle mücadele için CRISPR kullanılabilir mi?",
+                    "contentLink": [
+                        "https://www.theverge.com/2022/6/22/23178791/crispr-gene-editing-rice-soil-climate-change"
+                    ]
+                },
+                {
+                    "contentText": "İklim değişikliğini engellemenin maliyeti ne kadar? Sapienship",
+                    "contentLink": [
+                        "https://www.ted.com/talks/yuval_noah_harari_the_actual_cost_of_preventing_climate_breakdown",
+                        "https://www.sapienship.co/decision-makers/2-percent-more"
+                    ]
+                },
+                {
+                    "contentText": "Çay harareti alır mı?",
+                    "contentLink": [
+                        "https://www.universal-sci.com/headlines/2016/7/30/does-drinking-hot-tea-in-summer-really-cool-you-down"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
