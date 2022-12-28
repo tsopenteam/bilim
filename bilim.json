@@ -22008,6 +22008,99 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2022",
+            "count": 26,
+            "totalCount": 252,
+            "uploadDate": "04.07.2022",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2022/07/bilim_2022_26.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=5mEf-Z2Ukug",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2022-26",
+            "podcastTime": 5340,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2022/26",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "TUA, Sierra Space ile işbirliği muhtırası imzaladı.",
+                    "contentLink": [
+                        "https://tua.gov.tr/tr/haberler/tua-ozel-davetle-abd-ye-teknik-ziyaret-gerceklestirdi",
+                        "https://spacenews.com/sierra-space-signs-agreement-with-turkish-space-agency/"
+                    ]
+                },
+                {
+                    "contentText": "CanSAT Competition 2022 yarışmasında Türk takımları büyük başarı elde etti.",
+                    "contentLink": [
+                        "https://twitter.com/NASAturkiye/status/1542118214582374400"
+                    ]
+                },
+                {
+                    "contentText": "Anatolian Rover Challenge 22 - 25 Temmuz’da İTÜ Ayazağa kampüsünde yapılacak.",
+                    "contentLink": [
+                        "https://www.anatolianrover.space/tr/about"
+                    ]
+                },
+                {
+                    "contentText": "NASA, ISS’in yörüngesini kendi imkanlarıyla yükseltti.",
+                    "contentLink": [
+                        "https://www.universetoday.com/156500/cygnus-boosts-the-international-space-station-for-the-first-time-nasa-can-now-potentially-keep-the-station-aloft-without-russias-progress-spacecraft/"
+                    ]
+                },
+                {
+                    "contentText": "Amerika, uydu yok eden silahları artık test etmeyeceğini açıkladı.",
+                    "contentLink": [
+                        "https://www.universetoday.com/156543/the-united-state-announces-a-stop-to-testing-anti-satellite-weapons/"
+                    ]
+                },
+                {
+                    "contentText": "CAPSTONE görevi başarıyla fırlatıldı.",
+                    "contentLink": [
+                        "https://www.universetoday.com/156493/rocket-lab-launches-nasas-capstone-mission-to-the-moon/"
+                    ]
+                },
+                {
+                    "contentText": "NASA, Ay’da çalışacak nükleer reaktörün geliştirilmesi için destek vereceğini açıkladı.",
+                    "contentLink": [
+                        "https://www.universetoday.com/156461/nasa-funds-the-development-of-a-nuclear-reactor-on-the-moon-that-would-last-for-10-years/"
+                    ]
+                },
+                {
+                    "contentText": "Astronotlar uzayda kaybettikleri kemik kütlesini kolay kolay geri kazanamıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/new-study-reveals-devastating-effect-on-astronaut-bones-from-being-in-space"
+                    ]
+                },
+                {
+                    "contentText": "Güneş Sistemi, en az 100.000 yıl daha kararlı kalacak.",
+                    "contentLink": [
+                        "https://www.universetoday.com/156551/the-solar-system-is-stable-for-at-least-the-next-100000-years/"
+                    ]
+                },
+                {
+                    "contentText": "Sıkı dostların kokusu birbirine benziyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/friends-who-click-smell-similar"
+                    ]
+                },
+                {
+                    "contentText": "Müziğin uyandırdığı duygular düşündüğümüz kadar evrensel olmayabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/happy-and-sad-sounding-music-might-not-make-everybody-feel-the-same-way"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
