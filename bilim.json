@@ -22101,6 +22101,87 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2022",
+            "count": 27,
+            "totalCount": 253,
+            "uploadDate": "18.07.2022",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2022/07/bilim_2022_27.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=zUqglR-D3Ac",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2022-27",
+            "podcastTime": 5672,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2022/27",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "James Webb Uzay Teleskobunun çektiği ilk görüntüleri yayınlandı. Hubble ile karşılaştırma",
+                    "contentLink": [
+                        "https://www.universetoday.com/156696/theyre-here-check-out-the-first-images-from-the-james-webb-space-telescope/",
+                        "https://www.abc.net.au/news/2022-07-13/nasa-webb-hubble-telescope-universe-image-comparison/101233396"
+                    ]
+                },
+                {
+                    "contentText": "Roscosmos yöneticisi görevinden alındı, NASA ile koltuk değişimi anlaşması imzalandı.",
+                    "contentLink": [
+                        "https://spacenews.com/rogozin-removed-as-head-of-roscosmos-as-seat-barter-agreement-signed/"
+                    ]
+                },
+                {
+                    "contentText": "Starship, motor denemeleri sırasında küçük bir patlama yaşandı.",
+                    "contentLink": [
+                        "https://spacenews.com/starship-booster-test-ends-in-fiery-anomaly/"
+                    ]
+                },
+                {
+                    "contentText": "Güneş sistemini ilginç kılan şey nedir?",
+                    "contentLink": [
+                        "https://www.universetoday.com/156643/most-outstanding-feature-of-the-solar-system-its-not-what-you-think/"
+                    ]
+                },
+                {
+                    "contentText": "Genetiği değiştirilmiş iki domuz kalbi daha insanlara nakledildi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/two-more-gene-edited-pig-hearts-were-just-successfully-transplanted-into-humans"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları suyu daha verimli kaynatmanın yollarını arıyor.",
+                    "contentLink": [
+                        "https://news.mit.edu/2022/boiling-surfaces-efficient-0712"
+                    ]
+                },
+                {
+                    "contentText": "Bütün sporu hafta sonuna sıkıştırmak işe yarıyor mu?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/huge-study-finds-getting-all-your-exercise-on-the-weekend-is-probably-fine"
+                    ]
+                },
+                {
+                    "contentText": "Bilgisayar oyunları karar verme yeteneğini güçlendiriyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/all-that-video-gaming-could-be-improving-your-decision-making"
+                    ]
+                },
+                {
+                    "contentText": "Gerçekler ikna ediciliğini yitirdi, birini ikna etmek için ne yapabilirsiniz?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/facts-are-no-longer-convincing-research-suggests-you-should-say-this-instead"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
