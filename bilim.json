@@ -22262,6 +22262,87 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2022",
+            "count": 29,
+            "totalCount": 255,
+            "uploadDate": "01.08.2022",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2022/08/bilim_2022_29.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2022-29",
+            "podcastTime": 5561,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2022/29",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Rusya, 2024’ten sonra ISS’ten çekilmeyi planlıyor.",
+                    "contentLink": [
+                        "https://spacenews.com/roscosmos-head-revises-comments-about-quitting-iss-after-2024/"
+                    ]
+                },
+                {
+                    "contentText": "NASA, Mars’tan örnekleri geri getirmek için droneları kullanacak.",
+                    "contentLink": [
+                        "https://www.universetoday.com/156946/the-mars-sample-return-mission-will-take-two-helicopters-to-the-red-planet-to-help-retrieve-samples/"
+                    ]
+                },
+                {
+                    "contentText": "OSIRIS-REx, Bennu’nun yüzeyine inmeye kalksa batacaktı.",
+                    "contentLink": [
+                        "https://www.universetoday.com/156908/osiris-rex-would-have-sunk-deep-into-asteroid-bennu-if-it-tried-to-land/"
+                    ]
+                },
+                {
+                    "contentText": "Uzay atıklarının gökten düşüp sizi öldürme ihtimali ne kadar? Çin’in kontrolsüz düşen roketi.",
+                    "contentLink": [
+                        "https://www.universetoday.com/156916/falling-space-junk-has-a-10-chance-of-killing-someone-in-the-next-decade/",
+                        "https://www.universetoday.com/156962/chinas-long-march-rocket-booster-makes-uncontrolled-reentry-back-to-earth/"
+                    ]
+                },
+                {
+                    "contentText": "OneWeb ve Eutelsat birleşiyor.",
+                    "contentLink": [
+                        "https://spacenews.com/eutelsat-and-oneweb-discussing-multi-orbit-merger-plan/"
+                    ]
+                },
+                {
+                    "contentText": "DeepMind, bilimin bildiği bütün proteinlerin yapısını herkes açık veritabanı olarak sunacak.",
+                    "contentLink": [
+                        "https://www.theverge.com/2022/7/28/23280743/deepmind-alphafold-protein-database-alphabet"
+                    ]
+                },
+                {
+                    "contentText": "Yiyecekler ve içecekler son on yılda daha tatlı hale geldi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/food-and-drinks-have-gotten-sweeter-over-the-last-decade-and-it-s-a-real-problem"
+                    ]
+                },
+                {
+                    "contentText": "Modern bilimin temel taşlarından akran denetimi sisteminin yenilenmesi gerekiyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-cornerstone-of-modern-science-is-in-trouble-here-s-what-can-be-done-to-fix-it"
+                    ]
+                },
+                {
+                    "contentText": "Satranç robotu yedi yaşındaki bir çocuğun parmağını kırdı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/a-chess-playing-robot-grabs-and-breaks-a-7-year-old-boy-s-finger-during-a-match"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
