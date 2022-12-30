@@ -22343,6 +22343,80 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2022",
+            "count": 30,
+            "totalCount": 256,
+            "uploadDate": "08.08.2022",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2022/08/bilim_2022_30.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=VJ8c-5cKn2w",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2022-30",
+            "podcastTime": 5534,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2022/30",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Gözlemlenen en uzak galaksi rekoru tekrar kırıldı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/we-may-have-a-new-new-record-for-the-most-distant-known-galaxy"
+                    ]
+                },
+                {
+                    "contentText": "Uzaya fırlatılan roket parçaları Avustralya’da bir çiftliğe düştü.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/giant-slab-of-space-junk-crashed-onto-an-australian-sheep-field-likely-belongs-to-spacex"
+                    ]
+                },
+                {
+                    "contentText": "Kış uykusuna yatan ayıların kanında bulunan bir protein kas kaybını önlüyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/hibernating-bears-have-a-secret-superpower-hiding-in-their-blood"
+                    ]
+                },
+                {
+                    "contentText": "Amerika, maymun çiçeği hastalığı konusunda acil durum ilan etti.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/as-case-counts-rise-us-declares-monkeypox-a-public-health-emergency"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları fare kök hücrelerini kullanarak ilk kez yapay bir embriyo üretmeyi başardı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/researchers-create-the-world-s-first-synthetic-embyro-using-mice-stem-cells"
+                    ]
+                },
+                {
+                    "contentText": "Yapay zeka fiziksel olaylara alternatif bakış açıları getirebilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/ai-has-discovered-alternate-physics-on-its-own"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları uyarıyor insan beyni gece yarısı uyanık kalmak üzere evrimleşmedi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-human-mind-is-not-meant-to-be-awake-after-midnight-scientists-warn"
+                    ]
+                },
+                {
+                    "contentText": "Bir konuda uzmanlaşmak için olması gereken dört şey.",
+                    "contentLink": [
+                        "https://www.youtube.com/watch?v=5eW6Eagr9XA"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
