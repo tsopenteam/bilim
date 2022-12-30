@@ -22417,6 +22417,86 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2022",
+            "count": 31,
+            "totalCount": 257,
+            "uploadDate": "22.08.2022",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2022/08/bilim_2022_31.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2022-31",
+            "podcastTime": 5601,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2022/31",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "NASA, Artemis 3 görevi için aday iniş bölgelerini açıkladı.",
+                    "contentLink": [
+                        "https://www.nasa.gov/press-release/nasa-identifies-candidate-regions-for-landing-next-americans-on-moon"
+                    ]
+                },
+                {
+                    "contentText": "Dünya’nın aynı büyüklükte kaç uydusu olabilir?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/how-many-moons-could-you-fit-in-the-sky-the-answer-may-surprise-you"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları Mars’ta yetiştirilecek ilk bitki olarak yoncayı tavsiye ediyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/this-is-the-first-plant-we-should-grow-on-mars-new-study-finds"
+                    ]
+                },
+                {
+                    "contentText": "Yeni bir yöntemle geliştirilen implant, nakil için kornea bekleyenlerin umudu oldu.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/clinical-trial-restored-sight-to-20-people-with-corneas-made-from-an-unlikely-source"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları hap içmenin en verimli yolunu araştırıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/youre-probably-taking-your-pills-wrong-new-study-finds"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları Tazmanya kaplanlarını geri getirmeye çalışıyor.",
+                    "contentLink": [
+                        "https://www.npr.org/2022/08/20/1118436090/tasmanian-tiger-australia-genetic-editing"
+                    ]
+                },
+                {
+                    "contentText": "Balık yağı faydalı mı, zararlı mı, etkisiz mi?",
+                    "contentLink": [
+                        "https://www.theatlantic.com/health/archive/2022/08/vascepa-fish-oil-omega-3/671064/"
+                    ]
+                },
+                {
+                    "contentText": "Uzmanlara göre sırt ağrısı ve oturma pozisyonu arasında bir ilişki yok.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-relationship-between-posture-and-back-pain-isnt-what-you-think"
+                    ]
+                },
+                {
+                    "contentText": "Daha uzun spor yapmaktansa daha sık spor yapmak daha iyi sonuç veriyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/frequency-may-be-the-key-to-the-optimal-exercise-regime-heres-why"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
