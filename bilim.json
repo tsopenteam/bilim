@@ -22497,6 +22497,86 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2022",
+            "count": 32,
+            "totalCount": 258,
+            "uploadDate": "29.08.2022",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2022/08/bilim_2022_32.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=17AFEGOdswk",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2022-32",
+            "podcastTime": 5392,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2022/32",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Artemis I fırlatması ertelendi.",
+                    "contentLink": [
+                        "https://futurism.com/nasa-cancels-first-launch-sls"
+                    ]
+                },
+                {
+                    "contentText": "Yerli gözlem uydumuz RASAT emekliye ayrıldı.",
+                    "contentLink": [
+                        "https://www.aa.com.tr/tr/bilim-teknoloji/ilk-yerli-gozlem-uydusu-rasatin-gorev-suresi-doldu/2671079"
+                    ]
+                },
+                {
+                    "contentText": "Boeing Starliner’ın ilk insanlı denemesinin Şubat 2023’te yapılması planlanıyor.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2022/08/25/nasa-boeing-target-february-for-first-crew-flight-on-starliner-spacecraft/"
+                    ]
+                },
+                {
+                    "contentText": "Starlink’in ikinci nesil uyduları cep telefonlarına bağlantı imkanı sunacak.",
+                    "contentLink": [
+                        "https://arstechnica.com/science/2022/08/forget-5g-wireless-spacex-and-t-mobile-want-to-offer-zero-g-coverage/"
+                    ]
+                },
+                {
+                    "contentText": "33 motoru da takılan Starship yeniden fırlatma rampasına çıkarıldı.",
+                    "contentLink": [
+                        "https://www.universetoday.com/157328/mechazilla-lifts-a-super-heavy-with-all-33-engines-onto-the-launchpad/"
+                    ]
+                },
+                {
+                    "contentText": "Bazı amfibik canlılar önce akciğer geliştirip sonra onu yok ediyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/these-amphibians-grow-lungs-at-first-until-they-mysteriously-vanish"
+                    ]
+                },
+                {
+                    "contentText": "Yeni bulunan bir balık fosili dişlerin ağzın içinde değil dışında geliştiği tezini destekliyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/ancient-fish-fossil-suggests-that-teeth-didnt-evolve-from-inside-the-mouth"
+                    ]
+                },
+                {
+                    "contentText": "Yüzleri birbirine benzeyen insanların genetik yapıları da birbirine benziyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/extreme-lookalikes-may-share-much-deeper-ties-than-we-ever-realized"
+                    ]
+                },
+                {
+                    "contentText": "Bunama köpeklerde de görülebiliyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/dogs-get-dementia-too-sadly-but-a-simple-habit-seems-to-lower-the-risk"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
