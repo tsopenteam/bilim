@@ -22653,6 +22653,81 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2022",
+            "count": 34,
+            "totalCount": 260,
+            "uploadDate": "12.09.2022",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2022/09/bilim_2022_34.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=dQmyL7Dberg",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2022-34",
+            "podcastTime": 5461,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2022/34",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "NASA, Artemis I fırlatmasını Eylül ayı içinde bir kere daha denemek istiyor.",
+                    "contentLink": [
+                        "https://www.universetoday.com/157503/theres-still-hope-for-sls-to-launch-in-september/"
+                    ]
+                },
+                {
+                    "contentText": "Artemis görevlerinde kullanılacak astronot elbiselerini Axiom Space üretecek.",
+                    "contentLink": [
+                        "https://spacenews.com/nasa-selects-axiom-space-to-develop-artemis-spacesuit/"
+                    ]
+                },
+                {
+                    "contentText": "Cep telefonu pazarında uydu bağlantısı yarışı mı başlıyor?",
+                    "contentLink": [
+                        "https://www.universetoday.com/157474/iphone-14-will-have-satellite-connectivity-how-exactly-it-will-work/",
+                        "https://spacenews.com/apple-to-be-largest-user-of-globalstars-satellite-network-for-iphone-messaging/"
+                    ]
+                },
+                {
+                    "contentText": "Mars yolcularının en büyük dertlerinden birisi de kirli çamaşırlar.",
+                    "contentLink": [
+                        "https://www.universetoday.com/157375/socks-the-final-frontier/"
+                    ]
+                },
+                {
+                    "contentText": "NASA, DART göreviyle bir göktaşını vurmaya hazırlanıyor.",
+                    "contentLink": [
+                        "https://www.universetoday.com/157509/dart-sees-asteroid-didymos-for-the-first-time-in-two-weeks-itll-crash-into-the-moon/"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları hava kirliliğinin nasıl kansere neden olduğunun cevabını arıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/scientists-think-theyve-solved-the-enigma-of-how-air-pollution-causes-lung-cancer"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları ağaçların çeşitliliğinin azaldığı konusunda uyarıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/scientists-studying-earths-trees-issue-a-stark-warning-to-humanity"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları dağın bir yamacında daha büyük olan farelerin gizemini araştırıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/these-mice-grow-bigger-on-one-side-of-their-mountain-home-now-we-know-why"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
