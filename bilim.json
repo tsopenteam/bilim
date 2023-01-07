@@ -22577,6 +22577,82 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2022",
+            "count": 33,
+            "totalCount": 259,
+            "uploadDate": "05.09.2022",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2022/09/bilim_2022_33.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=8BRAz-l0B9c",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2022-33",
+            "podcastTime": 5218,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2022/33",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Artemis I fırlatması hidrojen sızıntısı nedeniyle ikinci kez ertelendi.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2022/09/03/hydrogen-leak-delays-moonshot-by-at-least-several-weeks/"
+                    ]
+                },
+                {
+                    "contentText": "Astronom Frank Drake hayatını kaybetti. Drake Denklemi",
+                    "contentLink": [
+                        "https://www.universetoday.com/157420/legendary-astronomer-frank-drake-has-passed-away/",
+                        "https://www.wikiwand.com/en/Drake_equation"
+                    ]
+                },
+                {
+                    "contentText": "JWST, ilk kez bir ötegezegeni doğrudan fotoğrafladı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/a-transformative-moment-jwst-reveals-its-first-glimpse-of-an-alien-world"
+                    ]
+                },
+                {
+                    "contentText": "Okyanusun dibinde uzaylı teknolojisi yatıyor olabilir mi?",
+                    "contentLink": [
+                        "https://www.npr.org/2022/08/31/1119941103/astronomer-searches-ocean-extraterrestrial-meteor-alien-life-avi-loeb"
+                    ]
+                },
+                {
+                    "contentText": "Voyager I’deki iletişim hatası düzeltildi.",
+                    "contentLink": [
+                        "https://www.universetoday.com/157378/problem-solved-voyager-1-is-no-longer-sending-home-garbled-data/"
+                    ]
+                },
+                {
+                    "contentText": "Rocket Lab, Venüs’te canlılık arayacak kendi özel görevini yapmaya hazırlanıyor.",
+                    "contentLink": [
+                        "https://www.universetoday.com/157345/rocket-lab-is-sending-its-own-mission-to-venus-to-search-for-life/",
+                        "https://www.universetoday.com/157436/what-would-it-take-to-find-life-on-venus/"
+                    ]
+                },
+                {
+                    "contentText": "Yapay süt, süt endüstrisini kökten değiştirebilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/synthetic-milk-is-coming-and-it-could-radically-shake-up-dairy"
+                    ]
+                },
+                {
+                    "contentText": "Yapay zeka kullanarak dijital resim yarışmasını kazandı, ortalık karıştı.",
+                    "contentLink": [
+                        "https://www.washingtonpost.com/technology/2022/09/02/midjourney-artificial-intelligence-state-fair-colorado/"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
