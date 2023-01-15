@@ -22804,6 +22804,82 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2022",
+            "count": 36,
+            "totalCount": 262,
+            "uploadDate": "26.09.2022",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2022/09/bilim_2022_36.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=iwcUC7EDLUU",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2022-36",
+            "podcastTime": 4871,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2022/36",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "NASA: SLS yakıt dolum testi başarıyla tamamlandı ama fırlatma denemesi ertelendi.",
+                    "contentLink": [
+                        "https://spacenews.com/nasa-declares-sls-tanking-test-a-success/",
+                        "https://spaceflightnow.com/2022/09/24/nasa-waves-off-tuesday-launch-for-artemis-moon-rocket/"
+                    ]
+                },
+                {
+                    "contentText": "JWST’nin üzerindeki bilimsel araçlardan birinde sorun tespit edildi.",
+                    "contentLink": [
+                        "https://spacenews.com/nasa-studying-issue-with-jwst-instrument/"
+                    ]
+                },
+                {
+                    "contentText": "SpinLaunch, 71 Milyon $ yatırım aldı.",
+                    "contentLink": [
+                        "https://spacenews.com/spinlaunch-raises-71-million/"
+                    ]
+                },
+                {
+                    "contentText": "NASA’nın DART görevi göktaşına çarpmak üzere.",
+                    "contentLink": [
+                        "https://spacenews.com/dart-on-track-for-asteroid-collision/",
+                        "https://www.sciencealert.com/a-nasa-spacecraft-will-collide-with-an-asteroid-on-monday-watch-live-here"
+                    ]
+                },
+                {
+                    "contentText": "Araştırmacılar sık kabus görme ile bunama arasında ilişki olduğunu söylüyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/an-early-warning-sign-of-dementia-risk-may-be-keeping-you-up-at-night-says-new-study"
+                    ]
+                },
+                {
+                    "contentText": "Yaşlandıkça zekamız geriliyor mu?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/does-iq-decline-as-we-age-one-type-of-intelligence-peaks-in-your-twenties"
+                    ]
+                },
+                {
+                    "contentText": "İşe girmek için kimlere ulaşmalısınız?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/giant-study-of-20-million-people-reveals-who-can-help-you-get-jobs"
+                    ]
+                },
+                {
+                    "contentText": "Filmlerde uzaylılar neden bize benziyor? Gerçekte nasıl görünüyor olabilirler?",
+                    "contentLink": [
+                        "https://www.youtube.com/watch?v=DM48sfoaKS4"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
