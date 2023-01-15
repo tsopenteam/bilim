@@ -23204,6 +23204,93 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2022",
+            "count": 41,
+            "totalCount": 267,
+            "uploadDate": "31.10.2022",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2022/10/bilim_2022_41.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=BFO75HKHhf8",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2022-41",
+            "podcastTime": 5300,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2022/41",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "TUA ve Tübitak küp uydular için işbirliği protokolü imzalandı.",
+                    "contentLink": [
+                        "https://tua.gov.tr/tr/haberler/tua-ve-tubitak-kup-uydular-icin-guclerini-birlestiriyor"
+                    ]
+                },
+                {
+                    "contentText": "DAG’ın 4 metrelik aynasının montajına başlandı.",
+                    "contentLink": [
+                        "https://www.diyadinnet.com/teleskop-aynasinin-kurulumuna-baslandi-h37021/",
+                        "https://www.youtube.com/watch?v=FRH3PYfCs1c"
+                    ]
+                },
+                {
+                    "contentText": "Mars’a çarpan göktaşı yer altında buz tabakası olduğunu gösterdi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/mars-shaken-by-meteorite-impact-that-dug-up-a-pleasant-surprise"
+                    ]
+                },
+                {
+                    "contentText": "Doğru beslenerek stresle mücadele etmek mümkün.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/want-to-lower-your-stress-it-may-just-take-4-weeks-of-eating-these-kinds-of-food"
+                    ]
+                },
+                {
+                    "contentText": "Yabancılarla sohbet etmek insanları daha mutlu yapıyor.",
+                    "contentLink": [
+                        "https://www.npr.org/2022/10/29/1132078900/talking-strangers-happiness-relational-diversity-harvard-business-study"
+                    ]
+                },
+                {
+                    "contentText": "Sigarayı bırakmak için en doğru yaş kaç?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/giant-us-study-identifies-best-age-to-quit-smoking-to-avoid-death-risks"
+                    ]
+                },
+                {
+                    "contentText": "Ne kadar su içmeliyiz?",
+                    "contentLink": [
+                        "https://www.npr.org/2022/09/21/1124371309/busting-common-hydration-water-myths"
+                    ]
+                },
+                {
+                    "contentText": "Plastikte geri dönüşüm bir hayal mi?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/new-report-lists-5-reasons-to-think-plastic-recycling-is-a-failed-concept"
+                    ]
+                },
+                {
+                    "contentText": "Daha çok kitap okumaya, spor yapmaya veya yazılım öğrenmeye nasıl başlayabiliriz?",
+                    "contentLink": [
+                        "https://ideas.ted.com/heres-how-i-finally-got-myself-to-start-exercising/"
+                    ]
+                },
+                {
+                    "contentText": "Bazı yapay zeka firmaları ruh çağırma seanslarına alternatif olmaya hazırlanıyor.",
+                    "contentLink": [
+                        "https://www.technologyreview.com/2022/10/18/1061320/digital-clones-of-dead-people/"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
