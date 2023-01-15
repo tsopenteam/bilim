@@ -23130,6 +23130,80 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2022",
+            "count": 40,
+            "totalCount": 266,
+            "uploadDate": "24.10.2022",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2022/10/bilim_2022_40.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=eCT49poeoDU",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2022-40",
+            "podcastTime": 5278,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2022/40",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "NASA, ISS’te askıya alınan uzay yürüyüşlerine yeniden izin verdi.",
+                    "contentLink": [
+                        "https://spacenews.com/nasa-gives-green-light-for-space-station-spacewalks-to-resume/"
+                    ]
+                },
+                {
+                    "contentText": "NASA, Mars’a sert inişin yollarını arıyor.",
+                    "contentLink": [
+                        "https://www.universetoday.com/158193/why-nasa-is-trying-to-crash-land-on-mars/"
+                    ]
+                },
+                {
+                    "contentText": "Arecibo Radyo Teleskobu yeniden inşa edilmeyecek.",
+                    "contentLink": [
+                        "https://www.universetoday.com/158125/arecibo-wont-be-rebuilt/"
+                    ]
+                },
+                {
+                    "contentText": "BionTech kurucuları önümüzdeki on yıl içinde kanser aşılarını kullanmaya başlayacağız.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/biontech-founders-predict-cancer-vaccine-is-only-years-away"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları doğadaki hayvanların renklerinin nasıl ve neden oluştuğunu araştırıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-incredible-colors-of-animals-mean-different-things-but-we-just-found-a-pattern"
+                    ]
+                },
+                {
+                    "contentText": "Sahte gülümseme mutluluğunuzu artırıyor mu?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/does-faking-a-smile-make-you-happier-the-latest-findings-are-in"
+                    ]
+                },
+                {
+                    "contentText": "Daha iyi bir uyku için uzmanlar herkeste çalışan bir yöntemi öneriyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/want-better-sleep-this-one-piece-of-advice-seems-to-work-for-almost-everybody"
+                    ]
+                },
+                {
+                    "contentText": "Çamaşır katlama robotu, robotların bir gün dünyayı ele geçireceği korkusunu gideriyor.",
+                    "contentLink": [
+                        "https://www.npr.org/2022/10/22/1130552239/robot-folding-laundry"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
