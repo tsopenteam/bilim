@@ -22880,6 +22880,93 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2022",
+            "count": 37,
+            "totalCount": 263,
+            "uploadDate": "03.10.2022",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2022/10/bilim_2022_37.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=cShovbI11Qg",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2022-37",
+            "podcastTime": 5281,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2022/37",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "İsveç bilim ekipmanı Türk uzay aracı ile Ay’a gidecek.",
+                    "contentLink": [
+                        "https://uzay.tubitak.gov.tr/tr/haber/turkiyenin-ilk-ay-gorevi-icin-isvec-uzay-fizigi-enstitusu-ile-bilimsel-isbirligi-anlasmasi",
+                        "https://www.mynewsdesk.com/se/irf/pressreleases/svenskt-rymdinstrument-ska-studera-maanen-ombord-fraan-turkisk-maansond-slash-swedish-space-instrument-will-study-the-moon-on-board-a-turkish-spacecraft-3207797"
+                    ]
+                },
+                {
+                    "contentText": "2022 Nobel Tıp Ödülü insanın evrimiyle ilgili çalışmalara verildi.",
+                    "contentLink": [
+                        "https://www.nobelprize.org/prizes/medicine/2022/press-release/"
+                    ]
+                },
+                {
+                    "contentText": "DART görevi göktaşına çarparak başarıyla sonuçlandı.",
+                    "contentLink": [
+                        "https://www.nasa.gov/press-release/nasa-s-dart-mission-hits-asteroid-in-first-ever-planetary-defense-test"
+                    ]
+                },
+                {
+                    "contentText": "NASA, Artemis I görevini Kasım ayına erteledi.",
+                    "contentLink": [
+                        "https://spacenews.com/nasa-pushes-back-artemis-1-launch-to-november/"
+                    ]
+                },
+                {
+                    "contentText": "NASA ve SpaceX Hubble Uzay Teleskopu’nun ömrünü uzatmanın yollarını arıyor.",
+                    "contentLink": [
+                        "https://arstechnica.com/science/2022/09/nasa-and-spacex-are-studying-a-hubble-telescope-boost-adding-15-to-20-years-of-life/"
+                    ]
+                },
+                {
+                    "contentText": "Çinli uzay firmaları 2025 yılında uzay turizmi hizmeti sunmaya hazırlanıyor.",
+                    "contentLink": [
+                        "https://www.universetoday.com/157774/chinese-companies-are-planning-to-offer-space-tourism-flights-by-2025/"
+                    ]
+                },
+                {
+                    "contentText": "Ticari firmalar devre dışı kalan uydularını beş yıl içinde yörüngeden çekecek.",
+                    "contentLink": [
+                        "https://www.universetoday.com/157877/companies-will-have-five-years-to-dispose-of-their-dead-satellites/"
+                    ]
+                },
+                {
+                    "contentText": "Köpekler stres altında olduğumuzu kokumuzdan anlayabiliyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/your-body-smells-when-its-stressed-and-your-dog-can-sniff-it-out"
+                    ]
+                },
+                {
+                    "contentText": "Son yapılan geniş çaplı araştırmaya göre kahve içmek ömrü uzatıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/massive-study-finds-coffee-drinkers-will-probably-outlive-the-rest-of-us"
+                    ]
+                },
+                {
+                    "contentText": "Yapay zeka ile üretilen resimlerden sonra sıra videolarda.",
+                    "contentLink": [
+                        "https://www.theverge.com/2022/9/29/23378210/meta-text-to-video-ai-generation-make-a-video-model-dall-e"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
