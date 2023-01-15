@@ -23371,6 +23371,87 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2022",
+            "count": 43,
+            "totalCount": 269,
+            "uploadDate": "14.11.2022",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2022/11/bilim_2022_43.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=kpPAkJKUurQ",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2022-43",
+            "podcastTime": 5078,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2022/43",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "NASA, Artemis 1 görevini 16 Kasım’a erteledi.",
+                    "contentLink": [
+                        "https://spacenews.com/nasa-moving-ahead-with-nov-16-artemis-1-launch-attempt/"
+                    ]
+                },
+                {
+                    "contentText": "NASA’nın CAPSTONE aracı Ay’ın çevresinde planlanan yörüngesine başarıyla girdi.",
+                    "contentLink": [
+                        "https://spacenews.com/capstone-enters-lunar-orbit/"
+                    ]
+                },
+                {
+                    "contentText": "JWST’nin üzerinde bulunan MIRI enstrümanı tam performans çalışmaya başlayacak.",
+                    "contentLink": [
+                        "https://www.universetoday.com/158588/woohoo-jwsts-mid-infrared-instrument-is-fully-operational-again/"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları bir sonraki yıldızlararası nesneye nasıl yaklaşacaklarını düşünüyorlar.",
+                    "contentLink": [
+                        "https://www.universetoday.com/158609/well-inevitably-see-another-interstellar-object-which-ones-make-the-best-targets-to-visit/"
+                    ]
+                },
+                {
+                    "contentText": "Üç yıldır yörüngede dolaşan X-37B test aracı Dünya’ya döndü.",
+                    "contentLink": [
+                        "https://spacenews.com/x-37b-space-plane-completes-its-sixth-mission-lands-after-nearly-30-months-in-orbit/",
+                        "https://www.sciencealert.com/mysterious-us-space-drone-returns-to-earth-after-record-breaking-mission"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları kanseri CRISPR kullanarak kişiselleştirilmiş tedavi ile yenmeye çalışıyor.",
+                    "contentLink": [
+                        "https://www.scientificamerican.com/article/in-first-scientists-use-crispr-for-personalized-cancer-treatment/"
+                    ]
+                },
+                {
+                    "contentText": "Duyamayacağımız kadar düşük frekanslardaki bas sesler bile daha fazla dans etmemize neden oluyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/music-humans-cant-even-hear-makes-us-dance-more-experiment-shows"
+                    ]
+                },
+                {
+                    "contentText": "İnsanlığın nüfusu Kasım ayı ortası itibariyle 8 Milyar’ı geçti.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/earths-population-explodes-to-8-billion-humans-this-month"
+                    ]
+                },
+                {
+                    "contentText": "İnternette insan grupları kuş sürüleri gibi davranıyor.",
+                    "contentLink": [
+                        "https://www.noemamag.com/how-online-mobs-act-like-flocks-of-birds/"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
