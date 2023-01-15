@@ -22728,6 +22728,82 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2022",
+            "count": 35,
+            "totalCount": 261,
+            "uploadDate": "19.09.2022",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2022/09/bilim_2022_35.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=mT3u6vYLmEw",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2022-35",
+            "podcastTime": 4022,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2022/35",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Türk Uzay Yolcusu için Axiom Space ile anlaşma imzalandı.",
+                    "contentLink": [
+                        "https://tua.gov.tr/tr/haberler/turk-uzay-yolcusu-icin-axiom-space-ile-imzalar-atildi"
+                    ]
+                },
+                {
+                    "contentText": "Artemis I’in fırlatma öncesi yakıt dolum testi birkaç gün ertelendi.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2022/09/12/nasa-delays-sls-tanking-test-next-launch-opportunity/"
+                    ]
+                },
+                {
+                    "contentText": "Blue Origin’in New Shepperd roketi 23. fırlatmasında sorun yaşadı.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2022/09/12/blue-origin-ns-23-launch/"
+                    ]
+                },
+                {
+                    "contentText": "NASA, CAPSTONE görevindeki sorunları aşmaya çalışıyor.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2022/09/12/ground-teams-trying-to-regain-control-of-scouting-satellite-for-nasas-artemis-moon-program/"
+                    ]
+                },
+                {
+                    "contentText": "Perseverance, Mars’ta organik maddeler içeren örnekler topladı.",
+                    "contentLink": [
+                        "https://www.universetoday.com/157624/perseverance-has-collected-samples-from-one-of-the-best-places-to-search-for-ancient-life-on-mars/"
+                    ]
+                },
+                {
+                    "contentText": "Kanserle mücadele için gelecekte küçük ilaç implantları kullanılabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/tiny-drug-factory-implants-can-eradicate-tumors-in-mice-in-just-days"
+                    ]
+                },
+                {
+                    "contentText": "Geceleri yemek yememek depresyon riskini azaltıyor olabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-time-of-day-you-eat-could-make-a-difference-to-your-mental-health"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları ağlayan bir bebeği uyutmanın en iyi yolunu araştırıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/scientists-say-theyve-found-the-most-effective-way-to-soothe-a-crying-baby"
+                    ]
+                },
+                {
+                    "contentText": "Doktorlar bir kadın hastanın karnından 55 adet pil çıkardı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-unfortunate-reason-a-woman-swallowed-55-aa-and-aaa-batteries"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
