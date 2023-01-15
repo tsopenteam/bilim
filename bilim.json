@@ -23452,6 +23452,83 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2022",
+            "count": 44,
+            "totalCount": 270,
+            "uploadDate": "21.11.2022",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2022/11/bilim_2022_44.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=vRsuUP1Bvls",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2022-44",
+            "podcastTime": 5347,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2022/44",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Artemis I görevi başarıyla fırlatıldı. Birlikte giden diğer görevler.",
+                    "contentLink": [
+                        "https://www.nasa.gov/specials/artemis-i/",
+                        "https://spaceflightnow.com/2022/11/16/nasa-triumphs-in-successful-debut-launch-of-huge-sls-moon-rocket/",
+                        "https://spectrum.ieee.org/nasa-artemis-science"
+                    ]
+                },
+                {
+                    "contentText": "Şişirilebilir ısı kalkanı sayesinde Mars’a çok daha ağır yükleri indirebileceğiz.",
+                    "contentLink": [
+                        "https://www.universetoday.com/158630/nasa-and-ula-successfully-test-a-giant-inflatable-heat-shield-that-could-land-heavier-payloads-on-mars/"
+                    ]
+                },
+                {
+                    "contentText": "ESA, Ay’ın çevresine bir konumlama ve iletişim ağı kurmayı planlıyor.",
+                    "contentLink": [
+                        "https://www.universetoday.com/158681/europe-is-building-a-communications-network-around-the-moon/"
+                    ]
+                },
+                {
+                    "contentText": "SpaceX, Ay yüzeyine iniş için ikinci bir görev daha aldı.",
+                    "contentLink": [
+                        "https://spacenews.com/nasa-awards-spacex-1-15-billion-contract-for-second-artemis-lander-mission/"
+                    ]
+                },
+                {
+                    "contentText": "NASA, JWST’ye çarpan mikro göktaşlarının etkisini azaltmanın yollarını arıyor.",
+                    "contentLink": [
+                        "https://www.universetoday.com/158663/nasa-has-a-plan-to-minimize-future-micrometeoroid-impacts-on-jwst/"
+                    ]
+                },
+                {
+                    "contentText": "Laboratuvarda üretilen tavuk eti, ABD'de tüketim onayı aldı.",
+                    "contentLink": [
+                        "https://www.nytimes.com/2022/11/17/climate/fda-lab-grown-cultivated-meat.html"
+                    ]
+                },
+                {
+                    "contentText": "Metrik sisteme yeni birim ön ekleri eklendi.",
+                    "contentLink": [
+                        "https://www.npr.org/2022/11/19/1137985619/metric-system-measurement-prefix"
+                    ]
+                },
+                {
+                    "contentText": "Yüksek sesli müzik gençlerin neredeyse yarısının duyma yetisini tehlikeye atıyor. Duyma testi",
+                    "contentLink": [
+                        "https://www.sciencealert.com/pumping-beats-threaten-the-hearing-of-nearly-half-of-all-teens-and-young-adults",
+                        "https://knowyournoise.nal.gov.au/"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
