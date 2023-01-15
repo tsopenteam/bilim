@@ -23291,6 +23291,86 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2022",
+            "count": 42,
+            "totalCount": 268,
+            "uploadDate": "07.11.2022",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2022/11/bilim_2022_42.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=IgboEVGDtcg",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2022-42",
+            "podcastTime": 5439,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2022/42",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Falcon Heavy üç yıl aradan sonra görevini başarıyla tamamladı.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2022/11/01/falcon-heavy-simply-outstanding-on-spacexs-first-launch-to-geosynchronous-orbit/"
+                    ]
+                },
+                {
+                    "contentText": "SLS, Artemis I görevi için yeniden fırlatma rampasına alındı.",
+                    "contentLink": [
+                        "https://spacenews.com/sls-returns-to-the-pad-for-next-artemis-launch-attempt/"
+                    ]
+                },
+                {
+                    "contentText": "Starliner insanlı deneme uçuşu ertelendi.",
+                    "contentLink": [
+                        "https://spacenews.com/first-starliner-crewed-flight-further-delayed/"
+                    ]
+                },
+                {
+                    "contentText": "NASA, havaalanından uzaya ulaşmayı sağlayan sistemler üzerinde çalışıyor.",
+                    "contentLink": [
+                        "https://www.universetoday.com/158471/nasas-new-glider-could-turn-any-airport-into-a-spaceport/"
+                    ]
+                },
+                {
+                    "contentText": "Ay’ın uzak yüzeyine robotlarla radyo teleskop yerleştirmek mümkün olabilir.",
+                    "contentLink": [
+                        "https://www.universetoday.com/158409/just-four-robots-could-deploy-a-huge-radio-telescope-on-the-far-side-of-the-moon/"
+                    ]
+                },
+                {
+                    "contentText": "Işık kirliliğini ve etkilerini ölçmekte bilim insanlarına yardımcı olabilirsiniz.",
+                    "contentLink": [
+                        "https://www.universetoday.com/158440/you-can-help-measure-light-pollution-with-your-phone/"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları balinaların bir günde ne kadar plastik atık yediğini hesapladı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/blue-whales-eat-an-astounding-96-pounds-of-microplastics-every-single-day"
+                    ]
+                },
+                {
+                    "contentText": "Bal arılarının duyguları var mı?",
+                    "contentLink": [
+                        "https://www.npr.org/2022/11/05/1134355887/bumblebees-can-play-does-it-mean-they-have-feelings-study-says-yes"
+                    ]
+                },
+                {
+                    "contentText": "Cıvık mantarlar bilinç nedir sorusunu yeniden sorgulamamıza neden oluyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/this-weirdly-smart-creeping-slime-is-redefining-how-we-understand-intelligence"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
