@@ -23055,6 +23055,81 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2022",
+            "count": 39,
+            "totalCount": 265,
+            "uploadDate": "17.10.2022",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2022/10/bilim_2022_39.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=GFTCRbEr7g0",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2022-39",
+            "podcastTime": 5476,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2022/39",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "NASA: DART görevi asteroidin yörüngesini değiştirdi.",
+                    "contentLink": [
+                        "https://www.nasa.gov/press-release/nasa-confirms-dart-mission-impact-changed-asteroid-s-motion-in-space"
+                    ]
+                },
+                {
+                    "contentText": "NASA ve diğer kurumlardan test örnekleri taşıyan SpinLaunch’ın onuncu testi başarıyla tamamlandı.",
+                    "contentLink": [
+                        "https://www.universetoday.com/158014/spinlaunch-completes-its-10th-test-hurling-payloads-for-nasa-and-other-companies-into-the-air/"
+                    ]
+                },
+                {
+                    "contentText": "Starship’in ilk yörünge denemesi Kasım ayında yapılacak mı? İkinci Ay yörüngesi turu için şimdiden yer ayırtanlar var.",
+                    "contentLink": [
+                        "https://www.universetoday.com/158075/starship-and-super-heavy-are-stacked-up-again-how-long-until-they-fly/",
+                        "https://www.universetoday.com/158069/americas-first-space-tourist-signs-up-for-moon-trip-on-spacexs-starship/"
+                    ]
+                },
+                {
+                    "contentText": "Yakından geçen yıldızı yutan kara delik birkaç yıl sonra birazını geri kustu.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/this-black-hole-devoured-a-star-years-ago-now-its-burped-something-out"
+                    ]
+                },
+                {
+                    "contentText": "Çernobil bölgesindeki kurbağaların rengi koyulaşıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/chernobyls-radiation-is-darkening-its-frogs-and-its-a-good-thing-too"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları laboratuvar ortamında tabakta yetiştirilen beyin hücrelerine Pong oynatmayı başardı.",
+                    "contentLink": [
+                        "https://www.npr.org/sections/health-shots/2022/10/14/1128875298/brain-cells-neurons-learn-video-game-pong"
+                    ]
+                },
+                {
+                    "contentText": "50 yıllık matris çarpma yöntemi DeepMind tarafından iyileştirildi.",
+                    "contentLink": [
+                        "https://arstechnica.com/information-technology/2022/10/deepmind-breaks-50-year-math-record-using-ai-new-record-falls-a-week-later/"
+                    ]
+                },
+                {
+                    "contentText": "Yapılan son deneye göre geç saatte yemek yemek kilo almaya neden oluyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/eating-late-at-night-is-not-a-good-idea-this-experiment-reveals-why"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
