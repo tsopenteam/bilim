@@ -22967,6 +22967,94 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2022",
+            "count": 38,
+            "totalCount": 264,
+            "uploadDate": "10.10.2022",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2022/10/bilim_2022_38.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=X7O26TsoDH8",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2022-38",
+            "podcastTime": 5391,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2022/38",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Tübitak Uzay, AYAP-1 yörünge videosunu paylaştı.",
+                    "contentLink": [
+                        "https://twitter.com/tubitakuzay/status/1577558548048928768"
+                    ]
+                },
+                {
+                    "contentText": "Nobel Fizik ve Kimya ödülleri sahiplerini buldu. Gelecek Bilimde.",
+                    "contentLink": [
+                        "https://www.quantamagazine.org/pioneering-quantum-physicists-win-nobel-prize-in-physics-20221004/",
+                        "https://www.quantamagazine.org/molecule-building-innovators-win-2022-chemistry-nobel-prize-20221005/",
+                        "https://www.youtube.com/watch?v=ZARnROI5KzE"
+                    ]
+                },
+                {
+                    "contentText": "Rus kozmonotu da içeren Crew 5 ekibi ISS’e başarıyla ulaştı.",
+                    "contentLink": [
+                        "https://spacenews.com/spacex-launches-crew-5-mission-to-the-space-station/"
+                    ]
+                },
+                {
+                    "contentText": "Ingenuity’nin ayağına Mars’ta çöp dolaştı.",
+                    "contentLink": [
+                        "https://www.universetoday.com/157925/a-small-piece-of-foreign-object-debris-fell-off-ingenuitys-leg-during-its-33rd-flight/"
+                    ]
+                },
+                {
+                    "contentText": "CAPSTONE aracının yönelim sorununu düzeltildi.",
+                    "contentLink": [
+                        "https://spacenews.com/capstone-attitude-control-restored/"
+                    ]
+                },
+                {
+                    "contentText": "DART’ın çarpmasından sonra Dimorphos göktaşının kuyruğu oluştu.",
+                    "contentLink": [
+                        "https://www.universetoday.com/157939/after-getting-slammed-by-dart-asteroid-dimorphos-has-grown-a-tail/"
+                    ]
+                },
+                {
+                    "contentText": "Uzaylıların keşfi, dost canlısı olsalar bile beklenmedik sorunlara neden olabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/discovering-even-friendly-aliens-could-have-some-real-risks-for-humanity"
+                    ]
+                },
+                {
+                    "contentText": "Uzay reklamcılığı yeni kabusumuz olabilir.",
+                    "contentLink": [
+                        "https://arstechnica.com/science/2022/10/russian-space-scientists-have-the-worst-idea-ever-space-based-advertising/"
+                    ]
+                },
+                {
+                    "contentText": "Google da yazıdan video üretebilen yapay zekasını duyurdu.",
+                    "contentLink": [
+                        "https://www.theverge.com/2022/10/6/23390607/ai-text-to-video-google-imagen-phenaki-new-research"
+                    ]
+                },
+                {
+                    "contentText": "Neden iyi fikirler hep duş alırken aklımıza gelir?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/finally-scientists-may-have-figured-out-why-your-best-ideas-come-in-the-shower"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
