@@ -23690,6 +23690,82 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2022",
+            "count": 47,
+            "totalCount": 273,
+            "uploadDate": "12.12.2022",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2022/12/bilim_2022_47.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=7JWhNwRBBQ8",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2022-47",
+            "podcastTime": 5466,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2022/47",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Artemis I görevi başarıyla tamamlandı. Mavi Bilye fotoğrafı çekileli 50 yıl oldu.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/nasas-orion-spacecraft-successfully-returns-to-earth-after-historic-moon-mission",
+                        "https://www.sciencealert.com/its-been-50-years-since-this-iconic-photo-revealed-earth-in-all-its-glory"
+                    ]
+                },
+                {
+                    "contentText": "Starship ile Ay’a gidecek olan dearMoon ekibi açıklandı.",
+                    "contentLink": [
+                        "https://www.universetoday.com/159099/japanese-billionaire-reveals-his-round-the-moon-crew/"
+                    ]
+                },
+                {
+                    "contentText": "Çin, Uzay İstasyonunu genişletme planları yapıyor.",
+                    "contentLink": [
+                        "https://spacenews.com/china-is-considering-expanding-its-tiangong-space-station/"
+                    ]
+                },
+                {
+                    "contentText": "SpaceX, Starshield hizmetini duyurdu.",
+                    "contentLink": [
+                        "https://www.universetoday.com/159051/spacex-launches-starshield-a-quiet-announcement-with-a-huge-potential/"
+                    ]
+                },
+                {
+                    "contentText": "Neuralink’te hayvanlara eziyet ediliyor iddiasına soruşturma başlatıldı.",
+                    "contentLink": [
+                        "https://arstechnica.com/science/2022/12/neuralink-faces-federal-probe-over-alleged-animal-abuse-hack-job-surgeries/"
+                    ]
+                },
+                {
+                    "contentText": "Yiyeceklere baharat koymak daha sağlıklı bir bağırsak florası sağlıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/spicing-up-your-meals-could-be-one-simple-way-to-build-a-healthier-gut"
+                    ]
+                },
+                {
+                    "contentText": "Uzmanlar geri geri yürümenin faydalarını anlatıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/it-sounds-crazy-but-walking-backwards-is-really-really-good-for-you"
+                    ]
+                },
+                {
+                    "contentText": "Yapılan geniş kapsamlı bir araştırmaya göre büyüye olan inanç oldukça yaygın.",
+                    "contentLink": [
+                        "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0276872",
+                        "https://www.sciencealert.com/massive-global-study-shows-belief-in-witchcraft-is-more-abundant-than-you-might-think"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
