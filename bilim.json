@@ -23979,6 +23979,86 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2023",
+            "count": 2,
+            "totalCount": 277,
+            "uploadDate": "09.01.2023",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2023/01/bilim_2023_2.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=CxhpCSjf7ro",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2023-2",
+            "podcastTime": 5274,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2023/2",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Airbus, Starlab ticari uzay istasyonu projesine katıldı.",
+                    "contentLink": [
+                        "https://spacenews.com/airbus-joins-starlab-commercial-space-station-project/"
+                    ]
+                },
+                {
+                    "contentText": "Kan grubunuz genç yaşta inme geçirme ihtimalinizi etkiliyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/your-blood-type-may-affect-your-risk-of-an-early-stroke-research-reveals"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları ilk kez sadece virüs yiyerek beslenen bir canlı keşfetti.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/an-organism-that-can-dine-exclusively-on-viruses-has-been-found-in-a-world-first"
+                    ]
+                },
+                {
+                    "contentText": "Romalıların yaptıkları binaların nasıl bu kadar sağlam olduklarını artık biliyoruz.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/we-finally-know-how-ancient-roman-concrete-was-so-durable"
+                    ]
+                },
+                {
+                    "contentText": "Çocukların hızlı öğrenmesi beyindeki bir kimyasal sayesinde oluyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/kids-incredible-learning-may-all-be-down-to-1-chemical-in-the-brain"
+                    ]
+                },
+                {
+                    "contentText": "Az miktarda stres hafıza için iyi olabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/at-the-right-levels-stress-can-have-a-surprising-impact-on-memory"
+                    ]
+                },
+                {
+                    "contentText": "Hayvan beslemek ileri yaşta beyin fonksiyonlarına iyi geliyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/pets-help-to-protect-your-brain-as-you-get-older-study-suggests"
+                    ]
+                },
+                {
+                    "contentText": "Bilim alanındaki yenilikçilik azalıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/innovation-in-science-is-on-the-decline-and-were-not-sure-why"
+                    ]
+                },
+                {
+                    "contentText": "Somnifobi, hayatı yaşanmaz hale getiren bir korku.",
+                    "contentLink": [
+                        "https://www.vice.com/en/article/v7vqg9/what-its-like-to-have-somniphobia"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
