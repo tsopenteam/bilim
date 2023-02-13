@@ -23529,6 +23529,87 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2022",
+            "count": 45,
+            "totalCount": 271,
+            "uploadDate": "28.11.2022",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2022/11/bilim_2022_45.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=-QdxTs82obk",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2022-45",
+            "podcastTime": 4900,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2022/45",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "NASA, Artemis I görevinin gidişatından çok memnun.",
+                    "contentLink": [
+                        "https://www.nasa.gov/artemis-1",
+                        "https://www.sciencealert.com/artemis-i-snapped-stunning-pics-of-a-setting-earth-on-its-first-lunar-flyby"
+                    ]
+                },
+                {
+                    "contentText": "İlk SLS fırlatılışı, fırlatma alanına ne kadar zarar verdi?",
+                    "contentLink": [
+                        "https://www.universetoday.com/158788/the-first-sls-launch-caused-damage-to-the-launch-pad-how-bad-was-it/"
+                    ]
+                },
+                {
+                    "contentText": "Artemis I göreviyle gönderilen küp uydular ne durumda?",
+                    "contentLink": [
+                        "https://www.universetoday.com/158787/what-happened-to-those-cubesats-that-were-launched-with-artemis-i/"
+                    ]
+                },
+                {
+                    "contentText": "Europa’ya gönderdiğimiz uzay aracı Dünya ile nasıl haberleşecek?",
+                    "contentLink": [
+                        "https://www.universetoday.com/158774/if-were-going-to-get-under-the-ice-on-europa-how-will-we-send-a-signal-back-to-the-surface/"
+                    ]
+                },
+                {
+                    "contentText": "Dört ana grip türünden biri Covid nedeniyle ortadan kalkmış olabilir.",
+                    "contentLink": [
+                        "https://arstechnica.com/science/2022/09/covid-may-have-pushed-a-leading-seasonal-flu-strain-to-extinction/"
+                    ]
+                },
+                {
+                    "contentText": "Artık saniye düzeltmeleri tarihe karışıyor.",
+                    "contentLink": [
+                        "https://www.scientificamerican.com/article/the-leap-seconds-time-is-up-world-votes-to-stop-pausing-clocks/"
+                    ]
+                },
+                {
+                    "contentText": "FDA, Dünya’nın en pahalı ilacına onay verdi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-fda-just-approved-the-most-expensive-drug-in-the-world"
+                    ]
+                },
+                {
+                    "contentText": "Dikilen her ağaç insan ömrünü uzatıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/people-in-portland-planted-trees-decades-later-a-stunning-pattern-emerged"
+                    ]
+                },
+                {
+                    "contentText": "Meta’nın geliştirdiği yapay zeka Diplomacy oyununda insanlarla ittifak kurabiliyor.",
+                    "contentLink": [
+                        "https://www.technologyreview.com/2022/11/23/1063648/metas-game-playing-ai-can-make-and-break-alliances-like-a-human/"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
