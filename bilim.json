@@ -23610,6 +23610,86 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2022",
+            "count": 46,
+            "totalCount": 272,
+            "uploadDate": "05.12.2022",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2022/12/bilim_2022_46.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=9pBmrddy7Vo",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2022-46",
+            "podcastTime": 5462,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2022/46",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Türkiye’nin ilk astronotu Eskişehir’deki askeri merkezde eğitiliyor.",
+                    "contentLink": [
+                        "https://www.aa.com.tr/tr/bilim-teknoloji/turkiyenin-ilk-uzay-yolcusu-adaylari-eskisehirdeki-askeri-merkezde-egitiliyor/2752954"
+                    ]
+                },
+                {
+                    "contentText": "Artemis I görevi Dünya’ya dönüş yolculuğuna başladı.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2022/12/01/artemis-1-orion-dro-departure/"
+                    ]
+                },
+                {
+                    "contentText": "SpaceX, 7500 yeni Starlink uydusu için izin almayı başardı.",
+                    "contentLink": [
+                        "https://qz.com/the-us-says-spacex-can-launch-7-500-more-satellites-1849847472"
+                    ]
+                },
+                {
+                    "contentText": "Çin, uzay istasyonunda ilk kez mürettebat değişimi yaptı.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2022/11/29/chinese-astronauts-meet-in-space-for-historic-crew-handover/"
+                    ]
+                },
+                {
+                    "contentText": "Airbus, hidrojenle çalışan motorları uçaklarında denemek istiyor.",
+                    "contentLink": [
+                        "https://futurism.com/the-byte/airbus-hydrogen-fuel-cell-jet"
+                    ]
+                },
+                {
+                    "contentText": "Uyku hastalığını tek dozla iyileştiren yeni ilaç umut vadediyor.",
+                    "contentLink": [
+                        "https://www.npr.org/sections/goatsandsoda/2022/12/02/1140390675/with-one-dose-new-drug-may-cure-sleeping-sickness-could-it-also-wipe-it-out"
+                    ]
+                },
+                {
+                    "contentText": "Neuralink insanlı denemeler için izin aşamasında.",
+                    "contentLink": [
+                        "https://www.zdnet.com/article/elon-musk-says-neuralink-brain-implant-is-nearing-human-trials/"
+                    ]
+                },
+                {
+                    "contentText": "İlaç firmaları DALL-E benzeri yapay zeka modelleri kullanarak yeni ilaçlar arıyor.",
+                    "contentLink": [
+                        "https://www.technologyreview.com/2022/12/01/1064023/biotech-labs-are-using-ai-inspired-by-dall-e-to-invent-new-drugs/"
+                    ]
+                },
+                {
+                    "contentText": "OpenAI, ChatGPT isimli sohbet yapay zeka modelini duyurdu.",
+                    "contentLink": [
+                        "https://www.technologyreview.com/2022/11/30/1063878/openai-still-fixing-gpt3-ai-large-language-model/"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
