@@ -23766,6 +23766,81 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2022",
+            "count": 48,
+            "totalCount": 274,
+            "uploadDate": "19.12.2022",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2022/12/bilim_2022_48.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=srzdIzPB9Ys",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2022-48",
+            "podcastTime": 4983,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2022/48",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "TUA, Ay’a gönderilecek uzay aracıyla ilgili ilk ayrıntıları paylaştı.",
+                    "contentLink": [
+                        "https://tua.gov.tr/tr/haberler/tua-ay-a-gonderilecek-uzay-aracina-iliskin-ilk-detaylari-paylasti"
+                    ]
+                },
+                {
+                    "contentText": "Soyuz kapsülünün sızdırması üzerine yapılması planlanan uzay yürüyüşü iptal edildi.",
+                    "contentLink": [
+                        "https://spacenews.com/soyuz-leak-cancels-space-station-spacewalk/"
+                    ]
+                },
+                {
+                    "contentText": "Perseverance, Dünya’ya getirilecek örnekleri Mars yüzeyine bırakmaya başlayacak.",
+                    "contentLink": [
+                        "https://spacenews.com/perseverance-prepares-to-deposit-mars-sample-cache/"
+                    ]
+                },
+                {
+                    "contentText": "İlk kez girdisinden çok enerji üretebilen füzyon reaksiyonunu gerçekleştildi.",
+                    "contentLink": [
+                        "https://www.technologyreview.com/2022/12/13/1064898/what-fusions-breakthrough-means-for-clean-energy/",
+                        "https://slate.com/technology/2022/12/nuclear-fusion-department-of-energy-charles-seife-climate-change.html"
+                    ]
+                },
+                {
+                    "contentText": "Laboratuvar ortamında yetiştirilen kırmızı kan hücreleri ilk kez hastalara verildi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/world-first-trial-transfusing-lab-grown-red-blood-cells-begins"
+                    ]
+                },
+                {
+                    "contentText": "Amerikalı bir girişim karbon salınımını azaltmak için ilginç bir yöntem deniyor.",
+                    "contentLink": [
+                        "https://www.technologyreview.com/2022/12/15/1065016/a-stealth-effort-to-bury-wood-for-carbon-removal-has-just-raised-millions/"
+                    ]
+                },
+                {
+                    "contentText": "Çocukluk çağı kırıkları gelecekteki kırıkların ve kemik erimesinin habercisi olabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/mysterious-pattern-emerges-in-the-future-of-children-who-break-bones"
+                    ]
+                },
+                {
+                    "contentText": "Göz hareketlerini takip ederek hangi seçeneği seçeceğimizi tespit etmek mümkün.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/a-tiny-flicker-in-your-eyes-opens-a-window-to-your-private-thoughts"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
