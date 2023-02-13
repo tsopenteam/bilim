@@ -23911,6 +23911,74 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2023",
+            "count": 1,
+            "totalCount": 276,
+            "uploadDate": "02.01.2023",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2023/01/bilim_2023_1.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=-PMAqLHJVgE",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2023-1",
+            "podcastTime": 5062,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2023/1",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Artemis I ile fırlatılan küp uydulardan bazıları hala kurtarılmaya çalışılıyor.",
+                    "contentLink": [
+                        "https://spacenews.com/cubesat-launched-on-artemis-1-trying-to-fix-propulsion-system/"
+                    ]
+                },
+                {
+                    "contentText": "Uzay madenciliği konusunda insanlar ne düşünüyor?",
+                    "contentLink": [
+                        "https://www.universetoday.com/159400/is-mining-in-space-socially-acceptable/"
+                    ]
+                },
+                {
+                    "contentText": "Bazı insanlarda COVID-19 sonrası koku kaybının neden düzelmediğini çözmüş olabiliriz.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/we-may-finally-know-why-some-people-dont-recover-their-sense-of-smell-after-covid"
+                    ]
+                },
+                {
+                    "contentText": "Ebeveynler bazen çocuklarının doğruyu söylememesini tercih edebiliyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/sometimes-parents-actually-prefer-it-when-kids-dont-tell-the-truth"
+                    ]
+                },
+                {
+                    "contentText": "Derin can sıkıntısı hissetmek aslında kötü bir şey değil.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/technology-is-saving-you-from-profound-levels-of-boredom-and-its-a-problem"
+                    ]
+                },
+                {
+                    "contentText": "Farkındalık meditasyonu anksiyeteye karşı bazı antidepresanlar kadar etkili olabiliyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/mindfulness-can-rival-antidepressants-for-anxiety-study-finds"
+                    ]
+                },
+                {
+                    "contentText": "İkinci Dünya Savaşı sırasında nükleer araştırmaların kurbanı olan bilim insanları.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-chilling-tale-of-the-demon-core-and-the-scientists-who-became-its-victims"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
