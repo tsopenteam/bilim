@@ -23841,6 +23841,76 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2022",
+            "count": 49,
+            "totalCount": 275,
+            "uploadDate": "26.12.2022",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2022/12/bilim_2022_49.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=6TAQHJtsAkI",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2022-49",
+            "podcastTime": 5268,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2022/49",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "NASA’nın Mars’taki InSight görevi sona erdi. Perseverance ilk örnek kapsülünü bıraktı.",
+                    "contentLink": [
+                        "https://www.universetoday.com/159339/this-will-probably-be-insights-last-picture-before-it-runs-out-of-power-forever/",
+                        "https://www.universetoday.com/159365/perseverance-places-its-first-sample-on-the-surface-of-mars-one-day-this-will-be-in-the-hands-of-scientists-on-earth/"
+                    ]
+                },
+                {
+                    "contentText": "NASA, Hubble Uzay Teleskopu’nun yörünge düzeltmesi için özel sektörden teklif istedi.",
+                    "contentLink": [
+                        "https://spacenews.com/nasa-request-information-on-hubble-reboost-options/"
+                    ]
+                },
+                {
+                    "contentText": "SpaceX, Starlink V2 uyduları yörüngeye göndermeye hazırlanıyor. Speedtest raporu.",
+                    "contentLink": [
+                        "https://spacenews.com/spacex-preparing-to-start-starlink-gen2-launches-this-month/",
+                        "https://www.ookla.com/articles/starlink-hughesnet-viasat-performance-q3-2022"
+                    ]
+                },
+                {
+                    "contentText": "Kütle çekimsel dalgaları kullanarak uzaylı teknolojisini tespit edebilir miyiz?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/wild-new-paper-suggests-we-could-detect-gravitational-waves-from-alien-megacraft"
+                    ]
+                },
+                {
+                    "contentText": "Okyanusların üzerindeki nemli havadan temiz su üretilebilir mi?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/new-technology-could-tap-into-a-virtually-limitless-supply-of-fresh-water"
+                    ]
+                },
+                {
+                    "contentText": "Cam kurbağaları uyurken saydam hale geçmek için kırmızı kan hücrelerini saklıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/glass-frogs-turn-transparent-when-they-sleep-by-hiding-almost-all-their-blood"
+                    ]
+                },
+                {
+                    "contentText": "Yeni Zelanda 2008’den sonra doğanlar için sigarayı yasaklamaya hazırlanıyor.",
+                    "contentLink": [
+                        "https://www.bbc.com/news/world-asia-63954862"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
