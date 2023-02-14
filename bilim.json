@@ -24059,6 +24059,87 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2023",
+            "count": 3,
+            "totalCount": 278,
+            "uploadDate": "16.01.2023",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2023/01/bilim_2023_3.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=rDlcUIDYo7U",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2023-3",
+            "podcastTime": 5585,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2023/3",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "SpaceX, 2023 yılının ilk Falcon Heavy fırlatmasını başarıyla gerçekleştirdi.",
+                    "contentLink": [
+                        "https://spacenews.com/spacex-launches-u-s-space-forces-first-mission-of-2023-on-falcon-heavy/"
+                    ]
+                },
+                {
+                    "contentText": "Rusya, hasar gören Soyuz kapsülünün yerine yenisini gönderecek.",
+                    "contentLink": [
+                        "https://spacenews.com/roscosmos-to-launch-uncrewed-soyuz-to-replace-damaged-spacecraft-at-iss/"
+                    ]
+                },
+                {
+                    "contentText": "Çin, Mars’taki Zhurong gezginiyle yeniden bağlantı kuramadı.",
+                    "contentLink": [
+                        "https://www.universetoday.com/159553/china-unable-to-reestablish-contact-with-its-zhurong-mars-rover/",
+                        "https://spacenews.com/chinas-tianwen-1-mars-orbiter-and-rover-appear-to-be-in-trouble/"
+                    ]
+                },
+                {
+                    "contentText": "JWST, ilk ötegezegen keşfini yaptı.",
+                    "contentLink": [
+                        "https://www.universetoday.com/159581/the-webb-has-confirmed-its-first-exoplanet-and-its-the-same-size-as-earth/"
+                    ]
+                },
+                {
+                    "contentText": "İngiliz Hükümeti ve Biontech kanser aşısı için ortak çalışacak.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-uk-is-poised-to-start-cancer-vaccine-tests-in-the-fall-heres-what-to-know"
+                    ]
+                },
+                {
+                    "contentText": "Öğün atlamak düşündüğümüzden çok daha zararlı olabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/skipping-meals-could-be-much-worse-for-you-than-we-realized"
+                    ]
+                },
+                {
+                    "contentText": "Parazitler üzerinde yapılan bir araştırma soylarının hızla tükenmekte olduğunu ortaya koydu.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-worlds-biggest-study-on-parasites-has-found-something-terrible-theyre-dying"
+                    ]
+                },
+                {
+                    "contentText": "Mağaralarda bulunan gizemli çizikler en eski yazı örnekleri olabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/mysterious-symbols-could-represent-the-earliest-writing-ever-found"
+                    ]
+                },
+                {
+                    "contentText": "Yapılan bir araştırmaya göre 250.000 yıldır babalar annelerden daha ileri yaşlarda çocuk sahibi oluyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/fathers-have-been-older-than-mothers-for-250000-years-study-finds"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
