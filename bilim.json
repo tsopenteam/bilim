@@ -24140,6 +24140,86 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2023",
+            "count": 4,
+            "totalCount": 279,
+            "uploadDate": "23.01.2023",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2023/01/bilim_2023_4.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=WwruSrT-cNA",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2023-4",
+            "podcastTime": 5428,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2023/4",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "NASA, Lucy’nin güneş panelini tam olarak açmaya uğraşmaktan şimdilik vazgeçti.",
+                    "contentLink": [
+                        "https://spacenews.com/nasa-suspends-efforts-to-fully-deploy-lucy-solar-array/"
+                    ]
+                },
+                {
+                    "contentText": "Bilim kurgu filmlerinde gördüğümüz çekici ışınlar bir gün gerçek olacak mı?",
+                    "contentLink": [
+                        "https://www.universetoday.com/159695/scientists-build-a-teeny-tiny-tractor-beam/"
+                    ]
+                },
+                {
+                    "contentText": "Geceleri gökyüzü 8 yıl öncesine göre iki kat daha aydınlık.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-night-sky-is-twice-as-bright-as-it-was-only-8-years-ago"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları lazerlerle yıldırımları yönlendirmeye çalışıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/firing-a-laser-into-the-sky-can-divert-lightning-experiment-shows"
+                    ]
+                },
+                {
+                    "contentText": "Sera gazlarının küresel ısınmaya etkisi hesaplanandan fazla olabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-true-extent-of-global-warming-has-been-hidden-scientists-warn"
+                    ]
+                },
+                {
+                    "contentText": "Sürekli oturmanın zararlı etkilerini hafif yürüyüş ile azaltmak mümkün.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/theres-a-simple-way-to-offset-the-health-risks-of-sitting-all-day"
+                    ]
+                },
+                {
+                    "contentText": "Kısa süreli yoğun egzersiz beyindeki önemli bir kimyasalın salınımını arttırıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/six-minutes-of-intense-exercise-boosts-a-crucial-molecule-in-your-brain"
+                    ]
+                },
+                {
+                    "contentText": "Çöl sıcağından korunmak için hayvanların bulduğu ilginç yöntemlerden birisi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/echidnas-blow-bubbles-of-snot-to-stay-cool-in-the-australian-outback"
+                    ]
+                },
+                {
+                    "contentText": "Boston Dynamics’in son videosu",
+                    "contentLink": [
+                        "https://www.youtube.com/watch?v=-e1_QhJ1EhQ"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
