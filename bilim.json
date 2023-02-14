@@ -24220,6 +24220,87 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2023",
+            "count": 5,
+            "totalCount": 280,
+            "uploadDate": "30.01.2023",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2023/01/bilim_2023_5.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=7B8-9P9A7JE",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2023-5",
+            "podcastTime": 5312,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2023/5",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Uzaya gidecek ilk Türk astronot belirlendi.",
+                    "contentLink": [
+                        "https://www.cnnturk.com/video/turkiye/uzaya-gidecek-ilk-turk-belli-oldu"
+                    ]
+                },
+                {
+                    "contentText": "SpaceX, Starship’in ilk tam yakıt dolum provasını tamamladı. Sırada statik ateşleme testi var.",
+                    "contentLink": [
+                        "https://spacenews.com/spacex-completes-starship-wet-dress-rehearsal/",
+                        "https://spacenews.com/spacex-preparing-for-super-heavy-static-fire-test/"
+                    ]
+                },
+                {
+                    "contentText": "NASA ve DARPA uzayda nükleer roket denemeleri yapacaklarını duyurdular.",
+                    "contentLink": [
+                        "https://www.universetoday.com/159759/nasa-and-darpa-will-be-testing-a-nuclear-rocket-in-space/"
+                    ]
+                },
+                {
+                    "contentText": "Avustralya samanlıkta radyoaktif iğne arıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/tiny-radioactive-object-goes-missing-in-australia-sparks-urgent-search"
+                    ]
+                },
+                {
+                    "contentText": "Fukushima nükleer santralinde toplanan atık su okyanusa bırakılacak!",
+                    "contentLink": [
+                        "https://www.sciencealert.com/an-expert-explains-why-the-radioactive-water-stored-at-fukushima-should-be-released"
+                    ]
+                },
+                {
+                    "contentText": "Erken emekliliğin ciddi yan etkileri var.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/encouraging-people-to-retire-early-in-china-came-with-a-serious-downside"
+                    ]
+                },
+                {
+                    "contentText": "Uzmanlar yapay zeka ile yazılan yazıları tespit eden yapay zeka üzerinde çalışıyor.",
+                    "contentLink": [
+                        "https://www.technologyreview.com/2023/01/27/1067338/a-watermark-for-chatbots-can-spot-text-written-by-an-ai/"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları Terminator 2’deki sıvı robotu üretmeye çalışıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/scientists-create-shapeshifting-humanoid-robot-that-can-liquefy-and-reform"
+                    ]
+                },
+                {
+                    "contentText": "The Last of Us ne kadar gerçek ne kadar kurgu?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/could-the-last-of-us-ever-happen-the-real-risks-of-a-fungus-pandemic"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
