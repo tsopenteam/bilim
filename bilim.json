@@ -24301,6 +24301,81 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2023",
+            "count": 6,
+            "totalCount": 281,
+            "uploadDate": "13.02.2023",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2023/02/bilim_2023_6.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=OOXDZ6lvxg4",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2023-6",
+            "podcastTime": 4951,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2023/6",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Uzaylılar geldi mi?",
+                    "contentLink": [
+                        "https://www.nytimes.com/article/ufo-object-shot-down-when.html",
+                        "https://www.outlookindia.com/international/explained-us-fighter-shoots-down-3rd-ufo-in-3-days-military-does-not-rule-out-aliens-what-does-it-mean-news-261788"
+                    ]
+                },
+                {
+                    "contentText": "SpaceX, statik ateşleme testini başarıyla gerçekleştirdi.",
+                    "contentLink": [
+                        "https://www.universetoday.com/160008/spacex-sets-new-record-with-successful-test-firing-of-31-raptor-engines/"
+                    ]
+                },
+                {
+                    "contentText": "NASA, Mars görevi için Blue Origin’in New Glenn roketini seçti.",
+                    "contentLink": [
+                        "https://spacenews.com/blue-origin-wins-first-nasa-business-for-new-glenn/"
+                    ]
+                },
+                {
+                    "contentText": "Mühendisler JWST’de yaşanan aksaklığı gidermeyi başardı.",
+                    "contentLink": [
+                        "https://www.universetoday.com/159897/good-news-webb-is-fully-operational-again/"
+                    ]
+                },
+                {
+                    "contentText": "Uzay madenciliği firması AstroForge ilk görevini bu yıl içinde yapacak.",
+                    "contentLink": [
+                        "http://spacenews.com/asteroid-mining-startup-astroforge-to-launch-first-missions-this-year-2/"
+                    ]
+                },
+                {
+                    "contentText": "Avustralya samanlıktaki radyoaktif iğneyi buldu.",
+                    "contentLink": [
+                        "https://edition.cnn.com/2023/02/01/australia/australia-radioactive-capsule-found-intl-hnk/index.html"
+                    ]
+                },
+                {
+                    "contentText": "Google yazıdan müzik üretebilen yapay zekasını duyurdu: MusicLM.",
+                    "contentLink": [
+                        "https://arstechnica.com/information-technology/2023/01/googles-new-ai-model-creates-songs-from-text-descriptions-of-moods-sounds"
+                    ]
+                },
+                {
+                    "contentText": "MR cihazının yanına silahla yaklaşmayın!",
+                    "contentLink": [
+                        "https://www.sciencealert.com/freak-accident-kills-man-after-mri-machine-triggers-loaded-handgun"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
