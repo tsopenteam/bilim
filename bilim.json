@@ -24376,6 +24376,89 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2023",
+            "count": 7,
+            "totalCount": 282,
+            "uploadDate": "20.02.2023",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2023/02/bilim_2023_7.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=kVsbi0TvQpM",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2023-7",
+            "podcastTime": 5236,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2023/7",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Uzaydan fırlatılan metal çubuklarla deprem tetiklenebilir mi?",
+                    "contentLink": [
+                        "https://evrimagaci.org/tanrinin-cubuklari-uzaydan-firlatilacak-kinetik-bombardiman-cubuklariyla-deprem-tetiklenir-mi-14059"
+                    ]
+                },
+                {
+                    "contentText": "ISS’e giden ikinci bir Rus uzay aracında da soğutucu gaz sızıntısı oldu.",
+                    "contentLink": [
+                        "https://www.universetoday.com/160126/another-russian-spacecraft-is-leaking-coolant/",
+                        "https://spacenews.com/russia-reschedules-soyuz-launch-after-progress-undocks/"
+                    ]
+                },
+                {
+                    "contentText": "Axiom Space’in ikinci görevinde iki Suudi astronot ISS’e uçacak.",
+                    "contentLink": [
+                        "https://www.universetoday.com/160080/axiom-u-s-saudi-crew-space-station-ax2/"
+                    ]
+                },
+                {
+                    "contentText": "NASA, ticari uzay istasyonu kullanımıyla ilgili planlarını açıkladı.",
+                    "contentLink": [
+                        "https://spacenews.com/nasa-updates-plans-for-use-of-commercial-space-stations/"
+                    ]
+                },
+                {
+                    "contentText": "Perseverance Mars yüzeyine örnek kapsülü bırakma işini tamamladı. Ingenuity ne durumda?",
+                    "contentLink": [
+                        "https://www.universetoday.com/160109/perseverance-is-building-up-a-big-collection-of-mars-samples/",
+                        "https://www.universetoday.com/160094/ingenuity-is-doing-surprisingly-well/"
+                    ]
+                },
+                {
+                    "contentText": "Blue Origin, Ay toprağından güneş paneli üretmeye çalışıyor.",
+                    "contentLink": [
+                        "https://arstechnica.com/science/2023/02/blue-origin-makes-a-big-lunar-announcement-without-any-fanfare"
+                    ]
+                },
+                {
+                    "contentText": "Gelecekte trafik ışıklarına dördüncü bir renk eklenebilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/traffic-lights-could-have-a-4th-color-in-the-future-heres-why"
+                    ]
+                },
+                {
+                    "contentText": "Yapay zeka ile kimsenin aklına gelmeyen ilaç bileşimlerini hayata geçirmek mümkün.",
+                    "contentLink": [
+                        "https://www.technologyreview.com/2023/02/15/1067904/ai-automation-drug-development/"
+                    ]
+                },
+                {
+                    "contentText": "Yapay zeka ve dilin sınırları. ChatGPT, internetin bulanık bir fotoğrafı.",
+                    "contentLink": [
+                        "https://www.noemamag.com/ai-and-the-limits-of-language/",
+                        "https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
