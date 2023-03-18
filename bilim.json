@@ -24534,6 +24534,80 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2023",
+            "count": 9,
+            "totalCount": 284,
+            "uploadDate": "06.03.2023",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2023/03/bilim_2023_9.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2023-9",
+            "podcastTime": 4110,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2023/9",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "SpaceX, ilk yeni versiyon Starlink uydularını uzaya gönderdi.",
+                    "contentLink": [
+                        "https://spacenews.com/spacex-launches-first-upgraded-starlink-satellites/"
+                    ]
+                },
+                {
+                    "contentText": "ESA sürtünme yelkenini başarıyla test etti.",
+                    "contentLink": [
+                        "https://www.universetoday.com/159903/drag-sail-success-this-satellite-wont-turn-into-space-junk/"
+                    ]
+                },
+                {
+                    "contentText": "Moloz yığını göktaşları yok etmeye çalışmak boşuna.",
+                    "contentLink": [
+                        "https://www.universetoday.com/159766/dont-bother-trying-to-destroy-rubble-pile-asteroids/"
+                    ]
+                },
+                {
+                    "contentText": "Dünya’ya göktaşı çarpması sonrası insanlık ne ile beslenebilir?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/heres-how-our-diet-would-change-in-the-wake-of-a-massive-asteroid-strike"
+                    ]
+                },
+                {
+                    "contentText": "Plastik yutmak nedeniyle ortaya çıkan ilk hastalık kayıtlara geçti.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-first-disease-caused-by-ingested-plastic-was-just-described-by-scientists"
+                    ]
+                },
+                {
+                    "contentText": "Spor yapmak depresyona karşı en etkili yöntem olabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/huge-new-study-shows-why-exercise-should-be-the-first-choice-in-treating-depression"
+                    ]
+                },
+                {
+                    "contentText": "Son yıllarda artan balina ölümleri internetten yapılan alışverişlerler bağlantılı olabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/a-rise-in-online-shopping-partially-to-blame-for-recent-spike-in-whale-deaths"
+                    ]
+                },
+                {
+                    "contentText": "Uzmanlar uyurken maske takmanın hafıza üzerinde olumlu etkileri olduğunu belirtiyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/wearing-an-eye-mask-while-you-sleep-could-have-surprising-mental-benefits"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
