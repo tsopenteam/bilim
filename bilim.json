@@ -24459,6 +24459,81 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2023",
+            "count": 8,
+            "totalCount": 283,
+            "uploadDate": "27.02.2023",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2023/02/bilim_2023_8.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2023-8",
+            "podcastTime": 5728,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2023/8",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Cevdet’in büyük oranda ChatGPT’ye yazdırdığı psikoloji kitabı.",
+                    "contentLink": [
+                        "https://twitter.com/cevdetacarsoy/status/1620415691567529984"
+                    ]
+                },
+                {
+                    "contentText": "NASA, Venüs ortamına dayanacak batarya üretmeye çalışıyor.",
+                    "contentLink": [
+                        "https://www.universetoday.com/160236/can-a-venus-lander-survive-longer-than-a-few-minutes/"
+                    ]
+                },
+                {
+                    "contentText": "Polaris Dawn görevi fırlatma tarihi belli oldu.",
+                    "contentLink": [
+                        "https://www.space.com/spacex-polaris-dawn-summer-2023-launch-update"
+                    ]
+                },
+                {
+                    "contentText": "SpaceX, Starship yörünge denemesi için hazırlanıyor.",
+                    "contentLink": [
+                        "https://spacenews.com/spacex-proceeding-with-starship-orbital-launch-attempt-after-static-fire/"
+                    ]
+                },
+                {
+                    "contentText": "Küresel ısınmaya Ay tozu kullanarak çözüm üretmek mümkün mü?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/latest-mind-blowing-suggestion-for-cooling-the-planet-involves-blasting-the-moon"
+                    ]
+                },
+                {
+                    "contentText": "TÜİK, pandemi dönemi ölüm sayılarını açıkladı.",
+                    "contentLink": [
+                        "https://www.haberturk.com/son-dakika-haberi-tuik-2020-ve-2021-yili-olum-istatistiklerini-duyurdu-3567987",
+                        "https://data.tuik.gov.tr/Bulten/Index?p=Olum-ve-Olum-Nedeni-Istatistikleri-2021-45715&dil=1"
+                    ]
+                },
+                {
+                    "contentText": "İnsanlardaki kıvırcık saç neden evrimleşti?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/cool-new-experiment-explains-why-we-evolved-curly-hair"
+                    ]
+                },
+                {
+                    "contentText": "İşe gidip gelme sırasında geçen sürenin psikolojimize olumlu etkileri olabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/no-one-likes-commutes-but-they-may-actually-be-good-for-mental-health-study-finds"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
