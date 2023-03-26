@@ -24608,6 +24608,80 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2023",
+            "count": 10,
+            "totalCount": 285,
+            "uploadDate": "13.03.2023",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2023/03/bilim_2023_10.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=OpBM1Y6j784",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2023-10",
+            "podcastTime": 5298,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2023/10",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Astronot elbiselerinden Ay tozunu temizleme yollarından birisi sıvı azot olabilir.",
+                    "contentLink": [
+                        "https://www.universetoday.com/160473/astronauts-could-clear-lunar-dust-away-with-nitrogen-spray/"
+                    ]
+                },
+                {
+                    "contentText": "Ay’da saat kaç? Ay için yeni bir zaman dilimi oluşturulması tartışılıyor.",
+                    "contentLink": [
+                        "https://www.universetoday.com/160453/what-time-is-it-on-the-moon-it-may-get-its-own-timezone/"
+                    ]
+                },
+                {
+                    "contentText": "Stratosfer balon turizmi daha ucuza uzay deneyimi sunmayı vadediyor.",
+                    "contentLink": [
+                        "https://www.universetoday.com/160415/want-to-soar-to-the-stratosphere-japan-joins-the-balloon-tourism-race/"
+                    ]
+                },
+                {
+                    "contentText": "50.000 yıllık zombi virüs hala bulaşıcılık gösterebiliyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/ancient-zombie-virus-revived-almost-50000-years-later-is-still-infectious"
+                    ]
+                },
+                {
+                    "contentText": "Eski insanlar kesici taş aletleri şans eseri üretmiş olabilir.",
+                    "contentLink": [
+                        "https://www.scientificamerican.com/article/what-stone-wielding-macaques-can-tell-us-about-early-human-tool-use/"
+                    ]
+                },
+                {
+                    "contentText": "Hayvanlar bir kültüre sahip mi? Bilim insanları bal arıları üzerinden bu konuya cevap arıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/scientists-have-figured-out-how-honeybees-learn-their-waggle-dance-moves"
+                    ]
+                },
+                {
+                    "contentText": "Kalp atışlarımız zaman algımızı etkiliyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/your-heartbeat-shapes-your-perception-of-time-study-finds"
+                    ]
+                },
+                {
+                    "contentText": "Gelecek geçmişi etkiliyor olabilir mi?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/to-save-physics-experts-suggest-we-need-to-assume-the-future-can-affect-the-past"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
