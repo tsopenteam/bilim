@@ -24682,6 +24682,86 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2023",
+            "count": 11,
+            "totalCount": 286,
+            "uploadDate": "20.03.2023",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2023/03/bilim_2023_11.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=DippXHxw91M",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2023-11",
+            "podcastTime": 5158,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2023/11",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "NASA ve Axiom Space, yeni Ay elbiselerini duyurdu.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2023/03/15/axiom-shows-off-artemis-moonsuits/"
+                    ]
+                },
+                {
+                    "contentText": "Amazon, Kuiper Projesinde kullanılacak terminalleri tanıttı.",
+                    "contentLink": [
+                        "https://spacenews.com/amazon-unveils-project-kuiper-terminals-for-services-starting-in-2024/"
+                    ]
+                },
+                {
+                    "contentText": "Togg üzerine kısa değerlendirme",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "NASA, ömrünün sonuna yaklaşan ISS’i atmosfere sokmak için proje hazırlıyor.",
+                    "contentLink": [
+                        "https://spacenews.com/nasa-planning-to-spend-up-to-1-billion-on-space-station-deorbit-module/"
+                    ]
+                },
+                {
+                    "contentText": "Open AI GPT-4’ü duyurdu, bazı bilgileri gizli tuttu. GPT-4 yayınlanmadan önce güvenlik testinden geçmiş.",
+                    "contentLink": [
+                        "https://openai.com/product/gpt-4",
+                        "https://www.technologyreview.com/2023/03/14/1069823/gpt-4-is-bigger-and-better-chatgpt-openai/",
+                        "https://arstechnica.com/information-technology/2023/03/openai-checked-to-see-whether-gpt-4-could-take-over-the-world/"
+                    ]
+                },
+                {
+                    "contentText": "Büyük yapay zeka modellerinde ortaya çıkan özellikler ve tahmin edilemezlik.",
+                    "contentLink": [
+                        "https://www.quantamagazine.org/the-unpredictable-abilities-emerging-from-large-ai-models-20230316/"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları yapay zeka ile bir kişinin düşüncelerini okumaya çalışıyor.",
+                    "contentLink": [
+                        "https://www.science.org/content/article/ai-re-creates-what-people-see-reading-their-brain-scans"
+                    ]
+                },
+                {
+                    "contentText": "Tik Tok, arayüzüne sadece bilim ve matematik videolarının olduğu bir akışı eklemeye hazırlanıyor.",
+                    "contentLink": [
+                        "https://www.theverge.com/2023/3/14/23638892/tiktok-stem-feed-fyp-science-technology-content-moderation"
+                    ]
+                },
+                {
+                    "contentText": "Migren, felç geçirme riskini arttırıyor mu?",
+                    "contentLink": [
+                        "https://medium.com/@cevdet.acarsoy/migraine-and-stroke-is-there-a-link-7fab6ad537f2"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
