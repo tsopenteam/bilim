@@ -24762,6 +24762,88 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2023",
+            "count": 12,
+            "totalCount": 287,
+            "uploadDate": "27.03.2023",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2023/03/bilim_2023_12.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=BGNbGRjQWEk",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2023-12",
+            "podcastTime": 5337,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2023/12",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Bilim insanları Ryugu göktaşında B3 vitamini tespit etti.",
+                    "contentLink": [
+                        "https://www.universetoday.com/160710/asteroid-ryugu-contains-niacin-aka-vitamin-b3/"
+                    ]
+                },
+                {
+                    "contentText": "iSpace’in Ay yüzeyine inmek üzere yola çıkan aracı yörüngeye girdi.",
+                    "contentLink": [
+                        "https://spacenews.com/japanese-lander-enters-lunar-orbit/"
+                    ]
+                },
+                {
+                    "contentText": "SpaceX, yeni nesil Starlink uydularının fırlatmasına bir süre ara verdi.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2023/03/23/spacex-pausing-launches-of-new-generation-starlink-satellites/"
+                    ]
+                },
+                {
+                    "contentText": "Virgin Orbit çalışmayı durdurdu. Boeing Starliner insanlı uçuş denemesi tekrar ertelendi.",
+                    "contentLink": [
+                        "https://spacenews.com/virgin-orbit-begins-incremental-return-to-work-as-it-seeks-new-funding/",
+                        "https://spacenews.com/first-crewed-starliner-launch-slips-again/"
+                    ]
+                },
+                {
+                    "contentText": "Google, ChatGPT’ye alternatif olarak geliştirdiği Bard’ı kullanıma sundu.",
+                    "contentLink": [
+                        "https://www.theverge.com/2023/3/21/23649794/google-chatgpt-rival-bard-ai-chatbot-access-hands-on"
+                    ]
+                },
+                {
+                    "contentText": "Bill Gates: Yapay zeka çağı başladı.",
+                    "contentLink": [
+                        "https://www.gatesnotes.com/The-Age-of-AI-Has-Begun"
+                    ]
+                },
+                {
+                    "contentText": "Yapay zeka iş alanlarını nasıl etkileyecek?",
+                    "contentLink": [
+                        "https://www.technologyreview.com/2023/03/25/1070275/chatgpt-revolutionize-economy-decide-what-looks-like/",
+                        "https://twitter.com/rubinovitz/status/1637651591191842816?s=46&t=Cei5PHTFklJxH44awbJz9w"
+                    ]
+                },
+                {
+                    "contentText": "Yapay zeka ile üretilen içeriklerin telif hakkı ne olacak?",
+                    "contentLink": [
+                        "https://arstechnica.com/tech-policy/2023/03/us-issues-guidance-on-copyrighting-ai-assisted-artwork"
+                    ]
+                },
+                {
+                    "contentText": "Yapay zekaların yanlılığını önlemenin yollarından birisi de onlara doğrusunu sormak.",
+                    "contentLink": [
+                        "https://www.technologyreview.com/2023/03/20/1070067/language-models-may-be-able-to-self-correct-biases-if-you-ask-them-to/"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
