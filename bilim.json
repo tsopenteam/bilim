@@ -24844,6 +24844,87 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2023",
+            "count": 13,
+            "totalCount": 288,
+            "uploadDate": "03.04.2023",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2023/04/bilim_2023_13.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=2g6Kb8Wfx7U",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2023-13",
+            "podcastTime": 5469,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2023/13",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "NASA, 50 yıl sonra Ay’a gidecek Artemis 2 ekibini açıkladı.",
+                    "contentLink": [
+                        "https://www.nasa.gov/press-release/nasa-names-astronauts-to-next-moon-mission-first-crew-under-artemis"
+                    ]
+                },
+                {
+                    "contentText": "Çin 2028 yılında Ay’a üs kurmayı planlıyor.",
+                    "contentLink": [
+                        "https://www.universetoday.com/160719/china-hints-at-its-goals-for-a-lunar-base/"
+                    ]
+                },
+                {
+                    "contentText": "Kazakistan, Baykonur üssündeki Roscosmos mallarına el koydu.",
+                    "contentLink": [
+                        "https://www.universetoday.com/160720/kazakhstan-seizes-russias-launch-facility-at-baikonur/"
+                    ]
+                },
+                {
+                    "contentText": "NASA, uzun vadeli Mars görevleri için strateji taslağını açıkladı.",
+                    "contentLink": [
+                        "https://spacenews.com/nasa-releases-draft-strategy-for-long-term-robotic-mars-exploration/"
+                    ]
+                },
+                {
+                    "contentText": "NASA, görevlerin nasıl isimlendirileceğiyle ilgili yeni bir yönetmelik yayınladı.",
+                    "contentLink": [
+                        "https://spacenews.com/nasa-policy-discourages-naming-missions-after-individuals/"
+                    ]
+                },
+                {
+                    "contentText": "Uzmanlar: Sağlıklı yetişkinler için ek COVID-19 aşısına gerek yok.",
+                    "contentLink": [
+                        "https://arstechnica.com/science/2023/03/healthy-adults-dont-need-annual-covid-boosters-who-advisors-say/"
+                    ]
+                },
+                {
+                    "contentText": "Açık Mektup: Risklerin daha iyi anlaşılabilmesi için yapay zeka araştırmalarına ara verilmeli!",
+                    "contentLink": [
+                        "https://futureoflife.org/open-letter/pause-giant-ai-experiments/",
+                        "https://www.sciencealert.com/tech-giants-call-for-a-pause-in-ai-experiments-fearing-profound-risks-to-society"
+                    ]
+                },
+                {
+                    "contentText": "İnsanlarla hamamböcekleri arasındaki silahlanma yarışı tüm hızıyla devam ediyor.",
+                    "contentLink": [
+                        "https://www.npr.org/2023/03/31/1166715823/these-cockroaches-tweaked-their-mating-rituals-after-adapting-to-pest-control"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları dünyanın en hafif boyasını üretti.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/scientists-create-worlds-lightest-paint-just-3-pounds-covers-a-boeing-747"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
