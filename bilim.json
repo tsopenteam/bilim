@@ -25321,6 +25321,76 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2023",
+            "count": 19,
+            "totalCount": 294,
+            "uploadDate": "15.05.2023",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2023/05/bilim_2023_19.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=BsbGb_JoWao",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2023-19",
+            "podcastTime": 5229,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2023/19",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Türkiye’nin Ay Araştırma Programı’nda kullanılacak hibrit itki sistemi uzaya gönderildi ve ateşlendi.",
+                    "contentLink": [
+                        "https://twitter.com/tuajans/status/1657491276860727304"
+                    ]
+                },
+                {
+                    "contentText": "SpaceX ard arda 200. başarılı Falcon 9 fırlatmasını geçtiğimiz günlerde yaptı.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2023/05/10/spacexs-falcon-rocket-family-reaches-200-straight-successful-missions/"
+                    ]
+                },
+                {
+                    "contentText": "Hubble Uzay Teleskobu sevis görevi için iki firma daha öneri sundu.",
+                    "contentLink": [
+                        "https://spacenews.com/astroscale-and-momentus-offer-concept-for-reboosting-hubble/"
+                    ]
+                },
+                {
+                    "contentText": "Çin’in uzay uçağı 276 gün yörüngede kaldıktan sonra başarıyla Dünya’ya döndü.",
+                    "contentLink": [
+                        "https://spacenews.com/chinas-spaceplane-conducted-proximity-and-capture-maneuvers-with-subsatellite-data-suggests/"
+                    ]
+                },
+                {
+                    "contentText": "Astronomlar şimdiye kadar tespit edilen en büyük patlamayı çözmeye çalışıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/astronomers-puzzled-by-the-largest-cosmic-explosion-weve-observed"
+                    ]
+                },
+                {
+                    "contentText": "Yapay zeka çözümleri Google I/O 2023’e damga vurdu.",
+                    "contentLink": [
+                        "https://www.technologyreview.com/2023/05/11/1072885/google-io-google-ai/"
+                    ]
+                },
+                {
+                    "contentText": "Bir şirket yöneticisi yapay zekanın 250 kişinin işini çok daha iyi yaptığını belirtti.",
+                    "contentLink": [
+                        "https://www.businessinsider.com/ai-work-automation-octopus-energy-greg-jackson-2023-5"
+                    ]
+                },
+                {
+                    "contentText": "İşe giderken harcanan zaman sağlığınızı kötü yönden etkiliyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/your-commute-may-be-bad-for-you-heres-why"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
