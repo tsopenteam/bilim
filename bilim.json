@@ -24925,6 +24925,87 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2023",
+            "count": 14,
+            "totalCount": 289,
+            "uploadDate": "08.04.2023",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2023/04/bilim_2023_14.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=d2jaailtq88",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2023-14",
+            "podcastTime": 5456,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2023/14",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Türkiye’nin yerli gözlem uydusu İMECE, 11 Nisan’da uzaya gönderiliyor.",
+                    "contentLink": [
+                        "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-yerli-ve-milli-imkanlarla-urettigimiz-ilk-gozlem-uydumuz-imece-11-nisanda-firlatilacak/2867718"
+                    ]
+                },
+                {
+                    "contentText": "Starship, Nisan ayı içerisinde fırlatılacak mı?",
+                    "contentLink": [
+                        "https://www.universetoday.com/160846/will-the-starship-be-ready-for-an-april-launch/"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları sentetik embriyoları maymun rahmine yerleştirdiler. Ek kaynak",
+                    "contentLink": [
+                        "https://www.sciencealert.com/world-first-monkeys-fall-pregnant-with-engineered-embryo-structures",
+                        "https://www.technologyreview.com/2023/04/07/1071121/stem-cells-make-embryos-how-far-should-we-go/"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanlarının geliştirdiği mikro robot tek tek hücreleri tanıyıp taşıyabiliyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/this-incredible-tiny-robot-can-locate-and-capture-individual-cells"
+                    ]
+                },
+                {
+                    "contentText": "Yapay zekaya sahip sohbet botlarının neden olabileceği üç tehlike.",
+                    "contentLink": [
+                        "https://www.technologyreview.com/2023/04/03/1070893/three-ways-ai-chatbots-are-a-security-disaster/"
+                    ]
+                },
+                {
+                    "contentText": "Beş saatten az uyku ile araba kullanmak alkollü kullanmak kadar tehlikeli.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/driving-on-less-than-5-hours-sleep-is-as-risky-as-driving-drunk"
+                    ]
+                },
+                {
+                    "contentText": "Amerikalı bilim adamı suyun altında 100 gün yaşamaya hazırlanıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/us-scientist-to-live-underwater-for-100-days-in-record-breaking-experiment"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları ahtapotların beyninin nasıl çalıştığını anlamaya çalışıyor.",
+                    "contentLink": [
+                        "https://arstechnica.com/science/2023/04/in-a-first-researchers-track-brain-activity-in-a-free-moving-octopus/"
+                    ]
+                },
+                {
+                    "contentText": "Küresel ısınmanın beyzbola etkileri.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/global-warming-is-having-an-unexpected-and-thrilling-impact-on-baseball"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
