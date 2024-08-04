@@ -25006,6 +25006,80 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2023",
+            "count": 15,
+            "totalCount": 290,
+            "uploadDate": "17.04.2023",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2023/04/bilim_2023_15.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=2E7L_SbaMTU",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2023-15",
+            "podcastTime": 5586,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2023/15",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Starship yörünge denemesi son anda iptal edildi.",
+                    "contentLink": [
+                        "https://www.npr.org/2023/04/17/1170355237/watch-live-spacex-launch-starship-rocket"
+                    ]
+                },
+                {
+                    "contentText": "Hava şartları nedeniyle geç fırlatılan IMECE uydusu yörüngeye yerleşti.",
+                    "contentLink": [
+                        "https://twitter.com/ProfHasanMandal/status/1647194919801348096"
+                    ]
+                },
+                {
+                    "contentText": "ESA'nın JUICE uzay aracı Jupiter ve uydularını incelemek üzere fırlatıldı.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2023/04/14/europe-launches-spacecraft-on-eight-year-journey-to-explore-jupiters-moons/"
+                    ]
+                },
+                {
+                    "contentText": "Araştırmacılar kanserle mücadele için genetiği değiştirilen bakterilerden iyi sonuçlar aldı.",
+                    "contentLink": [
+                        "https://www.technologyreview.com/2023/04/13/1071557/bacteria-engineered-fight-cancer/"
+                    ]
+                },
+                {
+                    "contentText": "Yeni araba kokusunun insan sağlığına kötü etkileri olabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/driving-a-brand-new-car-could-come-at-a-cost-to-your-health"
+                    ]
+                },
+                {
+                    "contentText": "ChatGPT acil serviste iş görür mü?",
+                    "contentLink": [
+                        "https://inflecthealth.medium.com/im-an-er-doctor-here-s-what-i-found-when-i-asked-chatgpt-to-diagnose-my-patients-7829c375a9da"
+                    ]
+                },
+                {
+                    "contentText": "Soğuk havaların uzun ömürlü olmaya etkisi olabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/cold-temperatures-seem-to-have-a-mysterious-effect-on-longevity"
+                    ]
+                },
+                {
+                    "contentText": "İnsan ömrünü uzatmanın yan etkileri.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/there-is-one-serious-downside-to-extending-lifespans-according-to-experts"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
