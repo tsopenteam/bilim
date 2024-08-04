@@ -25080,6 +25080,87 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2023",
+            "count": 16,
+            "totalCount": 291,
+            "uploadDate": "24.04.2023",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2023/04/bilim_2023_16.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=HcbWXbliFIc",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2023-16",
+            "podcastTime": 5415,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2023/16",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Starship, yörüngeye giderken yarı yolda kaldı.",
+                    "contentLink": [
+                        "https://arstechnica.com/science/2023/04/so-what-was-that-was-starships-launch-a-failure-or-a-success/"
+                    ]
+                },
+                {
+                    "contentText": "Ingeunity 50. uçuşunu başarıyla tamamladı. Perseverance evcil taşını kaybetti.",
+                    "contentLink": [
+                        "https://www.universetoday.com/161015/nasa-was-hoping-for-5-helicopter-flights-on-mars-ingenuity-just-completed-its-50th/",
+                        "https://www.universetoday.com/161009/the-perseverance-rover-has-lost-its-pet-rock/"
+                    ]
+                },
+                {
+                    "contentText": "Axiom Space, devletler için insanlı uzay programını duyurdu.",
+                    "contentLink": [
+                        "https://spacenews.com/axiom-announces-new-government-human-spaceflight-program/"
+                    ]
+                },
+                {
+                    "contentText": "UFO araştırma komisyonu: Şu ana kadar Dünya dışı bir olguya rastlayamadık.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-pentagons-ufo-office-has-given-an-official-update-on-its-findings"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları yaraların üç kat hızlı iyileşmesini sağlayan bir çip ürettiler.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/scientists-use-electricity-to-make-wounds-heal-3x-faster"
+                    ]
+                },
+                {
+                    "contentText": "OpenAI’ın veriye olan açlığı başına bela olabilir.",
+                    "contentLink": [
+                        "https://www.technologyreview.com/2023/04/19/1071789/openais-hunger-for-data-is-coming-back-to-bite-it/"
+                    ]
+                },
+                {
+                    "contentText": "Okyanustaki plastik çöp adaları bazı canlılar için yaşam alanı haline geliyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-great-pacific-garbage-patch-is-so-big-invasive-species-are-now-thriving-on-it"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları erkeklerin ömrünün neden daha kısa olduğunu araştırıyor.",
+                    "contentLink": [
+                        "https://www.washingtonpost.com/wellness/2023/04/17/mens-health-longevity-gap/"
+                    ]
+                },
+                {
+                    "contentText": "Bir alışkanlığın yerleşmesi 21 gün sürüyor iddiası yanlış.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/no-it-doesnt-take-21-days-to-form-a-new-habit-a-new-study-shows-why"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
