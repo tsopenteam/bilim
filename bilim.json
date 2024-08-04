@@ -25241,6 +25241,86 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2023",
+            "count": 18,
+            "totalCount": 293,
+            "uploadDate": "08.05.2023",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2023/05/bilim_2023_18.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=dZIhdyTiq7A",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2023-18",
+            "podcastTime": 4599,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2023/18",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Astronotumuz uzayda 13 farklı deney yapacak.",
+                    "contentLink": [
+                        "https://tua.gov.tr/tr/haberler/turk-uzay-yolcusu-uzayda-13-farkli-deney-yapacak"
+                    ]
+                },
+                {
+                    "contentText": "ESA, JUICE uzay aracının antenini açmaya çalışıyor.",
+                    "contentLink": [
+                        "https://www.universetoday.com/161180/esa-cant-deploy-juices-radar-antenna-it-needs-it-to-scan-under-the-ice-at-callisto-europa-and-ganymede/"
+                    ]
+                },
+                {
+                    "contentText": "Airbus, dört astronotu uzun süre barındırabilen uzay modülünü duyurdu.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/aerospace-company-airbus-designs-new-space-station-with-artificial-gravity"
+                    ]
+                },
+                {
+                    "contentText": "DSÖ, Covid-19'un artık küresel acil durum olmadığını ilan etti.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/heres-what-it-means-that-the-who-says-covid-is-no-longer-a-global-health-emergency"
+                    ]
+                },
+                {
+                    "contentText": "Doktorlar, anne karnındaki bebeğe beyin ameliyatı yaparak hayatını kurtardı.",
+                    "contentLink": [
+                        "https://www.technologyreview.com/2023/05/04/1072636/brain-surgery-on-a-fetus/"
+                    ]
+                },
+                {
+                    "contentText": "Yapay zekanın öncülerinden Geoffrey Hinton, Google’dan ayrıldı.",
+                    "contentLink": [
+                        "https://www.bbc.com/news/world-us-canada-65452940"
+                    ]
+                },
+                {
+                    "contentText": "Tamamen ChatGPT ve benzerleri tarafından oluşturulan siteler şimdiden sorun olmaya başladı.",
+                    "contentLink": [
+                        "https://www.theverge.com/2023/5/2/23707788/ai-spam-content-farm-misinformation-reports-newsguard"
+                    ]
+                },
+                {
+                    "contentText": "Yapay zeka desteğiyle düşündüğümüz şeyleri kelimelere dökmek mümkün.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/ai-experiment-decodes-brain-scans-to-reveal-things-people-are-thinking"
+                    ]
+                },
+                {
+                    "contentText": "Gelecekte kendi kendini yenileyen kumaşlar giysilerde kullanılabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/your-clothes-in-the-future-could-be-a-living-self-repairing-material"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
