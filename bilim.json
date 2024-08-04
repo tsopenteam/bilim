@@ -25161,6 +25161,86 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2023",
+            "count": 17,
+            "totalCount": 292,
+            "uploadDate": "01.05.2023",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2023/05/bilim_2023_17.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=I6kfurAPwMU",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2023-17",
+            "podcastTime": 5295,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2023/17",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Uzaya gidecek ilk Türk astronotlar açıklandı.",
+                    "contentLink": [
+                        "https://twitter.com/tuajans/status/1652321004029444098"
+                    ]
+                },
+                {
+                    "contentText": "SpaceX, birkaç ay içerisinde yeni bir Starship fırlatma denemesi yapmaya hazırlanıyor.",
+                    "contentLink": [
+                        "https://spacenews.com/musk-predicts-next-starship-launch-in-a-couple-months/"
+                    ]
+                },
+                {
+                    "contentText": "iSpace’in Ay’a iniş denemesi başarısız oldu.",
+                    "contentLink": [
+                        "https://spacenews.com/first-ispace-lunar-lander-feared-lost/"
+                    ]
+                },
+                {
+                    "contentText": "NASA JWST’nin MIRI enstrümanında ortaya çıkan sorunu inceliyor.",
+                    "contentLink": [
+                        "https://www.universetoday.com/161117/jwsts-miri-instrument-is-having-problems-again/"
+                    ]
+                },
+                {
+                    "contentText": "NASA, Voyager 2’nin biraz daha uzun süre görevde kalması için bir yol buldu.",
+                    "contentLink": [
+                        "https://www.jpl.nasa.gov/news/nasas-voyager-will-do-more-science-with-new-power-strategy"
+                    ]
+                },
+                {
+                    "contentText": "Güneşin içini kütleçekimsel dalgalarla görmek mümkün mü?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/scientists-propose-radical-new-way-to-probe-the-interior-of-the-sun"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları saçların beyazlama mekanizmasını çözdü.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/scientists-may-have-finally-worked-out-why-hair-turns-gray-and-possibly-how-to-stop-it"
+                    ]
+                },
+                {
+                    "contentText": "Genetiği değiştirilmiş bitkiler evinizin havasını daha iyi temizleyecek.",
+                    "contentLink": [
+                        "https://www.technologyreview.com/2023/04/26/1071407/plants-air-cleaning-neoplants-genetically-modified-air-quality/"
+                    ]
+                },
+                {
+                    "contentText": "Vücudunda parazit taşıyan kurtların davranışları değişiyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/a-weird-thing-happens-to-wolves-infected-by-infamous-mind-altering-parasite"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
