@@ -25553,6 +25553,80 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2023",
+            "count": 22,
+            "totalCount": 297,
+            "uploadDate": "05.06.2023",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2023/06/bilim_2023_22.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=odPhoipV4rU",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2023-22",
+            "podcastTime": 3627,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2023/22",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "ESA, ilk kez Mars’tan canlı yayın yaptı.",
+                    "contentLink": [
+                        "https://www.npr.org/2023/06/02/1179625793/mars-livestream"
+                    ]
+                },
+                {
+                    "contentText": "Boeing Starliner insanlı deneme uçuşu bir kez daha ertelendi.",
+                    "contentLink": [
+                        "https://www.universetoday.com/161776/starliner-faces-new-delays-for-crewed-flights-to-iss/"
+                    ]
+                },
+                {
+                    "contentText": "NASA’nın astronotları kurtarmak için geliştirdiği ilginç yöntem.",
+                    "contentLink": [
+                        "https://www.universetoday.com/161656/this-is-how-nasa-wanted-to-rescue-space-shuttle-astronauts/"
+                    ]
+                },
+                {
+                    "contentText": "Ay’a iniş yapan araçlar yörüngedeki uydulara ne kadar zarar veriyor?",
+                    "contentLink": [
+                        "https://www.universetoday.com/161539/how-much-damage-will-lunar-landings-do-to-lunar-orbiters/"
+                    ]
+                },
+                {
+                    "contentText": "Yeni geliştirilen bir ilaç akciğer kanseri nedeniyle ölüm riskini yarı yarıya azaltıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/this-pill-can-halve-the-risk-of-death-after-lung-cancer-scientists-say"
+                    ]
+                },
+                {
+                    "contentText": "Çimlere bakım yapmak yerine serbest bırakmak doğa için çok daha iyi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/replacing-your-lawn-with-wildflowers-has-loads-of-benefits"
+                    ]
+                },
+                {
+                    "contentText": "Türümüzü diğer maymunlardan ayıran en önemli şey merak.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-temptation-to-open-pandoras-box-could-set-us-apart-from-other-apes"
+                    ]
+                },
+                {
+                    "contentText": "Papağanlar videolu sohbet uygulamasıyla yalnızlıktan ve sıkılmaktan kurtulabiliyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/delightful-experiment-shows-parrots-love-to-video-chat-with-their-friends"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
