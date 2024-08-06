@@ -25472,6 +25472,87 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2023",
+            "count": 21,
+            "totalCount": 296,
+            "uploadDate": "29.05.2023",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2023/05/bilim_2023_21.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=43383ObouUI",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2023-21",
+            "podcastTime": 5405,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2023/21",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "iSpace, Hakutor-R aracının neden çakıldığını açıkladı.",
+                    "contentLink": [
+                        "https://spacenews.com/software-problem-blamed-for-ispace-lunar-lander-crash/"
+                    ]
+                },
+                {
+                    "contentText": "SpaceShipTwo iki yıl aradan sonra ilk uçuşunu yaptı.",
+                    "contentLink": [
+                        "https://www.universetoday.com/161568/virgin-galactic-unity-space-final-flight-test/"
+                    ]
+                },
+                {
+                    "contentText": "Üç yıllık güncelleme ve bakım çalışmalarından sonra LIGO tekrardan gözlem yapmaya başladı. LISAmax görev önerisi",
+                    "contentLink": [
+                        "https://www.universetoday.com/161553/after-three-years-of-upgrades-ligo-is-fully-operational-again/",
+                        "https://www.universetoday.com/161066/lisa-will-be-a-remarkable-gravitational-wave-observatory-but-theres-a-way-to-make-it-100-times-more-powerful/"
+                    ]
+                },
+                {
+                    "contentText": "ESA, haftalarca yataktan çıkmayan gönüllülerle yapay yerçekiminin etkilerini test ediyor.",
+                    "contentLink": [
+                        "https://www.universetoday.com/161540/artificial-gravity-tests-on-earth-could-improve-astronaut-health-in-space/"
+                    ]
+                },
+                {
+                    "contentText": "SpaceX, Starship’e şimdiye kadar 5 Milyar $ yatırım yapmış.",
+                    "contentLink": [
+                        "https://spacenews.com/spacex-investment-in-starship-approaches-5-billion/"
+                    ]
+                },
+                {
+                    "contentText": "Beynimizin sol kulaktan gelen pozitif duygu yüklü seslere karşı garip bir eğilimi var.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-human-brain-shows-a-weird-preference-for-sounds-from-the-left"
+                    ]
+                },
+                {
+                    "contentText": "Neuralink insanlı denemeler için FDA’dan onay aldı.",
+                    "contentLink": [
+                        "https://www.theguardian.com/technology/2023/may/25/elon-musk-neuralink-brain-implant-fda-approval-human-study"
+                    ]
+                },
+                {
+                    "contentText": "Sinirbilim alanında yayınlanan makalelerin önemli bir kısmı sahte olabilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/up-to-30-of-published-neuroscience-papers-may-be-faked-and-thats-before-chatgpt"
+                    ]
+                },
+                {
+                    "contentText": "Haftada 10 dakika yoğun spor yapmak bile grip nedeniyle ölüm riskini ciddi oranda azaltıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/doing-this-type-of-exercise-just-10-minutes-a-week-could-reduce-risk-of-flu-death"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
