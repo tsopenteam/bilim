@@ -25391,6 +25391,87 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2023",
+            "count": 20,
+            "totalCount": 295,
+            "uploadDate": "22.05.2023",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2023/05/bilim_2023_20.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=A6eyN133TOU",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2023-20",
+            "podcastTime": 5370,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2023/20",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Türkiye’nin ilk uzay yolcuları ile yapılan söyleşi. Yazılı açıklama.",
+                    "contentLink": [
+                        "https://www.youtube.com/watch?v=VmPT0c-agwY",
+                        "https://www.sanayi.gov.tr/medya/haber/uzay-yolcularinin-egitim-sureci-devam-ediyor"
+                    ]
+                },
+                {
+                    "contentText": "Axiom AX-2 görevi başarıyla fırlatıldı.",
+                    "contentLink": [
+                        "https://www.npr.org/2023/05/21/1177445179/saudi-astronauts-including-nations-1st-woman-catch-a-spacex-flight-to-space-stat"
+                    ]
+                },
+                {
+                    "contentText": "ESA, JUICE uzay aracının sıkışan antenini açmayı başardı ve ISS’ye kenetlendi.",
+                    "contentLink": [
+                        "https://www.universetoday.com/161383/hurray-juice-deploys-its-stuck-antenna/"
+                    ]
+                },
+                {
+                    "contentText": "NASA, itici sorunları yaşayan Lunar Flashlight görevini sonlandırdı.",
+                    "contentLink": [
+                        "https://spacenews.com/nasa-ends-lunar-flashlight-mission-because-of-thruster-problems/"
+                    ]
+                },
+                {
+                    "contentText": "NASA, ikinci Ay’a insanlı iniş aracını geliştirmesi için Blue Origin’i seçti.",
+                    "contentLink": [
+                        "https://spacenews.com/nasa-selects-blue-origin-to-develop-second-artemis-lunar-lander/"
+                    ]
+                },
+                {
+                    "contentText": "İnsan DNA’sı Dünya’nın her yerine yayılmış durumda.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/human-dna-is-all-over-the-planet-and-scientists-are-worried"
+                    ]
+                },
+                {
+                    "contentText": "Tesla yayınladığı video ile robot alanında kaydettikleri gelişmeleri gösterdi.",
+                    "contentLink": [
+                        "https://www.theverge.com/2023/5/16/23726139/tesla-robot-update-video-shareholder-meeting"
+                    ]
+                },
+                {
+                    "contentText": "Yuval Noah Harari: Yapay zeka ve insanlığın geleceği.",
+                    "contentLink": [
+                        "https://www.youtube.com/watch?v=LWiM-LuRe6w"
+                    ]
+                },
+                {
+                    "contentText": "Dünyayı ters gören adam.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/patient-m-the-man-who-was-shot-in-the-head-and-woke-up-seeing-the-world-backwards"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
