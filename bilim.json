@@ -25775,6 +25775,93 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2023",
+            "count": 25,
+            "totalCount": 300,
+            "uploadDate": "03.07.2023",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2023/07/bilim_2023_25.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=DZYFY4PWRcE",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2023-25",
+            "podcastTime": 5526,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2023/25",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Milli Gözlem Uydusu İmece’den ilk görüntü paylaşıldı.",
+                    "contentLink": [
+                        "https://twitter.com/tuajans/status/1673801364416208897"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları kütleçekimsel dalgalardan oluşan arka plan gürültüsünü dinlemeyi başardı.",
+                    "contentLink": [
+                        "https://www.universetoday.com/162188/after-decades-of-observations-astronomers-have-finally-sensed-the-pervasive-background-hum-of-merging-supermassive-black-holes/"
+                    ]
+                },
+                {
+                    "contentText": "Virgin Galactic ilk ticari uçuşunu başarıyla gerçekleştirdi.",
+                    "contentLink": [
+                        "https://www.universetoday.com/162205/virgin-galactic-flies-italians-to-edge-of-space-for-its-first-commercial-trip/"
+                    ]
+                },
+                {
+                    "contentText": "ESA’nın Euclid(Öklid) Uzay Teleskobu başarıyla fırlatıldı.",
+                    "contentLink": [
+                        "https://spacenews.com/falcon-9-launches-esas-euclid-space-telescope/"
+                    ]
+                },
+                {
+                    "contentText": "Elon Musk, Starship’le ilgili güncellemeleri paylaştı.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2023/06/25/musk-outlines-major-upgrades-for-starship-rocket/"
+                    ]
+                },
+                {
+                    "contentText": "Yerçekimsiz ortam neden bağışıklık sistemini kötü yönde etkiliyor?",
+                    "contentLink": [
+                        "https://www.npr.org/sections/health-shots/2023/06/26/1184026951/astronaut-immune-system-space-travel-health"
+                    ]
+                },
+                {
+                    "contentText": "Amerikan Tarım Bakanlığı ilk kez laboratuvarda yetişen etlerin ticari olarak satılmasına izin verdi. Bu etler gerçekten çevreye daha az mı zarar verecek?",
+                    "contentLink": [
+                        "https://www.technologyreview.com/2023/06/21/1075342/two-companies-can-now-sell-lab-grown-chicken-in-the-us/",
+                        "https://www.technologyreview.com/2023/07/03/1075809/lab-grown-meat-climate-change/"
+                    ]
+                },
+                {
+                    "contentText": "İnsanlar, yapay zeka tarafından oluşturulan yanlış bilgilere daha kolay inanıyor.",
+                    "contentLink": [
+                        "https://www.technologyreview.com/2023/06/28/1075683/humans-may-be-more-likely-to-believe-disinformation-generated-by-ai/"
+                    ]
+                },
+                {
+                    "contentText": "Yapay zeka eğitimi için parayla içerik oluşturan kullanıcıların da yapay zeka kullandığı tespit edildi.",
+                    "contentLink": [
+                        "https://www.technologyreview.com/2023/06/22/1075405/the-people-paid-to-train-ai-are-outsourcing-their-work-to-ai/"
+                    ]
+                },
+                {
+                    "contentText": "Anne yunuslar yavrularıyla konuşurken insanlar gibi seslerini bebekleştiriyor.",
+                    "contentLink": [
+                        "https://www.sciencenews.org/article/bottlenose-dolphin-mom-calf-baby-talk-whistle"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
