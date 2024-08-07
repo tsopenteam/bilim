@@ -26092,6 +26092,81 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2023",
+            "count": 29,
+            "totalCount": 304,
+            "uploadDate": "31.07.2023",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2023/07/bilim_2023_29.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=VFOZUF4c_o8",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2023-29",
+            "podcastTime": 5010,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2023/29",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "NASA’da elektrikler kesildi ISS’le bağlantı koptu.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/nasa-lost-contact-with-iss-for-first-time-in-unexpected-power-outage"
+                    ]
+                },
+                {
+                    "contentText": "SpaceX’in gelirlerinin yaklaşık %40’ı Starlink’ten geliyor.",
+                    "contentLink": [
+                        "https://spacenews.com/starlink-may-account-for-up-to-40-of-spacexs-2023-revenues/"
+                    ]
+                },
+                {
+                    "contentText": "Şarap endüstrisi uzayda yıllandırılmış şarapların peşinde.",
+                    "contentLink": [
+                        "https://www.universetoday.com/162586/could-aging-wine-become-the-first-major-space-manufacturing-business/"
+                    ]
+                },
+                {
+                    "contentText": "46.000 yıldır donmuş halde bekleyen yuvarlak solucan hayata döndürüldü.",
+                    "contentLink": [
+                        "https://www.npr.org/2023/07/30/1190950660/nematode-worm-permafrost-discovery-frozen"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları oda sıcaklığında süperiletken özellikler gösteren bir madde bulduklarını duyurdu.",
+                    "contentLink": [
+                        "https://www.iflscience.com/first-room-temperature-ambient-pressure-superconductor-achieved-claim-scientists-70001"
+                    ]
+                },
+                {
+                    "contentText": "Gençlik iksiri gerçek mi oluyor? Makale",
+                    "contentLink": [
+                        "https://www.diamandis.com/blog/age-reversal-breakthrough",
+                        "https://www.aging-us.com/article/204896/text"
+                    ]
+                },
+                {
+                    "contentText": "Gıda takviyelerinin önemli bir bölümü etikette yazan maddeleri içermiyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/40-of-sports-supplements-dont-contain-ingredients-on-the-label-us-study-finds"
+                    ]
+                },
+                {
+                    "contentText": "Dünya’nın kişi başına en çok yiyecek tüketen ülkeleri listesi.",
+                    "contentLink": [
+                        "https://www.dailymail.co.uk/health/article-12276469/Worlds-biggest-eaters-REVEALED-countries-consume-calories.html"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
