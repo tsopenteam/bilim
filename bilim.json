@@ -26325,6 +26325,81 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2023",
+            "count": 32,
+            "totalCount": 307,
+            "uploadDate": "21.08.2023",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2023/08/bilim_2023_32.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=ZHMMR19qYaE",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2023-32",
+            "podcastTime": 5524,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2023/32",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Luna-25 başarısız bir yörünge manevrası sonucu Ay’a çakıldı.",
+                    "contentLink": [
+                        "https://spacenews.com/luna-25-crashes-into-moon-after-orbit-maneuver/"
+                    ]
+                },
+                {
+                    "contentText": "Lunar Gateway istasyonu ilk kez Artemis 4 astronotları tarafından 2028’de  kullanılacak.",
+                    "contentLink": [
+                        "https://www.space.com/artemis-4-first-astronauts-visit-gateway-moon-space-station"
+                    ]
+                },
+                {
+                    "contentText": "Güneşten yeterince uzaklaşan New Horizons aracı evrenin gerçek karanlığını ölçmeye çalışıyor.",
+                    "contentLink": [
+                        "https://www.universetoday.com/162805/new-horizons-is-so-far-away-it-can-measure-the-true-darkness-of-the-universe/"
+                    ]
+                },
+                {
+                    "contentText": "Uzay çöplerini azaltmak için uyduların Li-Ion pilleri kullanılabilir mi?",
+                    "contentLink": [
+                        "https://www.universetoday.com/162775/could-puncturing-a-satellites-battery-help-it-deorbit-faster/"
+                    ]
+                },
+                {
+                    "contentText": "Elektrikli çimento ile binaların temelinde elektrik depolanabilir mi?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/electrified-cement-could-turn-the-foundations-of-buildings-into-giant-batteries"
+                    ]
+                },
+                {
+                    "contentText": "Cumhurbaşkanı Erdoğan’ın sesini yapay zeka ile taklit eden dolandırıcılar yakalandı. İlişkili haber",
+                    "contentLink": [
+                        "https://t24.com.tr/haber/erdogan-in-sesini-taklit-ederek-is-insanlarini-kandiran-kisi-eski-ttk-baskani-metin-hulagu-nun-oglu-cikti,1125731",
+                        "https://the-decoder.com/deepfake-speech-is-getting-too-good-fooling-a-quarter-of-listeners-in-study/"
+                    ]
+                },
+                {
+                    "contentText": "Dünyadaki canlı türlerinin önemli bir kısmı toprağın altında yaşıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/most-life-on-earth-actually-lives-below-the-surface"
+                    ]
+                },
+                {
+                    "contentText": "Sivrisineklere karşı özel kokulu sabun, parfüm çözüm olabilir mi?",
+                    "contentLink": [
+                        "https://www.gatesnotes.com/Firmenich-mosquito-repellents"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
