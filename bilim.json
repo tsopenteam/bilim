@@ -26243,6 +26243,88 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2023",
+            "count": 31,
+            "totalCount": 306,
+            "uploadDate": "14.08.2023",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2023/08/bilim_2023_31.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=Bhe8TbH_QOo",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2023-31",
+            "podcastTime": 5428,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2023/31",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Roketsan’ın geliştirdiği sonda roketi fırlatma denemesi başarıyla yapıldı.",
+                    "contentLink": [
+                        "https://twitter.com/tuajans/status/1690413132550672384"
+                    ]
+                },
+                {
+                    "contentText": "Rusya 47 yıl sonra Ay’a araç gönderdi.",
+                    "contentLink": [
+                        "https://www.space.com/russia-luna-25-moon-mission-launch-success"
+                    ]
+                },
+                {
+                    "contentText": "Ingenuity 53. uçuşunda acil iniş yapmak zorunda kaldı.",
+                    "contentLink": [
+                        "https://www.universetoday.com/162709/nasas-mars-helicopter-had-an-unscheduled-landing-but-flew-again/"
+                    ]
+                },
+                {
+                    "contentText": "Uyduların yerine sürekli havada kalabilen uçaklar kullanılabilir mi?",
+                    "contentLink": [
+                        "https://medium.com/predict/the-eco-friendly-alternative-to-satellites-is-nearly-here-c8c2b7e4ea2a"
+                    ]
+                },
+                {
+                    "contentText": "Virgin Galactic ilk turist müşterilerini uzaya götürdü.",
+                    "contentLink": [
+                        "https://spacenews.com/virgin-galactic-conducts-first-space-tourist-suborbital-flight/"
+                    ]
+                },
+                {
+                    "contentText": "Oda sıcaklığında süperiletken olduğu iddia edilen malzeme  hala onaylanamadı. LK-99 çalışma özetleri",
+                    "contentLink": [
+                        "https://www.sciencealert.com/viral-superconductor-sensation-may-not-be-the-real-deal-experts-say",
+                        "https://forums.spacebattles.com/threads/claims-of-room-temperature-and-ambient-pressure-superconductor.1106083/page-13?fbclid=IwAR3Ct3MBDj7bcpBfpscHFFeuIoOMH11Hbf1YV-RmY2DoEsmRxdiunk7YovE"
+                    ]
+                },
+                {
+                    "contentText": "Yapay zekanın sağcısı solcusu olur mu? Bunu önlemek neden bu kadar zor?",
+                    "contentLink": [
+                        "https://www.technologyreview.com/2023/08/07/1077324/ai-language-models-are-rife-with-political-biases/",
+                        "https://www.technologyreview.com/2023/08/08/1077403/why-its-impossible-to-build-an-unbiased-ai-language-model/"
+                    ]
+                },
+                {
+                    "contentText": "Yakın gelecekte ormanlar karbon tutmak yerine karbon salınımına katkı verir hale gelebilir.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/american-forests-to-become-carbon-emitters-by-2070-scientists-warn"
+                    ]
+                },
+                {
+                    "contentText": "Yüzüklerin Efendisi’ndeki Aragorn karakteri toksik maskülinite hakkında neler öğretiyor?",
+                    "contentLink": [
+                        "https://youtu.be/pv_KAnY5XNQ"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
