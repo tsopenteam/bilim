@@ -25862,6 +25862,87 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2023",
+            "count": 26,
+            "totalCount": 301,
+            "uploadDate": "10.07.2023",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2023/07/bilim_2023_26.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=DrDNN0AXyO8",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2023-26",
+            "podcastTime": 5394,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2023/26",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Ariane 5 roketi son uçuşunu da başarıyla yaptı ve emekliye ayrıldı.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2023/07/06/ending-an-era-europe-launches-its-final-ariane-5-rocket/"
+                    ]
+                },
+                {
+                    "contentText": "SpaceX, Falcon 9’u 16. kez tekrar kullandı.",
+                    "contentLink": [
+                        "https://spaceflightnow.com/2023/07/08/spacex-to-push-the-envelope-with-record-breaking-16th-flight-for-a-falcon-9-booster/"
+                    ]
+                },
+                {
+                    "contentText": "Kullandığımız yeraltı suları Dünyanın dönüş ekseni değiştiriyor.",
+                    "contentLink": [
+                        "https://www.universetoday.com/162069/the-earths-rotational-pole-has-shifted-from-all-the-groundwater-weve-pumped-out/"
+                    ]
+                },
+                {
+                    "contentText": "Nobel ödülünün istenmeyen yan etkisi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/winning-the-nobel-prize-may-bestow-an-unfortunate-side-effect"
+                    ]
+                },
+                {
+                    "contentText": "Ülkeler tarafından resmi olarak duyurulan kimyasal silahların hepsi tamamen yok edildi.",
+                    "contentLink": [
+                        "https://www.npr.org/2023/07/07/1186550955/the-world-is-officially-free-of-chemical-weapons-heres-what-that-means"
+                    ]
+                },
+                {
+                    "contentText": "Müzik endüstrisi çok tutulacak parçaları tespit etmenin yeni yollarını arıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/hit-songs-do-something-to-your-brain-and-it-could-be-the-future-of-music"
+                    ]
+                },
+                {
+                    "contentText": "Araştırmacılar basit yapay hücrelerin çok daha hızlı evrimleştiğini tespit etti.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-simplest-synthetic-cells-have-been-seen-evolving-faster-than-natural-ones"
+                    ]
+                },
+                {
+                    "contentText": "Kral kelebeklerinin kanatlarındaki beyaz benekler daha uzağa uçmalarını sağlıyor olabilir.",
+                    "contentLink": [
+                        "https://www.npr.org/2023/06/21/1182115459/monarch-butterfly-white-spot-migration"
+                    ]
+                },
+                {
+                    "contentText": "Diş fırçalama alışkanlığınız kalp krizi riskinizi etkiliyor. Diğer bir araştırma",
+                    "contentLink": [
+                        "https://www.news-medical.net/news/20230702/Skipping-nightly-toothbrushing-could-heighten-cardiovascular-disease-risk.aspx",
+                        "https://www.sciencealert.com/disturbing-new-finding-links-cognitive-decline-to-dental-hygiene"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
