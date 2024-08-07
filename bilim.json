@@ -26017,6 +26017,81 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2023",
+            "count": 28,
+            "totalCount": 303,
+            "uploadDate": "24.07.2023",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2023/07/bilim_2023_28.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=w1oTrSsECP8",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2023-28",
+            "podcastTime": 5346,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2023/28",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "MErhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Çin, Ay’a insan indirmek için yeni bir kapsül ve iki roketli bir sistem tasarlıyor.",
+                    "contentLink": [
+                        "https://www.universetoday.com/162484/china-is-working-on-a-new-crew-spacecraft-to-carry-up-to-7-passengers/",
+                        "https://www.universetoday.com/162392/china-will-use-two-rockets-to-put-humans-on-the-moon/"
+                    ]
+                },
+                {
+                    "contentText": "Güneş ışığını Ay’a yansıtarak büyük oranda su elde etmek mümkün.",
+                    "contentLink": [
+                        "https://www.universetoday.com/162433/we-could-get-large-amounts-of-water-from-the-moon-by-directing-the-sun-at-it/"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları sıtmayı yaymak yerine onunla savaşan sivrisinekler üzerinde çalışıyor.",
+                    "contentLink": [
+                        "https://www.npr.org/sections/goatsandsoda/2023/07/20/1188631213/mosquitoes-spread-malaria-these-researchers-want-them-to-fight-it-instead"
+                    ]
+                },
+                {
+                    "contentText": "Genetiği değiştirilmiş mikrobiyomlar gelecekte insanların sağlığını güçlendirebilir.",
+                    "contentLink": [
+                        "https://www.technologyreview.com/2023/06/30/1075748/gene-edited-microbiomes-improve-our-health/"
+                    ]
+                },
+                {
+                    "contentText": "Doktorlar ilk kez kalp naklini korumak için karaciğer nakli yaptı.",
+                    "contentLink": [
+                        "https://newsroom.uw.edu/news/historic-procedure-donor-liver-protects-heart-transplant"
+                    ]
+                },
+                {
+                    "contentText": "Kullanıcılar yapay zekayı delirtmek için her türlü yolu deniyor.",
+                    "contentLink": [
+                        "https://futurism.com/weird-trick-breaks-chatgpt-brain"
+                    ]
+                },
+                {
+                    "contentText": "Ölümsüz denizanası yaşlandığında süreci tersine çevirerek kendini gençleştirebiliyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/the-immortal-jellyfish-can-age-in-reverse-and-possibly-live-forever"
+                    ]
+                },
+                {
+                    "contentText": "Yem etkisi farkında olmadan seçimimizi etkiliyor.",
+                    "contentLink": [
+                        "https://getpocket.com/explore/item/the-decoy-effect-how-you-are-influenced-to-choose-without-really-knowing-it"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
