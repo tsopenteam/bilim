@@ -25943,6 +25943,80 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2023",
+            "count": 27,
+            "totalCount": 302,
+            "uploadDate": "17.07.2023",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2023/07/bilim_2023_27.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=2npft9Vp-VM",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2023-27",
+            "podcastTime": 5384,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2023/27",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Hindistan Ay’a ikinci yumuşak iniş denemesi yapacak aracını fırlattı.",
+                    "contentLink": [
+                        "https://www.universetoday.com/162405/india-launches-chandrayaan-3-to-the-moon-hoping-for-a-successful-landing/"
+                    ]
+                },
+                {
+                    "contentText": "Ingenuity ile 63 gün sonra iletişim kuruldu.",
+                    "contentLink": [
+                        "https://www.universetoday.com/162355/after-63-days-of-silence-nasa-has-restored-communications-with-the-mars-helicopter/"
+                    ]
+                },
+                {
+                    "contentText": "Çin kendi uydudan internet ağını kurmak için çalışmalara başladı.",
+                    "contentLink": [
+                        "https://www.universetoday.com/162361/china-has-begun-launching-its-own-satellite-internet-network/"
+                    ]
+                },
+                {
+                    "contentText": "Starlink uyduları radyo teleskopları da etkiliyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/spacexs-starlink-satellites-are-leaking-radiation-scientists-confirm"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları canlılık nedir sorusuna yeni bir yaklaşım getirmeye çalışıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/radical-new-theory-gives-a-very-different-perspective-on-what-life-is"
+                    ]
+                },
+                {
+                    "contentText": "Yapılan deneylere göre insanlar sessizliği duyabiliyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/experiment-shows-humans-really-can-hear-silence-after-all"
+                    ]
+                },
+                {
+                    "contentText": "Turing testinin bir anlamı kalmadı modern halini oluşturmamız lazım.",
+                    "contentLink": [
+                        "https://www.technologyreview.com/2023/07/14/1076296/mustafa-suleyman-my-new-turing-test-would-see-if-ai-can-make-1-million/"
+                    ]
+                },
+                {
+                    "contentText": "Karga ve saksağanların yaptığı bazı kuş yuvaları uzmanları şaşırttı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/birds-seen-using-anti-bird-spikes-to-protect-their-nests-from-well-other-birds"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
