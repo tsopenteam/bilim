@@ -26167,6 +26167,82 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2023",
+            "count": 30,
+            "totalCount": 305,
+            "uploadDate": "07.08.2023",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2023/08/bilim_2023_30.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=bHI4Mbap64A",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2023-30",
+            "podcastTime": 5563,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2023/30",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Yanlış bir komut sonucu Voyager 2 ile kopan iletişim tekrar sağlandı.",
+                    "contentLink": [
+                        "https://www.npr.org/2023/08/02/1191341035/nasa-voyager-2-spacecraft-contact"
+                    ]
+                },
+                {
+                    "contentText": "NASA, Ay’a gezgin sürüsü göndermeye hazırlanıyor. Alternatif",
+                    "contentLink": [
+                        "https://www.universetoday.com/162676/nasa-plans-to-unleash-a-wolf-pack-of-rovers-onto-the-lunar-surface-in-2024/",
+                        "https://www.jpl.nasa.gov/news/nasas-trio-of-mini-rovers-will-team-up-to-explore-the-moon"
+                    ]
+                },
+                {
+                    "contentText": "Ay’a giden araçların parçaları geri dönüştürülüp tekrar kullanılabilir mi?",
+                    "contentLink": [
+                        "https://www.universetoday.com/162685/spacecraft-landers-and-rovers-could-be-recycled-for-parts-on-the-moon/"
+                    ]
+                },
+                {
+                    "contentText": "Teknoloji geliştiren medeniyetlerin ortaya çıkması için atmosferik oksijen zorunlu mu?",
+                    "contentLink": [
+                        "https://www.universetoday.com/162682/do-technological-civilizations-depend-on-atmospheric-oxygen/"
+                    ]
+                },
+                {
+                    "contentText": "Yapılan bir deneye göre insan genleri elektrikle etkinleştirilebiliyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/experiment-reveals-human-genes-can-be-controlled-with-electricity"
+                    ]
+                },
+                {
+                    "contentText": "ChatGPT yenilikçi fikirler üretmek konusunda insanlardan daha iyi. Makale",
+                    "contentLink": [
+                        "https://www.theneurondaily.com/p/googles-scary-robots",
+                        "https://deliverypdf.ssrn.com/delivery.php?ID=672090112009082083104123092019082076109025046003043075006116077007098125064109118095098106127035013015098005064066121099024107051055086041049126125065024090012073047048085002020002120099115096003104064112124127107003023069015000092106064103115029001&EXT=pdf&INDEX=TRUE"
+                    ]
+                },
+                {
+                    "contentText": "Google, yapay zeka dil modellerini kullanan yetenekli robotlar üzerine çalışıyor.",
+                    "contentLink": [
+                        "https://www.nytimes.com/2023/07/28/technology/google-robots-ai.html"
+                    ]
+                },
+                {
+                    "contentText": "Ölümsüz hücrelerin sahibi Henrietta Lacks’in ilginç hikayesi.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/who-was-henrietta-lacks-in-1951-her-cells-were-taken-and-changed-medicine-forever"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
