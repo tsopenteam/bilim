@@ -26400,6 +26400,61 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2023",
+            "count": 33,
+            "totalCount": 308,
+            "uploadDate": "28.08.2023",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2023/08/bilim_2023_33.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=iTnX6wWqf3c",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2023-33",
+            "podcastTime": 9309,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2023/33",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Chandrayaan-3 Ay yüzeyine başarıyla iniş yaptı.",
+                    "contentLink": [
+                        "https://www.universetoday.com/162884/chandrayaan-3-lands-successfully-on-the-moons-south-pole/",
+                        "https://spacenews.com/chandrayaan-3-is-a-story-of-isros-perseverance-and-triumph/"
+                    ]
+                },
+                {
+                    "contentText": "2023 İkinci çeyrek fırlatma istatistikleri. Starlink 100. fırlatmasını gerçekleştirdi.",
+                    "contentLink": [
+                        "https://brycetech.com/briefing"
+                    ]
+                },
+                {
+                    "contentText": "Togg",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Neden Bitiyor?",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Teknoloji ve Bilim Notları İstatistikler",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Sohbet, Muhabbet, Anılar",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Teşekkürler ve Son",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
