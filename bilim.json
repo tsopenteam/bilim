@@ -25701,6 +25701,80 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2023",
+            "count": 24,
+            "totalCount": 299,
+            "uploadDate": "19.06.2023",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2023/06/bilim_2023_24.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=bkytc6QarsQ",
+            "siteLink": "https://teknoseyir.com/teknoloji-ve-bilim-notlari-2023-24",
+            "podcastTime": 5492,
+            "titlePodcast": "Teknoseyir teknoloji ve bilim notları 2023/24",
+            "explanationPodcast": "Geçtiğimiz günlerde teknoloji ve bilim dünyasından gözümüze çarpan gelişmeleri derledik.",
+            "content": [
+                {
+                    "contentText": "Kulis",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Merhaba",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Virgin Galactic ilk ticari görevini Haziran ayı sonunda yapmayı planlıyor.",
+                    "contentLink": [
+                        "https://spacenews.com/virgin-galactic-sets-late-june-date-for-first-commercial-spaceshiptwo-flight/"
+                    ]
+                },
+                {
+                    "contentText": "Çin, kullanılmış roketlerin köylere düşmesini engellemek üzere çalışıyor.",
+                    "contentLink": [
+                        "https://www.universetoday.com/161925/china-is-trying-to-stop-its-boosters-from-randomly-crashing-into-villages/"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları Satürn’ün uydusu Encaludus’ta fosfor olduğunu keşfetti.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/new-hope-to-find-life-on-enceladus-after-scientists-detect-phosphorus"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları yer altında da çalışabilecek bir konumlandırma sistemi üzerinde çalışıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/cosmic-subatomic-particles-might-finally-give-us-a-way-to-navigate-underground"
+                    ]
+                },
+                {
+                    "contentText": "Bilim insanları laboratuvar ortamında ilk kez yapay embriyolar geliştirmeyi başardı.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/scientists-create-synthetic-human-embryo-models-in-major-first"
+                    ]
+                },
+                {
+                    "contentText": "Yapılan bir araştırmaya göre dünya üzerindeki evrimin temel itici gücü artık insan.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/giant-study-identifies-dominant-force-driving-evolution-on-earth-today"
+                    ]
+                },
+                {
+                    "contentText": "Ölü arkadaşlarını görmek diğer sineklerin ömrünü kısaltıyor.",
+                    "contentLink": [
+                        "https://www.sciencealert.com/seeing-dead-flies-makes-other-flies-die-faster-but-why"
+                    ]
+                },
+                {
+                    "contentText": "Geç saatte yatanlar daha erken ölüyor ama neden?",
+                    "contentLink": [
+                        "https://www.sciencealert.com/night-owls-tend-to-die-sooner-but-its-not-late-bedtimes-killing-them"
+                    ]
+                },
+                {
+                    "contentText": "Soru & Cevap",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
